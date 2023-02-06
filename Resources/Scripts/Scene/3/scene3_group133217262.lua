@@ -1,4 +1,4 @@
-local L0_1, L1_1, L2_1, L3_1, L4_1, L5_1, L6_1, L7_1, L8_1, L9_1, L10_1, L11_1, L12_1, L13_1, L14_1, L15_1, L16_1, L17_1, L18_1, L19_1
+local L0_1, L1_1, L2_1, L3_1, L4_1, L5_1, L6_1, L7_1, L8_1, L9_1, L10_1, L11_1, L12_1, L13_1, L14_1, L15_1, L16_1, L17_1, L18_1, L19_1, connectInfo, TeleportOwnerShip, GetTeleportNameByConfigID, InitialTeleportRotationY, InitialTeleportState, isTeleportValid, CheckIsConnected, FindRelatedTargets, GetConnectedTeleport, Normalize, UpdateTeleportState, TeleportAction
 L0_1 = {}
 L0_1.group_id = 133217262
 L1_1 = {}
