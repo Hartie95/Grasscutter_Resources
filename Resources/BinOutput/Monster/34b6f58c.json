@@ -27,7 +27,7 @@
         "serverGlobalValues": [
             "SGV_MONSTER_SHOUGUN_CHANGETOTACHI"
         ],
-        "CEBBBNJIPPM": {
+        "initServerGlobalValues": {
             "SGV_MONSTER_SHOUGUN_CHANGETOTACHI": 0.0
         }
     },

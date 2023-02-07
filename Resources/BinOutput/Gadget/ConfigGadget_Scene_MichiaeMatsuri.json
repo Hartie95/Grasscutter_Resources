@@ -225,7 +225,7 @@
             "serverGlobalValues": [
                 "SGV_HUARONGDAO_MOVE"
             ],
-            "CEBBBNJIPPM": {
+            "initServerGlobalValues": {
                 "SGV_HUARONGDAO_MOVE": 0.0
             }
         },

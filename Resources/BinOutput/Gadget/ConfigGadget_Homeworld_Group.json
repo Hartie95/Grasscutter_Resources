@@ -74,7 +74,7 @@
             "serverGlobalValues": [
                 "SGV_ScoringShelf_01"
             ],
-            "CEBBBNJIPPM": {
+            "initServerGlobalValues": {
                 "SGV_ScoringShelf_01": 0.0
             }
         },
