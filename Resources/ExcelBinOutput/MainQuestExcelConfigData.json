@@ -55,7 +55,7 @@
     },
     {
         "id": 351,
-        "FPNELLONMNP": 1001,
+        "collectionId": 1001,
         "series": 1001,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 597412161,
@@ -85,7 +85,7 @@
     },
     {
         "id": 352,
-        "FPNELLONMNP": 1001,
+        "collectionId": 1001,
         "series": 1001,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 1595243881,
@@ -103,7 +103,7 @@
     },
     {
         "id": 353,
-        "FPNELLONMNP": 1001,
+        "collectionId": 1001,
         "series": 1001,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 3070624785,
@@ -135,7 +135,7 @@
     },
     {
         "id": 355,
-        "FPNELLONMNP": 1001,
+        "collectionId": 1001,
         "series": 1001,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 1760868089,
@@ -153,7 +153,7 @@
     },
     {
         "id": 354,
-        "FPNELLONMNP": 1001,
+        "collectionId": 1001,
         "series": 1001,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 641240337,
@@ -171,7 +171,7 @@
     },
     {
         "id": 360,
-        "FPNELLONMNP": 1001,
+        "collectionId": 1001,
         "series": 1001,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 1478804457,
@@ -189,7 +189,7 @@
     },
     {
         "id": 356,
-        "FPNELLONMNP": 1001,
+        "collectionId": 1001,
         "series": 1001,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 278941721,
@@ -207,7 +207,7 @@
     },
     {
         "id": 357,
-        "FPNELLONMNP": 1001,
+        "collectionId": 1001,
         "series": 1001,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 4246098801,
@@ -225,7 +225,7 @@
     },
     {
         "id": 358,
-        "FPNELLONMNP": 1001,
+        "collectionId": 1001,
         "series": 1001,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 4251075033,
@@ -245,7 +245,7 @@
     },
     {
         "id": 359,
-        "FPNELLONMNP": 1001,
+        "collectionId": 1001,
         "series": 1001,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 370503217,
@@ -259,7 +259,7 @@
     },
     {
         "id": 306,
-        "FPNELLONMNP": 1001,
+        "collectionId": 1001,
         "series": 1001,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 1965198993,
@@ -278,7 +278,7 @@
     },
     {
         "id": 307,
-        "FPNELLONMNP": 1001,
+        "collectionId": 1001,
         "series": 1001,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 1911328169,
@@ -297,7 +297,7 @@
     },
     {
         "id": 308,
-        "FPNELLONMNP": 1001,
+        "collectionId": 1001,
         "series": 1001,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 1947339513,
@@ -316,7 +316,7 @@
     },
     {
         "id": 309,
-        "FPNELLONMNP": 1001,
+        "collectionId": 1001,
         "series": 1001,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 1633048865,
@@ -345,7 +345,7 @@
     },
     {
         "id": 311,
-        "FPNELLONMNP": 1001,
+        "collectionId": 1001,
         "series": 1001,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 3089746017,
@@ -360,7 +360,7 @@
     },
     {
         "id": 312,
-        "FPNELLONMNP": 1001,
+        "collectionId": 1001,
         "series": 1001,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 4282850473,
@@ -376,7 +376,7 @@
     },
     {
         "id": 363,
-        "FPNELLONMNP": 1001,
+        "collectionId": 1001,
         "series": 1001,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 411236993,
@@ -391,7 +391,7 @@
     },
     {
         "id": 370,
-        "FPNELLONMNP": 1002,
+        "collectionId": 1002,
         "series": 1002,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 2826605337,
@@ -410,7 +410,7 @@
     },
     {
         "id": 371,
-        "FPNELLONMNP": 1002,
+        "collectionId": 1002,
         "series": 1002,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 500475441,
@@ -428,7 +428,7 @@
     },
     {
         "id": 372,
-        "FPNELLONMNP": 1002,
+        "collectionId": 1002,
         "series": 1002,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 2546023913,
@@ -446,7 +446,7 @@
     },
     {
         "id": 373,
-        "FPNELLONMNP": 1002,
+        "collectionId": 1002,
         "series": 1002,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 949761097,
@@ -464,7 +464,7 @@
     },
     {
         "id": 374,
-        "FPNELLONMNP": 1002,
+        "collectionId": 1002,
         "series": 1002,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 2683990361,
@@ -482,7 +482,7 @@
     },
     {
         "id": 375,
-        "FPNELLONMNP": 1002,
+        "collectionId": 1002,
         "series": 1002,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 1044015961,
@@ -500,7 +500,7 @@
     },
     {
         "id": 376,
-        "FPNELLONMNP": 1002,
+        "collectionId": 1002,
         "series": 1002,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 2512702433,
@@ -518,7 +518,7 @@
     },
     {
         "id": 377,
-        "FPNELLONMNP": 1002,
+        "collectionId": 1002,
         "series": 1002,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 2943776345,
@@ -536,7 +536,7 @@
     },
     {
         "id": 20101,
-        "FPNELLONMNP": 1002,
+        "collectionId": 1002,
         "series": 1002,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 171821929,
@@ -554,7 +554,7 @@
     },
     {
         "id": 379,
-        "FPNELLONMNP": 1002,
+        "collectionId": 1002,
         "series": 1002,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 248114793,
@@ -574,7 +574,7 @@
     },
     {
         "id": 385,
-        "FPNELLONMNP": 8001,
+        "collectionId": 8001,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 1689491481,
         "descTextMapHash": 3340655711,
@@ -587,7 +587,7 @@
     },
     {
         "id": 380,
-        "FPNELLONMNP": 1002,
+        "collectionId": 1002,
         "series": 1002,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 2383852777,
@@ -607,7 +607,7 @@
     },
     {
         "id": 381,
-        "FPNELLONMNP": 1002,
+        "collectionId": 1002,
         "series": 1002,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 396979777,
@@ -627,7 +627,7 @@
     },
     {
         "id": 382,
-        "FPNELLONMNP": 1002,
+        "collectionId": 1002,
         "series": 1002,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 2040928209,
@@ -647,7 +647,7 @@
     },
     {
         "id": 383,
-        "FPNELLONMNP": 1002,
+        "collectionId": 1002,
         "series": 1002,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 3395488209,
@@ -665,7 +665,7 @@
     },
     {
         "id": 384,
-        "FPNELLONMNP": 1002,
+        "collectionId": 1002,
         "series": 1002,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 1797437065,
@@ -683,7 +683,7 @@
     },
     {
         "id": 397,
-        "FPNELLONMNP": 1003,
+        "collectionId": 1003,
         "series": 1003,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 2779564865,
@@ -702,7 +702,7 @@
     },
     {
         "id": 388,
-        "FPNELLONMNP": 1003,
+        "collectionId": 1003,
         "series": 1003,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 974487489,
@@ -720,7 +720,7 @@
     },
     {
         "id": 389,
-        "FPNELLONMNP": 1003,
+        "collectionId": 1003,
         "series": 1003,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 879821785,
@@ -738,7 +738,7 @@
     },
     {
         "id": 390,
-        "FPNELLONMNP": 1003,
+        "collectionId": 1003,
         "series": 1003,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 1941522521,
@@ -756,7 +756,7 @@
     },
     {
         "id": 393,
-        "FPNELLONMNP": 1003,
+        "collectionId": 1003,
         "series": 1003,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 1520658585,
@@ -774,7 +774,7 @@
     },
     {
         "id": 394,
-        "FPNELLONMNP": 1003,
+        "collectionId": 1003,
         "series": 1003,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 1906853201,
@@ -792,7 +792,7 @@
     },
     {
         "id": 398,
-        "FPNELLONMNP": 1003,
+        "collectionId": 1003,
         "series": 1003,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 2024054705,
@@ -826,7 +826,7 @@
     },
     {
         "id": 400,
-        "FPNELLONMNP": 1003,
+        "collectionId": 1003,
         "series": 1003,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 2751309041,
@@ -840,7 +840,7 @@
     },
     {
         "id": 396,
-        "FPNELLONMNP": 1003,
+        "collectionId": 1003,
         "series": 1003,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 4079397641,
@@ -1003,7 +1003,7 @@
     },
     {
         "id": 424,
-        "FPNELLONMNP": 8001,
+        "collectionId": 8001,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 3021578617,
@@ -1064,7 +1064,7 @@
     },
     {
         "id": 451,
-        "FPNELLONMNP": 2005,
+        "collectionId": 2005,
         "series": 2005,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -1084,7 +1084,7 @@
     },
     {
         "id": 452,
-        "FPNELLONMNP": 2005,
+        "collectionId": 2005,
         "series": 2005,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -1103,7 +1103,7 @@
     },
     {
         "id": 453,
-        "FPNELLONMNP": 2005,
+        "collectionId": 2005,
         "series": 2005,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -1122,7 +1122,7 @@
     },
     {
         "id": 454,
-        "FPNELLONMNP": 2005,
+        "collectionId": 2005,
         "series": 2005,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -1139,7 +1139,7 @@
     },
     {
         "id": 461,
-        "FPNELLONMNP": 2001,
+        "collectionId": 2001,
         "series": 2001,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -1159,7 +1159,7 @@
     },
     {
         "id": 462,
-        "FPNELLONMNP": 2001,
+        "collectionId": 2001,
         "series": 2001,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -1178,7 +1178,7 @@
     },
     {
         "id": 463,
-        "FPNELLONMNP": 2001,
+        "collectionId": 2001,
         "series": 2001,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -1195,7 +1195,7 @@
     },
     {
         "id": 464,
-        "FPNELLONMNP": 2002,
+        "collectionId": 2002,
         "series": 2002,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -1215,7 +1215,7 @@
     },
     {
         "id": 465,
-        "FPNELLONMNP": 2002,
+        "collectionId": 2002,
         "series": 2002,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -1234,7 +1234,7 @@
     },
     {
         "id": 466,
-        "FPNELLONMNP": 2002,
+        "collectionId": 2002,
         "series": 2002,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -1336,7 +1336,7 @@
     },
     {
         "id": 481,
-        "FPNELLONMNP": 2003,
+        "collectionId": 2003,
         "series": 2003,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -1356,7 +1356,7 @@
     },
     {
         "id": 480,
-        "FPNELLONMNP": 2003,
+        "collectionId": 2003,
         "series": 2003,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -1391,7 +1391,7 @@
     },
     {
         "id": 427,
-        "FPNELLONMNP": 2003,
+        "collectionId": 2003,
         "series": 2003,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -1410,7 +1410,7 @@
     },
     {
         "id": 484,
-        "FPNELLONMNP": 2003,
+        "collectionId": 2003,
         "series": 2003,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -1429,7 +1429,7 @@
     },
     {
         "id": 485,
-        "FPNELLONMNP": 2003,
+        "collectionId": 2003,
         "series": 2003,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -1446,7 +1446,7 @@
     },
     {
         "id": 486,
-        "FPNELLONMNP": 2006,
+        "collectionId": 2006,
         "series": 2006,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -1468,7 +1468,7 @@
     },
     {
         "id": 487,
-        "FPNELLONMNP": 2006,
+        "collectionId": 2006,
         "series": 2006,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -1489,7 +1489,7 @@
     },
     {
         "id": 488,
-        "FPNELLONMNP": 2006,
+        "collectionId": 2006,
         "series": 2006,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -1510,7 +1510,7 @@
     },
     {
         "id": 489,
-        "FPNELLONMNP": 2006,
+        "collectionId": 2006,
         "series": 2006,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -1531,7 +1531,7 @@
     },
     {
         "id": 490,
-        "FPNELLONMNP": 2006,
+        "collectionId": 2006,
         "series": 2006,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -1548,7 +1548,7 @@
     },
     {
         "id": 492,
-        "FPNELLONMNP": 2006,
+        "collectionId": 2006,
         "series": 2006,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -1962,7 +1962,7 @@
     },
     {
         "id": 1000,
-        "FPNELLONMNP": 1004,
+        "collectionId": 1004,
         "series": 1101,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 492421553,
@@ -1981,7 +1981,7 @@
     },
     {
         "id": 1001,
-        "FPNELLONMNP": 1004,
+        "collectionId": 1004,
         "series": 1101,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 2046717777,
@@ -1996,7 +1996,7 @@
     },
     {
         "id": 1002,
-        "FPNELLONMNP": 1004,
+        "collectionId": 1004,
         "series": 1101,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 633119625,
@@ -2016,7 +2016,7 @@
     },
     {
         "id": 1003,
-        "FPNELLONMNP": 1004,
+        "collectionId": 1004,
         "series": 1101,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 775143905,
@@ -2036,7 +2036,7 @@
     },
     {
         "id": 1004,
-        "FPNELLONMNP": 1004,
+        "collectionId": 1004,
         "series": 1101,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 1271066001,
@@ -2051,7 +2051,7 @@
     },
     {
         "id": 1005,
-        "FPNELLONMNP": 4003,
+        "collectionId": 4003,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 2316888433,
         "descTextMapHash": 2731923887,
@@ -2064,7 +2064,7 @@
     },
     {
         "id": 1006,
-        "FPNELLONMNP": 4003,
+        "collectionId": 4003,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 1930559377,
         "descTextMapHash": 2850399823,
@@ -2077,7 +2077,7 @@
     },
     {
         "id": 1007,
-        "FPNELLONMNP": 1004,
+        "collectionId": 1004,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 357068217,
         "descTextMapHash": 61298735,
@@ -2090,7 +2090,7 @@
     },
     {
         "id": 1008,
-        "FPNELLONMNP": 1004,
+        "collectionId": 1004,
         "series": 1101,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 2963680265,
@@ -2110,7 +2110,7 @@
     },
     {
         "id": 1009,
-        "FPNELLONMNP": 1004,
+        "collectionId": 1004,
         "series": 1101,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 2474320849,
@@ -2130,7 +2130,7 @@
     },
     {
         "id": 1018,
-        "FPNELLONMNP": 1004,
+        "collectionId": 1004,
         "series": 1101,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 3873565161,
@@ -2146,7 +2146,7 @@
     },
     {
         "id": 1010,
-        "FPNELLONMNP": 1005,
+        "collectionId": 1005,
         "series": 1101,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 3403721721,
@@ -2165,7 +2165,7 @@
     },
     {
         "id": 1011,
-        "FPNELLONMNP": 1005,
+        "collectionId": 1005,
         "series": 1101,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 2168374345,
@@ -2183,7 +2183,7 @@
     },
     {
         "id": 1012,
-        "FPNELLONMNP": 1005,
+        "collectionId": 1005,
         "series": 1101,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 156369657,
@@ -2201,7 +2201,7 @@
     },
     {
         "id": 1014,
-        "FPNELLONMNP": 1005,
+        "collectionId": 1005,
         "series": 1101,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 2414407745,
@@ -2219,7 +2219,7 @@
     },
     {
         "id": 1013,
-        "FPNELLONMNP": 1005,
+        "collectionId": 1005,
         "series": 1101,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 126291521,
@@ -2237,7 +2237,7 @@
     },
     {
         "id": 1015,
-        "FPNELLONMNP": 1005,
+        "collectionId": 1005,
         "series": 1101,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 2212320145,
@@ -2255,7 +2255,7 @@
     },
     {
         "id": 1016,
-        "FPNELLONMNP": 1005,
+        "collectionId": 1005,
         "series": 1101,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 1207725753,
@@ -2271,7 +2271,7 @@
     },
     {
         "id": 1017,
-        "FPNELLONMNP": 1005,
+        "collectionId": 1005,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 1159841081,
         "descTextMapHash": 3384169079,
@@ -2284,7 +2284,7 @@
     },
     {
         "id": 1020,
-        "FPNELLONMNP": 1006,
+        "collectionId": 1006,
         "series": 1101,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 3420715793,
@@ -2303,7 +2303,7 @@
     },
     {
         "id": 1021,
-        "FPNELLONMNP": 1006,
+        "collectionId": 1006,
         "series": 1101,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 3308674505,
@@ -2321,7 +2321,7 @@
     },
     {
         "id": 1022,
-        "FPNELLONMNP": 1006,
+        "collectionId": 1006,
         "series": 1101,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 1529124233,
@@ -2339,7 +2339,7 @@
     },
     {
         "id": 1023,
-        "FPNELLONMNP": 1006,
+        "collectionId": 1006,
         "series": 1101,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 186534449,
@@ -2357,7 +2357,7 @@
     },
     {
         "id": 1024,
-        "FPNELLONMNP": 1006,
+        "collectionId": 1006,
         "series": 1101,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 4062148249,
@@ -2375,7 +2375,7 @@
     },
     {
         "id": 1025,
-        "FPNELLONMNP": 1006,
+        "collectionId": 1006,
         "series": 1101,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 2849435409,
@@ -2403,7 +2403,7 @@
     },
     {
         "id": 10100,
-        "FPNELLONMNP": 2004,
+        "collectionId": 2004,
         "series": 2004,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -2423,7 +2423,7 @@
     },
     {
         "id": 10101,
-        "FPNELLONMNP": 2004,
+        "collectionId": 2004,
         "series": 2004,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -2440,7 +2440,7 @@
     },
     {
         "id": 10110,
-        "FPNELLONMNP": 2013,
+        "collectionId": 2013,
         "series": 2013,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -2460,7 +2460,7 @@
     },
     {
         "id": 10111,
-        "FPNELLONMNP": 2013,
+        "collectionId": 2013,
         "series": 2013,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -2479,7 +2479,7 @@
     },
     {
         "id": 10112,
-        "FPNELLONMNP": 2013,
+        "collectionId": 2013,
         "series": 2013,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -2498,7 +2498,7 @@
     },
     {
         "id": 10113,
-        "FPNELLONMNP": 2013,
+        "collectionId": 2013,
         "series": 2013,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -2515,7 +2515,7 @@
     },
     {
         "id": 10114,
-        "FPNELLONMNP": 2013,
+        "collectionId": 2013,
         "series": 2013,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -2530,7 +2530,7 @@
     },
     {
         "id": 10200,
-        "FPNELLONMNP": 2009,
+        "collectionId": 2009,
         "series": 2009,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -2550,7 +2550,7 @@
     },
     {
         "id": 10201,
-        "FPNELLONMNP": 2009,
+        "collectionId": 2009,
         "series": 2009,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -2569,7 +2569,7 @@
     },
     {
         "id": 10202,
-        "FPNELLONMNP": 2009,
+        "collectionId": 2009,
         "series": 2009,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -2586,7 +2586,7 @@
     },
     {
         "id": 10203,
-        "FPNELLONMNP": 2009,
+        "collectionId": 2009,
         "series": 2009,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -2601,7 +2601,7 @@
     },
     {
         "id": 10300,
-        "FPNELLONMNP": 8001,
+        "collectionId": 8001,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 155753841,
@@ -2614,7 +2614,7 @@
     },
     {
         "id": 11000,
-        "FPNELLONMNP": 2007,
+        "collectionId": 2007,
         "series": 2007,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -2634,7 +2634,7 @@
     },
     {
         "id": 11001,
-        "FPNELLONMNP": 2007,
+        "collectionId": 2007,
         "series": 2007,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -2653,7 +2653,7 @@
     },
     {
         "id": 11002,
-        "FPNELLONMNP": 2007,
+        "collectionId": 2007,
         "series": 2007,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -2672,7 +2672,7 @@
     },
     {
         "id": 11003,
-        "FPNELLONMNP": 2007,
+        "collectionId": 2007,
         "series": 2007,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -2691,7 +2691,7 @@
     },
     {
         "id": 11004,
-        "FPNELLONMNP": 2007,
+        "collectionId": 2007,
         "series": 2007,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -2710,7 +2710,7 @@
     },
     {
         "id": 11005,
-        "FPNELLONMNP": 2007,
+        "collectionId": 2007,
         "series": 2007,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -2727,7 +2727,7 @@
     },
     {
         "id": 11006,
-        "FPNELLONMNP": 8001,
+        "collectionId": 8001,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 237090193,
@@ -2740,7 +2740,7 @@
     },
     {
         "id": 11007,
-        "FPNELLONMNP": 8001,
+        "collectionId": 8001,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 580124593,
@@ -2753,7 +2753,7 @@
     },
     {
         "id": 12000,
-        "FPNELLONMNP": 2008,
+        "collectionId": 2008,
         "series": 2008,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -2773,7 +2773,7 @@
     },
     {
         "id": 12001,
-        "FPNELLONMNP": 2008,
+        "collectionId": 2008,
         "series": 2008,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -2792,7 +2792,7 @@
     },
     {
         "id": 12002,
-        "FPNELLONMNP": 2008,
+        "collectionId": 2008,
         "series": 2008,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -2811,7 +2811,7 @@
     },
     {
         "id": 12003,
-        "FPNELLONMNP": 2008,
+        "collectionId": 2008,
         "series": 2008,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -2828,7 +2828,7 @@
     },
     {
         "id": 11100,
-        "FPNELLONMNP": 2011,
+        "collectionId": 2011,
         "series": 2011,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -2848,7 +2848,7 @@
     },
     {
         "id": 11101,
-        "FPNELLONMNP": 2011,
+        "collectionId": 2011,
         "series": 2011,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -2867,7 +2867,7 @@
     },
     {
         "id": 11102,
-        "FPNELLONMNP": 2011,
+        "collectionId": 2011,
         "series": 2011,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -2886,7 +2886,7 @@
     },
     {
         "id": 11103,
-        "FPNELLONMNP": 2011,
+        "collectionId": 2011,
         "series": 2011,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -2903,7 +2903,7 @@
     },
     {
         "id": 11104,
-        "FPNELLONMNP": 2011,
+        "collectionId": 2011,
         "series": 2011,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -5023,7 +5023,7 @@
     },
     {
         "id": 1019,
-        "FPNELLONMNP": 1014,
+        "collectionId": 1014,
         "series": 1207,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 4195987807,
@@ -5048,7 +5048,7 @@
     },
     {
         "id": 1027,
-        "FPNELLONMNP": 1014,
+        "collectionId": 1014,
         "series": 1207,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 1466678287,
@@ -5062,7 +5062,7 @@
     },
     {
         "id": 1028,
-        "FPNELLONMNP": 1014,
+        "collectionId": 1014,
         "series": 1207,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 3086338855,
@@ -5080,7 +5080,7 @@
     },
     {
         "id": 1029,
-        "FPNELLONMNP": 1014,
+        "collectionId": 1014,
         "series": 1207,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 3397078575,
@@ -5098,7 +5098,7 @@
     },
     {
         "id": 1030,
-        "FPNELLONMNP": 1014,
+        "collectionId": 1014,
         "series": 1207,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 1604200951,
@@ -5116,7 +5116,7 @@
     },
     {
         "id": 1031,
-        "FPNELLONMNP": 1014,
+        "collectionId": 1014,
         "series": 1207,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 1491105359,
@@ -5132,7 +5132,7 @@
     },
     {
         "id": 1032,
-        "FPNELLONMNP": 1014,
+        "collectionId": 1014,
         "series": 1207,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 1011175175,
@@ -5146,7 +5146,7 @@
     },
     {
         "id": 1033,
-        "FPNELLONMNP": 1014,
+        "collectionId": 1014,
         "series": 1207,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 2327823943,
@@ -5160,7 +5160,7 @@
     },
     {
         "id": 2000,
-        "FPNELLONMNP": 1008,
+        "collectionId": 1008,
         "series": 1201,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 3946941215,
@@ -5182,7 +5182,7 @@
     },
     {
         "id": 2001,
-        "FPNELLONMNP": 1008,
+        "collectionId": 1008,
         "series": 1201,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 3233532831,
@@ -5200,7 +5200,7 @@
     },
     {
         "id": 2002,
-        "FPNELLONMNP": 1008,
+        "collectionId": 1008,
         "series": 1201,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 3473314535,
@@ -5216,7 +5216,7 @@
     },
     {
         "id": 2003,
-        "FPNELLONMNP": 1009,
+        "collectionId": 1009,
         "series": 1201,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 55039543,
@@ -5234,7 +5234,7 @@
     },
     {
         "id": 2004,
-        "FPNELLONMNP": 1009,
+        "collectionId": 1009,
         "series": 1201,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 2637528983,
@@ -5252,7 +5252,7 @@
     },
     {
         "id": 2005,
-        "FPNELLONMNP": 1009,
+        "collectionId": 1009,
         "series": 1201,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 284197415,
@@ -5270,7 +5270,7 @@
     },
     {
         "id": 2006,
-        "FPNELLONMNP": 1009,
+        "collectionId": 1009,
         "series": 1201,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 4099676191,
@@ -5288,7 +5288,7 @@
     },
     {
         "id": 2007,
-        "FPNELLONMNP": 1009,
+        "collectionId": 1009,
         "series": 1201,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 3043740727,
@@ -5304,7 +5304,7 @@
     },
     {
         "id": 2008,
-        "FPNELLONMNP": 1010,
+        "collectionId": 1010,
         "series": 1201,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 3854853215,
@@ -5326,7 +5326,7 @@
     },
     {
         "id": 2009,
-        "FPNELLONMNP": 1010,
+        "collectionId": 1010,
         "series": 1201,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 56189327,
@@ -5342,7 +5342,7 @@
     },
     {
         "id": 2010,
-        "FPNELLONMNP": 1011,
+        "collectionId": 1011,
         "series": 1210,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 2829201271,
@@ -5361,7 +5361,7 @@
     },
     {
         "id": 2011,
-        "FPNELLONMNP": 1009,
+        "collectionId": 1009,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 3126017879,
         "descTextMapHash": 3197847918,
@@ -5379,7 +5379,7 @@
     },
     {
         "id": 2012,
-        "FPNELLONMNP": 1009,
+        "collectionId": 1009,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 3576818855,
         "descTextMapHash": 873253758,
@@ -5397,7 +5397,7 @@
     },
     {
         "id": 2013,
-        "FPNELLONMNP": 1009,
+        "collectionId": 1009,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 1388933119,
         "descTextMapHash": 2476400902,
@@ -5415,7 +5415,7 @@
     },
     {
         "id": 2014,
-        "FPNELLONMNP": 1011,
+        "collectionId": 1011,
         "series": 1210,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 4016615943,
@@ -5433,7 +5433,7 @@
     },
     {
         "id": 2015,
-        "FPNELLONMNP": 1011,
+        "collectionId": 1011,
         "series": 1210,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 2156306839,
@@ -5451,7 +5451,7 @@
     },
     {
         "id": 2016,
-        "FPNELLONMNP": 1011,
+        "collectionId": 1011,
         "series": 1210,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 873861071,
@@ -5469,7 +5469,7 @@
     },
     {
         "id": 2017,
-        "FPNELLONMNP": 1011,
+        "collectionId": 1011,
         "series": 1210,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 2528758855,
@@ -5487,7 +5487,7 @@
     },
     {
         "id": 2018,
-        "FPNELLONMNP": 1011,
+        "collectionId": 1011,
         "series": 1210,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 2536531223,
@@ -5505,7 +5505,7 @@
     },
     {
         "id": 2019,
-        "FPNELLONMNP": 1011,
+        "collectionId": 1011,
         "series": 1210,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 172874215,
@@ -5523,7 +5523,7 @@
     },
     {
         "id": 2020,
-        "FPNELLONMNP": 1011,
+        "collectionId": 1011,
         "series": 1210,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 2485356903,
@@ -5541,7 +5541,7 @@
     },
     {
         "id": 2021,
-        "FPNELLONMNP": 1011,
+        "collectionId": 1011,
         "series": 1210,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 3806214671,
@@ -5557,7 +5557,7 @@
     },
     {
         "id": 2022,
-        "FPNELLONMNP": 1010,
+        "collectionId": 1010,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 3255389847,
         "descTextMapHash": 2953310782,
@@ -5570,7 +5570,7 @@
     },
     {
         "id": 2023,
-        "FPNELLONMNP": 1009,
+        "collectionId": 1009,
         "titleTextMapHash": 409160735,
         "descTextMapHash": 2289581878,
         "luaPath": "Actor/Quest/AQ2023",
@@ -5582,7 +5582,7 @@
     },
     {
         "id": 2024,
-        "FPNELLONMNP": 8003,
+        "collectionId": 8003,
         "series": 1210,
         "titleTextMapHash": 4220531823,
         "descTextMapHash": 2393205574,
@@ -5596,7 +5596,7 @@
     },
     {
         "id": 2025,
-        "FPNELLONMNP": 1009,
+        "collectionId": 1009,
         "titleTextMapHash": 3452945279,
         "descTextMapHash": 3267033422,
         "luaPath": "Actor/Quest/AQ2025",
@@ -5608,7 +5608,7 @@
     },
     {
         "id": 3000,
-        "FPNELLONMNP": 1015,
+        "collectionId": 1015,
         "series": 1301,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 1159747887,
@@ -5626,7 +5626,7 @@
     },
     {
         "id": 3001,
-        "FPNELLONMNP": 1015,
+        "collectionId": 1015,
         "series": 1301,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 2029690863,
@@ -5644,7 +5644,7 @@
     },
     {
         "id": 3002,
-        "FPNELLONMNP": 1015,
+        "collectionId": 1015,
         "series": 1301,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 1127903943,
@@ -5662,7 +5662,7 @@
     },
     {
         "id": 3003,
-        "FPNELLONMNP": 1015,
+        "collectionId": 1015,
         "series": 1301,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 3252344839,
@@ -5682,7 +5682,7 @@
     },
     {
         "id": 3004,
-        "FPNELLONMNP": 1015,
+        "collectionId": 1015,
         "series": 1301,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 1639422863,
@@ -5700,7 +5700,7 @@
     },
     {
         "id": 3005,
-        "FPNELLONMNP": 1015,
+        "collectionId": 1015,
         "series": 1301,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 1604680671,
@@ -5718,7 +5718,7 @@
     },
     {
         "id": 3006,
-        "FPNELLONMNP": 1015,
+        "collectionId": 1015,
         "series": 1301,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 1283508791,
@@ -5736,7 +5736,7 @@
     },
     {
         "id": 3007,
-        "FPNELLONMNP": 1015,
+        "collectionId": 1015,
         "series": 1302,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 290163623,
@@ -5755,7 +5755,7 @@
     },
     {
         "id": 3008,
-        "FPNELLONMNP": 1015,
+        "collectionId": 1015,
         "series": 1302,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 2214038207,
@@ -5773,7 +5773,7 @@
     },
     {
         "id": 3009,
-        "FPNELLONMNP": 1015,
+        "collectionId": 1015,
         "series": 1302,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 3571309207,
@@ -5791,7 +5791,7 @@
     },
     {
         "id": 3010,
-        "FPNELLONMNP": 1015,
+        "collectionId": 1015,
         "series": 1302,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 4280963679,
@@ -5809,7 +5809,7 @@
     },
     {
         "id": 3011,
-        "FPNELLONMNP": 1015,
+        "collectionId": 1015,
         "series": 1302,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 732258359,
@@ -5827,7 +5827,7 @@
     },
     {
         "id": 3012,
-        "FPNELLONMNP": 1015,
+        "collectionId": 1015,
         "series": 1302,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 676207463,
@@ -5845,7 +5845,7 @@
     },
     {
         "id": 3013,
-        "FPNELLONMNP": 1015,
+        "collectionId": 1015,
         "series": 1302,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 929335511,
@@ -5861,7 +5861,7 @@
     },
     {
         "id": 3014,
-        "FPNELLONMNP": 1015,
+        "collectionId": 1015,
         "series": 1302,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 681695183,
@@ -5879,7 +5879,7 @@
     },
     {
         "id": 3015,
-        "FPNELLONMNP": 1015,
+        "collectionId": 1015,
         "series": 1302,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 4105550279,
@@ -5894,7 +5894,7 @@
     },
     {
         "id": 3016,
-        "FPNELLONMNP": 1016,
+        "collectionId": 1016,
         "series": 1303,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 958614119,
@@ -5912,7 +5912,7 @@
     },
     {
         "id": 3017,
-        "FPNELLONMNP": 1016,
+        "collectionId": 1016,
         "series": 1303,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 102839775,
@@ -5930,7 +5930,7 @@
     },
     {
         "id": 3018,
-        "FPNELLONMNP": 1016,
+        "collectionId": 1016,
         "series": 1303,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 342628215,
@@ -5948,7 +5948,7 @@
     },
     {
         "id": 3019,
-        "FPNELLONMNP": 1016,
+        "collectionId": 1016,
         "series": 3019,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 3797768135,
@@ -5966,7 +5966,7 @@
     },
     {
         "id": 3020,
-        "FPNELLONMNP": 1016,
+        "collectionId": 1016,
         "series": 3019,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 4204025847,
@@ -5984,7 +5984,7 @@
     },
     {
         "id": 3021,
-        "FPNELLONMNP": 1016,
+        "collectionId": 1016,
         "series": 3019,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 3642167159,
@@ -6000,7 +6000,7 @@
     },
     {
         "id": 3022,
-        "FPNELLONMNP": 1017,
+        "collectionId": 1017,
         "series": 1305,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 2813062135,
@@ -6018,7 +6018,7 @@
     },
     {
         "id": 3023,
-        "FPNELLONMNP": 1016,
+        "collectionId": 1016,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 3471382143,
         "descTextMapHash": 2776563030,
@@ -6031,7 +6031,7 @@
     },
     {
         "id": 3024,
-        "FPNELLONMNP": 1017,
+        "collectionId": 1017,
         "series": 1305,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 939450703,
@@ -6049,7 +6049,7 @@
     },
     {
         "id": 3025,
-        "FPNELLONMNP": 1017,
+        "collectionId": 1017,
         "series": 1305,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 2116695119,
@@ -6067,7 +6067,7 @@
     },
     {
         "id": 3026,
-        "FPNELLONMNP": 1017,
+        "collectionId": 1017,
         "series": 1305,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 4095802087,
@@ -6083,7 +6083,7 @@
     },
     {
         "id": 3027,
-        "FPNELLONMNP": 1017,
+        "collectionId": 1017,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 4222793367,
         "descTextMapHash": 3885672502,
@@ -6096,7 +6096,7 @@
     },
     {
         "id": 3028,
-        "FPNELLONMNP": 1017,
+        "collectionId": 1017,
         "series": 1305,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 3020020887,
@@ -6114,7 +6114,7 @@
     },
     {
         "id": 8000,
-        "FPNELLONMNP": 1007,
+        "collectionId": 1007,
         "series": 1104,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 1568618263,
@@ -6138,7 +6138,7 @@
     },
     {
         "id": 8001,
-        "FPNELLONMNP": 1007,
+        "collectionId": 1007,
         "series": 1104,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 804794039,
@@ -6156,7 +6156,7 @@
     },
     {
         "id": 8002,
-        "FPNELLONMNP": 1007,
+        "collectionId": 1007,
         "series": 1104,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 2255313135,
@@ -6174,7 +6174,7 @@
     },
     {
         "id": 8003,
-        "FPNELLONMNP": 1007,
+        "collectionId": 1007,
         "series": 1104,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 3327610591,
@@ -6190,7 +6190,7 @@
     },
     {
         "id": 8004,
-        "FPNELLONMNP": 1012,
+        "collectionId": 1012,
         "series": 1206,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 348908255,
@@ -6208,7 +6208,7 @@
     },
     {
         "id": 8005,
-        "FPNELLONMNP": 1012,
+        "collectionId": 1012,
         "series": 1206,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 1238138367,
@@ -6226,7 +6226,7 @@
     },
     {
         "id": 8006,
-        "FPNELLONMNP": 1012,
+        "collectionId": 1012,
         "series": 1206,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 2586711519,
@@ -6244,7 +6244,7 @@
     },
     {
         "id": 8007,
-        "FPNELLONMNP": 1012,
+        "collectionId": 1012,
         "series": 1206,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 2311415735,
@@ -6260,7 +6260,7 @@
     },
     {
         "id": 8008,
-        "FPNELLONMNP": 1012,
+        "collectionId": 1012,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 4057388455,
         "descTextMapHash": 2679626550,
@@ -6275,7 +6275,7 @@
     },
     {
         "id": 10001,
-        "FPNELLONMNP": 2005,
+        "collectionId": 2005,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 1767644623,
@@ -6289,7 +6289,7 @@
     },
     {
         "id": 10120,
-        "FPNELLONMNP": 2019,
+        "collectionId": 2019,
         "series": 2019,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -6309,7 +6309,7 @@
     },
     {
         "id": 10121,
-        "FPNELLONMNP": 2019,
+        "collectionId": 2019,
         "series": 2019,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -6328,7 +6328,7 @@
     },
     {
         "id": 10122,
-        "FPNELLONMNP": 2019,
+        "collectionId": 2019,
         "series": 2019,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -6345,7 +6345,7 @@
     },
     {
         "id": 10500,
-        "FPNELLONMNP": 2010,
+        "collectionId": 2010,
         "series": 2010,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -6365,7 +6365,7 @@
     },
     {
         "id": 10501,
-        "FPNELLONMNP": 2010,
+        "collectionId": 2010,
         "series": 2010,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -6384,7 +6384,7 @@
     },
     {
         "id": 10502,
-        "FPNELLONMNP": 2010,
+        "collectionId": 2010,
         "series": 2010,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -6401,7 +6401,7 @@
     },
     {
         "id": 10503,
-        "FPNELLONMNP": 2010,
+        "collectionId": 2010,
         "series": 2010,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -6417,7 +6417,7 @@
     },
     {
         "id": 11008,
-        "FPNELLONMNP": 5002,
+        "collectionId": 5002,
         "type": "WQ",
         "mainQuestTag": "MAINQUEST_TAG_GUIDE",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -6435,7 +6435,7 @@
     },
     {
         "id": 11009,
-        "FPNELLONMNP": 1013,
+        "collectionId": 1013,
         "series": 1205,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 2281355039,
@@ -6454,7 +6454,7 @@
     },
     {
         "id": 11010,
-        "FPNELLONMNP": 2012,
+        "collectionId": 2012,
         "series": 2012,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -6474,7 +6474,7 @@
     },
     {
         "id": 11011,
-        "FPNELLONMNP": 2012,
+        "collectionId": 2012,
         "series": 2012,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -6493,7 +6493,7 @@
     },
     {
         "id": 11012,
-        "FPNELLONMNP": 2012,
+        "collectionId": 2012,
         "series": 2012,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -6510,7 +6510,7 @@
     },
     {
         "id": 11013,
-        "FPNELLONMNP": 1013,
+        "collectionId": 1013,
         "series": 1205,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 1558140495,
@@ -6528,7 +6528,7 @@
     },
     {
         "id": 11014,
-        "FPNELLONMNP": 1013,
+        "collectionId": 1013,
         "series": 1205,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 3024777143,
@@ -6546,7 +6546,7 @@
     },
     {
         "id": 11015,
-        "FPNELLONMNP": 1013,
+        "collectionId": 1013,
         "series": 1205,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 2469357735,
@@ -6562,7 +6562,7 @@
     },
     {
         "id": 11016,
-        "FPNELLONMNP": 1013,
+        "collectionId": 1013,
         "series": 1205,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 2996149359,
@@ -6577,7 +6577,7 @@
     },
     {
         "id": 11017,
-        "FPNELLONMNP": 1013,
+        "collectionId": 1013,
         "series": 1205,
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 2045996751,
@@ -6592,7 +6592,7 @@
     },
     {
         "id": 11018,
-        "FPNELLONMNP": 2028,
+        "collectionId": 2028,
         "series": 2029,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -6612,7 +6612,7 @@
     },
     {
         "id": 11019,
-        "FPNELLONMNP": 2028,
+        "collectionId": 2028,
         "series": 2029,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -6631,7 +6631,7 @@
     },
     {
         "id": 11020,
-        "FPNELLONMNP": 2014,
+        "collectionId": 2014,
         "series": 2014,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -6651,7 +6651,7 @@
     },
     {
         "id": 11021,
-        "FPNELLONMNP": 2014,
+        "collectionId": 2014,
         "series": 2014,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -6670,7 +6670,7 @@
     },
     {
         "id": 11022,
-        "FPNELLONMNP": 2014,
+        "collectionId": 2014,
         "series": 2014,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -6689,7 +6689,7 @@
     },
     {
         "id": 11023,
-        "FPNELLONMNP": 2014,
+        "collectionId": 2014,
         "series": 2014,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -6708,7 +6708,7 @@
     },
     {
         "id": 11024,
-        "FPNELLONMNP": 2014,
+        "collectionId": 2014,
         "series": 2014,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -6725,7 +6725,7 @@
     },
     {
         "id": 11025,
-        "FPNELLONMNP": 8004,
+        "collectionId": 8004,
         "series": 2014,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -6740,7 +6740,7 @@
     },
     {
         "id": 11026,
-        "FPNELLONMNP": 2028,
+        "collectionId": 2028,
         "series": 2029,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -6757,7 +6757,7 @@
     },
     {
         "id": 11030,
-        "FPNELLONMNP": 2016,
+        "collectionId": 2016,
         "series": 2016,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -6777,7 +6777,7 @@
     },
     {
         "id": 11031,
-        "FPNELLONMNP": 2016,
+        "collectionId": 2016,
         "series": 2016,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -6796,7 +6796,7 @@
     },
     {
         "id": 11032,
-        "FPNELLONMNP": 2016,
+        "collectionId": 2016,
         "series": 2016,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -6813,7 +6813,7 @@
     },
     {
         "id": 11040,
-        "FPNELLONMNP": 2017,
+        "collectionId": 2017,
         "series": 2017,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -6832,7 +6832,7 @@
     },
     {
         "id": 11041,
-        "FPNELLONMNP": 2017,
+        "collectionId": 2017,
         "series": 2017,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -6851,7 +6851,7 @@
     },
     {
         "id": 11042,
-        "FPNELLONMNP": 2017,
+        "collectionId": 2017,
         "series": 2017,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -6870,7 +6870,7 @@
     },
     {
         "id": 11043,
-        "FPNELLONMNP": 2017,
+        "collectionId": 2017,
         "series": 2017,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -6889,7 +6889,7 @@
     },
     {
         "id": 11044,
-        "FPNELLONMNP": 2017,
+        "collectionId": 2017,
         "series": 2017,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -6908,7 +6908,7 @@
     },
     {
         "id": 11045,
-        "FPNELLONMNP": 2017,
+        "collectionId": 2017,
         "series": 2017,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -6925,7 +6925,7 @@
     },
     {
         "id": 11110,
-        "FPNELLONMNP": 2018,
+        "collectionId": 2018,
         "series": 11110,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -6944,7 +6944,7 @@
     },
     {
         "id": 11111,
-        "FPNELLONMNP": 2018,
+        "collectionId": 2018,
         "series": 11110,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -6963,7 +6963,7 @@
     },
     {
         "id": 11112,
-        "FPNELLONMNP": 2018,
+        "collectionId": 2018,
         "series": 11110,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -6982,7 +6982,7 @@
     },
     {
         "id": 11113,
-        "FPNELLONMNP": 2018,
+        "collectionId": 2018,
         "series": 11110,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -6999,7 +6999,7 @@
     },
     {
         "id": 11114,
-        "FPNELLONMNP": 8005,
+        "collectionId": 8005,
         "series": 11110,
         "type": "LQ",
         "titleTextMapHash": 3045015799,
@@ -7014,7 +7014,7 @@
     },
     {
         "id": 11120,
-        "FPNELLONMNP": 2015,
+        "collectionId": 2015,
         "series": 1112,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -7033,7 +7033,7 @@
     },
     {
         "id": 11121,
-        "FPNELLONMNP": 2015,
+        "collectionId": 2015,
         "series": 1112,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -7052,7 +7052,7 @@
     },
     {
         "id": 11122,
-        "FPNELLONMNP": 2015,
+        "collectionId": 2015,
         "series": 1112,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -7071,7 +7071,7 @@
     },
     {
         "id": 11123,
-        "FPNELLONMNP": 2015,
+        "collectionId": 2015,
         "series": 1112,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -7088,7 +7088,7 @@
     },
     {
         "id": 11124,
-        "FPNELLONMNP": 8006,
+        "collectionId": 8006,
         "series": 1112,
         "type": "LQ",
         "titleTextMapHash": 3553288999,
@@ -7103,7 +7103,7 @@
     },
     {
         "id": 11200,
-        "FPNELLONMNP": 2030,
+        "collectionId": 2030,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 2033940223,
@@ -7121,7 +7121,7 @@
     },
     {
         "id": 11201,
-        "FPNELLONMNP": 2030,
+        "collectionId": 2030,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 2301632167,
@@ -7139,7 +7139,7 @@
     },
     {
         "id": 11202,
-        "FPNELLONMNP": 2030,
+        "collectionId": 2030,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 559374343,
@@ -7155,7 +7155,7 @@
     },
     {
         "id": 12004,
-        "FPNELLONMNP": 2021,
+        "collectionId": 2021,
         "series": 2022,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -7174,7 +7174,7 @@
     },
     {
         "id": 12005,
-        "FPNELLONMNP": 2021,
+        "collectionId": 2021,
         "series": 2022,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -7193,7 +7193,7 @@
     },
     {
         "id": 12006,
-        "FPNELLONMNP": 2021,
+        "collectionId": 2021,
         "series": 2022,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -7212,7 +7212,7 @@
     },
     {
         "id": 12007,
-        "FPNELLONMNP": 2021,
+        "collectionId": 2021,
         "series": 2022,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -7231,7 +7231,7 @@
     },
     {
         "id": 12008,
-        "FPNELLONMNP": 2021,
+        "collectionId": 2021,
         "series": 2022,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -7248,7 +7248,7 @@
     },
     {
         "id": 12009,
-        "FPNELLONMNP": 2024,
+        "collectionId": 2024,
         "series": 2026,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -7268,7 +7268,7 @@
     },
     {
         "id": 12010,
-        "FPNELLONMNP": 2020,
+        "collectionId": 2020,
         "series": 1201,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -7287,7 +7287,7 @@
     },
     {
         "id": 12011,
-        "FPNELLONMNP": 2020,
+        "collectionId": 2020,
         "series": 1201,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -7306,7 +7306,7 @@
     },
     {
         "id": 12012,
-        "FPNELLONMNP": 2020,
+        "collectionId": 2020,
         "series": 1201,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -7325,7 +7325,7 @@
     },
     {
         "id": 12013,
-        "FPNELLONMNP": 2020,
+        "collectionId": 2020,
         "series": 1201,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -7342,7 +7342,7 @@
     },
     {
         "id": 12014,
-        "FPNELLONMNP": 8007,
+        "collectionId": 8007,
         "series": 1201,
         "type": "LQ",
         "titleTextMapHash": 1531423959,
@@ -7357,7 +7357,7 @@
     },
     {
         "id": 12015,
-        "FPNELLONMNP": 2025,
+        "collectionId": 2025,
         "series": 2023,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -7376,7 +7376,7 @@
     },
     {
         "id": 12016,
-        "FPNELLONMNP": 2025,
+        "collectionId": 2025,
         "series": 2023,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -7395,7 +7395,7 @@
     },
     {
         "id": 12017,
-        "FPNELLONMNP": 2025,
+        "collectionId": 2025,
         "series": 2023,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -7414,7 +7414,7 @@
     },
     {
         "id": 12018,
-        "FPNELLONMNP": 2025,
+        "collectionId": 2025,
         "series": 2023,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -7431,7 +7431,7 @@
     },
     {
         "id": 12019,
-        "FPNELLONMNP": 8008,
+        "collectionId": 8008,
         "series": 2023,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -7447,7 +7447,7 @@
     },
     {
         "id": 12020,
-        "FPNELLONMNP": 2022,
+        "collectionId": 2022,
         "series": 2024,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -7467,7 +7467,7 @@
     },
     {
         "id": 12021,
-        "FPNELLONMNP": 2022,
+        "collectionId": 2022,
         "series": 2024,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -7486,7 +7486,7 @@
     },
     {
         "id": 12022,
-        "FPNELLONMNP": 2022,
+        "collectionId": 2022,
         "series": 2024,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -7505,7 +7505,7 @@
     },
     {
         "id": 12023,
-        "FPNELLONMNP": 2022,
+        "collectionId": 2022,
         "series": 2024,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -7524,7 +7524,7 @@
     },
     {
         "id": 12024,
-        "FPNELLONMNP": 2022,
+        "collectionId": 2022,
         "series": 2024,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -7541,7 +7541,7 @@
     },
     {
         "id": 12025,
-        "FPNELLONMNP": 2024,
+        "collectionId": 2024,
         "series": 2026,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -7561,7 +7561,7 @@
     },
     {
         "id": 12026,
-        "FPNELLONMNP": 2024,
+        "collectionId": 2024,
         "series": 2026,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -7579,7 +7579,7 @@
     },
     {
         "id": 12027,
-        "FPNELLONMNP": 8009,
+        "collectionId": 8009,
         "type": "LQ",
         "titleTextMapHash": 2396081975,
         "descTextMapHash": 1104013894,
@@ -7592,7 +7592,7 @@
     },
     {
         "id": 12028,
-        "FPNELLONMNP": 2023,
+        "collectionId": 2023,
         "series": 2025,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -7611,7 +7611,7 @@
     },
     {
         "id": 12029,
-        "FPNELLONMNP": 2023,
+        "collectionId": 2023,
         "series": 2025,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -7630,7 +7630,7 @@
     },
     {
         "id": 12030,
-        "FPNELLONMNP": 2023,
+        "collectionId": 2023,
         "series": 2025,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -7649,7 +7649,7 @@
     },
     {
         "id": 12031,
-        "FPNELLONMNP": 2023,
+        "collectionId": 2023,
         "series": 2025,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -7666,7 +7666,7 @@
     },
     {
         "id": 12032,
-        "FPNELLONMNP": 2026,
+        "collectionId": 2026,
         "series": 2027,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -7682,7 +7682,7 @@
     },
     {
         "id": 12033,
-        "FPNELLONMNP": 2027,
+        "collectionId": 2027,
         "series": 2028,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -7701,7 +7701,7 @@
     },
     {
         "id": 12034,
-        "FPNELLONMNP": 2027,
+        "collectionId": 2027,
         "series": 2028,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -7720,7 +7720,7 @@
     },
     {
         "id": 12035,
-        "FPNELLONMNP": 2027,
+        "collectionId": 2027,
         "series": 2028,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -7737,7 +7737,7 @@
     },
     {
         "id": 12036,
-        "FPNELLONMNP": 2027,
+        "collectionId": 2027,
         "series": 2028,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -7752,7 +7752,7 @@
     },
     {
         "id": 12037,
-        "FPNELLONMNP": 2029,
+        "collectionId": 2029,
         "series": 2031,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -7771,7 +7771,7 @@
     },
     {
         "id": 12038,
-        "FPNELLONMNP": 2029,
+        "collectionId": 2029,
         "series": 2031,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -7790,7 +7790,7 @@
     },
     {
         "id": 12039,
-        "FPNELLONMNP": 2029,
+        "collectionId": 2029,
         "series": 2031,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -7809,7 +7809,7 @@
     },
     {
         "id": 12040,
-        "FPNELLONMNP": 2026,
+        "collectionId": 2026,
         "series": 2027,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -7829,7 +7829,7 @@
     },
     {
         "id": 12041,
-        "FPNELLONMNP": 2026,
+        "collectionId": 2026,
         "series": 2027,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -7848,7 +7848,7 @@
     },
     {
         "id": 12042,
-        "FPNELLONMNP": 2026,
+        "collectionId": 2026,
         "series": 2027,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -7865,7 +7865,7 @@
     },
     {
         "id": 12043,
-        "FPNELLONMNP": 2029,
+        "collectionId": 2029,
         "series": 2031,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -7880,7 +7880,7 @@
     },
     {
         "id": 13000,
-        "FPNELLONMNP": 2031,
+        "collectionId": 2031,
         "series": 13000,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -7900,7 +7900,7 @@
     },
     {
         "id": 13001,
-        "FPNELLONMNP": 2031,
+        "collectionId": 2031,
         "series": 13000,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -7919,7 +7919,7 @@
     },
     {
         "id": 13002,
-        "FPNELLONMNP": 2031,
+        "collectionId": 2031,
         "series": 13000,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -7938,7 +7938,7 @@
     },
     {
         "id": 13003,
-        "FPNELLONMNP": 2031,
+        "collectionId": 2031,
         "series": 13000,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -7955,7 +7955,7 @@
     },
     {
         "id": 13004,
-        "FPNELLONMNP": 2031,
+        "collectionId": 2031,
         "series": 13000,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -7970,7 +7970,7 @@
     },
     {
         "id": 13005,
-        "FPNELLONMNP": 2031,
+        "collectionId": 2031,
         "series": 13000,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -7987,7 +7987,7 @@
     },
     {
         "id": 13006,
-        "FPNELLONMNP": 2033,
+        "collectionId": 2033,
         "series": 2033,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -8006,7 +8006,7 @@
     },
     {
         "id": 13007,
-        "FPNELLONMNP": 2033,
+        "collectionId": 2033,
         "series": 2033,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -8025,7 +8025,7 @@
     },
     {
         "id": 13008,
-        "FPNELLONMNP": 2033,
+        "collectionId": 2033,
         "series": 2033,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -8044,7 +8044,7 @@
     },
     {
         "id": 13009,
-        "FPNELLONMNP": 2032,
+        "collectionId": 2032,
         "series": 2032,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -8063,7 +8063,7 @@
     },
     {
         "id": 13010,
-        "FPNELLONMNP": 2032,
+        "collectionId": 2032,
         "series": 2032,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -8082,7 +8082,7 @@
     },
     {
         "id": 13011,
-        "FPNELLONMNP": 2032,
+        "collectionId": 2032,
         "series": 2032,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -8101,7 +8101,7 @@
     },
     {
         "id": 13012,
-        "FPNELLONMNP": 8010,
+        "collectionId": 8010,
         "series": 2032,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -8116,7 +8116,7 @@
     },
     {
         "id": 13013,
-        "FPNELLONMNP": 2034,
+        "collectionId": 2034,
         "series": 2034,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -8135,7 +8135,7 @@
     },
     {
         "id": 13014,
-        "FPNELLONMNP": 2034,
+        "collectionId": 2034,
         "series": 2034,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -8154,7 +8154,7 @@
     },
     {
         "id": 13015,
-        "FPNELLONMNP": 2034,
+        "collectionId": 2034,
         "series": 2034,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -8171,7 +8171,7 @@
     },
     {
         "id": 13016,
-        "FPNELLONMNP": 2031,
+        "collectionId": 2031,
         "series": 13000,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -8186,7 +8186,7 @@
     },
     {
         "id": 13017,
-        "FPNELLONMNP": 8011,
+        "collectionId": 8011,
         "series": 2033,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -8203,7 +8203,7 @@
     },
     {
         "id": 13018,
-        "FPNELLONMNP": 8011,
+        "collectionId": 8011,
         "series": 2033,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -8220,7 +8220,7 @@
     },
     {
         "id": 18000,
-        "FPNELLONMNP": 5001,
+        "collectionId": 5001,
         "type": "WQ",
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 1883243111,
@@ -8237,7 +8237,7 @@
     },
     {
         "id": 19001,
-        "FPNELLONMNP": 3001,
+        "collectionId": 3001,
         "series": 101401,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -8256,7 +8256,7 @@
     },
     {
         "id": 19002,
-        "FPNELLONMNP": 3001,
+        "collectionId": 3001,
         "series": 101401,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -8274,7 +8274,7 @@
     },
     {
         "id": 19003,
-        "FPNELLONMNP": 3001,
+        "collectionId": 3001,
         "series": 101401,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -8294,7 +8294,7 @@
     },
     {
         "id": 19004,
-        "FPNELLONMNP": 3001,
+        "collectionId": 3001,
         "series": 101401,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -8312,7 +8312,7 @@
     },
     {
         "id": 19005,
-        "FPNELLONMNP": 3001,
+        "collectionId": 3001,
         "series": 101401,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -8328,7 +8328,7 @@
     },
     {
         "id": 19006,
-        "FPNELLONMNP": 3001,
+        "collectionId": 3001,
         "series": 101401,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -8347,7 +8347,7 @@
     },
     {
         "id": 19007,
-        "FPNELLONMNP": 3001,
+        "collectionId": 3001,
         "series": 101401,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -8363,7 +8363,7 @@
     },
     {
         "id": 19008,
-        "FPNELLONMNP": 3001,
+        "collectionId": 3001,
         "series": 101401,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -8381,7 +8381,7 @@
     },
     {
         "id": 19009,
-        "FPNELLONMNP": 3001,
+        "collectionId": 3001,
         "series": 101401,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -8397,7 +8397,7 @@
     },
     {
         "id": 19010,
-        "FPNELLONMNP": 3009,
+        "collectionId": 3009,
         "series": 105301,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -8417,7 +8417,7 @@
     },
     {
         "id": 19012,
-        "FPNELLONMNP": 3009,
+        "collectionId": 3009,
         "series": 105301,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -8436,7 +8436,7 @@
     },
     {
         "id": 19013,
-        "FPNELLONMNP": 3009,
+        "collectionId": 3009,
         "series": 105301,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -8451,7 +8451,7 @@
     },
     {
         "id": 19014,
-        "FPNELLONMNP": 3009,
+        "collectionId": 3009,
         "series": 105301,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -8466,7 +8466,7 @@
     },
     {
         "id": 19015,
-        "FPNELLONMNP": 3009,
+        "collectionId": 3009,
         "series": 105301,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -8481,7 +8481,7 @@
     },
     {
         "id": 19016,
-        "FPNELLONMNP": 3009,
+        "collectionId": 3009,
         "series": 105301,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -8496,7 +8496,7 @@
     },
     {
         "id": 19017,
-        "FPNELLONMNP": 3011,
+        "collectionId": 3011,
         "series": 106401,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -8515,7 +8515,7 @@
     },
     {
         "id": 19018,
-        "FPNELLONMNP": 3010,
+        "collectionId": 3010,
         "series": 105501,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -8537,7 +8537,7 @@
     },
     {
         "id": 19019,
-        "FPNELLONMNP": 3010,
+        "collectionId": 3010,
         "series": 105501,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -8552,7 +8552,7 @@
     },
     {
         "id": 19020,
-        "FPNELLONMNP": 3010,
+        "collectionId": 3010,
         "series": 105501,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -8567,7 +8567,7 @@
     },
     {
         "id": 19021,
-        "FPNELLONMNP": 3003,
+        "collectionId": 3003,
         "series": 103601,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -8586,7 +8586,7 @@
     },
     {
         "id": 19022,
-        "FPNELLONMNP": 3003,
+        "collectionId": 3003,
         "series": 103601,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -8605,7 +8605,7 @@
     },
     {
         "id": 19023,
-        "FPNELLONMNP": 3003,
+        "collectionId": 3003,
         "series": 103601,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -8621,7 +8621,7 @@
     },
     {
         "id": 19024,
-        "FPNELLONMNP": 3003,
+        "collectionId": 3003,
         "series": 103601,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -8639,7 +8639,7 @@
     },
     {
         "id": 19025,
-        "FPNELLONMNP": 3003,
+        "collectionId": 3003,
         "series": 103601,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -8655,7 +8655,7 @@
     },
     {
         "id": 19026,
-        "FPNELLONMNP": 3010,
+        "collectionId": 3010,
         "series": 105501,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -8670,7 +8670,7 @@
     },
     {
         "id": 19027,
-        "FPNELLONMNP": 3010,
+        "collectionId": 3010,
         "series": 105501,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -8685,7 +8685,7 @@
     },
     {
         "id": 19028,
-        "FPNELLONMNP": 3010,
+        "collectionId": 3010,
         "series": 105501,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -8700,7 +8700,7 @@
     },
     {
         "id": 19029,
-        "FPNELLONMNP": 8001,
+        "collectionId": 8001,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 1456753023,
@@ -8715,7 +8715,7 @@
     },
     {
         "id": 19030,
-        "FPNELLONMNP": 3003,
+        "collectionId": 3003,
         "series": 103601,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -8736,7 +8736,7 @@
     },
     {
         "id": 19031,
-        "FPNELLONMNP": 3003,
+        "collectionId": 3003,
         "series": 103601,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -8754,7 +8754,7 @@
     },
     {
         "id": 19032,
-        "FPNELLONMNP": 3003,
+        "collectionId": 3003,
         "series": 103601,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -8770,7 +8770,7 @@
     },
     {
         "id": 19033,
-        "FPNELLONMNP": 3003,
+        "collectionId": 3003,
         "series": 103601,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -8788,7 +8788,7 @@
     },
     {
         "id": 19034,
-        "FPNELLONMNP": 3003,
+        "collectionId": 3003,
         "series": 103601,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -8804,7 +8804,7 @@
     },
     {
         "id": 19035,
-        "FPNELLONMNP": 3003,
+        "collectionId": 3003,
         "series": 103601,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -8820,7 +8820,7 @@
     },
     {
         "id": 19036,
-        "FPNELLONMNP": 3014,
+        "collectionId": 3014,
         "series": 105901,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -8839,7 +8839,7 @@
     },
     {
         "id": 19037,
-        "FPNELLONMNP": 3011,
+        "collectionId": 3011,
         "series": 106401,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -8858,7 +8858,7 @@
     },
     {
         "id": 19038,
-        "FPNELLONMNP": 3011,
+        "collectionId": 3011,
         "series": 106401,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -8873,7 +8873,7 @@
     },
     {
         "id": 19039,
-        "FPNELLONMNP": 3014,
+        "collectionId": 3014,
         "series": 105901,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -8891,7 +8891,7 @@
     },
     {
         "id": 19040,
-        "FPNELLONMNP": 3011,
+        "collectionId": 3011,
         "series": 106401,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -8906,7 +8906,7 @@
     },
     {
         "id": 19041,
-        "FPNELLONMNP": 3004,
+        "collectionId": 3004,
         "series": 103201,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -8926,7 +8926,7 @@
     },
     {
         "id": 19042,
-        "FPNELLONMNP": 3004,
+        "collectionId": 3004,
         "series": 103201,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -8941,7 +8941,7 @@
     },
     {
         "id": 19043,
-        "FPNELLONMNP": 3004,
+        "collectionId": 3004,
         "series": 103201,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -8956,7 +8956,7 @@
     },
     {
         "id": 19044,
-        "FPNELLONMNP": 3004,
+        "collectionId": 3004,
         "series": 103201,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -8971,7 +8971,7 @@
     },
     {
         "id": 19045,
-        "FPNELLONMNP": 3004,
+        "collectionId": 3004,
         "series": 103201,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -8986,7 +8986,7 @@
     },
     {
         "id": 19046,
-        "FPNELLONMNP": 3004,
+        "collectionId": 3004,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 4058343263,
@@ -9001,7 +9001,7 @@
     },
     {
         "id": 19047,
-        "FPNELLONMNP": 3011,
+        "collectionId": 3011,
         "series": 106401,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -9016,7 +9016,7 @@
     },
     {
         "id": 19048,
-        "FPNELLONMNP": 3011,
+        "collectionId": 3011,
         "series": 106401,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -9032,7 +9032,7 @@
     },
     {
         "id": 19049,
-        "FPNELLONMNP": 3014,
+        "collectionId": 3014,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 2960872311,
@@ -9048,7 +9048,7 @@
     },
     {
         "id": 19050,
-        "FPNELLONMNP": 3007,
+        "collectionId": 3007,
         "series": 102401,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -9069,7 +9069,7 @@
     },
     {
         "id": 19051,
-        "FPNELLONMNP": 3007,
+        "collectionId": 3007,
         "series": 102401,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -9087,7 +9087,7 @@
     },
     {
         "id": 19052,
-        "FPNELLONMNP": 3007,
+        "collectionId": 3007,
         "series": 102401,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -9103,7 +9103,7 @@
     },
     {
         "id": 19053,
-        "FPNELLONMNP": 3007,
+        "collectionId": 3007,
         "series": 102401,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -9119,7 +9119,7 @@
     },
     {
         "id": 19054,
-        "FPNELLONMNP": 3007,
+        "collectionId": 3007,
         "series": 102401,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -9135,7 +9135,7 @@
     },
     {
         "id": 19055,
-        "FPNELLONMNP": 3014,
+        "collectionId": 3014,
         "series": 105901,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -9151,7 +9151,7 @@
     },
     {
         "id": 19056,
-        "FPNELLONMNP": 3014,
+        "collectionId": 3014,
         "series": 105901,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -9170,7 +9170,7 @@
     },
     {
         "id": 19057,
-        "FPNELLONMNP": 3014,
+        "collectionId": 3014,
         "series": 105901,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -9186,7 +9186,7 @@
     },
     {
         "id": 19060,
-        "FPNELLONMNP": 3014,
+        "collectionId": 3014,
         "series": 105901,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -9202,7 +9202,7 @@
     },
     {
         "id": 19061,
-        "FPNELLONMNP": 3002,
+        "collectionId": 3002,
         "series": 103401,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -9221,7 +9221,7 @@
     },
     {
         "id": 19062,
-        "FPNELLONMNP": 3002,
+        "collectionId": 3002,
         "series": 103401,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -9236,7 +9236,7 @@
     },
     {
         "id": 19063,
-        "FPNELLONMNP": 3002,
+        "collectionId": 3002,
         "series": 103401,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -9251,7 +9251,7 @@
     },
     {
         "id": 19064,
-        "FPNELLONMNP": 3002,
+        "collectionId": 3002,
         "series": 103401,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -9269,7 +9269,7 @@
     },
     {
         "id": 19065,
-        "FPNELLONMNP": 3002,
+        "collectionId": 3002,
         "series": 103401,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -9284,7 +9284,7 @@
     },
     {
         "id": 19066,
-        "FPNELLONMNP": 3002,
+        "collectionId": 3002,
         "series": 103401,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -9299,7 +9299,7 @@
     },
     {
         "id": 19067,
-        "FPNELLONMNP": 3002,
+        "collectionId": 3002,
         "series": 103401,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -9317,7 +9317,7 @@
     },
     {
         "id": 19068,
-        "FPNELLONMNP": 3002,
+        "collectionId": 3002,
         "series": 103401,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -9332,7 +9332,7 @@
     },
     {
         "id": 19069,
-        "FPNELLONMNP": 3002,
+        "collectionId": 3002,
         "series": 103401,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -9347,7 +9347,7 @@
     },
     {
         "id": 19070,
-        "FPNELLONMNP": 3002,
+        "collectionId": 3002,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 575512535,
@@ -9361,7 +9361,7 @@
     },
     {
         "id": 19081,
-        "FPNELLONMNP": 3005,
+        "collectionId": 3005,
         "series": 103402,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -9381,7 +9381,7 @@
     },
     {
         "id": 19082,
-        "FPNELLONMNP": 3005,
+        "collectionId": 3005,
         "series": 103402,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -9400,7 +9400,7 @@
     },
     {
         "id": 19083,
-        "FPNELLONMNP": 3005,
+        "collectionId": 3005,
         "series": 103402,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -9416,7 +9416,7 @@
     },
     {
         "id": 19084,
-        "FPNELLONMNP": 3005,
+        "collectionId": 3005,
         "series": 103402,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -9432,7 +9432,7 @@
     },
     {
         "id": 19085,
-        "FPNELLONMNP": 3005,
+        "collectionId": 3005,
         "series": 103402,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -9450,7 +9450,7 @@
     },
     {
         "id": 19086,
-        "FPNELLONMNP": 3005,
+        "collectionId": 3005,
         "series": 103402,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -9468,7 +9468,7 @@
     },
     {
         "id": 19087,
-        "FPNELLONMNP": 3005,
+        "collectionId": 3005,
         "series": 103402,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -9484,7 +9484,7 @@
     },
     {
         "id": 19088,
-        "FPNELLONMNP": 8001,
+        "collectionId": 8001,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 3410156575,
@@ -9497,7 +9497,7 @@
     },
     {
         "id": 19089,
-        "FPNELLONMNP": 8001,
+        "collectionId": 8001,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 410782095,
@@ -9510,7 +9510,7 @@
     },
     {
         "id": 19090,
-        "FPNELLONMNP": 3005,
+        "collectionId": 3005,
         "series": 103402,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -9529,7 +9529,7 @@
     },
     {
         "id": 19091,
-        "FPNELLONMNP": 3005,
+        "collectionId": 3005,
         "series": 103402,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -9545,7 +9545,7 @@
     },
     {
         "id": 19092,
-        "FPNELLONMNP": 3005,
+        "collectionId": 3005,
         "series": 103402,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -9561,7 +9561,7 @@
     },
     {
         "id": 19101,
-        "FPNELLONMNP": 3006,
+        "collectionId": 3006,
         "series": 103901,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -9581,7 +9581,7 @@
     },
     {
         "id": 19102,
-        "FPNELLONMNP": 3006,
+        "collectionId": 3006,
         "series": 103901,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -9597,7 +9597,7 @@
     },
     {
         "id": 19103,
-        "FPNELLONMNP": 3006,
+        "collectionId": 3006,
         "series": 103901,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -9615,7 +9615,7 @@
     },
     {
         "id": 19104,
-        "FPNELLONMNP": 3006,
+        "collectionId": 3006,
         "series": 103901,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -9633,7 +9633,7 @@
     },
     {
         "id": 19105,
-        "FPNELLONMNP": 3006,
+        "collectionId": 3006,
         "series": 103901,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -9649,7 +9649,7 @@
     },
     {
         "id": 19106,
-        "FPNELLONMNP": 3006,
+        "collectionId": 3006,
         "series": 103901,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -9667,7 +9667,7 @@
     },
     {
         "id": 19107,
-        "FPNELLONMNP": 3006,
+        "collectionId": 3006,
         "series": 103901,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -9683,7 +9683,7 @@
     },
     {
         "id": 19111,
-        "FPNELLONMNP": 3008,
+        "collectionId": 3008,
         "series": 105001,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -9702,7 +9702,7 @@
     },
     {
         "id": 19112,
-        "FPNELLONMNP": 3008,
+        "collectionId": 3008,
         "series": 105001,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -9722,7 +9722,7 @@
     },
     {
         "id": 19113,
-        "FPNELLONMNP": 3008,
+        "collectionId": 3008,
         "series": 105001,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -9741,7 +9741,7 @@
     },
     {
         "id": 19114,
-        "FPNELLONMNP": 3008,
+        "collectionId": 3008,
         "series": 105001,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -9757,7 +9757,7 @@
     },
     {
         "id": 19115,
-        "FPNELLONMNP": 3008,
+        "collectionId": 3008,
         "series": 105001,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -9773,7 +9773,7 @@
     },
     {
         "id": 19116,
-        "FPNELLONMNP": 3008,
+        "collectionId": 3008,
         "series": 105001,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -9792,7 +9792,7 @@
     },
     {
         "id": 19117,
-        "FPNELLONMNP": 3008,
+        "collectionId": 3008,
         "series": 105001,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -9808,7 +9808,7 @@
     },
     {
         "id": 19118,
-        "FPNELLONMNP": 3008,
+        "collectionId": 3008,
         "series": 105001,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -9824,7 +9824,7 @@
     },
     {
         "id": 19119,
-        "FPNELLONMNP": 3008,
+        "collectionId": 3008,
         "series": 105001,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -9840,7 +9840,7 @@
     },
     {
         "id": 19121,
-        "FPNELLONMNP": 3008,
+        "collectionId": 3008,
         "series": 105001,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -9856,7 +9856,7 @@
     },
     {
         "id": 19131,
-        "FPNELLONMNP": 3012,
+        "collectionId": 3012,
         "series": 102701,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -9875,7 +9875,7 @@
     },
     {
         "id": 19132,
-        "FPNELLONMNP": 3012,
+        "collectionId": 3012,
         "series": 102701,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -9894,7 +9894,7 @@
     },
     {
         "id": 19133,
-        "FPNELLONMNP": 3012,
+        "collectionId": 3012,
         "series": 102701,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -9909,7 +9909,7 @@
     },
     {
         "id": 19134,
-        "FPNELLONMNP": 3012,
+        "collectionId": 3012,
         "series": 102701,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -9924,7 +9924,7 @@
     },
     {
         "id": 19135,
-        "FPNELLONMNP": 3012,
+        "collectionId": 3012,
         "series": 102701,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -9939,7 +9939,7 @@
     },
     {
         "id": 19136,
-        "FPNELLONMNP": 3012,
+        "collectionId": 3012,
         "series": 102701,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -9954,7 +9954,7 @@
     },
     {
         "id": 19137,
-        "FPNELLONMNP": 3012,
+        "collectionId": 3012,
         "series": 102701,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -9969,7 +9969,7 @@
     },
     {
         "id": 19138,
-        "FPNELLONMNP": 3012,
+        "collectionId": 3012,
         "series": 102701,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -9989,7 +9989,7 @@
     },
     {
         "id": 19141,
-        "FPNELLONMNP": 3013,
+        "collectionId": 3013,
         "series": 106501,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -10009,7 +10009,7 @@
     },
     {
         "id": 19142,
-        "FPNELLONMNP": 3013,
+        "collectionId": 3013,
         "series": 106501,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -10028,7 +10028,7 @@
     },
     {
         "id": 19143,
-        "FPNELLONMNP": 3013,
+        "collectionId": 3013,
         "series": 106501,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -10047,7 +10047,7 @@
     },
     {
         "id": 19144,
-        "FPNELLONMNP": 3013,
+        "collectionId": 3013,
         "series": 106501,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -10062,7 +10062,7 @@
     },
     {
         "id": 19145,
-        "FPNELLONMNP": 3013,
+        "collectionId": 3013,
         "series": 106501,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -10077,7 +10077,7 @@
     },
     {
         "id": 19146,
-        "FPNELLONMNP": 3013,
+        "collectionId": 3013,
         "series": 106501,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -10092,7 +10092,7 @@
     },
     {
         "id": 19147,
-        "FPNELLONMNP": 3013,
+        "collectionId": 3013,
         "series": 106501,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -10107,7 +10107,7 @@
     },
     {
         "id": 19148,
-        "FPNELLONMNP": 3013,
+        "collectionId": 3013,
         "series": 106501,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -12035,7 +12035,7 @@
     },
     {
         "id": 40010,
-        "FPNELLONMNP": 4005,
+        "collectionId": 4005,
         "series": 10027,
         "type": "EQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -12055,7 +12055,7 @@
     },
     {
         "id": 40011,
-        "FPNELLONMNP": 4005,
+        "collectionId": 4005,
         "series": 10028,
         "type": "EQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -12075,7 +12075,7 @@
     },
     {
         "id": 40012,
-        "FPNELLONMNP": 4005,
+        "collectionId": 4005,
         "series": 10029,
         "type": "EQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -12095,7 +12095,7 @@
     },
     {
         "id": 40013,
-        "FPNELLONMNP": 4005,
+        "collectionId": 4005,
         "series": 10030,
         "type": "EQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -12113,7 +12113,7 @@
     },
     {
         "id": 40014,
-        "FPNELLONMNP": 4012,
+        "collectionId": 4012,
         "series": 10042,
         "type": "EQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -12133,7 +12133,7 @@
     },
     {
         "id": 40015,
-        "FPNELLONMNP": 4012,
+        "collectionId": 4012,
         "series": 10042,
         "type": "EQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -12150,7 +12150,7 @@
     },
     {
         "id": 40016,
-        "FPNELLONMNP": 4005,
+        "collectionId": 4005,
         "series": 10031,
         "type": "EQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -12165,7 +12165,7 @@
     },
     {
         "id": 40017,
-        "FPNELLONMNP": 4005,
+        "collectionId": 4005,
         "series": 10032,
         "type": "EQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -12181,7 +12181,7 @@
     },
     {
         "id": 40018,
-        "FPNELLONMNP": 4005,
+        "collectionId": 4005,
         "series": 10033,
         "type": "EQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -12197,7 +12197,7 @@
     },
     {
         "id": 40019,
-        "FPNELLONMNP": 4005,
+        "collectionId": 4005,
         "series": 10034,
         "type": "EQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -12213,7 +12213,7 @@
     },
     {
         "id": 40020,
-        "FPNELLONMNP": 4006,
+        "collectionId": 4006,
         "type": "EQ",
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 3427268447,
@@ -12233,7 +12233,7 @@
     },
     {
         "id": 40021,
-        "FPNELLONMNP": 4006,
+        "collectionId": 4006,
         "type": "EQ",
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 2518628015,
@@ -12253,7 +12253,7 @@
     },
     {
         "id": 40022,
-        "FPNELLONMNP": 4006,
+        "collectionId": 4006,
         "type": "EQ",
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 2238460535,
@@ -12273,7 +12273,7 @@
     },
     {
         "id": 40023,
-        "FPNELLONMNP": 4006,
+        "collectionId": 4006,
         "type": "EQ",
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 2136626751,
@@ -12307,7 +12307,7 @@
     },
     {
         "id": 40025,
-        "FPNELLONMNP": 4007,
+        "collectionId": 4007,
         "series": 10045,
         "type": "EQ",
         "mainQuestTag": "MAINQUEST_TAG_ACTIVITY",
@@ -12329,7 +12329,7 @@
     },
     {
         "id": 40026,
-        "FPNELLONMNP": 4007,
+        "collectionId": 4007,
         "series": 10045,
         "type": "EQ",
         "mainQuestTag": "MAINQUEST_TAG_ACTIVITY",
@@ -12349,7 +12349,7 @@
     },
     {
         "id": 40027,
-        "FPNELLONMNP": 4007,
+        "collectionId": 4007,
         "series": 10046,
         "type": "EQ",
         "mainQuestTag": "MAINQUEST_TAG_ACTIVITY",
@@ -12371,7 +12371,7 @@
     },
     {
         "id": 40028,
-        "FPNELLONMNP": 4007,
+        "collectionId": 4007,
         "series": 10046,
         "type": "EQ",
         "mainQuestTag": "MAINQUEST_TAG_ACTIVITY",
@@ -12391,7 +12391,7 @@
     },
     {
         "id": 40029,
-        "FPNELLONMNP": 4007,
+        "collectionId": 4007,
         "series": 10047,
         "type": "EQ",
         "mainQuestTag": "MAINQUEST_TAG_ACTIVITY",
@@ -12492,7 +12492,7 @@
     },
     {
         "id": 40035,
-        "FPNELLONMNP": 4008,
+        "collectionId": 4008,
         "series": 40035,
         "type": "EQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -12513,7 +12513,7 @@
     },
     {
         "id": 40036,
-        "FPNELLONMNP": 4008,
+        "collectionId": 4008,
         "type": "EQ",
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 422024279,
@@ -12533,7 +12533,7 @@
     },
     {
         "id": 40037,
-        "FPNELLONMNP": 4008,
+        "collectionId": 4008,
         "type": "EQ",
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 2104484543,
@@ -12551,7 +12551,7 @@
     },
     {
         "id": 40038,
-        "FPNELLONMNP": 4008,
+        "collectionId": 4008,
         "series": 40035,
         "type": "EQ",
         "titleTextMapHash": 2475325031,
@@ -12566,7 +12566,7 @@
     },
     {
         "id": 40039,
-        "FPNELLONMNP": 4008,
+        "collectionId": 4008,
         "type": "EQ",
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 404101471,
@@ -12584,7 +12584,7 @@
     },
     {
         "id": 40040,
-        "FPNELLONMNP": 4008,
+        "collectionId": 4008,
         "type": "EQ",
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 1954704119,
@@ -12602,7 +12602,7 @@
     },
     {
         "id": 40041,
-        "FPNELLONMNP": 4008,
+        "collectionId": 4008,
         "type": "EQ",
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 4184117871,
@@ -12619,7 +12619,7 @@
     },
     {
         "id": 40042,
-        "FPNELLONMNP": 4006,
+        "collectionId": 4006,
         "type": "EQ",
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 1237826743,
@@ -12636,7 +12636,7 @@
     },
     {
         "id": 40043,
-        "FPNELLONMNP": 4007,
+        "collectionId": 4007,
         "type": "EQ",
         "mainQuestTag": "MAINQUEST_TAG_ACTIVITY",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -12652,7 +12652,7 @@
     },
     {
         "id": 40044,
-        "FPNELLONMNP": 4007,
+        "collectionId": 4007,
         "type": "EQ",
         "mainQuestTag": "MAINQUEST_TAG_ACTIVITY",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -12669,7 +12669,7 @@
     },
     {
         "id": 40045,
-        "FPNELLONMNP": 4007,
+        "collectionId": 4007,
         "type": "EQ",
         "mainQuestTag": "MAINQUEST_TAG_ACTIVITY",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -12685,7 +12685,7 @@
     },
     {
         "id": 40046,
-        "FPNELLONMNP": 4007,
+        "collectionId": 4007,
         "type": "EQ",
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 1954746447,
@@ -12699,7 +12699,7 @@
     },
     {
         "id": 40047,
-        "FPNELLONMNP": 4010,
+        "collectionId": 4010,
         "series": 10050,
         "type": "EQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -12720,7 +12720,7 @@
     },
     {
         "id": 40048,
-        "FPNELLONMNP": 4010,
+        "collectionId": 4010,
         "series": 10050,
         "type": "EQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -12740,7 +12740,7 @@
     },
     {
         "id": 40049,
-        "FPNELLONMNP": 4010,
+        "collectionId": 4010,
         "series": 10050,
         "type": "EQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -12763,7 +12763,7 @@
     },
     {
         "id": 40050,
-        "FPNELLONMNP": 4010,
+        "collectionId": 4010,
         "series": 10050,
         "type": "EQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -12787,7 +12787,7 @@
     },
     {
         "id": 40051,
-        "FPNELLONMNP": 4010,
+        "collectionId": 4010,
         "series": 10050,
         "type": "EQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -12835,7 +12835,7 @@
     },
     {
         "id": 40054,
-        "FPNELLONMNP": 4011,
+        "collectionId": 4011,
         "series": 10065,
         "type": "EQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -12856,7 +12856,7 @@
     },
     {
         "id": 40055,
-        "FPNELLONMNP": 4011,
+        "collectionId": 4011,
         "series": 10065,
         "type": "EQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -12877,7 +12877,7 @@
     },
     {
         "id": 40056,
-        "FPNELLONMNP": 4011,
+        "collectionId": 4011,
         "series": 10066,
         "type": "EQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -12898,7 +12898,7 @@
     },
     {
         "id": 40057,
-        "FPNELLONMNP": 4011,
+        "collectionId": 4011,
         "series": 10067,
         "type": "EQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -12919,7 +12919,7 @@
     },
     {
         "id": 40058,
-        "FPNELLONMNP": 4011,
+        "collectionId": 4011,
         "series": 10068,
         "type": "EQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -12940,7 +12940,7 @@
     },
     {
         "id": 40059,
-        "FPNELLONMNP": 4011,
+        "collectionId": 4011,
         "series": 10068,
         "type": "EQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -12987,7 +12987,7 @@
     },
     {
         "id": 40062,
-        "FPNELLONMNP": 4010,
+        "collectionId": 4010,
         "type": "EQ",
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 4155992895,
@@ -13004,7 +13004,7 @@
     },
     {
         "id": 40063,
-        "FPNELLONMNP": 4011,
+        "collectionId": 4011,
         "type": "EQ",
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 2282003079,
@@ -13019,7 +13019,7 @@
     },
     {
         "id": 40064,
-        "FPNELLONMNP": 4013,
+        "collectionId": 4013,
         "series": 10088,
         "type": "EQ",
         "mainQuestTag": "MAINQUEST_TAG_ACTIVITY",
@@ -13041,7 +13041,7 @@
     },
     {
         "id": 40065,
-        "FPNELLONMNP": 4013,
+        "collectionId": 4013,
         "series": 10089,
         "type": "EQ",
         "mainQuestTag": "MAINQUEST_TAG_ACTIVITY",
@@ -13065,7 +13065,7 @@
     },
     {
         "id": 40066,
-        "FPNELLONMNP": 4013,
+        "collectionId": 4013,
         "series": 10089,
         "type": "EQ",
         "mainQuestTag": "MAINQUEST_TAG_ACTIVITY",
@@ -13087,7 +13087,7 @@
     },
     {
         "id": 40067,
-        "FPNELLONMNP": 4013,
+        "collectionId": 4013,
         "series": 10089,
         "type": "EQ",
         "mainQuestTag": "MAINQUEST_TAG_ACTIVITY",
@@ -13109,7 +13109,7 @@
     },
     {
         "id": 40068,
-        "FPNELLONMNP": 4013,
+        "collectionId": 4013,
         "series": 10090,
         "type": "EQ",
         "mainQuestTag": "MAINQUEST_TAG_ACTIVITY",
@@ -13131,7 +13131,7 @@
     },
     {
         "id": 40069,
-        "FPNELLONMNP": 4013,
+        "collectionId": 4013,
         "series": 10090,
         "type": "EQ",
         "mainQuestTag": "MAINQUEST_TAG_ACTIVITY",
@@ -13153,7 +13153,7 @@
     },
     {
         "id": 40070,
-        "FPNELLONMNP": 4013,
+        "collectionId": 4013,
         "series": 10090,
         "type": "EQ",
         "mainQuestTag": "MAINQUEST_TAG_ACTIVITY",
@@ -13175,7 +13175,7 @@
     },
     {
         "id": 40071,
-        "FPNELLONMNP": 4013,
+        "collectionId": 4013,
         "series": 10091,
         "type": "EQ",
         "mainQuestTag": "MAINQUEST_TAG_ACTIVITY",
@@ -13197,7 +13197,7 @@
     },
     {
         "id": 40072,
-        "FPNELLONMNP": 4013,
+        "collectionId": 4013,
         "series": 10091,
         "type": "EQ",
         "mainQuestTag": "MAINQUEST_TAG_ACTIVITY",
@@ -13219,7 +13219,7 @@
     },
     {
         "id": 40073,
-        "FPNELLONMNP": 4013,
+        "collectionId": 4013,
         "series": 10091,
         "type": "EQ",
         "mainQuestTag": "MAINQUEST_TAG_ACTIVITY",
@@ -13241,7 +13241,7 @@
     },
     {
         "id": 40074,
-        "FPNELLONMNP": 4013,
+        "collectionId": 4013,
         "series": 10092,
         "type": "EQ",
         "mainQuestTag": "MAINQUEST_TAG_ACTIVITY",
@@ -13263,7 +13263,7 @@
     },
     {
         "id": 40075,
-        "FPNELLONMNP": 4013,
+        "collectionId": 4013,
         "series": 10092,
         "type": "EQ",
         "mainQuestTag": "MAINQUEST_TAG_ACTIVITY",
@@ -13285,7 +13285,7 @@
     },
     {
         "id": 40076,
-        "FPNELLONMNP": 4013,
+        "collectionId": 4013,
         "series": 10092,
         "type": "EQ",
         "mainQuestTag": "MAINQUEST_TAG_ACTIVITY",
@@ -13307,7 +13307,7 @@
     },
     {
         "id": 40077,
-        "FPNELLONMNP": 4013,
+        "collectionId": 4013,
         "series": 10093,
         "type": "EQ",
         "mainQuestTag": "MAINQUEST_TAG_ACTIVITY",
@@ -13560,7 +13560,7 @@
     },
     {
         "id": 41111,
-        "FPNELLONMNP": 4001,
+        "collectionId": 4001,
         "series": 10006,
         "type": "EQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -13580,7 +13580,7 @@
     },
     {
         "id": 41112,
-        "FPNELLONMNP": 4001,
+        "collectionId": 4001,
         "series": 10007,
         "type": "EQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -13600,7 +13600,7 @@
     },
     {
         "id": 41113,
-        "FPNELLONMNP": 4001,
+        "collectionId": 4001,
         "series": 10008,
         "type": "EQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -13620,7 +13620,7 @@
     },
     {
         "id": 41114,
-        "FPNELLONMNP": 4001,
+        "collectionId": 4001,
         "series": 10009,
         "type": "EQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -14108,7 +14108,7 @@
     },
     {
         "id": 41210,
-        "FPNELLONMNP": 4002,
+        "collectionId": 4002,
         "series": 10010,
         "type": "EQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -14125,7 +14125,7 @@
     },
     {
         "id": 41211,
-        "FPNELLONMNP": 4002,
+        "collectionId": 4002,
         "series": 10011,
         "type": "EQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -14142,7 +14142,7 @@
     },
     {
         "id": 41212,
-        "FPNELLONMNP": 4002,
+        "collectionId": 4002,
         "series": 10012,
         "type": "EQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -14159,7 +14159,7 @@
     },
     {
         "id": 41213,
-        "FPNELLONMNP": 4002,
+        "collectionId": 4002,
         "series": 10013,
         "type": "EQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -14176,7 +14176,7 @@
     },
     {
         "id": 41214,
-        "FPNELLONMNP": 4002,
+        "collectionId": 4002,
         "series": 10014,
         "type": "EQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -14193,7 +14193,7 @@
     },
     {
         "id": 41215,
-        "FPNELLONMNP": 4002,
+        "collectionId": 4002,
         "type": "EQ",
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 1092796983,
@@ -14209,7 +14209,7 @@
     },
     {
         "id": 41311,
-        "FPNELLONMNP": 4003,
+        "collectionId": 4003,
         "series": 10018,
         "type": "EQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -14229,7 +14229,7 @@
     },
     {
         "id": 41312,
-        "FPNELLONMNP": 4003,
+        "collectionId": 4003,
         "series": 10018,
         "type": "EQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -14249,7 +14249,7 @@
     },
     {
         "id": 41313,
-        "FPNELLONMNP": 4003,
+        "collectionId": 4003,
         "series": 10018,
         "type": "EQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -14267,7 +14267,7 @@
     },
     {
         "id": 41316,
-        "FPNELLONMNP": 4003,
+        "collectionId": 4003,
         "type": "EQ",
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 218005815,
@@ -14283,7 +14283,7 @@
     },
     {
         "id": 41317,
-        "FPNELLONMNP": 4003,
+        "collectionId": 4003,
         "type": "EQ",
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 870908743,
@@ -14543,7 +14543,7 @@
     },
     {
         "id": 41410,
-        "FPNELLONMNP": 4004,
+        "collectionId": 4004,
         "series": 10021,
         "type": "EQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -14563,7 +14563,7 @@
     },
     {
         "id": 41411,
-        "FPNELLONMNP": 4004,
+        "collectionId": 4004,
         "series": 10021,
         "type": "EQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -14583,7 +14583,7 @@
     },
     {
         "id": 41412,
-        "FPNELLONMNP": 4004,
+        "collectionId": 4004,
         "series": 10021,
         "type": "EQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -14603,7 +14603,7 @@
     },
     {
         "id": 41413,
-        "FPNELLONMNP": 4004,
+        "collectionId": 4004,
         "series": 10021,
         "type": "EQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -14621,7 +14621,7 @@
     },
     {
         "id": 41414,
-        "FPNELLONMNP": 4004,
+        "collectionId": 4004,
         "series": 10021,
         "type": "EQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -14636,7 +14636,7 @@
     },
     {
         "id": 41415,
-        "FPNELLONMNP": 4004,
+        "collectionId": 4004,
         "series": 10021,
         "type": "EQ",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -15550,7 +15550,7 @@
     },
     {
         "id": 70502,
-        "FPNELLONMNP": 4009,
+        "collectionId": 4009,
         "type": "WQ",
         "mainQuestTag": "MAINQUEST_TAG_GUIDE",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -15568,7 +15568,7 @@
     },
     {
         "id": 70503,
-        "FPNELLONMNP": 4009,
+        "collectionId": 4009,
         "type": "WQ",
         "mainQuestTag": "MAINQUEST_TAG_ACTIVITY",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -15590,7 +15590,7 @@
     },
     {
         "id": 70504,
-        "FPNELLONMNP": 4009,
+        "collectionId": 4009,
         "type": "WQ",
         "mainQuestTag": "MAINQUEST_TAG_ACTIVITY",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -15611,7 +15611,7 @@
     },
     {
         "id": 70505,
-        "FPNELLONMNP": 4009,
+        "collectionId": 4009,
         "type": "WQ",
         "mainQuestTag": "MAINQUEST_TAG_ACTIVITY",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -15632,7 +15632,7 @@
     },
     {
         "id": 70506,
-        "FPNELLONMNP": 4009,
+        "collectionId": 4009,
         "type": "WQ",
         "mainQuestTag": "MAINQUEST_TAG_ACTIVITY",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -15653,7 +15653,7 @@
     },
     {
         "id": 70507,
-        "FPNELLONMNP": 4009,
+        "collectionId": 4009,
         "type": "WQ",
         "mainQuestTag": "MAINQUEST_TAG_ACTIVITY",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -15674,7 +15674,7 @@
     },
     {
         "id": 70508,
-        "FPNELLONMNP": 4009,
+        "collectionId": 4009,
         "type": "WQ",
         "mainQuestTag": "MAINQUEST_TAG_ACTIVITY",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -15696,7 +15696,7 @@
     },
     {
         "id": 70509,
-        "FPNELLONMNP": 4009,
+        "collectionId": 4009,
         "type": "WQ",
         "mainQuestTag": "MAINQUEST_TAG_ACTIVITY",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -15718,7 +15718,7 @@
     },
     {
         "id": 70510,
-        "FPNELLONMNP": 4009,
+        "collectionId": 4009,
         "type": "WQ",
         "mainQuestTag": "MAINQUEST_TAG_GUIDE",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -15748,7 +15748,7 @@
     },
     {
         "id": 70512,
-        "FPNELLONMNP": 4014,
+        "collectionId": 4014,
         "type": "WQ",
         "mainQuestTag": "MAINQUEST_TAG_GUIDE",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -15766,7 +15766,7 @@
     },
     {
         "id": 70513,
-        "FPNELLONMNP": 4014,
+        "collectionId": 4014,
         "type": "WQ",
         "mainQuestTag": "MAINQUEST_TAG_GUIDE",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -15820,7 +15820,7 @@
     },
     {
         "id": 70516,
-        "FPNELLONMNP": 4014,
+        "collectionId": 4014,
         "type": "WQ",
         "mainQuestTag": "MAINQUEST_TAG_GUIDE",
         "titleTextMapHash": 1358845351,
@@ -18479,7 +18479,7 @@
     },
     {
         "id": 71099,
-        "FPNELLONMNP": 8002,
+        "collectionId": 8002,
         "type": "WQ",
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 2001012095,
@@ -18747,7 +18747,7 @@
     },
     {
         "id": 71654,
-        "FPNELLONMNP": 5002,
+        "collectionId": 5002,
         "type": "WQ",
         "mainQuestTag": "MAINQUEST_TAG_GUIDE",
         "titleTextMapHash": 1925570343,
@@ -18813,7 +18813,7 @@
     },
     {
         "id": 71658,
-        "FPNELLONMNP": 4008,
+        "collectionId": 4008,
         "type": "WQ",
         "mainQuestTag": "MAINQUEST_TAG_GUIDE",
         "titleTextMapHash": 3770241855,
@@ -19114,7 +19114,7 @@
     },
     {
         "id": 71801,
-        "FPNELLONMNP": 8002,
+        "collectionId": 8002,
         "type": "LQ",
         "activeMode": "PLAY_MODE_SINGLE",
         "titleTextMapHash": 1204770367,
@@ -22749,7 +22749,7 @@
     },
     {
         "id": 72278,
-        "FPNELLONMNP": 4011,
+        "collectionId": 4011,
         "type": "WQ",
         "mainQuestTag": "MAINQUEST_TAG_ACTIVITY",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -22766,7 +22766,7 @@
     },
     {
         "id": 72279,
-        "FPNELLONMNP": 4011,
+        "collectionId": 4011,
         "type": "WQ",
         "mainQuestTag": "MAINQUEST_TAG_ACTIVITY",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -22783,7 +22783,7 @@
     },
     {
         "id": 72280,
-        "FPNELLONMNP": 4011,
+        "collectionId": 4011,
         "type": "WQ",
         "mainQuestTag": "MAINQUEST_TAG_ACTIVITY",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -22800,7 +22800,7 @@
     },
     {
         "id": 72281,
-        "FPNELLONMNP": 4011,
+        "collectionId": 4011,
         "type": "WQ",
         "mainQuestTag": "MAINQUEST_TAG_ACTIVITY",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -22894,7 +22894,7 @@
     },
     {
         "id": 72500,
-        "FPNELLONMNP": 4015,
+        "collectionId": 4015,
         "type": "WQ",
         "mainQuestTag": "MAINQUEST_TAG_ACTIVITY",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -23483,7 +23483,7 @@
     },
     {
         "id": 72684,
-        "FPNELLONMNP": 4015,
+        "collectionId": 4015,
         "type": "WQ",
         "mainQuestTag": "MAINQUEST_TAG_GUIDE",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -28685,7 +28685,7 @@
     },
     {
         "id": 73500,
-        "FPNELLONMNP": 4017,
+        "collectionId": 4017,
         "type": "WQ",
         "mainQuestTag": "MAINQUEST_TAG_ACTIVITY",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -28703,7 +28703,7 @@
     },
     {
         "id": 73501,
-        "FPNELLONMNP": 4017,
+        "collectionId": 4017,
         "type": "WQ",
         "mainQuestTag": "MAINQUEST_TAG_ACTIVITY",
         "activeMode": "PLAY_MODE_SINGLE",
@@ -28748,7 +28748,7 @@
     },
     {
         "id": 73504,
-        "FPNELLONMNP": 4017,
+        "collectionId": 4017,
         "type": "WQ",
         "mainQuestTag": "MAINQUEST_TAG_ACTIVITY",
         "titleTextMapHash": 2803565887,
@@ -28765,7 +28765,7 @@
     },
     {
         "id": 73505,
-        "FPNELLONMNP": 4017,
+        "collectionId": 4017,
         "type": "WQ",
         "mainQuestTag": "MAINQUEST_TAG_ACTIVITY",
         "titleTextMapHash": 4045889695,

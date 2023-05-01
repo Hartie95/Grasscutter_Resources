@@ -1,6 +1,6 @@
 {
     "id": 11202,
-    "ICLLDPJFIMA": 2030,
+    "collectionId": 2030,
     "type": "LQ",
     "luaPath": "Actor/Quest/LQ11202",
     "rewardIdList": [

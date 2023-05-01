@@ -1,6 +1,6 @@
 {
     "id": 12033,
-    "ICLLDPJFIMA": 2027,
+    "collectionId": 2027,
     "series": 2028,
     "type": "LQ",
     "titleTextMapHash": 369304799,
@@ -1073,7 +1073,7 @@
             "questId": 12033,
             "assetIndex": 424940399925,
             "prePerformCfg": "",
-            "DGOJPEGIFOC": [
+            "crowdLOD0List": [
                 2,
                 3
             ]

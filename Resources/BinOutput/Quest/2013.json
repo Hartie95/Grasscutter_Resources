@@ -1,6 +1,6 @@
 {
     "id": 2013,
-    "ICLLDPJFIMA": 1009,
+    "collectionId": 1009,
     "titleTextMapHash": 1388933119,
     "descTextMapHash": 2476400902,
     "luaPath": "Actor/Quest/AQ2013",

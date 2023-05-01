@@ -1,6 +1,6 @@
 {
     "id": 40041,
-    "ICLLDPJFIMA": 4008,
+    "collectionId": 4008,
     "type": "EQ",
     "luaPath": "Actor/Quest/EQ40041",
     "rewardIdList": [

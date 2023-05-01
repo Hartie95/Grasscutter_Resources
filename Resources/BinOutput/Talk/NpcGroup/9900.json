@@ -9,7 +9,7 @@
                 6990002,
                 6990003
             ],
-            "NECBIIDHGOA": [
+            "nextRandomTalks": [
                 0,
                 6990004,
                 6990005,
@@ -37,7 +37,7 @@
                 6990027,
                 6990028
             ],
-            "PBJHILLACIA": 3,
+            "showRandomTalkCount": 3,
             "initDialog": 699000101,
             "npcId": [
                 9900

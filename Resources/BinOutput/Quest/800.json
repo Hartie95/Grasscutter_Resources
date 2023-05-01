@@ -1007,13 +1007,13 @@
                 }
             ],
             "priority": 5,
-            "NECBIIDHGOA": [
+            "nextRandomTalks": [
                 80014,
                 80015,
                 80016,
                 80017
             ],
-            "PBJHILLACIA": 1,
+            "showRandomTalkCount": 1,
             "initDialog": 8001001,
             "npcId": [
                 1005
@@ -1035,13 +1035,13 @@
                 }
             ],
             "priority": 5,
-            "NECBIIDHGOA": [
+            "nextRandomTalks": [
                 80018,
                 80019,
                 80020,
                 80021
             ],
-            "PBJHILLACIA": 1,
+            "showRandomTalkCount": 1,
             "initDialog": 8001101,
             "npcId": [
                 1005
@@ -1063,13 +1063,13 @@
                 }
             ],
             "priority": 5,
-            "NECBIIDHGOA": [
+            "nextRandomTalks": [
                 80014,
                 80015,
                 80016,
                 80017
             ],
-            "PBJHILLACIA": 2,
+            "showRandomTalkCount": 2,
             "initDialog": 8001201,
             "npcId": [
                 1005
@@ -1091,13 +1091,13 @@
                 }
             ],
             "priority": 5,
-            "NECBIIDHGOA": [
+            "nextRandomTalks": [
                 80018,
                 80019,
                 80020,
                 80021
             ],
-            "PBJHILLACIA": 2,
+            "showRandomTalkCount": 2,
             "initDialog": 8001301,
             "npcId": [
                 1005

@@ -1,6 +1,6 @@
 {
     "id": 2022,
-    "ICLLDPJFIMA": 1010,
+    "collectionId": 1010,
     "titleTextMapHash": 3255389847,
     "luaPath": "Actor/Quest/AQ2022",
     "showType": "QUEST_HIDDEN",

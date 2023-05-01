@@ -1,6 +1,6 @@
 {
     "id": 8008,
-    "ICLLDPJFIMA": 1012,
+    "collectionId": 1012,
     "luaPath": "Actor/Quest/AQ8008",
     "rewardIdList": [
         108008

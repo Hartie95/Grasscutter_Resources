@@ -1,6 +1,6 @@
 {
     "id": 424,
-    "ICLLDPJFIMA": 8001,
+    "collectionId": 8001,
     "type": "LQ",
     "titleTextMapHash": 3021578617,
     "luaPath": "Actor/Quest/SQ424",
