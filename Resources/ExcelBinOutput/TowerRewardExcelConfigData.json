@@ -1,431 +1,431 @@
 [
     {
-        "EJNMMCDEOED": 1,
-        "OLFHCINCACP": 1,
-        "INOFLAABAEF": 610001,
-        "NOOPFMGDIIH": 610021,
-        "MHCCKJKPINO": 610041,
-        "CGEFOADHPLF": [
+        "rewardGroupId": 1,
+        "layerCount": 1,
+        "threeStarReward": 610001,
+        "sixStarReward": 610021,
+        "nineStarReward": 610041,
+        "levelReward": [
             621001,
             621002,
             621003
         ]
     },
     {
-        "EJNMMCDEOED": 1,
-        "OLFHCINCACP": 2,
-        "INOFLAABAEF": 610002,
-        "NOOPFMGDIIH": 610022,
-        "MHCCKJKPINO": 610042,
-        "CGEFOADHPLF": [
+        "rewardGroupId": 1,
+        "layerCount": 2,
+        "threeStarReward": 610002,
+        "sixStarReward": 610022,
+        "nineStarReward": 610042,
+        "levelReward": [
             621004,
             621005,
             621006
         ]
     },
     {
-        "EJNMMCDEOED": 1,
-        "OLFHCINCACP": 3,
-        "INOFLAABAEF": 610003,
-        "NOOPFMGDIIH": 610023,
-        "MHCCKJKPINO": 610043,
-        "CGEFOADHPLF": [
+        "rewardGroupId": 1,
+        "layerCount": 3,
+        "threeStarReward": 610003,
+        "sixStarReward": 610023,
+        "nineStarReward": 610043,
+        "levelReward": [
             621007,
             621008,
             621009
         ]
     },
     {
-        "EJNMMCDEOED": 1,
-        "OLFHCINCACP": 4,
-        "INOFLAABAEF": 610004,
-        "NOOPFMGDIIH": 610024,
-        "MHCCKJKPINO": 610044,
-        "CGEFOADHPLF": [
+        "rewardGroupId": 1,
+        "layerCount": 4,
+        "threeStarReward": 610004,
+        "sixStarReward": 610024,
+        "nineStarReward": 610044,
+        "levelReward": [
             621010,
             621011,
             621012
         ]
     },
     {
-        "EJNMMCDEOED": 1,
-        "OLFHCINCACP": 5,
-        "INOFLAABAEF": 610005,
-        "NOOPFMGDIIH": 610025,
-        "MHCCKJKPINO": 610045,
-        "CGEFOADHPLF": [
+        "rewardGroupId": 1,
+        "layerCount": 5,
+        "threeStarReward": 610005,
+        "sixStarReward": 610025,
+        "nineStarReward": 610045,
+        "levelReward": [
             621013,
             621014,
             621015
         ]
     },
     {
-        "EJNMMCDEOED": 1,
-        "OLFHCINCACP": 6,
-        "INOFLAABAEF": 610006,
-        "NOOPFMGDIIH": 610026,
-        "MHCCKJKPINO": 610046,
-        "CGEFOADHPLF": [
+        "rewardGroupId": 1,
+        "layerCount": 6,
+        "threeStarReward": 610006,
+        "sixStarReward": 610026,
+        "nineStarReward": 610046,
+        "levelReward": [
             621016,
             621017,
             621018
         ]
     },
     {
-        "EJNMMCDEOED": 1,
-        "OLFHCINCACP": 7,
-        "INOFLAABAEF": 610007,
-        "NOOPFMGDIIH": 610027,
-        "MHCCKJKPINO": 610047,
-        "CGEFOADHPLF": [
+        "rewardGroupId": 1,
+        "layerCount": 7,
+        "threeStarReward": 610007,
+        "sixStarReward": 610027,
+        "nineStarReward": 610047,
+        "levelReward": [
             621019,
             621020,
             621021
         ]
     },
     {
-        "EJNMMCDEOED": 1,
-        "OLFHCINCACP": 8,
-        "INOFLAABAEF": 610008,
-        "NOOPFMGDIIH": 610028,
-        "MHCCKJKPINO": 610048,
-        "CGEFOADHPLF": [
+        "rewardGroupId": 1,
+        "layerCount": 8,
+        "threeStarReward": 610008,
+        "sixStarReward": 610028,
+        "nineStarReward": 610048,
+        "levelReward": [
             621022,
             621023,
             621024
         ]
     },
     {
-        "EJNMMCDEOED": 1,
-        "OLFHCINCACP": 9,
-        "INOFLAABAEF": 610009,
-        "NOOPFMGDIIH": 610029,
-        "MHCCKJKPINO": 610049,
-        "CGEFOADHPLF": [
+        "rewardGroupId": 1,
+        "layerCount": 9,
+        "threeStarReward": 610009,
+        "sixStarReward": 610029,
+        "nineStarReward": 610049,
+        "levelReward": [
             621025,
             621026,
             621027
         ]
     },
     {
-        "EJNMMCDEOED": 1,
-        "OLFHCINCACP": 10,
-        "INOFLAABAEF": 610010,
-        "NOOPFMGDIIH": 610030,
-        "MHCCKJKPINO": 610050,
-        "CGEFOADHPLF": [
+        "rewardGroupId": 1,
+        "layerCount": 10,
+        "threeStarReward": 610010,
+        "sixStarReward": 610030,
+        "nineStarReward": 610050,
+        "levelReward": [
             621028,
             621029,
             621030
         ]
     },
     {
-        "EJNMMCDEOED": 1,
-        "OLFHCINCACP": 11,
-        "INOFLAABAEF": 610011,
-        "NOOPFMGDIIH": 610031,
-        "MHCCKJKPINO": 610051,
-        "CGEFOADHPLF": [
+        "rewardGroupId": 1,
+        "layerCount": 11,
+        "threeStarReward": 610011,
+        "sixStarReward": 610031,
+        "nineStarReward": 610051,
+        "levelReward": [
             621031,
             621032,
             621033
         ]
     },
     {
-        "EJNMMCDEOED": 1,
-        "OLFHCINCACP": 12,
-        "INOFLAABAEF": 610012,
-        "NOOPFMGDIIH": 610032,
-        "MHCCKJKPINO": 610052,
-        "CGEFOADHPLF": [
+        "rewardGroupId": 1,
+        "layerCount": 12,
+        "threeStarReward": 610012,
+        "sixStarReward": 610032,
+        "nineStarReward": 610052,
+        "levelReward": [
             621034,
             621035,
             621036
         ]
     },
     {
-        "EJNMMCDEOED": 2,
-        "OLFHCINCACP": 1,
-        "INOFLAABAEF": 610001,
-        "NOOPFMGDIIH": 610021,
-        "MHCCKJKPINO": 610041,
-        "CGEFOADHPLF": [
+        "rewardGroupId": 2,
+        "layerCount": 1,
+        "threeStarReward": 610001,
+        "sixStarReward": 610021,
+        "nineStarReward": 610041,
+        "levelReward": [
             621001,
             621002,
             621003
         ]
     },
     {
-        "EJNMMCDEOED": 2,
-        "OLFHCINCACP": 2,
-        "INOFLAABAEF": 610002,
-        "NOOPFMGDIIH": 610022,
-        "MHCCKJKPINO": 610042,
-        "CGEFOADHPLF": [
+        "rewardGroupId": 2,
+        "layerCount": 2,
+        "threeStarReward": 610002,
+        "sixStarReward": 610022,
+        "nineStarReward": 610042,
+        "levelReward": [
             621004,
             621005,
             621006
         ]
     },
     {
-        "EJNMMCDEOED": 2,
-        "OLFHCINCACP": 3,
-        "INOFLAABAEF": 610003,
-        "NOOPFMGDIIH": 610023,
-        "MHCCKJKPINO": 610043,
-        "CGEFOADHPLF": [
+        "rewardGroupId": 2,
+        "layerCount": 3,
+        "threeStarReward": 610003,
+        "sixStarReward": 610023,
+        "nineStarReward": 610043,
+        "levelReward": [
             621007,
             621008,
             621009
         ]
     },
     {
-        "EJNMMCDEOED": 2,
-        "OLFHCINCACP": 4,
-        "INOFLAABAEF": 610004,
-        "NOOPFMGDIIH": 610024,
-        "MHCCKJKPINO": 610044,
-        "CGEFOADHPLF": [
+        "rewardGroupId": 2,
+        "layerCount": 4,
+        "threeStarReward": 610004,
+        "sixStarReward": 610024,
+        "nineStarReward": 610044,
+        "levelReward": [
             621010,
             621011,
             621012
         ]
     },
     {
-        "EJNMMCDEOED": 2,
-        "OLFHCINCACP": 5,
-        "INOFLAABAEF": 610005,
-        "NOOPFMGDIIH": 610025,
-        "MHCCKJKPINO": 610045,
-        "CGEFOADHPLF": [
+        "rewardGroupId": 2,
+        "layerCount": 5,
+        "threeStarReward": 610005,
+        "sixStarReward": 610025,
+        "nineStarReward": 610045,
+        "levelReward": [
             621013,
             621014,
             621015
         ]
     },
     {
-        "EJNMMCDEOED": 2,
-        "OLFHCINCACP": 6,
-        "INOFLAABAEF": 610006,
-        "NOOPFMGDIIH": 610026,
-        "MHCCKJKPINO": 610046,
-        "CGEFOADHPLF": [
+        "rewardGroupId": 2,
+        "layerCount": 6,
+        "threeStarReward": 610006,
+        "sixStarReward": 610026,
+        "nineStarReward": 610046,
+        "levelReward": [
             621016,
             621017,
             621018
         ]
     },
     {
-        "EJNMMCDEOED": 2,
-        "OLFHCINCACP": 7,
-        "INOFLAABAEF": 610007,
-        "NOOPFMGDIIH": 610027,
-        "MHCCKJKPINO": 610047,
-        "CGEFOADHPLF": [
+        "rewardGroupId": 2,
+        "layerCount": 7,
+        "threeStarReward": 610007,
+        "sixStarReward": 610027,
+        "nineStarReward": 610047,
+        "levelReward": [
             621019,
             621020,
             621021
         ]
     },
     {
-        "EJNMMCDEOED": 2,
-        "OLFHCINCACP": 8,
-        "INOFLAABAEF": 610008,
-        "NOOPFMGDIIH": 610028,
-        "MHCCKJKPINO": 610048,
-        "CGEFOADHPLF": [
+        "rewardGroupId": 2,
+        "layerCount": 8,
+        "threeStarReward": 610008,
+        "sixStarReward": 610028,
+        "nineStarReward": 610048,
+        "levelReward": [
             621022,
             621023,
             621024
         ]
     },
     {
-        "EJNMMCDEOED": 2,
-        "OLFHCINCACP": 9,
-        "INOFLAABAEF": 610009,
-        "NOOPFMGDIIH": 610029,
-        "MHCCKJKPINO": 610049,
-        "CGEFOADHPLF": [
+        "rewardGroupId": 2,
+        "layerCount": 9,
+        "threeStarReward": 610009,
+        "sixStarReward": 610029,
+        "nineStarReward": 610049,
+        "levelReward": [
             622601,
             622602,
             622603
         ]
     },
     {
-        "EJNMMCDEOED": 2,
-        "OLFHCINCACP": 10,
-        "INOFLAABAEF": 610010,
-        "NOOPFMGDIIH": 610030,
-        "MHCCKJKPINO": 610050,
-        "CGEFOADHPLF": [
+        "rewardGroupId": 2,
+        "layerCount": 10,
+        "threeStarReward": 610010,
+        "sixStarReward": 610030,
+        "nineStarReward": 610050,
+        "levelReward": [
             622604,
             622605,
             622606
         ]
     },
     {
-        "EJNMMCDEOED": 2,
-        "OLFHCINCACP": 11,
-        "INOFLAABAEF": 610011,
-        "NOOPFMGDIIH": 610031,
-        "MHCCKJKPINO": 610051,
-        "CGEFOADHPLF": [
+        "rewardGroupId": 2,
+        "layerCount": 11,
+        "threeStarReward": 610011,
+        "sixStarReward": 610031,
+        "nineStarReward": 610051,
+        "levelReward": [
             622607,
             622608,
             622609
         ]
     },
     {
-        "EJNMMCDEOED": 2,
-        "OLFHCINCACP": 12,
-        "INOFLAABAEF": 610012,
-        "NOOPFMGDIIH": 610032,
-        "MHCCKJKPINO": 610052,
-        "CGEFOADHPLF": [
+        "rewardGroupId": 2,
+        "layerCount": 12,
+        "threeStarReward": 610012,
+        "sixStarReward": 610032,
+        "nineStarReward": 610052,
+        "levelReward": [
             622610,
             622611,
             622612
         ]
     },
     {
-        "EJNMMCDEOED": 3,
-        "OLFHCINCACP": 1,
-        "INOFLAABAEF": 610001,
-        "NOOPFMGDIIH": 610021,
-        "MHCCKJKPINO": 610041,
-        "CGEFOADHPLF": [
+        "rewardGroupId": 3,
+        "layerCount": 1,
+        "threeStarReward": 610001,
+        "sixStarReward": 610021,
+        "nineStarReward": 610041,
+        "levelReward": [
             621001,
             621002,
             621003
         ]
     },
     {
-        "EJNMMCDEOED": 3,
-        "OLFHCINCACP": 2,
-        "INOFLAABAEF": 610002,
-        "NOOPFMGDIIH": 610022,
-        "MHCCKJKPINO": 610042,
-        "CGEFOADHPLF": [
+        "rewardGroupId": 3,
+        "layerCount": 2,
+        "threeStarReward": 610002,
+        "sixStarReward": 610022,
+        "nineStarReward": 610042,
+        "levelReward": [
             621004,
             621005,
             621006
         ]
     },
     {
-        "EJNMMCDEOED": 3,
-        "OLFHCINCACP": 3,
-        "INOFLAABAEF": 610003,
-        "NOOPFMGDIIH": 610023,
-        "MHCCKJKPINO": 610043,
-        "CGEFOADHPLF": [
+        "rewardGroupId": 3,
+        "layerCount": 3,
+        "threeStarReward": 610003,
+        "sixStarReward": 610023,
+        "nineStarReward": 610043,
+        "levelReward": [
             621007,
             621008,
             621009
         ]
     },
     {
-        "EJNMMCDEOED": 3,
-        "OLFHCINCACP": 4,
-        "INOFLAABAEF": 610004,
-        "NOOPFMGDIIH": 610024,
-        "MHCCKJKPINO": 610044,
-        "CGEFOADHPLF": [
+        "rewardGroupId": 3,
+        "layerCount": 4,
+        "threeStarReward": 610004,
+        "sixStarReward": 610024,
+        "nineStarReward": 610044,
+        "levelReward": [
             621010,
             621011,
             621012
         ]
     },
     {
-        "EJNMMCDEOED": 3,
-        "OLFHCINCACP": 5,
-        "INOFLAABAEF": 610005,
-        "NOOPFMGDIIH": 610025,
-        "MHCCKJKPINO": 610045,
-        "CGEFOADHPLF": [
+        "rewardGroupId": 3,
+        "layerCount": 5,
+        "threeStarReward": 610005,
+        "sixStarReward": 610025,
+        "nineStarReward": 610045,
+        "levelReward": [
             621013,
             621014,
             621015
         ]
     },
     {
-        "EJNMMCDEOED": 3,
-        "OLFHCINCACP": 6,
-        "INOFLAABAEF": 610006,
-        "NOOPFMGDIIH": 610026,
-        "MHCCKJKPINO": 610046,
-        "CGEFOADHPLF": [
+        "rewardGroupId": 3,
+        "layerCount": 6,
+        "threeStarReward": 610006,
+        "sixStarReward": 610026,
+        "nineStarReward": 610046,
+        "levelReward": [
             621016,
             621017,
             621018
         ]
     },
     {
-        "EJNMMCDEOED": 3,
-        "OLFHCINCACP": 7,
-        "INOFLAABAEF": 610007,
-        "NOOPFMGDIIH": 610027,
-        "MHCCKJKPINO": 610047,
-        "CGEFOADHPLF": [
+        "rewardGroupId": 3,
+        "layerCount": 7,
+        "threeStarReward": 610007,
+        "sixStarReward": 610027,
+        "nineStarReward": 610047,
+        "levelReward": [
             621019,
             621020,
             621021
         ]
     },
     {
-        "EJNMMCDEOED": 3,
-        "OLFHCINCACP": 8,
-        "INOFLAABAEF": 610008,
-        "NOOPFMGDIIH": 610028,
-        "MHCCKJKPINO": 610048,
-        "CGEFOADHPLF": [
+        "rewardGroupId": 3,
+        "layerCount": 8,
+        "threeStarReward": 610008,
+        "sixStarReward": 610028,
+        "nineStarReward": 610048,
+        "levelReward": [
             621022,
             621023,
             621024
         ]
     },
     {
-        "EJNMMCDEOED": 3,
-        "OLFHCINCACP": 9,
-        "INOFLAABAEF": 610009,
-        "NOOPFMGDIIH": 610029,
-        "MHCCKJKPINO": 610049,
-        "CGEFOADHPLF": [
+        "rewardGroupId": 3,
+        "layerCount": 9,
+        "threeStarReward": 610009,
+        "sixStarReward": 610029,
+        "nineStarReward": 610049,
+        "levelReward": [
             623001,
             623002,
             623003
         ]
     },
     {
-        "EJNMMCDEOED": 3,
-        "OLFHCINCACP": 10,
-        "INOFLAABAEF": 610010,
-        "NOOPFMGDIIH": 610030,
-        "MHCCKJKPINO": 610050,
-        "CGEFOADHPLF": [
+        "rewardGroupId": 3,
+        "layerCount": 10,
+        "threeStarReward": 610010,
+        "sixStarReward": 610030,
+        "nineStarReward": 610050,
+        "levelReward": [
             623004,
             623005,
             623006
         ]
     },
     {
-        "EJNMMCDEOED": 3,
-        "OLFHCINCACP": 11,
-        "INOFLAABAEF": 610011,
-        "NOOPFMGDIIH": 610031,
-        "MHCCKJKPINO": 610051,
-        "CGEFOADHPLF": [
+        "rewardGroupId": 3,
+        "layerCount": 11,
+        "threeStarReward": 610011,
+        "sixStarReward": 610031,
+        "nineStarReward": 610051,
+        "levelReward": [
             623007,
             623008,
             623009
         ]
     },
     {
-        "EJNMMCDEOED": 3,
-        "OLFHCINCACP": 12,
-        "INOFLAABAEF": 610012,
-        "NOOPFMGDIIH": 610032,
-        "MHCCKJKPINO": 610052,
-        "CGEFOADHPLF": [
+        "rewardGroupId": 3,
+        "layerCount": 12,
+        "threeStarReward": 610012,
+        "sixStarReward": 610032,
+        "nineStarReward": 610052,
+        "levelReward": [
             623010,
             623011,
             623012
