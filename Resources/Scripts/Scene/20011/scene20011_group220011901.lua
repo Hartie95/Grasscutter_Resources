@@ -46,7 +46,7 @@ suites = {
 }
 
 function condition_EVENT_ENTER_REGION_49(context, args)
-    if ScriptLib.GetEntityType(context, args.target_eid) == EntityType.AVATAR and
+    if ScriptLib.GetEntityType(args.target_eid) == EntityType.AVATAR and
         ScriptLib.GetQuestState(context, args.target_eid, 30807) == QuestState.UNFINISHED and 
         args.param1 == globalDefs.gadget_id_1 then
         return true
@@ -55,7 +55,7 @@ function condition_EVENT_ENTER_REGION_49(context, args)
 end
 
 function condition_EVENT_ENTER_REGION_50(context, args)
-    if ScriptLib.GetEntityType(context, args.target_eid) == EntityType.AVATAR and
+    if ScriptLib.GetEntityType(args.target_eid) == EntityType.AVATAR and
         ScriptLib.GetQuestState(context, args.target_eid, 30808) == QuestState.UNFINISHED and 
         args.param1 == globalDefs.gadget_id_2 then
         return true
@@ -64,7 +64,7 @@ function condition_EVENT_ENTER_REGION_50(context, args)
 end
 
 function condition_EVENT_ENTER_REGION_51(context, args)
-    if ScriptLib.GetEntityType(context, args.target_eid) == EntityType.AVATAR and
+    if ScriptLib.GetEntityType(args.target_eid) == EntityType.AVATAR and
         ScriptLib.GetQuestState(context, args.target_eid, 30809) == QuestState.UNFINISHED and 
         args.param1 == globalDefs.gadget_id_3 then
         return true
@@ -73,7 +73,7 @@ function condition_EVENT_ENTER_REGION_51(context, args)
 end
 
 function condition_EVENT_ENTER_REGION_55(context, args)
-    if ScriptLib.GetEntityType(context, args.target_eid) == EntityType.AVATAR and
+    if ScriptLib.GetEntityType(args.target_eid) == EntityType.AVATAR and
         ScriptLib.GetQuestState(context, args.target_eid, 30812) == QuestState.UNFINISHED and 
         args.param1 == globalDefs.gadget_id_4 then
         return true
