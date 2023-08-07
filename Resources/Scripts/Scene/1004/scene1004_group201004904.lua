@@ -62,7 +62,7 @@ L1_1[1] = L2_1
 suites = L1_1
 function L1_1(A0_2, A1_2)
   local L2_2, L3_2, L4_2, L5_2
-  L2_2 = ScriptLib.GetEntityType(A0_2, A1_2.target_eid)
+  L2_2 = ScriptLib.GetEntityType(A1_2.target_eid)
   if L2_2 == EntityType.AVATAR then
     L2_2 = ScriptLib.GetQuestState(A0_2, A1_2.target_eid, 48606)
     if L2_2 == QuestState.UNFINISHED then
