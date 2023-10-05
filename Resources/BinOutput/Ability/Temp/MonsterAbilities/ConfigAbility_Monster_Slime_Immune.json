@@ -738,7 +738,7 @@
                                     "$type": "ByTargetGlobalValue",
                                     "key": "_ABILITY_SLIME_ELECTRIC_POSITIVE_COUNT",
                                     "value": 0.0,
-                                    "EODMLMGMLNP": true
+                                    "forceByCaster": true
                                 }
                             ],
                             "modifierName": "Discharge_Transition"
@@ -755,7 +755,7 @@
                                     "$type": "ByTargetGlobalValue",
                                     "key": "_ABILITY_SLIME_ELECTRIC_POSITIVE_COUNT",
                                     "value": 0.0,
-                                    "EODMLMGMLNP": true
+                                    "forceByCaster": true
                                 }
                             ],
                             "triggerID": "Discharge"
@@ -1203,7 +1203,7 @@
                                     "$type": "ByTargetGlobalValue",
                                     "key": "_ABILITY_SLIME_ELECTRIC_POSITIVE_COUNT",
                                     "value": 0.0,
-                                    "EODMLMGMLNP": true
+                                    "forceByCaster": true
                                 }
                             ],
                             "modifierName": "Discharge_Transition"
@@ -1219,7 +1219,7 @@
                                     "$type": "ByTargetGlobalValue",
                                     "key": "_ABILITY_SLIME_ELECTRIC_POSITIVE_COUNT",
                                     "value": 0.0,
-                                    "EODMLMGMLNP": true
+                                    "forceByCaster": true
                                 }
                             ],
                             "triggerID": "Discharge"

@@ -10,20 +10,20 @@
                         "Sacrifice",
                         "TurnToSacrifice"
                     ],
-                    "OFLAPMGKHHE": [
+                    "enterPredicates": [
                         {
                             "$type": "ByTargetGlobalValue",
                             "key": "_ABILITY_ABYSS_WATER_ELEMENTSHIELD",
                             "value": 1.0,
-                            "EODMLMGMLNP": true
+                            "forceByCaster": true
                         }
                     ],
-                    "JLLNCKPFKLD": [
+                    "exitPredicates": [
                         {
                             "$type": "ByTargetGlobalValue",
                             "key": "_ABILITY_ABYSS_WATER_ELEMENTSHIELD",
                             "value": 0.0,
-                            "EODMLMGMLNP": true
+                            "forceByCaster": true
                         }
                     ],
                     "enterActions": [
@@ -32,7 +32,7 @@
                             "abilityName": "Abyss_Water_ElementShield_Remove_NoBroken"
                         }
                     ],
-                    "MCFCEOACJEB": [
+                    "exitActions": [
                         {
                             "$type": "SetPoseInt",
                             "intID": "ElementState",
@@ -150,7 +150,7 @@
                 "Abyss_Water_ElementShield_RecoverHandler": {
                     "modifierName": "",
                     "elementDurability": 100.0,
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "ApplyModifier",
                             "modifierName": "UNIQUE_Abyss_Water_ElementShield"
@@ -188,7 +188,7 @@
                             "shieldAngle": 360.0,
                             "shieldHPRatio": 1.0,
                             "damageRatio": 0.20000000298023224,
-                            "HMLKELJFCKD": [
+                            "onShieldSuccess": [
                                 {
                                     "$type": "Predicated",
                                     "target": "Target",
@@ -211,7 +211,7 @@
                                                     "$type": "ConfigDirectionByLookAtEntity"
                                                 }
                                             },
-                                            "OGADOPDNBMM": false
+                                            "setTarget": false
                                         }
                                     ],
                                     "failActions": [
@@ -225,7 +225,7 @@
                                                     "$type": "ConfigDirectionByLookAtEntity"
                                                 }
                                             },
-                                            "OGADOPDNBMM": false
+                                            "setTarget": false
                                         }
                                     ]
                                 },
@@ -246,7 +246,7 @@
                                     "effectPattern": "Eff_Monster_Abyss_Water_ElementShield_BS"
                                 }
                             ],
-                            "FFOEHJLIDFC": [
+                            "onShieldFailed": [
                                 {
                                     "$type": "Predicated",
                                     "target": "Target",
@@ -269,7 +269,7 @@
                                                     "$type": "ConfigDirectionByLookAtEntity"
                                                 }
                                             },
-                                            "OGADOPDNBMM": false
+                                            "setTarget": false
                                         }
                                     ],
                                     "failActions": [
@@ -283,7 +283,7 @@
                                                     "$type": "ConfigDirectionByLookAtEntity"
                                                 }
                                             },
-                                            "OGADOPDNBMM": false
+                                            "setTarget": false
                                         }
                                     ]
                                 },
@@ -309,7 +309,7 @@
                         },
                         {
                             "$type": "VelocityForceMixin",
-                            "MPGPCCEHFGL": [
+                            "excludeForces": [
                                 "WindZoneType"
                             ]
                         }
@@ -378,7 +378,7 @@
                                     "$type": "ByTargetGlobalValue",
                                     "key": "_ELITEAFFIX_DEFENCE_ENHANCE",
                                     "value": 1.0,
-                                    "EODMLMGMLNP": true
+                                    "forceByCaster": true
                                 },
                                 {
                                     "$type": "ByEntityTypes",
@@ -420,7 +420,7 @@
                                     "$type": "ByTargetGlobalValue",
                                     "key": "_ELITEAFFIX_DEFENCE_ENHANCE",
                                     "value": 1.0,
-                                    "EODMLMGMLNP": true
+                                    "forceByCaster": true
                                 },
                                 {
                                     "$type": "ByEntityTypes",
@@ -533,7 +533,7 @@
                 "Abyss_Water_ElementShield_Effect_RecoverHandler": {
                     "modifierName": "",
                     "elementDurability": 100.0,
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "ApplyModifier",
                             "modifierName": "UNIQUE_Abyss_Water_ElementShield_Effect"
@@ -650,7 +650,7 @@
                             "modifierName": "UNIQUE_Abyss_Water_DizzyTimer"
                         }
                     ],
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "ApplyModifier",
                             "modifierName": "UNIQUE_Abyss_Water_DizzyTimer"
@@ -1175,7 +1175,7 @@
                         },
                         {
                             "$type": "TriggerHideWeapon",
-                            "FLCNICMDANB": [
+                            "partNames": [
                                 "equip01"
                             ]
                         },
@@ -1215,12 +1215,12 @@
                         },
                         {
                             "$type": "TriggerSetVisible",
-                            "ACDFJMCPFGH": true
+                            "visible": true
                         },
                         {
                             "$type": "TriggerHideWeapon",
-                            "ACDFJMCPFGH": true,
-                            "FLCNICMDANB": [
+                            "visible": true,
+                            "partNames": [
                                 "equip01"
                             ]
                         },
@@ -1268,9 +1268,9 @@
                 {
                     "$type": "TryFindBlinkPoint",
                     "target": "SelfAttackTarget",
-                    "DGICDMAKHOJ": 30.0,
-                    "JLCCGHLNHOI": 5.0,
-                    "GLALMCMAFJF": 7.0
+                    "forwardAngle": 30.0,
+                    "minRange": 5.0,
+                    "maxRange": 7.0
                 },
                 {
                     "$type": "FireEffect",
@@ -1463,7 +1463,7 @@
                         },
                         {
                             "$type": "TriggerHideWeapon",
-                            "FLCNICMDANB": [
+                            "partNames": [
                                 "equip01"
                             ]
                         },
@@ -1503,12 +1503,12 @@
                         },
                         {
                             "$type": "TriggerSetVisible",
-                            "ACDFJMCPFGH": true
+                            "visible": true
                         },
                         {
                             "$type": "TriggerHideWeapon",
-                            "ACDFJMCPFGH": true,
-                            "FLCNICMDANB": [
+                            "visible": true,
+                            "partNames": [
                                 "equip01"
                             ]
                         },
@@ -1536,9 +1536,9 @@
                 {
                     "$type": "TryFindBlinkPoint",
                     "target": "SelfAttackTarget",
-                    "DGICDMAKHOJ": 30.0,
-                    "JLCCGHLNHOI": 9.0,
-                    "GLALMCMAFJF": 12.0
+                    "forwardAngle": 30.0,
+                    "minRange": 9.0,
+                    "maxRange": 12.0
                 },
                 {
                     "$type": "ApplyModifier",
@@ -1715,7 +1715,7 @@
                         },
                         {
                             "$type": "TriggerHideWeapon",
-                            "FLCNICMDANB": [
+                            "partNames": [
                                 "equip01"
                             ]
                         },
@@ -1742,12 +1742,12 @@
                     "onRemoved": [
                         {
                             "$type": "TriggerSetVisible",
-                            "ACDFJMCPFGH": true
+                            "visible": true
                         },
                         {
                             "$type": "TriggerHideWeapon",
-                            "ACDFJMCPFGH": true,
-                            "FLCNICMDANB": [
+                            "visible": true,
+                            "partNames": [
                                 "equip01"
                             ]
                         },

@@ -393,7 +393,7 @@
                                             "$type": "ConfigDirectionByLookAtEntity"
                                         }
                                     },
-                                    "OGADOPDNBMM": false
+                                    "setTarget": false
                                 },
                                 {
                                     "$type": "FireEffect",
@@ -429,7 +429,7 @@
                                             "$type": "ConfigDirectionByLookAtEntity"
                                         }
                                     },
-                                    "OGADOPDNBMM": false
+                                    "setTarget": false
                                 },
                                 {
                                     "$type": "FireEffect",
@@ -2492,7 +2492,7 @@
                             "content": "退出变身时执行了吗"
                         }
                     ],
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "RemoveModifier",
                             "predicates": [
@@ -5510,7 +5510,7 @@
                                     "z": 0.0
                                 },
                                 "attachPointName": "RootNode",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             },
                             "gadgetID": 44000108,
                             "campID": 1001,
@@ -5578,7 +5578,7 @@
                                             "z": 0.0
                                         },
                                         "attachPointName": "RootNode",
-                                        "MMFHENHCBGB": "Self"
+                                        "attachPointTargetType": "Self"
                                     },
                                     "gadgetID": 44000108,
                                     "campID": 1001,

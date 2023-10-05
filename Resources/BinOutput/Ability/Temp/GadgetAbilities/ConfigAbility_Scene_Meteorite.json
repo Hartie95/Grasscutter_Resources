@@ -106,7 +106,7 @@
                                     "$type": "ConfigDirectionByBackToHitBoxCenter"
                                 }
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "FireEffect",
@@ -1338,7 +1338,7 @@
                             "born": {
                                 "$type": "ConfigBornByAttachPoint",
                                 "attachPointName": "EffPoint",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ]
@@ -2214,7 +2214,7 @@
                             "born": {
                                 "$type": "ConfigBornByAttachPoint",
                                 "attachPointName": "EffPoint",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ]
@@ -3073,7 +3073,7 @@
                             "born": {
                                 "$type": "ConfigBornByAttachPoint",
                                 "attachPointName": "EffPoint",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ]
@@ -3949,7 +3949,7 @@
                             "born": {
                                 "$type": "ConfigBornByAttachPoint",
                                 "attachPointName": "EffPoint",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ]

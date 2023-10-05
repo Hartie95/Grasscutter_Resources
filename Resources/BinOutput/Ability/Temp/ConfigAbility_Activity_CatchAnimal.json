@@ -278,7 +278,7 @@
                                     "z": 1.2000000476837158
                                 },
                                 "attachPointName": "FocusAnchor",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         },
                         {
@@ -299,10 +299,10 @@
                                         "z": 0.0
                                     },
                                     "attachPointName": "FocusAnchor",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 },
                                 "attachPointName": "FocusAnchor",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ]
@@ -333,7 +333,7 @@
                                     "z": 0.0
                                 },
                                 "attachPointName": "WeaponR",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         },
                         {
@@ -360,10 +360,10 @@
                                                 "z": 0.0
                                             },
                                             "attachPointName": "FocusAnchor",
-                                            "MMFHENHCBGB": "Self"
+                                            "attachPointTargetType": "Self"
                                         },
                                         "attachPointName": "WeaponR",
-                                        "MMFHENHCBGB": "Self"
+                                        "attachPointTargetType": "Self"
                                     }
                                 }
                             ],
@@ -381,10 +381,10 @@
                                                 "z": 0.0
                                             },
                                             "attachPointName": "FocusAnchor",
-                                            "MMFHENHCBGB": "Self"
+                                            "attachPointTargetType": "Self"
                                         },
                                         "attachPointName": "WeaponR",
-                                        "MMFHENHCBGB": "Self"
+                                        "attachPointTargetType": "Self"
                                     }
                                 }
                             ]
@@ -829,7 +829,7 @@
                                     "z": 1.2000000476837158
                                 },
                                 "attachPointName": "FocusAnchor",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         },
                         {
@@ -850,10 +850,10 @@
                                         "z": 0.0
                                     },
                                     "attachPointName": "FocusAnchor",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 },
                                 "attachPointName": "FocusAnchor",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ]
@@ -884,7 +884,7 @@
                                     "z": 0.0
                                 },
                                 "attachPointName": "WeaponR",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         },
                         {
@@ -911,10 +911,10 @@
                                                 "z": 0.0
                                             },
                                             "attachPointName": "FocusAnchor",
-                                            "MMFHENHCBGB": "Self"
+                                            "attachPointTargetType": "Self"
                                         },
                                         "attachPointName": "WeaponR",
-                                        "MMFHENHCBGB": "Self"
+                                        "attachPointTargetType": "Self"
                                     }
                                 }
                             ],
@@ -932,10 +932,10 @@
                                                 "z": 0.0
                                             },
                                             "attachPointName": "FocusAnchor",
-                                            "MMFHENHCBGB": "Self"
+                                            "attachPointTargetType": "Self"
                                         },
                                         "attachPointName": "WeaponR",
-                                        "MMFHENHCBGB": "Self"
+                                        "attachPointTargetType": "Self"
                                     }
                                 }
                             ]
@@ -1346,7 +1346,7 @@
                                     "z": 1.2000000476837158
                                 },
                                 "attachPointName": "FocusAnchor",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         },
                         {
@@ -1367,10 +1367,10 @@
                                         "z": 0.0
                                     },
                                     "attachPointName": "FocusAnchor",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 },
                                 "attachPointName": "FocusAnchor",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ]
@@ -1395,7 +1395,7 @@
                                     "z": 0.0
                                 },
                                 "attachPointName": "WeaponR",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         },
                         {
@@ -1422,10 +1422,10 @@
                                                 "z": 0.0
                                             },
                                             "attachPointName": "FocusAnchor",
-                                            "MMFHENHCBGB": "Self"
+                                            "attachPointTargetType": "Self"
                                         },
                                         "attachPointName": "WeaponR",
-                                        "MMFHENHCBGB": "Self"
+                                        "attachPointTargetType": "Self"
                                     }
                                 }
                             ],
@@ -1443,10 +1443,10 @@
                                                 "z": 0.0
                                             },
                                             "attachPointName": "FocusAnchor",
-                                            "MMFHENHCBGB": "Self"
+                                            "attachPointTargetType": "Self"
                                         },
                                         "attachPointName": "WeaponR",
-                                        "MMFHENHCBGB": "Self"
+                                        "attachPointTargetType": "Self"
                                     }
                                 }
                             ]

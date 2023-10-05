@@ -708,8 +708,8 @@
                                         "GDENJEFPMGC": "InitialPos",
                                         "MICIJLHMIIH": ""
                                     },
-                                    "JLCCGHLNHOI": 5.0,
-                                    "GLALMCMAFJF": 25.0,
+                                    "minRange": 5.0,
+                                    "maxRange": 25.0,
                                     "GDCBDDNNPCM": 1.0
                                 }
                             ]
@@ -740,8 +740,8 @@
                                         "GDENJEFPMGC": "InitialPos",
                                         "MICIJLHMIIH": ""
                                     },
-                                    "JLCCGHLNHOI": 15.0,
-                                    "GLALMCMAFJF": 40.0,
+                                    "minRange": 15.0,
+                                    "maxRange": 40.0,
                                     "GDCBDDNNPCM": 2.0
                                 }
                             ]
@@ -755,7 +755,7 @@
                                     "$type": "ByTargetGlobalValue",
                                     "key": "_ACTIVITY_BlitzRush_Tag",
                                     "value": 1.0,
-                                    "EODMLMGMLNP": true
+                                    "forceByCaster": true
                                 }
                             ],
                             "luaCallType": "SpecificGroup",
@@ -839,7 +839,7 @@
                                 },
                                 "onGround": true
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "SetGlobalPos",
@@ -853,7 +853,7 @@
                                 },
                                 "onGround": true
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "SetGlobalPos",
@@ -867,7 +867,7 @@
                                 },
                                 "onGround": true
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "SetGlobalPos",
@@ -881,7 +881,7 @@
                                 },
                                 "onGround": true
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "Predicated",
@@ -1647,7 +1647,7 @@
                                     "$type": "ByTargetGlobalValue",
                                     "key": "_ACTIVITY_BlitzRush_Tag",
                                     "value": 1.0,
-                                    "EODMLMGMLNP": true
+                                    "forceByCaster": true
                                 },
                                 {
                                     "$type": "ByTargetHPRatio",
@@ -1715,7 +1715,7 @@
                                     "$type": "ByTargetGlobalValue",
                                     "key": "_ACTIVITY_BlitzRush_Tag",
                                     "value": 1.0,
-                                    "EODMLMGMLNP": true
+                                    "forceByCaster": true
                                 }
                             ],
                             "luaCallType": "SpecificGroup",
@@ -2124,8 +2124,8 @@
                         {
                             "$type": "TryFindBlinkPoint",
                             "target": "SelfAttackTarget",
-                            "DGICDMAKHOJ": 360.0,
-                            "GLALMCMAFJF": 2.0
+                            "forwardAngle": 360.0,
+                            "maxRange": 2.0
                         },
                         {
                             "$type": "FireEffect",
@@ -2298,7 +2298,7 @@
                                 "direction": {
                                     "$type": "ConfigDirectionByAttachPoint",
                                     "attachPointName": "LaserControl",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 },
                                 "attachPointName": "LaserControl"
                             }
@@ -2326,7 +2326,7 @@
                                 "direction": {
                                     "$type": "ConfigDirectionByAttachPoint",
                                     "attachPointName": "LaserControl",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 },
                                 "attachPointName": "LaserControl"
                             }

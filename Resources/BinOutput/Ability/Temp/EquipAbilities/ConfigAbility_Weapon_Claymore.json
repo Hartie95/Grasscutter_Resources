@@ -2342,7 +2342,7 @@
                                             "z": 0.0
                                         }
                                     },
-                                    "OGADOPDNBMM": false
+                                    "setTarget": false
                                 },
                                 {
                                     "$type": "CreateGadget",

@@ -142,7 +142,7 @@
                                     "z": 0.0
                                 },
                                 "attachPointName": "RootNode",
-                                "MMFHENHCBGB": "Applier"
+                                "attachPointTargetType": "Applier"
                             }
                         },
                         {
@@ -409,7 +409,7 @@
                                     "z": 0.0
                                 },
                                 "attachPointName": "RootNode",
-                                "MMFHENHCBGB": "Applier"
+                                "attachPointTargetType": "Applier"
                             }
                         },
                         {
@@ -1175,7 +1175,7 @@
                                     "z": 0.0
                                 },
                                 "attachPointName": "RootNode",
-                                "MMFHENHCBGB": "Applier"
+                                "attachPointTargetType": "Applier"
                             }
                         },
                         {
@@ -1920,7 +1920,7 @@
                                     "z": 0.0
                                 },
                                 "attachPointName": "RootNode",
-                                "MMFHENHCBGB": "Applier"
+                                "attachPointTargetType": "Applier"
                             }
                         },
                         {
@@ -3312,7 +3312,7 @@
                                     "z": 0.0
                                 },
                                 "attachPointName": "RootNode",
-                                "MMFHENHCBGB": "Applier"
+                                "attachPointTargetType": "Applier"
                             }
                         },
                         {
@@ -3834,7 +3834,7 @@
                                     "z": 0.0
                                 },
                                 "attachPointName": "RootNode",
-                                "MMFHENHCBGB": "Applier"
+                                "attachPointTargetType": "Applier"
                             }
                         },
                         {
@@ -4099,7 +4099,7 @@
                         {
                             "$type": "ClearGlobalPos",
                             "key": "_Electric_LightHit_Pos",
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "SetGlobalPos",
@@ -4113,7 +4113,7 @@
                                     "z": 0.0
                                 }
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "CreateGadget",
@@ -4409,7 +4409,7 @@
                                             }
                                         }
                                     },
-                                    "OGADOPDNBMM": false
+                                    "setTarget": false
                                 },
                                 {
                                     "$type": "TriggerBullet",
@@ -5879,9 +5879,9 @@
             "onAbilityStart": [
                 {
                     "$type": "FireHitEffect",
-                    "OFIGOLJOGPJ": "",
-                    "MHCHJLOELPF": {
-                        "MCNFNFLLGIH": "Eff_SceneObj_RaioCotter_01_Bullet_Hit",
+                    "hitEntity": "",
+                    "hitScene": {
+                        "defaultEffect": "Eff_SceneObj_RaioCotter_01_Bullet_Hit",
                         "GACILIABHFB": {
                             "Water": "Eff_SceneObj_RaioCotter_01_Bullet_Hit"
                         }
@@ -6397,7 +6397,7 @@
                                 "direction": {
                                     "$type": "ConfigDirectionByAttachPoint",
                                     "attachPointName": "ShootPointTarget",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 },
                                 "attachPointName": "ShootPoint"
                             },
@@ -6414,7 +6414,7 @@
                             "born": {
                                 "$type": "ConfigBornByAttachPoint",
                                 "attachPointName": "ShootPoint",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ]
@@ -6933,7 +6933,7 @@
                                     "z": 0.0
                                 },
                                 "attachPointName": "RootNode",
-                                "MMFHENHCBGB": "Applier"
+                                "attachPointTargetType": "Applier"
                             }
                         },
                         {
@@ -7166,7 +7166,7 @@
                                     "z": 0.0
                                 },
                                 "attachPointName": "RootNode",
-                                "MMFHENHCBGB": "Applier"
+                                "attachPointTargetType": "Applier"
                             }
                         },
                         {
@@ -7380,7 +7380,7 @@
                             "born": {
                                 "$type": "ConfigBornByAttachPoint",
                                 "attachPointName": "RisePoint",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ]
@@ -7399,7 +7399,7 @@
                             "born": {
                                 "$type": "ConfigBornByAttachPoint",
                                 "attachPointName": "RisePoint",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ]
@@ -7991,7 +7991,7 @@
                             "born": {
                                 "$type": "ConfigBornByAttachPoint",
                                 "attachPointName": "RootNode",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         },
                         {
@@ -8347,7 +8347,7 @@
                             "born": {
                                 "$type": "ConfigBornByAttachPoint",
                                 "attachPointName": "EffectRoot",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         },
                         {
@@ -8366,7 +8366,7 @@
                             "born": {
                                 "$type": "ConfigBornByAttachPoint",
                                 "attachPointName": "ShootPoint",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ]
@@ -10086,7 +10086,7 @@
                             }
                         }
                     },
-                    "OGADOPDNBMM": false
+                    "setTarget": false
                 },
                 {
                     "$type": "SetGlobalPos",
@@ -10094,7 +10094,7 @@
                     "born": {
                         "$type": "ConfigBornByCollisionPoint"
                     },
-                    "OGADOPDNBMM": false
+                    "setTarget": false
                 },
                 {
                     "$type": "FireEffect",
@@ -10622,7 +10622,7 @@
                         {
                             "$type": "ClearGlobalPos",
                             "key": "_Electric_LightHit_Pos",
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "Predicated",
@@ -10655,7 +10655,7 @@
                                             "z": 0.0
                                         }
                                     },
-                                    "OGADOPDNBMM": false
+                                    "setTarget": false
                                 },
                                 {
                                     "$type": "ApplyModifier",
@@ -11917,9 +11917,9 @@
             "onAbilityStart": [
                 {
                     "$type": "FireHitEffect",
-                    "OFIGOLJOGPJ": "",
-                    "MHCHJLOELPF": {
-                        "MCNFNFLLGIH": "Eff_SceneObj_IceSentryTurrets_Thunder_Hit",
+                    "hitEntity": "",
+                    "hitScene": {
+                        "defaultEffect": "Eff_SceneObj_IceSentryTurrets_Thunder_Hit",
                         "GACILIABHFB": {
                             "Water": "Eff_SceneObj_IceSentryTurrets_Thunder_Hit"
                         }
@@ -14424,7 +14424,7 @@
                             "born": {
                                 "$type": "ConfigBornByAttachPoint",
                                 "attachPointName": "RootNode",
-                                "MMFHENHCBGB": "Applier"
+                                "attachPointTargetType": "Applier"
                             }
                         }
                     ]
@@ -14724,7 +14724,7 @@
                             "born": {
                                 "$type": "ConfigBornByAttachPoint",
                                 "attachPointName": "RootNode",
-                                "MMFHENHCBGB": "Applier"
+                                "attachPointTargetType": "Applier"
                             }
                         }
                     ]

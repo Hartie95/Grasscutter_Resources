@@ -196,7 +196,7 @@
                                                 "z": 0.0
                                             },
                                             "attachPointName": "Fruit01",
-                                            "MMFHENHCBGB": "Self"
+                                            "attachPointTargetType": "Self"
                                         },
                                         "attachPointName": "Fruit01"
                                     }
@@ -273,7 +273,7 @@
                                                 "z": 0.0
                                             },
                                             "attachPointName": "Fruit02",
-                                            "MMFHENHCBGB": "Self"
+                                            "attachPointTargetType": "Self"
                                         },
                                         "attachPointName": "Fruit02"
                                     }
@@ -350,7 +350,7 @@
                                                 "z": 0.0
                                             },
                                             "attachPointName": "Fruit03",
-                                            "MMFHENHCBGB": "Self"
+                                            "attachPointTargetType": "Self"
                                         },
                                         "attachPointName": "Fruit03"
                                     }
@@ -695,7 +695,7 @@
                                     "z": 0.0
                                 },
                                 "attachPointName": "BulletSource",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             },
                             "MLHHDMOKLBG": true,
                             "gadgetID": 42601005,

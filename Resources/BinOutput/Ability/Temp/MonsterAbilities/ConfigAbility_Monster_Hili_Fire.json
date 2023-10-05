@@ -745,9 +745,9 @@
                             "element": "Fire"
                         }
                     ],
-                    "OFIGOLJOGPJ": "",
-                    "MHCHJLOELPF": {
-                        "MCNFNFLLGIH": "Eff_Monster_Hili_Fire_CrossBow_ArrowHit",
+                    "hitEntity": "",
+                    "hitScene": {
+                        "defaultEffect": "Eff_Monster_Hili_Fire_CrossBow_ArrowHit",
                         "GACILIABHFB": {
                             "Water": "Eff_Arrow_Fire_Hit_Water"
                         }
@@ -766,9 +766,9 @@
                             ]
                         }
                     ],
-                    "OFIGOLJOGPJ": "Eff_Arrow_Hit_Monster",
-                    "MHCHJLOELPF": {
-                        "MCNFNFLLGIH": "Eff_Arrow_Hit_Earth",
+                    "hitEntity": "Eff_Arrow_Hit_Monster",
+                    "hitScene": {
+                        "defaultEffect": "Eff_Arrow_Hit_Earth",
                         "GACILIABHFB": {
                             "Water": "Eff_Arrow_Hit_Water"
                         }
@@ -846,7 +846,7 @@
                         },
                         {
                             "$type": "TriggerHideWeapon",
-                            "FLCNICMDANB": [
+                            "partNames": [
                                 "equip01"
                             ]
                         },
@@ -1193,8 +1193,8 @@
             "onAbilityStart": [
                 {
                     "$type": "TriggerHideWeapon",
-                    "ACDFJMCPFGH": true,
-                    "FLCNICMDANB": [
+                    "visible": true,
+                    "partNames": [
                         "equip01"
                     ]
                 }
@@ -1259,8 +1259,8 @@
                                     "value": 0.0
                                 }
                             ],
-                            "ACDFJMCPFGH": true,
-                            "FLCNICMDANB": [
+                            "visible": true,
+                            "partNames": [
                                 "equip01"
                             ]
                         },
@@ -1709,9 +1709,9 @@
             "onAbilityStart": [
                 {
                     "$type": "FireHitEffect",
-                    "OFIGOLJOGPJ": "",
-                    "MHCHJLOELPF": {
-                        "MCNFNFLLGIH": "Eff_Monster_Hili_Fire_Bomb_DropToGround",
+                    "hitEntity": "",
+                    "hitScene": {
+                        "defaultEffect": "Eff_Monster_Hili_Fire_Bomb_DropToGround",
                         "GACILIABHFB": {
                             "Water": "Eff_Monster_Hili_Fire_Slime_Hit_Water"
                         }

@@ -661,7 +661,7 @@
                         },
                         "onGround": true
                     },
-                    "OGADOPDNBMM": false
+                    "setTarget": false
                 },
                 {
                     "$type": "SetGlobalPos",
@@ -681,7 +681,7 @@
                         },
                         "onGround": true
                     },
-                    "OGADOPDNBMM": false
+                    "setTarget": false
                 },
                 {
                     "$type": "SetGlobalPos",
@@ -701,7 +701,7 @@
                         },
                         "onGround": true
                     },
-                    "OGADOPDNBMM": false
+                    "setTarget": false
                 },
                 {
                     "$type": "FireSubEmitterEffect",
@@ -1321,7 +1321,7 @@
                         },
                         {
                             "$type": "TriggerSetVisible",
-                            "ACDFJMCPFGH": true
+                            "visible": true
                         },
                         {
                             "$type": "HideUIBillBoard"
@@ -1442,7 +1442,7 @@
                 "Activated_Deathrattle_Reconnect": {
                     "modifierName": "",
                     "elementDurability": 100.0,
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "SetAnimatorTrigger",
                             "triggerID": "ActivatedDeathEnd_RC"

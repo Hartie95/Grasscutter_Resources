@@ -398,7 +398,7 @@
         "move": {
             "$type": "ConfigTrackBulletMove",
             "LLNGHPMEALD": {
-                "MPGPCCEHFGL": [
+                "excludeForces": [
                     "WindZoneType"
                 ]
             },
@@ -607,7 +607,7 @@
         "move": {
             "$type": "ConfigTrackBulletMove",
             "LLNGHPMEALD": {
-                "MPGPCCEHFGL": [
+                "excludeForces": [
                     "WindZoneType"
                 ]
             },

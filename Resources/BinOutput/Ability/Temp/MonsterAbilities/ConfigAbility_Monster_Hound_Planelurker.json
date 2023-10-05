@@ -1137,7 +1137,7 @@
                             },
                             "BHELOIADOLH": -7.5,
                             "HBBLBBPBLGE": 0.0,
-                            "IPDEDFHPHPO": 0.0,
+                            "innerRadius": 0.0,
                             "targetType": "Enemy",
                             "predicates": [
                                 {
@@ -1208,10 +1208,10 @@
                                     "randomAngleHor": 15.0,
                                     "IOIAHLPJDMH": 15.0,
                                     "attachPointName": "ChestAttachPoint",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 },
                                 "attachPointName": "ChestAttachPoint",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             },
                             "ENJEPFDLDDF": "Target"
                         }
@@ -1573,10 +1573,10 @@
                                     "randomAngleHor": 15.0,
                                     "IOIAHLPJDMH": 5.0,
                                     "attachPointName": "BulletAttachPoint",
-                                    "MMFHENHCBGB": "Caster"
+                                    "attachPointTargetType": "Caster"
                                 },
                                 "attachPointName": "BulletAttachPoint",
-                                "MMFHENHCBGB": "Caster"
+                                "attachPointTargetType": "Caster"
                             },
                             "NJEOPILMKCN": true
                         }
@@ -1673,10 +1673,10 @@
                                         "z": 0.0
                                     },
                                     "attachPointName": "RootNode",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 },
                                 "attachPointName": "RootNode",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             },
                             "ENJEPFDLDDF": "OriginOwner"
                         }
@@ -2051,7 +2051,7 @@
                                     "z": 0.0
                                 },
                                 "attachPointName": "RootNode",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             },
                             "ENJEPFDLDDF": "Self"
                         },
@@ -2404,7 +2404,7 @@
                                 "JBNMHNDDJJC": 27.5,
                                 "GCJBBHLBLLG": 35.0
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "FixedMonsterRushMove",
@@ -2912,7 +2912,7 @@
                     "onRemoved": [
                         {
                             "$type": "TriggerSetVisible",
-                            "ACDFJMCPFGH": true
+                            "visible": true
                         },
                         {
                             "$type": "EnableHitBoxByName",
@@ -4230,7 +4230,7 @@
                             },
                             "BHELOIADOLH": -7.5,
                             "HBBLBBPBLGE": 0.0,
-                            "IPDEDFHPHPO": 0.0,
+                            "innerRadius": 0.0,
                             "targetType": "Enemy",
                             "predicates": [
                                 {
@@ -4890,7 +4890,7 @@
                             ]
                         }
                     ],
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "SetAnimatorBool",
                             "boolID": "WeakState",

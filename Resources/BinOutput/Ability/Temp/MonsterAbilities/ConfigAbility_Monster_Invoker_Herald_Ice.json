@@ -601,7 +601,7 @@
                         },
                         {
                             "$type": "TriggerSetVisible",
-                            "ACDFJMCPFGH": true
+                            "visible": true
                         },
                         {
                             "$type": "HideUIBillBoard"
@@ -638,9 +638,9 @@
                         {
                             "$type": "TryFindBlinkPoint",
                             "target": "SelfAttackTarget",
-                            "DGICDMAKHOJ": 40.0,
-                            "JLCCGHLNHOI": 15.0,
-                            "GLALMCMAFJF": 18.0
+                            "forwardAngle": 40.0,
+                            "minRange": 15.0,
+                            "maxRange": 18.0
                         },
                         {
                             "$type": "DoBlink"
@@ -861,7 +861,7 @@
                         },
                         {
                             "$type": "VelocityForceMixin",
-                            "MPGPCCEHFGL": [
+                            "excludeForces": [
                                 "WindZoneType"
                             ]
                         }

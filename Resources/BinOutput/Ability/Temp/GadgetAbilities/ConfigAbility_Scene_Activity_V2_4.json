@@ -700,7 +700,7 @@
                         "direction": {
                             "$type": "ConfigDirectionByAttachPoint",
                             "attachPointName": "TriggerBullentPoint",
-                            "MMFHENHCBGB": "Self"
+                            "attachPointTargetType": "Self"
                         },
                         "attachPointName": "TriggerBullentPoint"
                     },

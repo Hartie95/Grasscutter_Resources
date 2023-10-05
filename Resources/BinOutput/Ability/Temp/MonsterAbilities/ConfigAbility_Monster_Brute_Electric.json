@@ -144,7 +144,7 @@
                         },
                         {
                             "$type": "VelocityForceMixin",
-                            "MPGPCCEHFGL": [
+                            "excludeForces": [
                                 "WindZoneType"
                             ]
                         }
@@ -421,7 +421,7 @@
                     "modifierName": "",
                     "duration": 5.0,
                     "elementDurability": 100.0,
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "ApplyModifier",
                             "modifierName": "Brute_Electric_ExitPower"
@@ -1440,7 +1440,7 @@
                                 }
                             },
                             "FPIJACIKJKL": 0.699999988079071,
-                            "GLALMCMAFJF": 12.5,
+                            "maxRange": 12.5,
                             "MPOEADACOHO": [
                                 "Swoop",
                                 "DeadlyCombo_Swoop"

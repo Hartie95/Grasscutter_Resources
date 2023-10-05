@@ -250,8 +250,8 @@
                             "z": 5.0
                         }
                     },
-                    "JLCCGHLNHOI": 2.0,
-                    "GLALMCMAFJF": 2.200000047683716,
+                    "minRange": 2.0,
+                    "maxRange": 2.200000047683716,
                     "GDCBDDNNPCM": 0.20000000298023224
                 }
             ]

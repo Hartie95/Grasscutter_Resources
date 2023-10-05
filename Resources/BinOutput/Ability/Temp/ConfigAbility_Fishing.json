@@ -442,8 +442,8 @@
                         {
                             "$type": "FishingAimParabolaMixin",
                             "HFHBCPPBOBP": -60.0,
-                            "JLCCGHLNHOI": 2.0,
-                            "GLALMCMAFJF": 15.0,
+                            "minRange": 2.0,
+                            "maxRange": 15.0,
                             "globalValueKey": "_ABILITY_Fishing_Aim_Length",
                             "otherTargets": {
                                 "$type": "SelectTargetsByChildrenEntityType",
@@ -473,7 +473,7 @@
                                 "$type": "ConfigBornByAttachPoint",
                                 "attachPointName": "LinePoint"
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         }
                     ]
                 },
@@ -640,9 +640,9 @@
                 },
                 {
                     "$type": "FireHitEffect",
-                    "OFIGOLJOGPJ": "",
-                    "MHCHJLOELPF": {
-                        "MCNFNFLLGIH": "Eff_Avatar_Fishing_Cork_HitScene",
+                    "hitEntity": "",
+                    "hitScene": {
+                        "defaultEffect": "Eff_Avatar_Fishing_Cork_HitScene",
                         "GACILIABHFB": {
                             "Water": "Eff_Avatar_Fishing_Cork_Bloom"
                         }

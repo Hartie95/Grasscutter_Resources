@@ -434,7 +434,7 @@
                                             "z": -1.0
                                         },
                                         "attachPointName": "RootNode",
-                                        "MMFHENHCBGB": "Self"
+                                        "attachPointTargetType": "Self"
                                     },
                                     "size": {
                                         "x": 4.400000095367432,

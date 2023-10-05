@@ -1039,7 +1039,7 @@
                                             }
                                         }
                                     },
-                                    "OGADOPDNBMM": false
+                                    "setTarget": false
                                 }
                             ],
                             "failActions": [
@@ -1058,7 +1058,7 @@
                                             }
                                         }
                                     },
-                                    "OGADOPDNBMM": false
+                                    "setTarget": false
                                 }
                             ]
                         },

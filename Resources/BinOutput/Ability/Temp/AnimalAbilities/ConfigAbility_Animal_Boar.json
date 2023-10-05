@@ -147,7 +147,7 @@
                     "stateIDs": [
                         "RushAtk"
                     ],
-                    "MCFCEOACJEB": [
+                    "exitActions": [
                         {
                             "$type": "SetPoseInt",
                             "intID": "FleeState",
@@ -718,7 +718,7 @@
                                         }
                                     },
                                     "FPIJACIKJKL": 0.699999988079071,
-                                    "GLALMCMAFJF": 15.0,
+                                    "maxRange": 15.0,
                                     "MPOEADACOHO": [
                                         "RushAtk1_BS",
                                         "RushAtk2_BS",
@@ -2146,7 +2146,7 @@
                             "IFDAEDLACJO": "OnlyTarget"
                         }
                     ],
-                    "MCFCEOACJEB": [
+                    "exitActions": [
                         {
                             "$type": "KillGadget",
                             "LBGGIBBMCMF": {

@@ -458,9 +458,9 @@
                         {
                             "$type": "TryFindBlinkPoint",
                             "target": "SelfAttackTarget",
-                            "DGICDMAKHOJ": 360.0,
-                            "JLCCGHLNHOI": 1.0,
-                            "GLALMCMAFJF": 2.0,
+                            "forwardAngle": 360.0,
+                            "minRange": 1.0,
+                            "maxRange": 2.0,
                             "KCIAHJGFPBB": true
                         },
                         {
@@ -480,9 +480,9 @@
                         {
                             "$type": "TryFindBlinkPoint",
                             "target": "SelfAttackTarget",
-                            "DGICDMAKHOJ": 360.0,
-                            "JLCCGHLNHOI": 10.0,
-                            "GLALMCMAFJF": 12.0,
+                            "forwardAngle": 360.0,
+                            "minRange": 10.0,
+                            "maxRange": 12.0,
                             "KCIAHJGFPBB": true
                         },
                         {
@@ -627,9 +627,9 @@
                         {
                             "$type": "TryFindBlinkPoint",
                             "target": "SelfAttackTarget",
-                            "DGICDMAKHOJ": 360.0,
-                            "JLCCGHLNHOI": 1.0,
-                            "GLALMCMAFJF": 2.0,
+                            "forwardAngle": 360.0,
+                            "minRange": 1.0,
+                            "maxRange": 2.0,
                             "KCIAHJGFPBB": true
                         },
                         {
@@ -660,7 +660,7 @@
                             },
                             "BHELOIADOLH": 6.0,
                             "HBBLBBPBLGE": 1.5,
-                            "IPDEDFHPHPO": 3.5,
+                            "innerRadius": 3.5,
                             "targetType": "Enemy",
                             "predicates": [
                                 {
@@ -686,7 +686,7 @@
                             },
                             "BHELOIADOLH": 5.0,
                             "HBBLBBPBLGE": 1.2000000476837158,
-                            "IPDEDFHPHPO": 2.0,
+                            "innerRadius": 2.0,
                             "targetType": "Enemy",
                             "predicates": [
                                 {

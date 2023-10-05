@@ -1013,7 +1013,7 @@
                                     "$type": "ByTargetGlobalValue",
                                     "key": "_ActivityAbility_SuperTrial_RangeNoEnemyAttackUp_HasEnemy",
                                     "value": 0.0,
-                                    "EODMLMGMLNP": true,
+                                    "forceByCaster": true,
                                     "compareType": "NoneOrEqual"
                                 }
                             ],
@@ -1134,7 +1134,7 @@
                                     "$type": "ByTargetGlobalValue",
                                     "key": "_ActivityAbility_SuperTrial_RangeNoEnemyStaminaReduction_HasEnemy",
                                     "value": 0.0,
-                                    "EODMLMGMLNP": true,
+                                    "forceByCaster": true,
                                     "compareType": "NoneOrEqual"
                                 }
                             ],

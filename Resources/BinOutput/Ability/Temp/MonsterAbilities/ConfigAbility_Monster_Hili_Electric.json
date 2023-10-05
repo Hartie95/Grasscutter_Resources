@@ -503,9 +503,9 @@
                             "element": "Electric"
                         }
                     ],
-                    "OFIGOLJOGPJ": "",
-                    "MHCHJLOELPF": {
-                        "MCNFNFLLGIH": "Eff_Monster_Hili_Electric_CrossBow_ArrowHit",
+                    "hitEntity": "",
+                    "hitScene": {
+                        "defaultEffect": "Eff_Monster_Hili_Electric_CrossBow_ArrowHit",
                         "GACILIABHFB": {
                             "Water": "Eff_Arrow_Hit_Water"
                         }
@@ -524,9 +524,9 @@
                             ]
                         }
                     ],
-                    "OFIGOLJOGPJ": "Eff_Arrow_Hit_Monster",
-                    "MHCHJLOELPF": {
-                        "MCNFNFLLGIH": "Eff_Arrow_Hit_Earth",
+                    "hitEntity": "Eff_Arrow_Hit_Monster",
+                    "hitScene": {
+                        "defaultEffect": "Eff_Arrow_Hit_Earth",
                         "GACILIABHFB": {
                             "Water": "Eff_Arrow_Hit_Water"
                         }

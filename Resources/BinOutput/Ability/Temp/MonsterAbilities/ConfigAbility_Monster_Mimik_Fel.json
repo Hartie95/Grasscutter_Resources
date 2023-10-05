@@ -1175,7 +1175,7 @@
                                                 "z": 0.0
                                             },
                                             "attachPointName": "Fruit01",
-                                            "MMFHENHCBGB": "Self"
+                                            "attachPointTargetType": "Self"
                                         },
                                         "attachPointName": "Fruit01"
                                     }
@@ -1332,7 +1332,7 @@
                                                 "z": 0.0
                                             },
                                             "attachPointName": "Fruit02",
-                                            "MMFHENHCBGB": "Self"
+                                            "attachPointTargetType": "Self"
                                         },
                                         "attachPointName": "Fruit02"
                                     }
@@ -1489,7 +1489,7 @@
                                                 "z": 0.0
                                             },
                                             "attachPointName": "Fruit03",
-                                            "MMFHENHCBGB": "Self"
+                                            "attachPointTargetType": "Self"
                                         },
                                         "attachPointName": "Fruit03"
                                     }
@@ -1627,7 +1627,7 @@
                                 }
                             },
                             "FPIJACIKJKL": 1.7599999904632568,
-                            "GLALMCMAFJF": 30.0,
+                            "maxRange": 30.0,
                             "MPOEADACOHO": [
                                 "Move_BS",
                                 "Move_BS02",
@@ -2184,10 +2184,10 @@
                                                 "z": 0.0
                                             },
                                             "attachPointName": "FruitCenter",
-                                            "MMFHENHCBGB": "Self"
+                                            "attachPointTargetType": "Self"
                                         },
                                         "attachPointName": "FruitCenter",
-                                        "MMFHENHCBGB": "Self"
+                                        "attachPointTargetType": "Self"
                                     }
                                 },
                                 {
@@ -2221,7 +2221,7 @@
                                             "z": 0.0
                                         },
                                         "attachPointName": "FruitCenter",
-                                        "MMFHENHCBGB": "Self"
+                                        "attachPointTargetType": "Self"
                                     }
                                 },
                                 {
@@ -2381,7 +2381,7 @@
                             "z": 0.0
                         },
                         "attachPointName": "FruitCenter",
-                        "MMFHENHCBGB": "Self"
+                        "attachPointTargetType": "Self"
                     }
                 },
                 {
@@ -2505,10 +2505,10 @@
                                                 "z": 0.0
                                             },
                                             "attachPointName": "FruitCenter",
-                                            "MMFHENHCBGB": "Self"
+                                            "attachPointTargetType": "Self"
                                         },
                                         "attachPointName": "FruitCenter",
-                                        "MMFHENHCBGB": "Self"
+                                        "attachPointTargetType": "Self"
                                     }
                                 },
                                 {
@@ -2530,7 +2530,7 @@
                                             "z": 0.0
                                         },
                                         "attachPointName": "FruitCenter",
-                                        "MMFHENHCBGB": "Self"
+                                        "attachPointTargetType": "Self"
                                     }
                                 },
                                 {
@@ -2690,7 +2690,7 @@
                             "z": 0.0
                         },
                         "attachPointName": "FruitCenter",
-                        "MMFHENHCBGB": "Self"
+                        "attachPointTargetType": "Self"
                     }
                 },
                 {
@@ -2756,7 +2756,7 @@
                         "onGround": true,
                         "DIJBGJEFBKA": 0.800000011920929
                     },
-                    "OGADOPDNBMM": false
+                    "setTarget": false
                 }
             ]
         }
@@ -2777,7 +2777,7 @@
                             "z": 0.0
                         },
                         "attachPointName": "FruitCenter",
-                        "MMFHENHCBGB": "Self"
+                        "attachPointTargetType": "Self"
                     }
                 },
                 {
@@ -2811,7 +2811,7 @@
                             "z": 0.0
                         },
                         "attachPointName": "FruitCenter",
-                        "MMFHENHCBGB": "Self"
+                        "attachPointTargetType": "Self"
                     }
                 }
             ]
@@ -3061,7 +3061,7 @@
                             "z": 0.0
                         },
                         "attachPointName": "LaunchPoint",
-                        "MMFHENHCBGB": "Self"
+                        "attachPointTargetType": "Self"
                     }
                 },
                 {
@@ -3075,7 +3075,7 @@
                             "z": 0.0
                         },
                         "attachPointName": "LaunchPoint",
-                        "MMFHENHCBGB": "Self"
+                        "attachPointTargetType": "Self"
                     }
                 }
             ]
@@ -3271,7 +3271,7 @@
                                     "born": {
                                         "$type": "ConfigBornByTarget"
                                     },
-                                    "OGADOPDNBMM": false
+                                    "setTarget": false
                                 },
                                 {
                                     "$type": "TriggerBullet",
@@ -3292,7 +3292,7 @@
                                             }
                                         },
                                         "attachPointName": "LaunchPoint",
-                                        "MMFHENHCBGB": "Self"
+                                        "attachPointTargetType": "Self"
                                     }
                                 },
                                 {
@@ -3440,7 +3440,7 @@
                                     }
                                 },
                                 "attachPointName": "LaunchPoint",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         },
                         {
@@ -4189,7 +4189,7 @@
                             "z": 0.0
                         },
                         "attachPointName": "BulletSource01",
-                        "MMFHENHCBGB": "Self"
+                        "attachPointTargetType": "Self"
                     }
                 },
                 {
@@ -4203,7 +4203,7 @@
                             "z": 0.0
                         },
                         "attachPointName": "BulletSource02",
-                        "MMFHENHCBGB": "Self"
+                        "attachPointTargetType": "Self"
                     }
                 },
                 {
@@ -4217,7 +4217,7 @@
                             "z": 0.0
                         },
                         "attachPointName": "BulletSource03",
-                        "MMFHENHCBGB": "Self"
+                        "attachPointTargetType": "Self"
                     }
                 },
                 {
@@ -4473,7 +4473,7 @@
                             "z": 0.0
                         },
                         "attachPointName": "BulletSource04",
-                        "MMFHENHCBGB": "Self"
+                        "attachPointTargetType": "Self"
                     }
                 },
                 {
@@ -4487,7 +4487,7 @@
                             "z": 0.0
                         },
                         "attachPointName": "BulletSource05",
-                        "MMFHENHCBGB": "Self"
+                        "attachPointTargetType": "Self"
                     }
                 },
                 {
@@ -4501,7 +4501,7 @@
                             "z": 0.0
                         },
                         "attachPointName": "BulletSource06",
-                        "MMFHENHCBGB": "Self"
+                        "attachPointTargetType": "Self"
                     }
                 },
                 {
@@ -4805,7 +4805,7 @@
                             "$type": "ConfigDirectionByAttackTarget"
                         },
                         "attachPointName": "BulletSource",
-                        "MMFHENHCBGB": "Self"
+                        "attachPointTargetType": "Self"
                     }
                 }
             ]
@@ -4921,7 +4921,7 @@
                             "$type": "ConfigDirectionByAttackTarget"
                         },
                         "attachPointName": "BulletSource",
-                        "MMFHENHCBGB": "Self"
+                        "attachPointTargetType": "Self"
                     }
                 }
             ]

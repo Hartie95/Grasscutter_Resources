@@ -10,7 +10,7 @@
                         "GroupAttack01",
                         "GroupAttack02"
                     ],
-                    "MCFCEOACJEB": [
+                    "exitActions": [
                         {
                             "$type": "ReTriggerAISkillInitialCD",
                             "skillIDs": [
@@ -35,7 +35,7 @@
                     "born": {
                         "$type": "ConfigBornByTarget"
                     },
-                    "OGADOPDNBMM": false
+                    "setTarget": false
                 },
                 {
                     "$type": "SetCombatFixedMovePoint",
@@ -216,7 +216,7 @@
                                         "z": 1.5
                                     }
                                 },
-                                "OGADOPDNBMM": false
+                                "setTarget": false
                             },
                             {
                                 "$type": "SetCombatFixedMovePoint",
@@ -241,7 +241,7 @@
                                         "z": 1.5
                                     }
                                 },
-                                "OGADOPDNBMM": false
+                                "setTarget": false
                             },
                             {
                                 "$type": "SetCombatFixedMovePoint",
@@ -266,7 +266,7 @@
                                         "z": -3.0
                                     }
                                 },
-                                "OGADOPDNBMM": false
+                                "setTarget": false
                             },
                             {
                                 "$type": "SetCombatFixedMovePoint",

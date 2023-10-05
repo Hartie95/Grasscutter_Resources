@@ -645,9 +645,9 @@
                         },
                         {
                             "$type": "FireHitEffect",
-                            "OFIGOLJOGPJ": "",
-                            "MHCHJLOELPF": {
-                                "MCNFNFLLGIH": "Eff_Monster_ForlornVessel_Strong_Chargebow_NormalAtk_Hit"
+                            "hitEntity": "",
+                            "hitScene": {
+                                "defaultEffect": "Eff_Monster_ForlornVessel_Strong_Chargebow_NormalAtk_Hit"
                             }
                         },
                         {
@@ -877,7 +877,7 @@
                                 "direction": {
                                     "$type": "ConfigDirectionByAttachPoint",
                                     "attachPointName": "RootNode",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 },
                                 "alongGround": true
                             },

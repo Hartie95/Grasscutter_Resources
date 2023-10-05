@@ -95,8 +95,8 @@
                             "z": 4.0
                         }
                     },
-                    "JLCCGHLNHOI": 1.2000000476837158,
-                    "GLALMCMAFJF": 1.2000000476837158,
+                    "minRange": 1.2000000476837158,
+                    "maxRange": 1.2000000476837158,
                     "GDCBDDNNPCM": 0.2549999952316284
                 }
             ]
@@ -291,9 +291,9 @@
                 },
                 {
                     "$type": "FireHitEffect",
-                    "OFIGOLJOGPJ": "",
-                    "MHCHJLOELPF": {
-                        "MCNFNFLLGIH": "Eff_Monster_Thoarder_HatchetThrowBullet_HitScene",
+                    "hitEntity": "",
+                    "hitScene": {
+                        "defaultEffect": "Eff_Monster_Thoarder_HatchetThrowBullet_HitScene",
                         "GACILIABHFB": {
                             "Water": "Eff_Arrow_Fire_Hit_Water"
                         }
@@ -414,7 +414,7 @@
                     "stateIDs": [
                         "ThrowHammer"
                     ],
-                    "MCFCEOACJEB": [
+                    "exitActions": [
                         {
                             "$type": "SetAnimatorBool",
                             "boolID": "ThrowDistance"

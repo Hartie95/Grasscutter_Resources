@@ -1318,7 +1318,7 @@
                             "effectPattern": "Eff_Monster_Effigy_Fire_TinderBase_AS"
                         }
                     ],
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "KillSelf"
                         }
@@ -1495,7 +1495,7 @@
                             ]
                         }
                     ],
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "KillSelf"
                         }
@@ -1734,7 +1734,7 @@
                         },
                         {
                             "$type": "TriggerSetVisible",
-                            "ACDFJMCPFGH": true
+                            "visible": true
                         },
                         {
                             "$type": "HideUIBillBoard"
@@ -1809,7 +1809,7 @@
                         {
                             "$type": "TryFindBlinkPoint",
                             "target": "Target",
-                            "DGICDMAKHOJ": 360.0
+                            "forwardAngle": 360.0
                         }
                     ]
                 }
@@ -4108,7 +4108,7 @@
                             },
                             "secondHeight": 4.0,
                             "radius": 7.0,
-                            "IPDEDFHPHPO": 3.0
+                            "innerRadius": 3.0
                         },
                         "attackInfo": {
                             "attackTag": "",
@@ -4160,7 +4160,7 @@
                             },
                             "secondHeight": 4.0,
                             "radius": 11.0,
-                            "IPDEDFHPHPO": 7.0
+                            "innerRadius": 7.0
                         },
                         "attackInfo": {
                             "attackTag": "",
@@ -4212,7 +4212,7 @@
                             },
                             "secondHeight": 4.0,
                             "radius": 15.0,
-                            "IPDEDFHPHPO": 11.0
+                            "innerRadius": 11.0
                         },
                         "attackInfo": {
                             "attackTag": "",
@@ -4285,7 +4285,7 @@
                         "direction": {
                             "$type": "ConfigDirectionByAttachPoint",
                             "attachPointName": "MultiFireBulletSource",
-                            "MMFHENHCBGB": "Self"
+                            "attachPointTargetType": "Self"
                         },
                         "attachPointName": "MultiFireBulletSource"
                     }

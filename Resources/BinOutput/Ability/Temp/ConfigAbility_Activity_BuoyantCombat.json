@@ -65,7 +65,7 @@
                                                 },
                                                 "onGround": true
                                             },
-                                            "OGADOPDNBMM": false
+                                            "setTarget": false
                                         },
                                         {
                                             "$type": "Predicated",
@@ -651,7 +651,7 @@
                                             "z": 0.0
                                         }
                                     },
-                                    "OGADOPDNBMM": false
+                                    "setTarget": false
                                 },
                                 {
                                     "$type": "FireEffect",
@@ -1070,7 +1070,7 @@
                                                 },
                                                 "onGround": true
                                             },
-                                            "OGADOPDNBMM": false
+                                            "setTarget": false
                                         },
                                         {
                                             "$type": "ApplyModifier",
@@ -1495,7 +1495,7 @@
                                                 },
                                                 "onGround": true
                                             },
-                                            "OGADOPDNBMM": false
+                                            "setTarget": false
                                         },
                                         {
                                             "$type": "ApplyModifier",
@@ -1589,7 +1589,7 @@
                             },
                             "BHELOIADOLH": 3.5,
                             "HBBLBBPBLGE": 2.0,
-                            "IPDEDFHPHPO": 3.0,
+                            "innerRadius": 3.0,
                             "BPFAJPNHJIB": true,
                             "targetType": "All",
                             "predicates": [
@@ -1753,7 +1753,7 @@
                                     "born": {
                                         "$type": "ConfigBornByTarget"
                                     },
-                                    "OGADOPDNBMM": false
+                                    "setTarget": false
                                 },
                                 {
                                     "$type": "FireEffect",
@@ -1978,7 +1978,7 @@
                                         },
                                         "onGround": true
                                     },
-                                    "OGADOPDNBMM": false
+                                    "setTarget": false
                                 },
                                 {
                                     "$type": "ApplyModifier",
@@ -2480,7 +2480,7 @@
                                         },
                                         "onGround": true
                                     },
-                                    "OGADOPDNBMM": false
+                                    "setTarget": false
                                 },
                                 {
                                     "$type": "FireEffect",

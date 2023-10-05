@@ -618,7 +618,7 @@
                     "born": {
                         "$type": "ConfigBornByAttachPoint",
                         "attachPointName": "BulletAttachPoint1",
-                        "MMFHENHCBGB": "Caster"
+                        "attachPointTargetType": "Caster"
                     }
                 }
             ]
@@ -636,7 +636,7 @@
                     "born": {
                         "$type": "ConfigBornByAttachPoint",
                         "attachPointName": "BulletAttachPoint2",
-                        "MMFHENHCBGB": "Caster"
+                        "attachPointTargetType": "Caster"
                     }
                 }
             ]
@@ -1041,7 +1041,7 @@
                             "born": {
                                 "$type": "ConfigBornByAttachPoint",
                                 "attachPointName": "BulletAttachPoint3",
-                                "MMFHENHCBGB": "Caster"
+                                "attachPointTargetType": "Caster"
                             }
                         },
                         {
@@ -1061,7 +1061,7 @@
                             "born": {
                                 "$type": "ConfigBornByAttachPoint",
                                 "attachPointName": "BulletAttachPoint4",
-                                "MMFHENHCBGB": "Caster"
+                                "attachPointTargetType": "Caster"
                             }
                         },
                         {
@@ -1081,7 +1081,7 @@
                             "born": {
                                 "$type": "ConfigBornByAttachPoint",
                                 "attachPointName": "BulletAttachPoint5",
-                                "MMFHENHCBGB": "Caster"
+                                "attachPointTargetType": "Caster"
                             }
                         },
                         {
@@ -1276,7 +1276,7 @@
                             },
                             "BHELOIADOLH": 5.0,
                             "HBBLBBPBLGE": 1.2000000476837158,
-                            "IPDEDFHPHPO": 1.5,
+                            "innerRadius": 1.5,
                             "targetType": "Enemy",
                             "predicates": [
                                 {
@@ -1391,7 +1391,7 @@
                             },
                             "BHELOIADOLH": 5.0,
                             "HBBLBBPBLGE": 1.2000000476837158,
-                            "IPDEDFHPHPO": 1.0,
+                            "innerRadius": 1.0,
                             "targetType": "Enemy",
                             "predicates": [
                                 {
@@ -1508,7 +1508,7 @@
                             },
                             "BHELOIADOLH": 5.0,
                             "HBBLBBPBLGE": 1.2000000476837158,
-                            "IPDEDFHPHPO": 1.5,
+                            "innerRadius": 1.5,
                             "targetType": "Enemy",
                             "predicates": [
                                 {
@@ -1689,7 +1689,7 @@
                             },
                             "BHELOIADOLH": 5.0,
                             "HBBLBBPBLGE": 1.2000000476837158,
-                            "IPDEDFHPHPO": 1.0,
+                            "innerRadius": 1.0,
                             "targetType": "Enemy",
                             "predicates": [
                                 {

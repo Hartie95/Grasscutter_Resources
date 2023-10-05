@@ -163,7 +163,7 @@
                                     }
                                 },
                                 "attachPointName": "WeaponR",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ]
@@ -249,7 +249,7 @@
                                     }
                                 },
                                 "attachPointName": "WeaponR",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ]
@@ -335,7 +335,7 @@
                                     }
                                 },
                                 "attachPointName": "WeaponR",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ]
@@ -421,7 +421,7 @@
                                     }
                                 },
                                 "attachPointName": "WeaponR",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ]
@@ -507,7 +507,7 @@
                                     }
                                 },
                                 "attachPointName": "WeaponR",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ]
@@ -593,7 +593,7 @@
                                     }
                                 },
                                 "attachPointName": "WeaponR",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ]

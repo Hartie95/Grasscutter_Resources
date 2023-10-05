@@ -17,22 +17,22 @@
             "trackQuest1": {
                 "$type": "ContextConditionMainQuestVisible",
                 "mainQuestId": 8004,
-                "ACDFJMCPFGH": true
+                "visible": true
             },
             "trackQuest2": {
                 "$type": "ContextConditionMainQuestVisible",
                 "mainQuestId": 8005,
-                "ACDFJMCPFGH": true
+                "visible": true
             },
             "trackQuest3": {
                 "$type": "ContextConditionMainQuestVisible",
                 "mainQuestId": 8006,
-                "ACDFJMCPFGH": true
+                "visible": true
             },
             "trackQuest4": {
                 "$type": "ContextConditionMainQuestVisible",
                 "mainQuestId": 8007,
-                "ACDFJMCPFGH": true
+                "visible": true
             },
             "finished": {
                 "$type": "ContextConditionMainQuestState",

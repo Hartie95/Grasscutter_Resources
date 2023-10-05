@@ -156,7 +156,7 @@
                                     "$type": "ConfigDirectionByLookAtEntity"
                                 }
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "TriggerBullet",
@@ -208,7 +208,7 @@
                         },
                         {
                             "$type": "TriggerSetVisible",
-                            "ACDFJMCPFGH": true
+                            "visible": true
                         },
                         {
                             "$type": "SetGlobalValue",
@@ -449,7 +449,7 @@
                         },
                         {
                             "$type": "TriggerSetVisible",
-                            "ACDFJMCPFGH": true
+                            "visible": true
                         },
                         {
                             "$type": "SetGlobalValue",
@@ -551,7 +551,7 @@
                             "born": {
                                 "$type": "ConfigBornBySelf"
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         }
                     ],
                     "failActions": [
@@ -565,7 +565,7 @@
                             "born": {
                                 "$type": "ConfigBornByTarget"
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         }
                     ]
                 },
@@ -658,7 +658,7 @@
                             "born": {
                                 "$type": "ConfigBornBySelf"
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         }
                     ],
                     "failActions": [
@@ -672,7 +672,7 @@
                             "born": {
                                 "$type": "ConfigBornByTarget"
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         }
                     ]
                 },
@@ -1181,7 +1181,7 @@
                         },
                         {
                             "$type": "TriggerSetVisible",
-                            "ACDFJMCPFGH": true
+                            "visible": true
                         },
                         {
                             "$type": "SetGlobalValue",
@@ -1429,7 +1429,7 @@
                                     "z": 0.0
                                 },
                                 "attachPointName": "EyeTransform",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         },
                         {
@@ -1553,7 +1553,7 @@
                                     "born": {
                                         "$type": "ConfigBornByTarget"
                                     },
-                                    "OGADOPDNBMM": false
+                                    "setTarget": false
                                 },
                                 {
                                     "$type": "TurnDirectionToPos",
@@ -2037,7 +2037,7 @@
                                 "$type": "ConfigBornByTarget",
                                 "onGround": true
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "Predicated",
@@ -2135,7 +2135,7 @@
                         },
                         {
                             "$type": "TriggerSetVisible",
-                            "ACDFJMCPFGH": true
+                            "visible": true
                         }
                     ]
                 }
@@ -2473,7 +2473,7 @@
                             "born": {
                                 "$type": "ConfigBornByTarget"
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "CreateGadget",
@@ -2769,7 +2769,7 @@
                                     "born": {
                                         "$type": "ConfigBornByTarget"
                                     },
-                                    "OGADOPDNBMM": false
+                                    "setTarget": false
                                 },
                                 {
                                     "$type": "CreateGadget",
@@ -2808,7 +2808,7 @@
                                     "born": {
                                         "$type": "ConfigBornByTarget"
                                     },
-                                    "OGADOPDNBMM": false
+                                    "setTarget": false
                                 },
                                 {
                                     "$type": "CreateGadget",
@@ -3156,7 +3156,7 @@
                             "minValue": 0.0
                         }
                     ],
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "SetGlobalValue",
                             "value": 1.0,
@@ -3213,7 +3213,7 @@
                                                 },
                                                 "onGround": true
                                             },
-                                            "OGADOPDNBMM": false
+                                            "setTarget": false
                                         },
                                         {
                                             "$type": "TryFindBlinkPointByBorn",
@@ -3281,7 +3281,7 @@
                                                     "born": {
                                                         "$type": "ConfigBornByTarget"
                                                     },
-                                                    "OGADOPDNBMM": false
+                                                    "setTarget": false
                                                 },
                                                 {
                                                     "$type": "TryFindBlinkPointByBorn",
@@ -3325,9 +3325,9 @@
                             "failActions": [
                                 {
                                     "$type": "TryFindBlinkPoint",
-                                    "DGICDMAKHOJ": 90.0,
-                                    "JLCCGHLNHOI": 5.0,
-                                    "GLALMCMAFJF": 7.0,
+                                    "forwardAngle": 90.0,
+                                    "minRange": 5.0,
+                                    "maxRange": 7.0,
                                     "KCIAHJGFPBB": true
                                 }
                             ]
@@ -3359,7 +3359,7 @@
                             "born": {
                                 "$type": "ConfigBornByTarget"
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "CreateGadget",
@@ -3402,7 +3402,7 @@
                         },
                         {
                             "$type": "TriggerSetVisible",
-                            "ACDFJMCPFGH": true
+                            "visible": true
                         }
                     ]
                 },
@@ -4155,7 +4155,7 @@
                                     }
                                 }
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "CreateGadget",
@@ -4667,7 +4667,7 @@
                             "born": {
                                 "$type": "ConfigBornByTarget"
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "CreateGadget",
@@ -4872,7 +4872,7 @@
                     "modifierMixins": [
                         {
                             "$type": "VelocityForceMixin",
-                            "MPGPCCEHFGL": [
+                            "excludeForces": [
                                 "RetreatAirType"
                             ]
                         }
@@ -4946,7 +4946,7 @@
                             "born": {
                                 "$type": "ConfigBornByTarget"
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "TurnDirectionToPos",
@@ -4975,7 +4975,7 @@
                         },
                         {
                             "$type": "TriggerSetVisible",
-                            "ACDFJMCPFGH": true
+                            "visible": true
                         }
                     ]
                 }
@@ -5011,7 +5011,7 @@
                                 },
                                 "onGround": true
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         }
                     ],
                     "failActions": [
@@ -5046,7 +5046,7 @@
                                     "born": {
                                         "$type": "ConfigBornByTarget"
                                     },
-                                    "OGADOPDNBMM": false
+                                    "setTarget": false
                                 }
                             ]
                         }
@@ -5177,7 +5177,7 @@
                 "Animal_Inu_Shihandai_AlertToBeBig_Ensure": {
                     "modifierName": "",
                     "elementDurability": 100.0,
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "SetGlobalValue",
                             "value": 1.0,

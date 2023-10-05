@@ -651,7 +651,7 @@
                             "born": {
                                 "$type": "ConfigBornByAttachPoint",
                                 "attachPointName": "EffPoint",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ]

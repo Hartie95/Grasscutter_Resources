@@ -1583,7 +1583,7 @@
                         {
                             "$type": "TriggerHideWeapon",
                             "CFIPAGENGPE": true,
-                            "FLCNICMDANB": [
+                            "partNames": [
                                 "equip01"
                             ]
                         },
@@ -1615,8 +1615,8 @@
                     "onRemoved": [
                         {
                             "$type": "TriggerHideWeapon",
-                            "ACDFJMCPFGH": true,
-                            "FLCNICMDANB": [
+                            "visible": true,
+                            "partNames": [
                                 "equip01"
                             ]
                         },
@@ -1663,7 +1663,7 @@
                         {
                             "$type": "TriggerHideWeapon",
                             "CFIPAGENGPE": true,
-                            "FLCNICMDANB": [
+                            "partNames": [
                                 "equip02"
                             ]
                         },
@@ -1705,8 +1705,8 @@
                         },
                         {
                             "$type": "TriggerHideWeapon",
-                            "ACDFJMCPFGH": true,
-                            "FLCNICMDANB": [
+                            "visible": true,
+                            "partNames": [
                                 "equip02"
                             ]
                         },
@@ -1743,7 +1743,7 @@
                         {
                             "$type": "TriggerHideWeapon",
                             "CFIPAGENGPE": true,
-                            "FLCNICMDANB": [
+                            "partNames": [
                                 "equip01"
                             ]
                         },
@@ -1785,8 +1785,8 @@
                         },
                         {
                             "$type": "TriggerHideWeapon",
-                            "ACDFJMCPFGH": true,
-                            "FLCNICMDANB": [
+                            "visible": true,
+                            "partNames": [
                                 "equip01"
                             ]
                         },

@@ -4230,7 +4230,7 @@
                             "minValue": 0.0
                         }
                     ],
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "SetGlobalValue",
                             "target": "CurTeamAvatars",

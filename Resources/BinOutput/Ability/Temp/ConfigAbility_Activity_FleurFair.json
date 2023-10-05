@@ -625,7 +625,7 @@
                                     "$type": "ByTargetGlobalValue",
                                     "key": "_Is_ActivityAbility_FleurFair_BowExtraAttackDoAreaDamage_CD",
                                     "value": 0.0,
-                                    "EODMLMGMLNP": true,
+                                    "forceByCaster": true,
                                     "compareType": "NoneOrEqual"
                                 }
                             ],

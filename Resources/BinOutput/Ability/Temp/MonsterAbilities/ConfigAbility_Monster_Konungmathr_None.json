@@ -1024,9 +1024,9 @@
             "onAbilityStart": [
                 {
                     "$type": "FireHitEffect",
-                    "OFIGOLJOGPJ": "Eff_Monster_Konungmathr_Enhance_Laser_Explosion",
-                    "MHCHJLOELPF": {
-                        "MCNFNFLLGIH": "Eff_Monster_Konungmathr_Enhance_Laser_Explosion"
+                    "hitEntity": "Eff_Monster_Konungmathr_Enhance_Laser_Explosion",
+                    "hitScene": {
+                        "defaultEffect": "Eff_Monster_Konungmathr_Enhance_Laser_Explosion"
                     }
                 },
                 {
@@ -1315,7 +1315,7 @@
                     "isUnique": true,
                     "duration": 4.099999904632568,
                     "elementDurability": 100.0,
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "SetAnimatorTrigger",
                             "triggerID": "ReviveLoopAC",
@@ -1493,7 +1493,7 @@
                         }
                     ],
                     "NHFJDDBKNCM": true,
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "SetAnimatorTrigger",
                             "triggerID": "ReviveLoopAC",
@@ -4389,7 +4389,7 @@
                                         "GCJBBHLBLLG": 50.0
                                     },
                                     "FPIJACIKJKL": 0.47999998927116394,
-                                    "GLALMCMAFJF": 9999.0,
+                                    "maxRange": 9999.0,
                                     "MPOEADACOHO": [
                                         "Destroy_Atk_BS"
                                     ],
@@ -4402,7 +4402,7 @@
                             "modifierName": "Monster_Konungmathr_None_Destroy_Move_Stop"
                         }
                     ],
-                    "MCFCEOACJEB": [
+                    "exitActions": [
                         {
                             "$type": "SetAnimatorInt",
                             "intID": "DestroyMove",
@@ -4830,7 +4830,7 @@
                                 "direction": {
                                     "$type": "ConfigDirectionByAttachPoint",
                                     "attachPointName": "HemiLaserControl",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 },
                                 "attachPointName": "HemiLaserControl"
                             }
@@ -5137,7 +5137,7 @@
                                 "direction": {
                                     "$type": "ConfigDirectionByAttachPoint",
                                     "attachPointName": "EyeCore",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 },
                                 "attachPointName": "EyeCore"
                             }
@@ -5159,7 +5159,7 @@
                                 "direction": {
                                     "$type": "ConfigDirectionByAttachPoint",
                                     "attachPointName": "SwipeLaserDirection",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 },
                                 "attachPointName": "SwipeLaserDirection"
                             }
@@ -5186,7 +5186,7 @@
                                 "direction": {
                                     "$type": "ConfigDirectionByAttachPoint",
                                     "attachPointName": "SwipeLaserDirection",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 },
                                 "attachPointName": "SwipeLaserDirection"
                             }
@@ -5291,7 +5291,7 @@
                                 "direction": {
                                     "$type": "ConfigDirectionByAttachPoint",
                                     "attachPointName": "EyeCore",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 },
                                 "attachPointName": "EyeCore"
                             }
@@ -5342,9 +5342,9 @@
             "onAbilityStart": [
                 {
                     "$type": "FireHitEffect",
-                    "OFIGOLJOGPJ": "Eff_Monster_Konungmathr_ArmAtk_Explode",
-                    "MHCHJLOELPF": {
-                        "MCNFNFLLGIH": "Eff_Monster_Konungmathr_ArmAtk_Explode"
+                    "hitEntity": "Eff_Monster_Konungmathr_ArmAtk_Explode",
+                    "hitScene": {
+                        "defaultEffect": "Eff_Monster_Konungmathr_ArmAtk_Explode"
                     }
                 },
                 {
@@ -5505,7 +5505,7 @@
                                         "direction": {
                                             "$type": "ConfigDirectionByAttachPoint",
                                             "attachPointName": "LaserControl",
-                                            "MMFHENHCBGB": "Self"
+                                            "attachPointTargetType": "Self"
                                         },
                                         "attachPointName": "LaserControl"
                                     }
@@ -5561,7 +5561,7 @@
                                         "direction": {
                                             "$type": "ConfigDirectionByAttachPoint",
                                             "attachPointName": "HemiLaserControl",
-                                            "MMFHENHCBGB": "Self"
+                                            "attachPointTargetType": "Self"
                                         },
                                         "attachPointName": "HemiLaserControl"
                                     }
@@ -5614,7 +5614,7 @@
                                 "direction": {
                                     "$type": "ConfigDirectionByAttachPoint",
                                     "attachPointName": "LaserControl",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 },
                                 "attachPointName": "LaserControl"
                             }
@@ -5651,7 +5651,7 @@
                                 "direction": {
                                     "$type": "ConfigDirectionByAttachPoint",
                                     "attachPointName": "HemiLaserControl",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 },
                                 "attachPointName": "HemiLaserControl"
                             }
@@ -5963,7 +5963,7 @@
                         "direction": {
                             "$type": "ConfigDirectionByAttachPoint",
                             "attachPointName": "LaserControl",
-                            "MMFHENHCBGB": "Self"
+                            "attachPointTargetType": "Self"
                         },
                         "attachPointName": "LaserControl"
                     },
@@ -6578,7 +6578,7 @@
                         "direction": {
                             "$type": "ConfigDirectionByAttachPoint",
                             "attachPointName": "LaserControl",
-                            "MMFHENHCBGB": "Self"
+                            "attachPointTargetType": "Self"
                         },
                         "attachPointName": "LaserControl"
                     },

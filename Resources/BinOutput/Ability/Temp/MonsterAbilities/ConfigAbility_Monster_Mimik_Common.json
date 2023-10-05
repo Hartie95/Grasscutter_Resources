@@ -475,7 +475,7 @@
                                                 "z": 0.0
                                             },
                                             "attachPointName": "Fruit01",
-                                            "MMFHENHCBGB": "Self"
+                                            "attachPointTargetType": "Self"
                                         },
                                         "attachPointName": "Fruit01"
                                     }
@@ -560,7 +560,7 @@
                                                 "z": 0.0
                                             },
                                             "attachPointName": "Fruit02",
-                                            "MMFHENHCBGB": "Self"
+                                            "attachPointTargetType": "Self"
                                         },
                                         "attachPointName": "Fruit02"
                                     }
@@ -645,7 +645,7 @@
                                                 "z": 0.0
                                             },
                                             "attachPointName": "Fruit03",
-                                            "MMFHENHCBGB": "Self"
+                                            "attachPointTargetType": "Self"
                                         },
                                         "attachPointName": "Fruit03"
                                     }
@@ -996,7 +996,7 @@
                     "born": {
                         "$type": "ConfigBornByTarget"
                     },
-                    "OGADOPDNBMM": false
+                    "setTarget": false
                 }
             ]
         }
@@ -1012,7 +1012,7 @@
                     "born": {
                         "$type": "ConfigBornBySelf"
                     },
-                    "OGADOPDNBMM": false
+                    "setTarget": false
                 }
             ]
         }
@@ -1589,9 +1589,9 @@
                 {
                     "$type": "TryFindBlinkPoint",
                     "target": "SelfAttackTarget",
-                    "DGICDMAKHOJ": 30.0,
-                    "JLCCGHLNHOI": 3.5,
-                    "GLALMCMAFJF": 3.5,
+                    "forwardAngle": 30.0,
+                    "minRange": 3.5,
+                    "maxRange": 3.5,
                     "KCIAHJGFPBB": true
                 }
             ]
@@ -1609,9 +1609,9 @@
                         {
                             "$type": "TryFindBlinkPoint",
                             "target": "SelfAttackTarget",
-                            "DGICDMAKHOJ": 45.0,
-                            "JLCCGHLNHOI": 3.5,
-                            "GLALMCMAFJF": 3.5,
+                            "forwardAngle": 45.0,
+                            "minRange": 3.5,
+                            "maxRange": 3.5,
                             "KCIAHJGFPBB": true
                         }
                     ],
@@ -1648,7 +1648,7 @@
                 {
                     "$type": "TryFindBlinkPoint",
                     "target": "SelfAttackTarget",
-                    "DGICDMAKHOJ": 360.0,
+                    "forwardAngle": 360.0,
                     "KCIAHJGFPBB": true
                 }
             ]
@@ -1662,9 +1662,9 @@
                 {
                     "$type": "TryFindBlinkPoint",
                     "target": "SelfAttackTarget",
-                    "DGICDMAKHOJ": 30.0,
-                    "JLCCGHLNHOI": 16.0,
-                    "GLALMCMAFJF": 16.0,
+                    "forwardAngle": 30.0,
+                    "minRange": 16.0,
+                    "maxRange": 16.0,
                     "KCIAHJGFPBB": true
                 }
             ]
@@ -1681,7 +1681,7 @@
                     "born": {
                         "$type": "ConfigBornByTarget"
                     },
-                    "OGADOPDNBMM": false
+                    "setTarget": false
                 }
             ],
             "onAbilityStart": [
@@ -1721,7 +1721,7 @@
                         "DigOut",
                         "ForwardShoot01_AS"
                     ],
-                    "MCFCEOACJEB": [
+                    "exitActions": [
                         {
                             "$type": "ReTriggerAISkillInitialCD",
                             "skillIDs": [

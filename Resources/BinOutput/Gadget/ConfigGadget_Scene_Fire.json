@@ -83,7 +83,7 @@
         "move": {
             "$type": "ConfigLinerBulletMove",
             "LLNGHPMEALD": {
-                "MPGPCCEHFGL": [
+                "excludeForces": [
                     "WindZoneType",
                     "AirflowType",
                     "RiseType",
@@ -146,7 +146,7 @@
         "move": {
             "$type": "ConfigLinerBulletMove",
             "LLNGHPMEALD": {
-                "MPGPCCEHFGL": [
+                "excludeForces": [
                     "WindZoneType",
                     "AirflowType",
                     "RiseType",

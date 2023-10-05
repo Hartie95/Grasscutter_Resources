@@ -1159,7 +1159,7 @@
                                     "z": 0.0
                                 },
                                 "attachPointName": "EffectPoint",
-                                "MMFHENHCBGB": "Applier"
+                                "attachPointTargetType": "Applier"
                             }
                         },
                         {
@@ -1463,7 +1463,7 @@
                                     "maxRandomRange": 2.0
                                 }
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "SetGlobalPos",
@@ -1477,7 +1477,7 @@
                                     "maxRandomRange": 2.0
                                 }
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "ApplyModifier",

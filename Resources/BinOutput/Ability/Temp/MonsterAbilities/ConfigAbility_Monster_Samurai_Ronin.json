@@ -6,7 +6,7 @@
             "onKill": [
                 {
                     "$type": "TriggerHideWeapon",
-                    "FLCNICMDANB": [
+                    "partNames": [
                         "equip01"
                     ],
                     "AADNNMOBDNJ": true
@@ -1196,7 +1196,7 @@
                                 }
                             },
                             "FPIJACIKJKL": 0.25,
-                            "GLALMCMAFJF": 10.0,
+                            "maxRange": 10.0,
                             "MPOEADACOHO": [
                                 "RushAtk_Attack"
                             ],
@@ -1215,10 +1215,10 @@
                 "Monster_Samurai_EnsureVisible": {
                     "modifierName": "",
                     "elementDurability": 100.0,
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "TriggerSetVisible",
-                            "ACDFJMCPFGH": true
+                            "visible": true
                         },
                         {
                             "$type": "HideUIBillBoard"
@@ -1234,7 +1234,7 @@
                     "HNOLIHHLCOO": [
                         {
                             "$type": "TriggerSetVisible",
-                            "ACDFJMCPFGH": true
+                            "visible": true
                         },
                         {
                             "$type": "HideUIBillBoard"
@@ -1528,7 +1528,7 @@
                             "KDGJOMGBPGO": "WeaponW"
                         }
                     ],
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "SetWeaponAttachPointRealName",
                             "NINLHECHMOD": "equip01",
@@ -1587,7 +1587,7 @@
                         {
                             "$type": "TriggerHideWeapon",
                             "CFIPAGENGPE": true,
-                            "FLCNICMDANB": [
+                            "partNames": [
                                 "equip01"
                             ],
                             "AADNNMOBDNJ": true
@@ -1596,17 +1596,17 @@
                     "onRemoved": [
                         {
                             "$type": "TriggerHideWeapon",
-                            "ACDFJMCPFGH": true,
-                            "FLCNICMDANB": [
+                            "visible": true,
+                            "partNames": [
                                 "equip01"
                             ],
                             "AADNNMOBDNJ": true
                         }
                     ],
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "TriggerHideWeapon",
-                            "FLCNICMDANB": [
+                            "partNames": [
                                 "equip01"
                             ],
                             "AADNNMOBDNJ": true
@@ -1615,7 +1615,7 @@
                     "HNOLIHHLCOO": [
                         {
                             "$type": "TriggerHideWeapon",
-                            "FLCNICMDANB": [
+                            "partNames": [
                                 "equip01"
                             ],
                             "AADNNMOBDNJ": true
@@ -1721,7 +1721,7 @@
                                 }
                             },
                             "FPIJACIKJKL": 0.15000000596046448,
-                            "GLALMCMAFJF": 10.0,
+                            "maxRange": 10.0,
                             "MPOEADACOHO": [
                                 "RushAtk",
                                 "DodgeAttack"
@@ -1802,7 +1802,7 @@
                                 }
                             },
                             "FPIJACIKJKL": 0.1899999976158142,
-                            "GLALMCMAFJF": 15.0,
+                            "maxRange": 15.0,
                             "MPOEADACOHO": [
                                 "BurstAttack",
                                 "Combo_BurstAttack"
@@ -2422,7 +2422,7 @@
                         },
                         {
                             "$type": "VelocityForceMixin",
-                            "MPGPCCEHFGL": [
+                            "excludeForces": [
                                 "RetreatAirType"
                             ]
                         }
@@ -2464,7 +2464,7 @@
                                             "$type": "ByTargetGlobalValue",
                                             "key": "_SAMURAI_HATAMOTO_BLOCK_SUCCESS",
                                             "value": 0.0,
-                                            "EODMLMGMLNP": true,
+                                            "forceByCaster": true,
                                             "compareType": "NoneOrEqual"
                                         },
                                         {
@@ -2502,7 +2502,7 @@
                                             "$type": "ByTargetGlobalValue",
                                             "key": "_SAMURAI_HATAMOTO_BLOCK_SUCCESS",
                                             "value": 0.0,
-                                            "EODMLMGMLNP": true,
+                                            "forceByCaster": true,
                                             "compareType": "NoneOrEqual"
                                         },
                                         {

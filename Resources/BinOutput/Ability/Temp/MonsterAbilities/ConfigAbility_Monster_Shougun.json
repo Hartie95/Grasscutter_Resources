@@ -407,7 +407,7 @@
                                             }
                                         }
                                     },
-                                    "OGADOPDNBMM": false
+                                    "setTarget": false
                                 }
                             ]
                         },
@@ -777,7 +777,7 @@
                             }
                         }
                     },
-                    "OGADOPDNBMM": false
+                    "setTarget": false
                 },
                 {
                     "$type": "ApplyModifier",
@@ -992,7 +992,7 @@
                             },
                             "BHELOIADOLH": -7.5,
                             "HBBLBBPBLGE": 0.0,
-                            "IPDEDFHPHPO": 0.0,
+                            "innerRadius": 0.0,
                             "targetType": "Enemy",
                             "predicates": [
                                 {
@@ -1295,7 +1295,7 @@
                         "JBNMHNDDJJC": 6.0,
                         "GCJBBHLBLLG": 12.5
                     },
-                    "OGADOPDNBMM": false
+                    "setTarget": false
                 },
                 {
                     "$type": "TurnDirectionToPos",
@@ -1715,7 +1715,7 @@
                             },
                             "BHELOIADOLH": -7.5,
                             "HBBLBBPBLGE": 0.0,
-                            "IPDEDFHPHPO": 0.0,
+                            "innerRadius": 0.0,
                             "targetType": "Enemy",
                             "predicates": [
                                 {
@@ -1750,14 +1750,14 @@
                         },
                         {
                             "$type": "TriggerHideWeapon",
-                            "FLCNICMDANB": [
+                            "partNames": [
                                 "equip01"
                             ],
                             "AADNNMOBDNJ": true
                         },
                         {
                             "$type": "TriggerHideWeapon",
-                            "FLCNICMDANB": [
+                            "partNames": [
                                 "equip02"
                             ],
                             "AADNNMOBDNJ": true
@@ -1794,19 +1794,19 @@
                         },
                         {
                             "$type": "TriggerSetVisible",
-                            "ACDFJMCPFGH": true
+                            "visible": true
                         },
                         {
                             "$type": "TriggerHideWeapon",
-                            "ACDFJMCPFGH": true,
-                            "FLCNICMDANB": [
+                            "visible": true,
+                            "partNames": [
                                 "equip01"
                             ],
                             "AADNNMOBDNJ": true
                         },
                         {
                             "$type": "TriggerHideWeapon",
-                            "FLCNICMDANB": [
+                            "partNames": [
                                 "equip02"
                             ],
                             "AADNNMOBDNJ": true
@@ -2376,7 +2376,7 @@
                         "JBNMHNDDJJC": 5.0,
                         "GCJBBHLBLLG": 25.0
                     },
-                    "OGADOPDNBMM": false
+                    "setTarget": false
                 },
                 {
                     "$type": "TurnDirectionToPos",
@@ -2589,14 +2589,14 @@
                         },
                         {
                             "$type": "TriggerHideWeapon",
-                            "FLCNICMDANB": [
+                            "partNames": [
                                 "equip01"
                             ],
                             "AADNNMOBDNJ": true
                         },
                         {
                             "$type": "TriggerHideWeapon",
-                            "FLCNICMDANB": [
+                            "partNames": [
                                 "equip02"
                             ],
                             "AADNNMOBDNJ": true
@@ -2633,19 +2633,19 @@
                         },
                         {
                             "$type": "TriggerSetVisible",
-                            "ACDFJMCPFGH": true
+                            "visible": true
                         },
                         {
                             "$type": "TriggerHideWeapon",
-                            "ACDFJMCPFGH": true,
-                            "FLCNICMDANB": [
+                            "visible": true,
+                            "partNames": [
                                 "equip01"
                             ],
                             "AADNNMOBDNJ": true
                         },
                         {
                             "$type": "TriggerHideWeapon",
-                            "FLCNICMDANB": [
+                            "partNames": [
                                 "equip02"
                             ],
                             "AADNNMOBDNJ": true
@@ -2687,7 +2687,7 @@
                         "JBNMHNDDJJC": 5.0,
                         "GCJBBHLBLLG": 40.0
                     },
-                    "OGADOPDNBMM": false
+                    "setTarget": false
                 },
                 {
                     "$type": "TryFindBlinkPointByBorn",
@@ -2729,7 +2729,7 @@
                         "JBNMHNDDJJC": 5.0,
                         "GCJBBHLBLLG": 40.0
                     },
-                    "OGADOPDNBMM": false
+                    "setTarget": false
                 },
                 {
                     "$type": "TryFindBlinkPointByBorn",
@@ -2939,7 +2939,7 @@
                             },
                             "BHELOIADOLH": -10.0,
                             "HBBLBBPBLGE": 0.0,
-                            "IPDEDFHPHPO": 0.0,
+                            "innerRadius": 0.0,
                             "targetType": "Enemy",
                             "predicates": [
                                 {
@@ -2970,7 +2970,7 @@
                             },
                             "BHELOIADOLH": -7.5,
                             "HBBLBBPBLGE": 0.0,
-                            "IPDEDFHPHPO": 0.0,
+                            "innerRadius": 0.0,
                             "targetType": "Enemy",
                             "predicates": [
                                 {
@@ -3426,32 +3426,32 @@
                     "onAdded": [
                         {
                             "$type": "TriggerHideWeapon",
-                            "FLCNICMDANB": [
+                            "partNames": [
                                 "equip02"
                             ],
                             "AADNNMOBDNJ": true
                         },
                         {
                             "$type": "TriggerHideWeapon",
-                            "ACDFJMCPFGH": true,
-                            "FLCNICMDANB": [
+                            "visible": true,
+                            "partNames": [
                                 "equip01"
                             ],
                             "AADNNMOBDNJ": true
                         }
                     ],
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "TriggerHideWeapon",
-                            "FLCNICMDANB": [
+                            "partNames": [
                                 "equip02"
                             ],
                             "AADNNMOBDNJ": true
                         },
                         {
                             "$type": "TriggerHideWeapon",
-                            "ACDFJMCPFGH": true,
-                            "FLCNICMDANB": [
+                            "visible": true,
+                            "partNames": [
                                 "equip01"
                             ],
                             "AADNNMOBDNJ": true
@@ -3465,32 +3465,32 @@
                     "onAdded": [
                         {
                             "$type": "TriggerHideWeapon",
-                            "ACDFJMCPFGH": true,
-                            "FLCNICMDANB": [
+                            "visible": true,
+                            "partNames": [
                                 "equip02"
                             ],
                             "AADNNMOBDNJ": true
                         },
                         {
                             "$type": "TriggerHideWeapon",
-                            "FLCNICMDANB": [
+                            "partNames": [
                                 "equip01"
                             ],
                             "AADNNMOBDNJ": true
                         }
                     ],
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "TriggerHideWeapon",
-                            "ACDFJMCPFGH": true,
-                            "FLCNICMDANB": [
+                            "visible": true,
+                            "partNames": [
                                 "equip02"
                             ],
                             "AADNNMOBDNJ": true
                         },
                         {
                             "$type": "TriggerHideWeapon",
-                            "FLCNICMDANB": [
+                            "partNames": [
                                 "equip01"
                             ],
                             "AADNNMOBDNJ": true
@@ -3504,30 +3504,30 @@
                     "onAdded": [
                         {
                             "$type": "TriggerHideWeapon",
-                            "FLCNICMDANB": [
+                            "partNames": [
                                 "equip02"
                             ],
                             "AADNNMOBDNJ": true
                         },
                         {
                             "$type": "TriggerHideWeapon",
-                            "FLCNICMDANB": [
+                            "partNames": [
                                 "equip01"
                             ],
                             "AADNNMOBDNJ": true
                         }
                     ],
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "TriggerHideWeapon",
-                            "FLCNICMDANB": [
+                            "partNames": [
                                 "equip02"
                             ],
                             "AADNNMOBDNJ": true
                         },
                         {
                             "$type": "TriggerHideWeapon",
-                            "FLCNICMDANB": [
+                            "partNames": [
                                 "equip01"
                             ],
                             "AADNNMOBDNJ": true
@@ -3551,7 +3551,7 @@
                             },
                             "BHELOIADOLH": -7.5,
                             "HBBLBBPBLGE": 0.0,
-                            "IPDEDFHPHPO": 0.0,
+                            "innerRadius": 0.0,
                             "targetType": "Enemy",
                             "predicates": [
                                 {
@@ -3568,15 +3568,15 @@
                     "onRemoved": [
                         {
                             "$type": "TriggerHideWeapon",
-                            "ACDFJMCPFGH": true,
-                            "FLCNICMDANB": [
+                            "visible": true,
+                            "partNames": [
                                 "equip02"
                             ],
                             "AADNNMOBDNJ": true
                         },
                         {
                             "$type": "TriggerHideWeapon",
-                            "FLCNICMDANB": [
+                            "partNames": [
                                 "equip01"
                             ],
                             "AADNNMOBDNJ": true
@@ -3773,7 +3773,7 @@
                                 "JBNMHNDDJJC": 5.0,
                                 "GCJBBHLBLLG": 12.5
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "TriggerBullet",
@@ -3919,14 +3919,14 @@
                         },
                         {
                             "$type": "TriggerHideWeapon",
-                            "FLCNICMDANB": [
+                            "partNames": [
                                 "equip02"
                             ],
                             "AADNNMOBDNJ": true
                         },
                         {
                             "$type": "TriggerHideWeapon",
-                            "FLCNICMDANB": [
+                            "partNames": [
                                 "equip01"
                             ],
                             "AADNNMOBDNJ": true
@@ -3957,19 +3957,19 @@
                         },
                         {
                             "$type": "TriggerSetVisible",
-                            "ACDFJMCPFGH": true
+                            "visible": true
                         },
                         {
                             "$type": "TriggerHideWeapon",
-                            "ACDFJMCPFGH": true,
-                            "FLCNICMDANB": [
+                            "visible": true,
+                            "partNames": [
                                 "equip02"
                             ],
                             "AADNNMOBDNJ": true
                         },
                         {
                             "$type": "TriggerHideWeapon",
-                            "FLCNICMDANB": [
+                            "partNames": [
                                 "equip01"
                             ],
                             "AADNNMOBDNJ": true
@@ -4164,7 +4164,7 @@
                                 "JBNMHNDDJJC": 6.5,
                                 "GCJBBHLBLLG": 15.0
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "TriggerBullet",
@@ -4330,11 +4330,11 @@
                         "direction": {
                             "$type": "ConfigDirectionByAttachPoint",
                             "attachPointName": "SwordArtAttachPoint1",
-                            "MMFHENHCBGB": "Self"
+                            "attachPointTargetType": "Self"
                         },
                         "KGHEECEGCCP": true,
                         "attachPointName": "SwordArtAttachPoint1",
-                        "MMFHENHCBGB": "Self"
+                        "attachPointTargetType": "Self"
                     }
                 }
             ]
@@ -4358,11 +4358,11 @@
                         "direction": {
                             "$type": "ConfigDirectionByAttachPoint",
                             "attachPointName": "SwordArtAttachPoint2",
-                            "MMFHENHCBGB": "Self"
+                            "attachPointTargetType": "Self"
                         },
                         "KGHEECEGCCP": true,
                         "attachPointName": "SwordArtAttachPoint2",
-                        "MMFHENHCBGB": "Self"
+                        "attachPointTargetType": "Self"
                     }
                 }
             ]
@@ -4386,11 +4386,11 @@
                         "direction": {
                             "$type": "ConfigDirectionByAttachPoint",
                             "attachPointName": "SwordArtAttachPoint3",
-                            "MMFHENHCBGB": "Self"
+                            "attachPointTargetType": "Self"
                         },
                         "KGHEECEGCCP": true,
                         "attachPointName": "SwordArtAttachPoint3",
-                        "MMFHENHCBGB": "Self"
+                        "attachPointTargetType": "Self"
                     }
                 }
             ]
@@ -4414,11 +4414,11 @@
                         "direction": {
                             "$type": "ConfigDirectionByAttachPoint",
                             "attachPointName": "SwordArtAttachPoint4",
-                            "MMFHENHCBGB": "Self"
+                            "attachPointTargetType": "Self"
                         },
                         "KGHEECEGCCP": true,
                         "attachPointName": "SwordArtAttachPoint4",
-                        "MMFHENHCBGB": "Self"
+                        "attachPointTargetType": "Self"
                     }
                 },
                 {
@@ -4705,14 +4705,14 @@
                         },
                         {
                             "$type": "TriggerHideWeapon",
-                            "FLCNICMDANB": [
+                            "partNames": [
                                 "equip01"
                             ],
                             "AADNNMOBDNJ": true
                         },
                         {
                             "$type": "TriggerHideWeapon",
-                            "FLCNICMDANB": [
+                            "partNames": [
                                 "equip02"
                             ],
                             "AADNNMOBDNJ": true
@@ -4749,19 +4749,19 @@
                         },
                         {
                             "$type": "TriggerSetVisible",
-                            "ACDFJMCPFGH": true
+                            "visible": true
                         },
                         {
                             "$type": "TriggerHideWeapon",
-                            "FLCNICMDANB": [
+                            "partNames": [
                                 "equip01"
                             ],
                             "AADNNMOBDNJ": true
                         },
                         {
                             "$type": "TriggerHideWeapon",
-                            "ACDFJMCPFGH": true,
-                            "FLCNICMDANB": [
+                            "visible": true,
+                            "partNames": [
                                 "equip02"
                             ],
                             "AADNNMOBDNJ": true
@@ -4863,7 +4863,7 @@
                             },
                             "BHELOIADOLH": -7.5,
                             "HBBLBBPBLGE": 0.0,
-                            "IPDEDFHPHPO": 0.0,
+                            "innerRadius": 0.0,
                             "targetType": "Enemy",
                             "predicates": [
                                 {
@@ -6654,7 +6654,7 @@
                             },
                             "BHELOIADOLH": -7.5,
                             "HBBLBBPBLGE": 0.0,
-                            "IPDEDFHPHPO": 0.0,
+                            "innerRadius": 0.0,
                             "targetType": "Enemy",
                             "predicates": [
                                 {
@@ -6685,7 +6685,7 @@
                             },
                             "BHELOIADOLH": -7.5,
                             "HBBLBBPBLGE": 0.0,
-                            "IPDEDFHPHPO": 0.0,
+                            "innerRadius": 0.0,
                             "targetType": "Enemy",
                             "predicates": [
                                 {
@@ -6711,7 +6711,7 @@
                     "onRemoved": [
                         {
                             "$type": "TriggerHideWeapon",
-                            "FLCNICMDANB": [
+                            "partNames": [
                                 "equip01",
                                 "equip02"
                             ],
@@ -6745,14 +6745,14 @@
                         },
                         {
                             "$type": "TriggerHideWeapon",
-                            "FLCNICMDANB": [
+                            "partNames": [
                                 "equip01"
                             ],
                             "AADNNMOBDNJ": true
                         },
                         {
                             "$type": "TriggerHideWeapon",
-                            "FLCNICMDANB": [
+                            "partNames": [
                                 "equip02"
                             ],
                             "AADNNMOBDNJ": true
@@ -6789,19 +6789,19 @@
                         },
                         {
                             "$type": "TriggerSetVisible",
-                            "ACDFJMCPFGH": true
+                            "visible": true
                         },
                         {
                             "$type": "TriggerHideWeapon",
-                            "FLCNICMDANB": [
+                            "partNames": [
                                 "equip01"
                             ],
                             "AADNNMOBDNJ": true
                         },
                         {
                             "$type": "TriggerHideWeapon",
-                            "ACDFJMCPFGH": true,
-                            "FLCNICMDANB": [
+                            "visible": true,
+                            "partNames": [
                                 "equip02"
                             ],
                             "AADNNMOBDNJ": true
@@ -6875,7 +6875,7 @@
                             },
                             "BHELOIADOLH": -7.5,
                             "HBBLBBPBLGE": 0.0,
-                            "IPDEDFHPHPO": 0.0,
+                            "innerRadius": 0.0,
                             "targetType": "Enemy",
                             "predicates": [
                                 {

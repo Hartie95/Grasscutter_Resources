@@ -402,7 +402,7 @@
         "move": {
             "$type": "ConfigSurroundBulletMove",
             "LLNGHPMEALD": {
-                "MPGPCCEHFGL": [
+                "excludeForces": [
                     "WindZoneType"
                 ]
             },

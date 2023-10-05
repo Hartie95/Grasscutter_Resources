@@ -324,7 +324,7 @@
                         },
                         "onGround": true
                     },
-                    "JLCCGHLNHOI": 8.0,
+                    "minRange": 8.0,
                     "GDCBDDNNPCM": 1.0
                 }
             ]
@@ -743,7 +743,7 @@
                         },
                         "onGround": true
                     },
-                    "JLCCGHLNHOI": 8.0,
+                    "minRange": 8.0,
                     "GDCBDDNNPCM": 0.30000001192092896
                 },
                 {
@@ -1637,9 +1637,9 @@
                         {
                             "$type": "TryFindBlinkPoint",
                             "target": "SelfAttackTarget",
-                            "DGICDMAKHOJ": 360.0,
-                            "JLCCGHLNHOI": 2.0,
-                            "GLALMCMAFJF": 5.0,
+                            "forwardAngle": 360.0,
+                            "minRange": 2.0,
+                            "maxRange": 5.0,
                             "KCIAHJGFPBB": true
                         },
                         {
@@ -1675,9 +1675,9 @@
                         {
                             "$type": "TryFindBlinkPoint",
                             "target": "SelfAttackTarget",
-                            "DGICDMAKHOJ": 360.0,
-                            "JLCCGHLNHOI": 15.0,
-                            "GLALMCMAFJF": 20.0,
+                            "forwardAngle": 360.0,
+                            "minRange": 15.0,
+                            "maxRange": 20.0,
                             "KCIAHJGFPBB": true
                         },
                         {

@@ -113,7 +113,7 @@
                                 },
                                 "onGround": true
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "SetGlobalPos",
@@ -132,7 +132,7 @@
                                 },
                                 "onGround": true
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "FireEffect",
@@ -224,12 +224,12 @@
                         {
                             "$type": "ClearGlobalPos",
                             "key": "_MONSTER_BRUTE_ICE_DOUBLESMASH_POS1",
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "ClearGlobalPos",
                             "key": "_MONSTER_BRUTE_ICE_DOUBLESMASH_POS2",
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         }
                     ]
                 }
@@ -1125,7 +1125,7 @@
                     "modifierName": "",
                     "duration": 5.0,
                     "elementDurability": 100.0,
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "ApplyModifier",
                             "predicates": [
@@ -1171,7 +1171,7 @@
                             "boolID": "PowerState"
                         }
                     ],
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "SetAnimatorBool",
                             "boolID": "PowerState"
@@ -1194,7 +1194,7 @@
                             "value": true
                         }
                     ],
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "SetAnimatorBool",
                             "boolID": "PowerState",
@@ -1263,7 +1263,7 @@
                     "modifierName": "",
                     "duration": 5.0,
                     "elementDurability": 100.0,
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "ApplyModifier",
                             "modifierName": "Monster_Brute_Ice_ExitPower"

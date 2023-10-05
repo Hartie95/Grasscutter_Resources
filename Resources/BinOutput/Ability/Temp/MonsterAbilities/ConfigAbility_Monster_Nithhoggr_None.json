@@ -1959,7 +1959,7 @@
                             },
                             "BHELOIADOLH": 3.0,
                             "HBBLBBPBLGE": 0.5,
-                            "IPDEDFHPHPO": 12.0,
+                            "innerRadius": 12.0,
                             "targetType": "Enemy",
                             "modifierName": ""
                         }
@@ -1981,7 +1981,7 @@
                                     },
                                     "secondHeight": 2.0,
                                     "radius": 17.0,
-                                    "IPDEDFHPHPO": 12.0
+                                    "innerRadius": 12.0
                                 },
                                 "attackInfo": {
                                     "attackTag": "",
@@ -2019,7 +2019,7 @@
                             },
                             "BHELOIADOLH": 4.0,
                             "HBBLBBPBLGE": 0.5,
-                            "IPDEDFHPHPO": 8.0,
+                            "innerRadius": 8.0,
                             "targetType": "Enemy",
                             "modifierName": ""
                         }
@@ -2041,7 +2041,7 @@
                                     },
                                     "secondHeight": 2.0,
                                     "radius": 12.0,
-                                    "IPDEDFHPHPO": 8.0
+                                    "innerRadius": 8.0
                                 },
                                 "attackInfo": {
                                     "attackTag": "",
@@ -2079,7 +2079,7 @@
                             },
                             "BHELOIADOLH": 5.0,
                             "HBBLBBPBLGE": 0.5,
-                            "IPDEDFHPHPO": 5.0,
+                            "innerRadius": 5.0,
                             "targetType": "Enemy",
                             "modifierName": ""
                         }
@@ -2101,7 +2101,7 @@
                                     },
                                     "secondHeight": 2.0,
                                     "radius": 8.0,
-                                    "IPDEDFHPHPO": 5.0
+                                    "innerRadius": 5.0
                                 },
                                 "attackInfo": {
                                     "attackTag": "",
@@ -2138,7 +2138,7 @@
                             },
                             "BHELOIADOLH": 6.0,
                             "HBBLBBPBLGE": 0.5,
-                            "IPDEDFHPHPO": 1.5,
+                            "innerRadius": 1.5,
                             "targetType": "Enemy",
                             "modifierName": ""
                         }
@@ -3127,7 +3127,7 @@
                     "born": {
                         "$type": "ConfigBornByAttachPoint",
                         "attachPointName": "ExplodePoint",
-                        "MMFHENHCBGB": "Self"
+                        "attachPointTargetType": "Self"
                     }
                 },
                 {
@@ -3153,7 +3153,7 @@
                             "z": 0.0
                         },
                         "attachPointName": "BulletPoint1",
-                        "MMFHENHCBGB": "Self"
+                        "attachPointTargetType": "Self"
                     },
                     "ACHALMGBBMK": true,
                     "MLHHDMOKLBG": true
@@ -3169,7 +3169,7 @@
                             "z": 0.0
                         },
                         "attachPointName": "BulletPoint2",
-                        "MMFHENHCBGB": "Self"
+                        "attachPointTargetType": "Self"
                     },
                     "ACHALMGBBMK": true,
                     "MLHHDMOKLBG": true
@@ -3185,7 +3185,7 @@
                             "z": 0.0
                         },
                         "attachPointName": "BulletPoint3",
-                        "MMFHENHCBGB": "Self"
+                        "attachPointTargetType": "Self"
                     },
                     "ACHALMGBBMK": true,
                     "MLHHDMOKLBG": true
@@ -3201,7 +3201,7 @@
                             "z": 0.0
                         },
                         "attachPointName": "BulletPoint4",
-                        "MMFHENHCBGB": "Self"
+                        "attachPointTargetType": "Self"
                     },
                     "ACHALMGBBMK": true,
                     "MLHHDMOKLBG": true
@@ -3217,7 +3217,7 @@
                             "z": 0.0
                         },
                         "attachPointName": "BulletPoint5",
-                        "MMFHENHCBGB": "Self"
+                        "attachPointTargetType": "Self"
                     },
                     "ACHALMGBBMK": true,
                     "MLHHDMOKLBG": true
@@ -3233,7 +3233,7 @@
                             "z": 0.0
                         },
                         "attachPointName": "BulletPoint6",
-                        "MMFHENHCBGB": "Self"
+                        "attachPointTargetType": "Self"
                     },
                     "ACHALMGBBMK": true,
                     "MLHHDMOKLBG": true
@@ -3675,7 +3675,7 @@
                             "modifierName": "Monster_Nithhoggr_ReshapeEarth_Reset_DoubleCheck"
                         }
                     ],
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "ApplyModifier",
                             "modifierName": "Monster_Nithhoggr_ReshapeEarth_Reset_DoubleCheck"
@@ -4966,7 +4966,7 @@
                                     "$type": "ConfigDirectionByLookAtEntity"
                                 }
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "AttachEffect",
@@ -5146,7 +5146,7 @@
                                     "$type": "ConfigDirectionByLookAtEntity"
                                 }
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "AttachEffect",
@@ -5326,7 +5326,7 @@
                                     "$type": "ConfigDirectionByLookAtEntity"
                                 }
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "AttachEffect",
@@ -5506,7 +5506,7 @@
                                     "$type": "ConfigDirectionByLookAtEntity"
                                 }
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "AttachEffect",

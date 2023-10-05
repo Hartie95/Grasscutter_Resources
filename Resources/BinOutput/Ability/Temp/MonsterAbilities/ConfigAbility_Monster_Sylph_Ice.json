@@ -629,7 +629,7 @@
                     "born": {
                         "$type": "ConfigBornByAttachPoint",
                         "attachPointName": "BulletAttachPoint1",
-                        "MMFHENHCBGB": "Caster"
+                        "attachPointTargetType": "Caster"
                     }
                 }
             ]
@@ -934,7 +934,7 @@
                     "stateIDs": [
                         "Activated_AirGun_BS"
                     ],
-                    "MCFCEOACJEB": [
+                    "exitActions": [
                         {
                             "$type": "ApplyModifier",
                             "modifierName": "Activated_AirGun_CountDown"
@@ -992,7 +992,7 @@
                             "born": {
                                 "$type": "ConfigBornByAttachPoint",
                                 "attachPointName": "BulletAttachPoint2",
-                                "MMFHENHCBGB": "Caster"
+                                "attachPointTargetType": "Caster"
                             }
                         }
                     ]

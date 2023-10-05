@@ -4721,7 +4721,7 @@
                             "target": "CurLocalAvatar",
                             "doOffStage": true,
                             "key": "_ABILITY_Relic_HealAndHolyNova_Dir",
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "SetGlobalValue",
@@ -4904,7 +4904,7 @@
                             "target": "CurLocalAvatar",
                             "doOffStage": true,
                             "key": "_ABILITY_Relic_HealAndHolyNova_Position",
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "SendEffectTrigger",

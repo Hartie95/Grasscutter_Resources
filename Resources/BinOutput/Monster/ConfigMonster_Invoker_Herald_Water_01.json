@@ -1455,7 +1455,7 @@
     "move": {
         "$type": "ConfigAnimatorMove",
         "LLNGHPMEALD": {
-            "MPGPCCEHFGL": [
+            "excludeForces": [
                 "RetreatAirType"
             ]
         },

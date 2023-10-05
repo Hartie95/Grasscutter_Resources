@@ -718,7 +718,7 @@
                                 },
                                 "attachPointName": "RootNode"
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "ApplyModifier",
@@ -921,7 +921,7 @@
                                 },
                                 "attachPointName": "RootNode"
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "ApplyModifier",

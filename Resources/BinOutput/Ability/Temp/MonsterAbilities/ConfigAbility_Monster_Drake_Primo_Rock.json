@@ -2308,7 +2308,7 @@
                                                     "$type": "ByTargetGlobalValue",
                                                     "key": "_MONSTERAFFIX_DRAKE_PRIMO_ROCK_ELEMENTEXPLODE_SHIELDDAMAGEUP_GADGET",
                                                     "value": 1.0,
-                                                    "EODMLMGMLNP": true
+                                                    "forceByCaster": true
                                                 }
                                             ],
                                             "successActions": [
@@ -2630,7 +2630,7 @@
                                                     "$type": "ByTargetGlobalValue",
                                                     "key": "_MONSTERAFFIX_DRAKE_PRIMO_ROCK_ELEMENTEXPLODE_SHIELDDAMAGEUP_GADGET",
                                                     "value": 1.0,
-                                                    "EODMLMGMLNP": true
+                                                    "forceByCaster": true
                                                 }
                                             ],
                                             "successActions": [
@@ -2952,7 +2952,7 @@
                                                     "$type": "ByTargetGlobalValue",
                                                     "key": "_MONSTERAFFIX_DRAKE_PRIMO_ROCK_ELEMENTEXPLODE_SHIELDDAMAGEUP_GADGET",
                                                     "value": 1.0,
-                                                    "EODMLMGMLNP": true
+                                                    "forceByCaster": true
                                                 }
                                             ],
                                             "successActions": [
@@ -3274,7 +3274,7 @@
                                                     "$type": "ByTargetGlobalValue",
                                                     "key": "_MONSTERAFFIX_DRAKE_PRIMO_ROCK_ELEMENTEXPLODE_SHIELDDAMAGEUP_GADGET",
                                                     "value": 1.0,
-                                                    "EODMLMGMLNP": true
+                                                    "forceByCaster": true
                                                 }
                                             ],
                                             "successActions": [
@@ -3809,7 +3809,7 @@
                             "$type": "ByTargetGlobalValue",
                             "key": "_MONSTER_DRAKE_PRIMO_ROCK_ICE",
                             "value": 1.0,
-                            "EODMLMGMLNP": true
+                            "forceByCaster": true
                         }
                     ],
                     "NJEOPILMKCN": true,
@@ -3836,7 +3836,7 @@
                             "$type": "ByTargetGlobalValue",
                             "key": "_MONSTER_DRAKE_PRIMO_ROCK_FIRE",
                             "value": 1.0,
-                            "EODMLMGMLNP": true
+                            "forceByCaster": true
                         }
                     ],
                     "NJEOPILMKCN": true,
@@ -3863,7 +3863,7 @@
                             "$type": "ByTargetGlobalValue",
                             "key": "_MONSTER_DRAKE_PRIMO_ROCK_WATER",
                             "value": 1.0,
-                            "EODMLMGMLNP": true
+                            "forceByCaster": true
                         }
                     ],
                     "NJEOPILMKCN": true,
@@ -3890,7 +3890,7 @@
                             "$type": "ByTargetGlobalValue",
                             "key": "_MONSTER_DRAKE_PRIMO_ROCK_ELECTRIC",
                             "value": 1.0,
-                            "EODMLMGMLNP": true
+                            "forceByCaster": true
                         }
                     ],
                     "NJEOPILMKCN": true,
@@ -5765,7 +5765,7 @@
                                     },
                                     "secondHeight": 1.0,
                                     "radius": 2.0,
-                                    "IPDEDFHPHPO": 0.0
+                                    "innerRadius": 0.0
                                 },
                                 "attackInfo": {
                                     "attackTag": "",
@@ -5812,7 +5812,7 @@
                                     },
                                     "secondHeight": 1.5,
                                     "radius": 4.0,
-                                    "IPDEDFHPHPO": 2.0
+                                    "innerRadius": 2.0
                                 },
                                 "attackInfo": {
                                     "attackTag": "",
@@ -5859,7 +5859,7 @@
                                     },
                                     "secondHeight": 2.0,
                                     "radius": 6.0,
-                                    "IPDEDFHPHPO": 4.0
+                                    "innerRadius": 4.0
                                 },
                                 "attackInfo": {
                                     "attackTag": "",
@@ -6043,7 +6043,7 @@
                                     },
                                     "secondHeight": 1.0,
                                     "radius": 2.0,
-                                    "IPDEDFHPHPO": 0.0
+                                    "innerRadius": 0.0
                                 },
                                 "attackInfo": {
                                     "attackTag": "",
@@ -6090,7 +6090,7 @@
                                     },
                                     "secondHeight": 1.5,
                                     "radius": 4.0,
-                                    "IPDEDFHPHPO": 2.0
+                                    "innerRadius": 2.0
                                 },
                                 "attackInfo": {
                                     "attackTag": "",
@@ -6137,7 +6137,7 @@
                                     },
                                     "secondHeight": 2.0,
                                     "radius": 6.0,
-                                    "IPDEDFHPHPO": 4.0
+                                    "innerRadius": 4.0
                                 },
                                 "attackInfo": {
                                     "attackTag": "",

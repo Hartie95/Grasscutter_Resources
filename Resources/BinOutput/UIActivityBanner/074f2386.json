@@ -34,22 +34,22 @@
             "trackMQ1": {
                 "$type": "ContextConditionMainQuestVisible",
                 "mainQuestId": 72155,
-                "ACDFJMCPFGH": true
+                "visible": true
             },
             "trackMQ2": {
                 "$type": "ContextConditionMainQuestVisible",
                 "mainQuestId": 72156,
-                "ACDFJMCPFGH": true
+                "visible": true
             },
             "trackMQ3": {
                 "$type": "ContextConditionMainQuestVisible",
                 "mainQuestId": 72157,
-                "ACDFJMCPFGH": true
+                "visible": true
             },
             "trackMQ4": {
                 "$type": "ContextConditionMainQuestVisible",
                 "mainQuestId": 72158,
-                "ACDFJMCPFGH": true
+                "visible": true
             },
             "trackMonster": {
                 "$type": "ContextConditionMainQuestState",

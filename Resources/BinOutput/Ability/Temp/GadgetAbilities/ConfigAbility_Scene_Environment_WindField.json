@@ -557,7 +557,7 @@
                                             },
                                             "secondHeight": 20.0,
                                             "radius": 3.0,
-                                            "IPDEDFHPHPO": 2.200000047683716
+                                            "innerRadius": 2.200000047683716
                                         },
                                         "attackInfo": {
                                             "attackTag": "",
@@ -762,7 +762,7 @@
                                             },
                                             "secondHeight": 6.0,
                                             "radius": 3.0,
-                                            "IPDEDFHPHPO": 2.200000047683716
+                                            "innerRadius": 2.200000047683716
                                         },
                                         "attackInfo": {
                                             "attackTag": "",
@@ -928,7 +928,7 @@
                                             },
                                             "secondHeight": 3.5,
                                             "radius": 3.0,
-                                            "IPDEDFHPHPO": 2.200000047683716
+                                            "innerRadius": 2.200000047683716
                                         },
                                         "attackInfo": {
                                             "attackTag": "",
@@ -1055,7 +1055,7 @@
                                             },
                                             "secondHeight": 20.0,
                                             "radius": 5.0,
-                                            "IPDEDFHPHPO": 4.0
+                                            "innerRadius": 4.0
                                         },
                                         "attackInfo": {
                                             "attackTag": "",
@@ -1424,7 +1424,7 @@
                                     },
                                     "BHELOIADOLH": 2.0,
                                     "HBBLBBPBLGE": 0.0,
-                                    "IPDEDFHPHPO": 0.0,
+                                    "innerRadius": 0.0,
                                     "modifierName": ""
                                 },
                                 {
@@ -1434,7 +1434,7 @@
                                     },
                                     "BHELOIADOLH": 5.0,
                                     "HBBLBBPBLGE": 0.0,
-                                    "IPDEDFHPHPO": 0.0,
+                                    "innerRadius": 0.0,
                                     "modifierName": ""
                                 },
                                 {
@@ -1447,7 +1447,7 @@
                                     },
                                     "BHELOIADOLH": 10.0,
                                     "HBBLBBPBLGE": 0.0,
-                                    "IPDEDFHPHPO": 0.0,
+                                    "innerRadius": 0.0,
                                     "modifierName": "Tornado_Struggle"
                                 },
                                 {
@@ -1457,7 +1457,7 @@
                                     },
                                     "BHELOIADOLH": -10.0,
                                     "HBBLBBPBLGE": 0.0,
-                                    "IPDEDFHPHPO": 0.0,
+                                    "innerRadius": 0.0,
                                     "modifierName": "",
                                     "duration": 3.0
                                 }
@@ -1640,7 +1640,7 @@
                             },
                             "BHELOIADOLH": 2.0,
                             "HBBLBBPBLGE": 0.0,
-                            "IPDEDFHPHPO": 0.0,
+                            "innerRadius": 0.0,
                             "targetType": "All",
                             "predicates": [
                                 {
@@ -1667,7 +1667,7 @@
                             },
                             "BHELOIADOLH": 3.0,
                             "HBBLBBPBLGE": 0.0,
-                            "IPDEDFHPHPO": 0.0,
+                            "innerRadius": 0.0,
                             "targetType": "All",
                             "predicates": [
                                 {
@@ -1688,7 +1688,7 @@
                             },
                             "BHELOIADOLH": -10.0,
                             "HBBLBBPBLGE": 0.0,
-                            "IPDEDFHPHPO": 0.0,
+                            "innerRadius": 0.0,
                             "targetType": "All",
                             "predicates": [
                                 {
@@ -1758,7 +1758,7 @@
                             "shapeName": "CircleR10",
                             "BHELOIADOLH": -2.0,
                             "HBBLBBPBLGE": 0.0,
-                            "IPDEDFHPHPO": 0.0,
+                            "innerRadius": 0.0,
                             "modifierName": "",
                             "IDGDDJJKEJF": 0
                         }
@@ -1787,7 +1787,7 @@
                             "shapeName": "CircleR10",
                             "BHELOIADOLH": -4.0,
                             "HBBLBBPBLGE": 0.0,
-                            "IPDEDFHPHPO": 0.0,
+                            "innerRadius": 0.0,
                             "modifierName": "",
                             "IDGDDJJKEJF": 0
                         }
@@ -1909,7 +1909,7 @@
                             "shapeName": "CircleR10",
                             "BHELOIADOLH": -8.0,
                             "HBBLBBPBLGE": 0.0,
-                            "IPDEDFHPHPO": 0.0,
+                            "innerRadius": 0.0,
                             "modifierName": "",
                             "IDGDDJJKEJF": 0
                         }
@@ -1985,7 +1985,7 @@
                                             "born": {
                                                 "$type": "ConfigBornByTarget"
                                             },
-                                            "OGADOPDNBMM": false
+                                            "setTarget": false
                                         },
                                         {
                                             "$type": "TriggerAttackEvent",
@@ -3469,7 +3469,7 @@
                             },
                             "BHELOIADOLH": -30.0,
                             "HBBLBBPBLGE": 1.5,
-                            "IPDEDFHPHPO": 0.0,
+                            "innerRadius": 0.0,
                             "targetType": "All",
                             "predicates": [
                                 {
@@ -3545,7 +3545,7 @@
                             },
                             "BHELOIADOLH": 10.0,
                             "HBBLBBPBLGE": 3.0,
-                            "IPDEDFHPHPO": 0.10000000149011612,
+                            "innerRadius": 0.10000000149011612,
                             "BPFAJPNHJIB": true,
                             "targetType": "All",
                             "predicates": [

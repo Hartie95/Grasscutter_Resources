@@ -465,7 +465,7 @@
                             },
                             "BHELOIADOLH": 5.0,
                             "HBBLBBPBLGE": 0.0,
-                            "IPDEDFHPHPO": 1.0,
+                            "innerRadius": 1.0,
                             "targetType": "All",
                             "predicates": [
                                 {

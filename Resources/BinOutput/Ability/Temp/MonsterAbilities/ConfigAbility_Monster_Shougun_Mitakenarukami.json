@@ -397,7 +397,7 @@
                             ]
                         }
                     ],
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "SetSpecialCamera",
                             "enable": true,
@@ -786,7 +786,7 @@
                             "value": true
                         }
                     ],
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "SetAnimatorBool",
                             "boolID": "TransformState"
@@ -810,7 +810,7 @@
                             "boolID": "TransformState"
                         }
                     ],
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "SetAnimatorBool",
                             "boolID": "TransformState",
@@ -843,7 +843,7 @@
                             }
                         }
                     },
-                    "OGADOPDNBMM": false
+                    "setTarget": false
                 },
                 {
                     "$type": "SetGlobalValue",
@@ -1452,7 +1452,7 @@
                             "skillEliteSetID": 1
                         }
                     ],
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "UseSkillEliteSet",
                             "skillEliteSetID": 1
@@ -1575,7 +1575,7 @@
                             "skillEliteSetID": 2
                         }
                     ],
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "UseSkillEliteSet",
                             "skillEliteSetID": 2
@@ -1686,7 +1686,7 @@
                             "weight": 2.25
                         }
                     ],
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "UseSkillEliteSet",
                             "skillEliteSetID": 3
@@ -1941,32 +1941,32 @@
                     "onAdded": [
                         {
                             "$type": "TriggerHideWeapon",
-                            "FLCNICMDANB": [
+                            "partNames": [
                                 "equip02"
                             ],
                             "AADNNMOBDNJ": true
                         },
                         {
                             "$type": "TriggerHideWeapon",
-                            "ACDFJMCPFGH": true,
-                            "FLCNICMDANB": [
+                            "visible": true,
+                            "partNames": [
                                 "equip01"
                             ],
                             "AADNNMOBDNJ": true
                         }
                     ],
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "TriggerHideWeapon",
-                            "FLCNICMDANB": [
+                            "partNames": [
                                 "equip02"
                             ],
                             "AADNNMOBDNJ": true
                         },
                         {
                             "$type": "TriggerHideWeapon",
-                            "ACDFJMCPFGH": true,
-                            "FLCNICMDANB": [
+                            "visible": true,
+                            "partNames": [
                                 "equip01"
                             ],
                             "AADNNMOBDNJ": true
@@ -1980,32 +1980,32 @@
                     "onAdded": [
                         {
                             "$type": "TriggerHideWeapon",
-                            "ACDFJMCPFGH": true,
-                            "FLCNICMDANB": [
+                            "visible": true,
+                            "partNames": [
                                 "equip02"
                             ],
                             "AADNNMOBDNJ": true
                         },
                         {
                             "$type": "TriggerHideWeapon",
-                            "FLCNICMDANB": [
+                            "partNames": [
                                 "equip01"
                             ],
                             "AADNNMOBDNJ": true
                         }
                     ],
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "TriggerHideWeapon",
-                            "ACDFJMCPFGH": true,
-                            "FLCNICMDANB": [
+                            "visible": true,
+                            "partNames": [
                                 "equip02"
                             ],
                             "AADNNMOBDNJ": true
                         },
                         {
                             "$type": "TriggerHideWeapon",
-                            "FLCNICMDANB": [
+                            "partNames": [
                                 "equip01"
                             ],
                             "AADNNMOBDNJ": true
@@ -2019,30 +2019,30 @@
                     "onAdded": [
                         {
                             "$type": "TriggerHideWeapon",
-                            "FLCNICMDANB": [
+                            "partNames": [
                                 "equip02"
                             ],
                             "AADNNMOBDNJ": true
                         },
                         {
                             "$type": "TriggerHideWeapon",
-                            "FLCNICMDANB": [
+                            "partNames": [
                                 "equip01"
                             ],
                             "AADNNMOBDNJ": true
                         }
                     ],
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "TriggerHideWeapon",
-                            "FLCNICMDANB": [
+                            "partNames": [
                                 "equip02"
                             ],
                             "AADNNMOBDNJ": true
                         },
                         {
                             "$type": "TriggerHideWeapon",
-                            "FLCNICMDANB": [
+                            "partNames": [
                                 "equip01"
                             ],
                             "AADNNMOBDNJ": true
@@ -2053,14 +2053,14 @@
             "onAbilityStart": [
                 {
                     "$type": "TriggerHideWeapon",
-                    "FLCNICMDANB": [
+                    "partNames": [
                         "equip02"
                     ],
                     "AADNNMOBDNJ": true
                 },
                 {
                     "$type": "TriggerHideWeapon",
-                    "FLCNICMDANB": [
+                    "partNames": [
                         "equip01"
                     ],
                     "AADNNMOBDNJ": true
@@ -2075,7 +2075,7 @@
             "onAbilityStart": [
                 {
                     "$type": "TriggerHideWeapon",
-                    "FLCNICMDANB": [
+                    "partNames": [
                         "equip02"
                     ],
                     "AADNNMOBDNJ": true
@@ -2090,7 +2090,7 @@
             "onAbilityStart": [
                 {
                     "$type": "TriggerHideWeapon",
-                    "FLCNICMDANB": [
+                    "partNames": [
                         "equip01"
                     ],
                     "AADNNMOBDNJ": true
@@ -2213,7 +2213,7 @@
                             },
                             "BHELOIADOLH": -7.5,
                             "HBBLBBPBLGE": 0.0,
-                            "IPDEDFHPHPO": 0.0,
+                            "innerRadius": 0.0,
                             "targetType": "Enemy",
                             "predicates": [
                                 {
@@ -2562,7 +2562,7 @@
                             "boolID": "WeakStart"
                         }
                     ],
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "SetAnimatorBool",
                             "boolID": "WeakStart",
@@ -2768,7 +2768,7 @@
                     "stateIDs": [
                         "Mitakenarukami_BurstAtk01"
                     ],
-                    "MCFCEOACJEB": [
+                    "exitActions": [
                         {
                             "$type": "DoWatcherSystemAction",
                             "predicates": [
@@ -3086,7 +3086,7 @@
                             },
                             "BHELOIADOLH": -5.0,
                             "HBBLBBPBLGE": 0.0,
-                            "IPDEDFHPHPO": 0.0,
+                            "innerRadius": 0.0,
                             "targetType": "Enemy",
                             "predicates": [
                                 {
@@ -4878,7 +4878,7 @@
                             "born": {
                                 "$type": "ConfigBornByAttachPoint",
                                 "attachPointName": "VajraAttach01",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ]
@@ -4895,10 +4895,10 @@
                             "randomAngleHor": 2.5,
                             "IOIAHLPJDMH": 2.5,
                             "attachPointName": "VajraAttach01",
-                            "MMFHENHCBGB": "Self"
+                            "attachPointTargetType": "Self"
                         },
                         "attachPointName": "VajraAttach01",
-                        "MMFHENHCBGB": "Self"
+                        "attachPointTargetType": "Self"
                     }
                 },
                 {
@@ -4907,7 +4907,7 @@
                     "born": {
                         "$type": "ConfigBornByAttachPoint",
                         "attachPointName": "VajraAttach01",
-                        "MMFHENHCBGB": "Self"
+                        "attachPointTargetType": "Self"
                     }
                 }
             ]
@@ -5492,10 +5492,10 @@
                             "randomAngleHor": 2.5,
                             "IOIAHLPJDMH": 2.5,
                             "attachPointName": "VajraAttach02",
-                            "MMFHENHCBGB": "Self"
+                            "attachPointTargetType": "Self"
                         },
                         "attachPointName": "VajraAttach02",
-                        "MMFHENHCBGB": "Self"
+                        "attachPointTargetType": "Self"
                     }
                 },
                 {
@@ -5504,7 +5504,7 @@
                     "born": {
                         "$type": "ConfigBornByAttachPoint",
                         "attachPointName": "VajraAttach01",
-                        "MMFHENHCBGB": "Self"
+                        "attachPointTargetType": "Self"
                     }
                 }
             ]
@@ -6048,7 +6048,7 @@
                                     "z": 0.0
                                 }
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "ApplyModifier",
@@ -6448,7 +6448,7 @@
                                         "JBNMHNDDJJC": 7.5,
                                         "GCJBBHLBLLG": 27.5
                                     },
-                                    "OGADOPDNBMM": false
+                                    "setTarget": false
                                 }
                             ],
                             "failActions": [
@@ -6624,14 +6624,14 @@
                         },
                         {
                             "$type": "TriggerHideWeapon",
-                            "FLCNICMDANB": [
+                            "partNames": [
                                 "equip01"
                             ],
                             "AADNNMOBDNJ": true
                         },
                         {
                             "$type": "TriggerHideWeapon",
-                            "FLCNICMDANB": [
+                            "partNames": [
                                 "equip02"
                             ],
                             "AADNNMOBDNJ": true
@@ -6666,18 +6666,18 @@
                         },
                         {
                             "$type": "TriggerSetVisible",
-                            "ACDFJMCPFGH": true
+                            "visible": true
                         },
                         {
                             "$type": "TriggerHideWeapon",
-                            "FLCNICMDANB": [
+                            "partNames": [
                                 "equip01"
                             ],
                             "AADNNMOBDNJ": true
                         },
                         {
                             "$type": "TriggerHideWeapon",
-                            "FLCNICMDANB": [
+                            "partNames": [
                                 "equip02"
                             ],
                             "AADNNMOBDNJ": true
@@ -6847,14 +6847,14 @@
                         },
                         {
                             "$type": "TriggerHideWeapon",
-                            "FLCNICMDANB": [
+                            "partNames": [
                                 "equip02"
                             ],
                             "AADNNMOBDNJ": true
                         },
                         {
                             "$type": "TriggerHideWeapon",
-                            "FLCNICMDANB": [
+                            "partNames": [
                                 "equip01"
                             ],
                             "AADNNMOBDNJ": true
@@ -6885,19 +6885,19 @@
                         },
                         {
                             "$type": "TriggerSetVisible",
-                            "ACDFJMCPFGH": true
+                            "visible": true
                         },
                         {
                             "$type": "TriggerHideWeapon",
-                            "ACDFJMCPFGH": true,
-                            "FLCNICMDANB": [
+                            "visible": true,
+                            "partNames": [
                                 "equip01"
                             ],
                             "AADNNMOBDNJ": true
                         },
                         {
                             "$type": "TriggerHideWeapon",
-                            "FLCNICMDANB": [
+                            "partNames": [
                                 "equip02"
                             ],
                             "AADNNMOBDNJ": true
@@ -7709,7 +7709,7 @@
                                 "GDENJEFPMGC": "_MONSTER_SHOUGUN_BORN_POS_",
                                 "MICIJLHMIIH": ""
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "SetGlobalPos",
@@ -7728,7 +7728,7 @@
                                 "GDENJEFPMGC": "_MONSTER_SHOUGUN_BORN_POS_",
                                 "MICIJLHMIIH": ""
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "SetGlobalPos",
@@ -7747,7 +7747,7 @@
                                 "GDENJEFPMGC": "_MONSTER_SHOUGUN_BORN_POS_",
                                 "MICIJLHMIIH": ""
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "SetGlobalPos",
@@ -7766,7 +7766,7 @@
                                 "GDENJEFPMGC": "_MONSTER_SHOUGUN_BORN_POS_",
                                 "MICIJLHMIIH": ""
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "CreateGadget",
@@ -7872,14 +7872,14 @@
                         },
                         {
                             "$type": "TriggerHideWeapon",
-                            "FLCNICMDANB": [
+                            "partNames": [
                                 "equip01"
                             ],
                             "AADNNMOBDNJ": true
                         },
                         {
                             "$type": "TriggerHideWeapon",
-                            "FLCNICMDANB": [
+                            "partNames": [
                                 "equip02"
                             ],
                             "AADNNMOBDNJ": true
@@ -7994,19 +7994,19 @@
                         },
                         {
                             "$type": "TriggerSetVisible",
-                            "ACDFJMCPFGH": true
+                            "visible": true
                         },
                         {
                             "$type": "TriggerHideWeapon",
-                            "FLCNICMDANB": [
+                            "partNames": [
                                 "equip01"
                             ],
                             "AADNNMOBDNJ": true
                         },
                         {
                             "$type": "TriggerHideWeapon",
-                            "ACDFJMCPFGH": true,
-                            "FLCNICMDANB": [
+                            "visible": true,
+                            "partNames": [
                                 "equip02"
                             ],
                             "AADNNMOBDNJ": true
@@ -8746,7 +8746,7 @@
                             "born": {
                                 "$type": "ConfigBornByTarget"
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         }
                     ],
                     "onRemoved": [
@@ -8811,10 +8811,10 @@
                                         "z": 0.0
                                     },
                                     "attachPointName": "BladeWave01",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 },
                                 "attachPointName": "BladeWave01",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ]
@@ -9012,7 +9012,7 @@
                             "born": {
                                 "$type": "ConfigBornByTarget"
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         }
                     ],
                     "onRemoved": [
@@ -9077,10 +9077,10 @@
                                         "z": 0.0
                                     },
                                     "attachPointName": "BladeWave02",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 },
                                 "attachPointName": "BladeWave02",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ]
@@ -9786,7 +9786,7 @@
                                     "born": {
                                         "$type": "ConfigBornByTarget"
                                     },
-                                    "OGADOPDNBMM": false
+                                    "setTarget": false
                                 },
                                 {
                                     "$type": "TurnDirectionToPos",
@@ -9817,7 +9817,7 @@
                                     "born": {
                                         "$type": "ConfigBornByTarget"
                                     },
-                                    "OGADOPDNBMM": false
+                                    "setTarget": false
                                 },
                                 {
                                     "$type": "TurnDirectionToPos",
@@ -9971,7 +9971,7 @@
                             },
                             "BHELOIADOLH": -5.0,
                             "HBBLBBPBLGE": 0.0,
-                            "IPDEDFHPHPO": 0.0,
+                            "innerRadius": 0.0,
                             "targetType": "Enemy",
                             "predicates": [
                                 {

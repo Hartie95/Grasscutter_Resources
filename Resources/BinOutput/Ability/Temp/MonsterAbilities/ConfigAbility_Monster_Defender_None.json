@@ -437,7 +437,7 @@
                             "$type": "ByTargetGlobalValue",
                             "key": "_MONSTERAFFIX_Defender_WeaknessNerf_ForBuoyantCombat",
                             "value": 1.0,
-                            "EODMLMGMLNP": true
+                            "forceByCaster": true
                         }
                     ],
                     "value": 50.0,
@@ -989,7 +989,7 @@
                         "direction": {
                             "$type": "ConfigDirectionByAttachPoint",
                             "attachPointName": "BackSmoke01",
-                            "MMFHENHCBGB": "Self"
+                            "attachPointTargetType": "Self"
                         },
                         "attachPointName": "BackSmoke01"
                     }
@@ -1007,7 +1007,7 @@
                         "direction": {
                             "$type": "ConfigDirectionByAttachPoint",
                             "attachPointName": "BackSmoke02",
-                            "MMFHENHCBGB": "Self"
+                            "attachPointTargetType": "Self"
                         },
                         "attachPointName": "BackSmoke02"
                     }
@@ -1025,7 +1025,7 @@
                         "direction": {
                             "$type": "ConfigDirectionByAttachPoint",
                             "attachPointName": "BackSmoke03",
-                            "MMFHENHCBGB": "Self"
+                            "attachPointTargetType": "Self"
                         },
                         "attachPointName": "BackSmoke03"
                     }
@@ -1043,7 +1043,7 @@
                         "direction": {
                             "$type": "ConfigDirectionByAttachPoint",
                             "attachPointName": "BackSmoke04",
-                            "MMFHENHCBGB": "Self"
+                            "attachPointTargetType": "Self"
                         },
                         "attachPointName": "BackSmoke04"
                     }
@@ -1061,7 +1061,7 @@
                         "direction": {
                             "$type": "ConfigDirectionByAttachPoint",
                             "attachPointName": "BackSmoke05",
-                            "MMFHENHCBGB": "Self"
+                            "attachPointTargetType": "Self"
                         },
                         "attachPointName": "BackSmoke05"
                     }
@@ -1079,7 +1079,7 @@
                         "direction": {
                             "$type": "ConfigDirectionByAttachPoint",
                             "attachPointName": "BackSmoke06",
-                            "MMFHENHCBGB": "Self"
+                            "attachPointTargetType": "Self"
                         },
                         "attachPointName": "BackSmoke06"
                     }

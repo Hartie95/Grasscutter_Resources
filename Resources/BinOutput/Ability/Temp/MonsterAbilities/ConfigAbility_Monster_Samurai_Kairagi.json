@@ -104,7 +104,7 @@
                     "modifierMixins": [
                         {
                             "$type": "VelocityForceMixin",
-                            "MPGPCCEHFGL": [
+                            "excludeForces": [
                                 "RetreatType",
                                 "RetreatAirType",
                                 "InertiaType"
@@ -210,7 +210,7 @@
                         },
                         {
                             "$type": "VelocityForceMixin",
-                            "MPGPCCEHFGL": [
+                            "excludeForces": [
                                 "RetreatAirType"
                             ]
                         }
@@ -1460,7 +1460,7 @@
                             "KDGJOMGBPGO": "WeaponW"
                         }
                     ],
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "SetWeaponAttachPointRealName",
                             "NINLHECHMOD": "equip01",
@@ -1503,7 +1503,7 @@
                             "KDGJOMGBPGO": "WeaponR"
                         }
                     ],
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "SetWeaponAttachPointRealName",
                             "NINLHECHMOD": "equip01",
@@ -1521,7 +1521,7 @@
                 "Monster_Samurai_Kairagi_WeaponShowForSure": {
                     "modifierName": "",
                     "elementDurability": 100.0,
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "SetWeaponAttachPointRealName",
                             "NINLHECHMOD": "equip01",
@@ -1885,7 +1885,7 @@
                                 }
                             },
                             "FPIJACIKJKL": 0.25,
-                            "GLALMCMAFJF": 15.0,
+                            "maxRange": 15.0,
                             "MPOEADACOHO": [
                                 "RushAtk"
                             ],
@@ -1948,7 +1948,7 @@
                                 }
                             },
                             "FPIJACIKJKL": 0.25,
-                            "GLALMCMAFJF": 15.0,
+                            "maxRange": 15.0,
                             "MPOEADACOHO": [
                                 "RushAtk_Thunder",
                                 "ElementCombo_RushAtk_Thunder"
@@ -2084,7 +2084,7 @@
                                 }
                             },
                             "FPIJACIKJKL": 0.25,
-                            "GLALMCMAFJF": 15.0,
+                            "maxRange": 15.0,
                             "MPOEADACOHO": [
                                 "RushAtk_Fire",
                                 "ElementCombo_RushAtk_Fire_1",
@@ -2473,7 +2473,7 @@
                             "modifierName": "Monster_Samurai_Kairagi_02_AddElement_Fire"
                         }
                     ],
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "ApplyModifier",
                             "modifierName": "Monster_Samurai_Kairagi_02_AddElement_Fire"
@@ -2828,7 +2828,7 @@
                             "modifierName": "Monster_Samurai_Kairagi_Angry_ThunderEffect"
                         }
                     ],
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "ApplyModifier",
                             "modifierName": "Monster_Samurai_Kairagi_Angry_ThunderEffect"
@@ -2958,7 +2958,7 @@
                             "modifierName": "Monster_Samurai_Kairagi_Angry_FireEffect"
                         }
                     ],
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "ApplyModifier",
                             "modifierName": "Monster_Samurai_Kairagi_Angry_FireEffect"
@@ -3082,7 +3082,7 @@
                                             "$type": "ByTargetGlobalValue",
                                             "key": "SAMURAI_KAIRAGI_BLOCK_STATE",
                                             "value": 0.0,
-                                            "EODMLMGMLNP": true,
+                                            "forceByCaster": true,
                                             "compareType": "NoneOrEqual"
                                         }
                                     ],
@@ -3105,7 +3105,7 @@
                                             "$type": "ByTargetGlobalValue",
                                             "key": "SAMURAI_KAIRAGI_BLOCK_STATE",
                                             "value": 1.0,
-                                            "EODMLMGMLNP": true
+                                            "forceByCaster": true
                                         }
                                     ],
                                     "effectPattern": "Eff_Monster_Samurai_Kairagi_BlockHit_Thunder",
@@ -3127,7 +3127,7 @@
                                             "$type": "ByTargetGlobalValue",
                                             "key": "SAMURAI_KAIRAGI_BLOCK_STATE",
                                             "value": 2.0,
-                                            "EODMLMGMLNP": true
+                                            "forceByCaster": true
                                         }
                                     ],
                                     "effectPattern": "Eff_Monster_Samurai_Kairagi_BlockHit_Fire",
@@ -3140,7 +3140,7 @@
                         },
                         {
                             "$type": "VelocityForceMixin",
-                            "MPGPCCEHFGL": [
+                            "excludeForces": [
                                 "RetreatAirType"
                             ]
                         }
@@ -3182,7 +3182,7 @@
                                             "$type": "ByTargetGlobalValue",
                                             "key": "_SAMURAI_KAIRAKI_BLOCK_SUCCESS",
                                             "value": 0.0,
-                                            "EODMLMGMLNP": true,
+                                            "forceByCaster": true,
                                             "compareType": "NoneOrEqual"
                                         },
                                         {
@@ -3214,7 +3214,7 @@
                                             "$type": "ByTargetGlobalValue",
                                             "key": "_SAMURAI_KAIRAKI_BLOCK_SUCCESS",
                                             "value": 0.0,
-                                            "EODMLMGMLNP": true,
+                                            "forceByCaster": true,
                                             "compareType": "NoneOrEqual"
                                         },
                                         {
@@ -3536,7 +3536,7 @@
                             ]
                         }
                     ],
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "SetAISkillCDAvailableNow",
                             "skillIDs": [

@@ -312,7 +312,7 @@
                                     "z": 1.2000000476837158
                                 },
                                 "attachPointName": "FocusAnchor",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         },
                         {
@@ -333,10 +333,10 @@
                                         "z": 0.0
                                     },
                                     "attachPointName": "FocusAnchor",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 },
                                 "attachPointName": "FocusAnchor",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ]
@@ -368,7 +368,7 @@
                                     "z": 1.2000000476837158
                                 },
                                 "attachPointName": "FocusAnchor",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         },
                         {
@@ -402,10 +402,10 @@
                                         "z": 0.0
                                     },
                                     "attachPointName": "FocusAnchor",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 },
                                 "attachPointName": "FocusAnchor",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         },
                         {
@@ -434,10 +434,10 @@
                                         "z": 0.0
                                     },
                                     "attachPointName": "FocusAnchor",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 },
                                 "attachPointName": "FocusAnchor",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ]
@@ -1951,7 +1951,7 @@
                             "$type": "ByTargetGlobalValue",
                             "key": "_Is_LudiHarpastum_Ball_Perfect",
                             "value": 1.0,
-                            "EODMLMGMLNP": true
+                            "forceByCaster": true
                         }
                     ],
                     "successActions": [
@@ -3097,7 +3097,7 @@
                             "born": {
                                 "$type": "ConfigBornByAttachPoint",
                                 "attachPointName": "FocusAnchor",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         },
                         {
@@ -3242,7 +3242,7 @@
                             "born": {
                                 "$type": "ConfigBornByAttachPoint",
                                 "attachPointName": "FocusAnchor",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         },
                         {
@@ -3341,7 +3341,7 @@
                                                 "z": 0.0
                                             },
                                             "attachPointName": "FocusAnchor",
-                                            "MMFHENHCBGB": "Self"
+                                            "attachPointTargetType": "Self"
                                         },
                                         "GDENJEFPMGC": "_ActivityAbility_Shoot_POS",
                                         "MICIJLHMIIH": ""
@@ -3368,7 +3368,7 @@
                                                 "z": 0.0
                                             },
                                             "attachPointName": "FocusAnchor",
-                                            "MMFHENHCBGB": "Self"
+                                            "attachPointTargetType": "Self"
                                         },
                                         "GDENJEFPMGC": "_ActivityAbility_Shoot_POS",
                                         "MICIJLHMIIH": ""
@@ -3421,7 +3421,7 @@
                                                         "z": 0.0
                                                     },
                                                     "attachPointName": "FocusAnchor",
-                                                    "MMFHENHCBGB": "Self"
+                                                    "attachPointTargetType": "Self"
                                                 },
                                                 "GDENJEFPMGC": "_ActivityAbility_Shoot_POS",
                                                 "MICIJLHMIIH": ""
@@ -3448,7 +3448,7 @@
                                                         "z": 0.0
                                                     },
                                                     "attachPointName": "FocusAnchor",
-                                                    "MMFHENHCBGB": "Self"
+                                                    "attachPointTargetType": "Self"
                                                 },
                                                 "GDENJEFPMGC": "_ActivityAbility_Shoot_POS",
                                                 "MICIJLHMIIH": ""
@@ -3491,7 +3491,7 @@
                                                         "z": 0.0
                                                     },
                                                     "attachPointName": "FocusAnchor",
-                                                    "MMFHENHCBGB": "Self"
+                                                    "attachPointTargetType": "Self"
                                                 },
                                                 "GDENJEFPMGC": "_ActivityAbility_Shoot_POS",
                                                 "MICIJLHMIIH": ""
@@ -3518,7 +3518,7 @@
                                                         "z": 0.0
                                                     },
                                                     "attachPointName": "FocusAnchor",
-                                                    "MMFHENHCBGB": "Self"
+                                                    "attachPointTargetType": "Self"
                                                 },
                                                 "GDENJEFPMGC": "_ActivityAbility_Shoot_POS",
                                                 "MICIJLHMIIH": ""

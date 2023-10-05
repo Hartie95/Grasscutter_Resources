@@ -742,7 +742,7 @@
                             "born": {
                                 "$type": "ConfigBornByAttachPoint",
                                 "attachPointName": "IdlePoint",
-                                "MMFHENHCBGB": "Caster"
+                                "attachPointTargetType": "Caster"
                             }
                         }
                     ]
@@ -977,7 +977,7 @@
                             "born": {
                                 "$type": "ConfigBornByAttachPoint",
                                 "attachPointName": "ElectricControl",
-                                "MMFHENHCBGB": "Caster"
+                                "attachPointTargetType": "Caster"
                             }
                         }
                     ],
@@ -1936,7 +1936,7 @@
                             "minValue": 0.0
                         }
                     ],
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "SetGlobalValue",
                             "value": 0.0,

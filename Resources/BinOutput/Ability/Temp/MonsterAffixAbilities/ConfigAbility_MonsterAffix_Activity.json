@@ -1961,7 +1961,7 @@
                                     "born": {
                                         "$type": "ConfigBornByAttachPoint",
                                         "attachPointName": "RootNode",
-                                        "MMFHENHCBGB": "Caster"
+                                        "attachPointTargetType": "Caster"
                                     }
                                 },
                                 {
@@ -4637,7 +4637,7 @@
                                     "born": {
                                         "$type": "ConfigBornByAttachPoint",
                                         "attachPointName": "RootNode",
-                                        "MMFHENHCBGB": "Caster"
+                                        "attachPointTargetType": "Caster"
                                     }
                                 },
                                 {

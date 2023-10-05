@@ -1914,7 +1914,7 @@
                                     "$type": "ByTargetGlobalValue",
                                     "key": "_ACTIVITY_BlitzRush_Tag",
                                     "value": 1.0,
-                                    "EODMLMGMLNP": true
+                                    "forceByCaster": true
                                 },
                                 {
                                     "$type": "ByHitBoxName",
@@ -1941,7 +1941,7 @@
                                     "target": "Self",
                                     "key": "_ACTIVITY_BlitzRush_Tag",
                                     "value": 1.0,
-                                    "EODMLMGMLNP": true
+                                    "forceByCaster": true
                                 },
                                 {
                                     "$type": "ByHitBoxName",
@@ -3329,7 +3329,7 @@
                             "born": {
                                 "$type": "ConfigBornByAttachPoint",
                                 "attachPointName": "RootNode",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ]

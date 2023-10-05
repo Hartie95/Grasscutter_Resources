@@ -168,7 +168,7 @@
                         },
                         "onGround": true
                     },
-                    "JLCCGHLNHOI": 8.0,
+                    "minRange": 8.0,
                     "GDCBDDNNPCM": 0.6700000166893005
                 },
                 {
@@ -203,8 +203,8 @@
                         },
                         "onGround": true
                     },
-                    "JLCCGHLNHOI": 8.0,
-                    "GLALMCMAFJF": 40.0,
+                    "minRange": 8.0,
+                    "maxRange": 40.0,
                     "GDCBDDNNPCM": 0.6700000166893005
                 }
             ]

@@ -98,7 +98,7 @@
                     },
                     "secondHeight": 2.299999952316284,
                     "radius": 4.800000190734863,
-                    "IPDEDFHPHPO": 3.5
+                    "innerRadius": 3.5
                 },
                 "attackInfo": {
                     "attackTag": "Monster_ForlornVessel_Attack",

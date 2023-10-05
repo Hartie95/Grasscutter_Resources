@@ -181,7 +181,7 @@
                             "born": {
                                 "$type": "ConfigBornBySelf"
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         }
                     ]
                 }

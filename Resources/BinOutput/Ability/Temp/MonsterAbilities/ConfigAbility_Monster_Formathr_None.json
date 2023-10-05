@@ -262,7 +262,7 @@
                             },
                             "BHELOIADOLH": -30.0,
                             "HBBLBBPBLGE": 2.0,
-                            "IPDEDFHPHPO": 0.0,
+                            "innerRadius": 0.0,
                             "targetType": "Enemy",
                             "predicates": [
                                 {
@@ -749,7 +749,7 @@
                             "minValue": 0.0
                         }
                     ],
-                    "MCFCEOACJEB": [
+                    "exitActions": [
                         {
                             "$type": "AddGlobalValue",
                             "value": -1.0,
@@ -775,7 +775,7 @@
                             "minValue": 0.0
                         }
                     ],
-                    "MCFCEOACJEB": [
+                    "exitActions": [
                         {
                             "$type": "AddGlobalValue",
                             "value": -2.0,
@@ -1097,7 +1097,7 @@
                         "direction": {
                             "$type": "ConfigDirectionByAttachPoint",
                             "attachPointName": "RightDown_Cannon",
-                            "MMFHENHCBGB": "Self"
+                            "attachPointTargetType": "Self"
                         },
                         "attachPointName": "RightDown_Cannon"
                     }
@@ -1118,7 +1118,7 @@
                         "direction": {
                             "$type": "ConfigDirectionByAttachPoint",
                             "attachPointName": "RightDown_Cannon",
-                            "MMFHENHCBGB": "Self"
+                            "attachPointTargetType": "Self"
                         },
                         "attachPointName": "RightDown_Cannon"
                     }
@@ -1139,7 +1139,7 @@
                         "direction": {
                             "$type": "ConfigDirectionByAttachPoint",
                             "attachPointName": "RightDown_Cannon",
-                            "MMFHENHCBGB": "Self"
+                            "attachPointTargetType": "Self"
                         },
                         "attachPointName": "RightDown_Cannon"
                     }
@@ -1160,7 +1160,7 @@
                         "direction": {
                             "$type": "ConfigDirectionByAttachPoint",
                             "attachPointName": "RightDown_Cannon",
-                            "MMFHENHCBGB": "Self"
+                            "attachPointTargetType": "Self"
                         },
                         "attachPointName": "RightDown_Cannon"
                     }
@@ -1181,7 +1181,7 @@
                         "direction": {
                             "$type": "ConfigDirectionByAttachPoint",
                             "attachPointName": "RightDown_Cannon",
-                            "MMFHENHCBGB": "Self"
+                            "attachPointTargetType": "Self"
                         },
                         "attachPointName": "RightDown_Cannon"
                     }
@@ -1250,7 +1250,7 @@
                         "direction": {
                             "$type": "ConfigDirectionByAttachPoint",
                             "attachPointName": "RightUp_Cannon",
-                            "MMFHENHCBGB": "Self"
+                            "attachPointTargetType": "Self"
                         },
                         "attachPointName": "RightUp_Cannon"
                     }
@@ -1271,7 +1271,7 @@
                         "direction": {
                             "$type": "ConfigDirectionByAttachPoint",
                             "attachPointName": "RightUp_Cannon",
-                            "MMFHENHCBGB": "Self"
+                            "attachPointTargetType": "Self"
                         },
                         "attachPointName": "RightUp_Cannon"
                     }
@@ -1292,7 +1292,7 @@
                         "direction": {
                             "$type": "ConfigDirectionByAttachPoint",
                             "attachPointName": "RightUp_Cannon",
-                            "MMFHENHCBGB": "Self"
+                            "attachPointTargetType": "Self"
                         },
                         "attachPointName": "RightUp_Cannon"
                     }
@@ -1313,7 +1313,7 @@
                         "direction": {
                             "$type": "ConfigDirectionByAttachPoint",
                             "attachPointName": "RightUp_Cannon",
-                            "MMFHENHCBGB": "Self"
+                            "attachPointTargetType": "Self"
                         },
                         "attachPointName": "RightUp_Cannon"
                     }
@@ -1334,7 +1334,7 @@
                         "direction": {
                             "$type": "ConfigDirectionByAttachPoint",
                             "attachPointName": "RightUp_Cannon",
-                            "MMFHENHCBGB": "Self"
+                            "attachPointTargetType": "Self"
                         },
                         "attachPointName": "RightUp_Cannon"
                     }
@@ -1403,7 +1403,7 @@
                         "direction": {
                             "$type": "ConfigDirectionByAttachPoint",
                             "attachPointName": "LeftDown_Cannon",
-                            "MMFHENHCBGB": "Self"
+                            "attachPointTargetType": "Self"
                         },
                         "attachPointName": "LeftDown_Cannon"
                     }
@@ -1424,7 +1424,7 @@
                         "direction": {
                             "$type": "ConfigDirectionByAttachPoint",
                             "attachPointName": "LeftDown_Cannon",
-                            "MMFHENHCBGB": "Self"
+                            "attachPointTargetType": "Self"
                         },
                         "attachPointName": "LeftDown_Cannon"
                     }
@@ -1445,7 +1445,7 @@
                         "direction": {
                             "$type": "ConfigDirectionByAttachPoint",
                             "attachPointName": "LeftDown_Cannon",
-                            "MMFHENHCBGB": "Self"
+                            "attachPointTargetType": "Self"
                         },
                         "attachPointName": "LeftDown_Cannon"
                     }
@@ -1466,7 +1466,7 @@
                         "direction": {
                             "$type": "ConfigDirectionByAttachPoint",
                             "attachPointName": "LeftDown_Cannon",
-                            "MMFHENHCBGB": "Self"
+                            "attachPointTargetType": "Self"
                         },
                         "attachPointName": "LeftDown_Cannon"
                     }
@@ -1487,7 +1487,7 @@
                         "direction": {
                             "$type": "ConfigDirectionByAttachPoint",
                             "attachPointName": "LeftDown_Cannon",
-                            "MMFHENHCBGB": "Self"
+                            "attachPointTargetType": "Self"
                         },
                         "attachPointName": "LeftDown_Cannon"
                     }
@@ -1556,7 +1556,7 @@
                         "direction": {
                             "$type": "ConfigDirectionByAttachPoint",
                             "attachPointName": "LeftUp_Cannon",
-                            "MMFHENHCBGB": "Self"
+                            "attachPointTargetType": "Self"
                         },
                         "attachPointName": "LeftUp_Cannon"
                     }
@@ -1577,7 +1577,7 @@
                         "direction": {
                             "$type": "ConfigDirectionByAttachPoint",
                             "attachPointName": "LeftUp_Cannon",
-                            "MMFHENHCBGB": "Self"
+                            "attachPointTargetType": "Self"
                         },
                         "attachPointName": "LeftUp_Cannon"
                     }
@@ -1598,7 +1598,7 @@
                         "direction": {
                             "$type": "ConfigDirectionByAttachPoint",
                             "attachPointName": "LeftUp_Cannon",
-                            "MMFHENHCBGB": "Self"
+                            "attachPointTargetType": "Self"
                         },
                         "attachPointName": "LeftUp_Cannon"
                     }
@@ -1619,7 +1619,7 @@
                         "direction": {
                             "$type": "ConfigDirectionByAttachPoint",
                             "attachPointName": "LeftUp_Cannon",
-                            "MMFHENHCBGB": "Self"
+                            "attachPointTargetType": "Self"
                         },
                         "attachPointName": "LeftUp_Cannon"
                     }
@@ -1640,7 +1640,7 @@
                         "direction": {
                             "$type": "ConfigDirectionByAttachPoint",
                             "attachPointName": "LeftUp_Cannon",
-                            "MMFHENHCBGB": "Self"
+                            "attachPointTargetType": "Self"
                         },
                         "attachPointName": "LeftUp_Cannon"
                     }
@@ -1673,9 +1673,9 @@
             "onAbilityStart": [
                 {
                     "$type": "FireHitEffect",
-                    "OFIGOLJOGPJ": "Eff_Monster_Formathr_None_StraightBullet_Hit",
-                    "MHCHJLOELPF": {
-                        "MCNFNFLLGIH": "Eff_Monster_Formathr_None_StraightBullet_HitScene"
+                    "hitEntity": "Eff_Monster_Formathr_None_StraightBullet_Hit",
+                    "hitScene": {
+                        "defaultEffect": "Eff_Monster_Formathr_None_StraightBullet_HitScene"
                     }
                 },
                 {
@@ -2869,7 +2869,7 @@
                                 "direction": {
                                     "$type": "ConfigDirectionByAttachPoint",
                                     "attachPointName": "RightDown_Cannon",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 },
                                 "attachPointName": "RightDown_Cannon"
                             }
@@ -2882,7 +2882,7 @@
                                 "direction": {
                                     "$type": "ConfigDirectionByAttachPoint",
                                     "attachPointName": "RightUp_Cannon",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 },
                                 "attachPointName": "RightUp_Cannon"
                             }
@@ -2895,7 +2895,7 @@
                                 "direction": {
                                     "$type": "ConfigDirectionByAttachPoint",
                                     "attachPointName": "LeftDown_Cannon",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 },
                                 "attachPointName": "LeftDown_Cannon"
                             }
@@ -2908,7 +2908,7 @@
                                 "direction": {
                                     "$type": "ConfigDirectionByAttachPoint",
                                     "attachPointName": "LeftUp_Cannon",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 },
                                 "attachPointName": "LeftUp_Cannon"
                             }

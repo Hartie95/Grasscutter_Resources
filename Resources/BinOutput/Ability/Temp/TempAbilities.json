@@ -2572,7 +2572,7 @@
                     "shapeName": "CircleR5",
                     "BHELOIADOLH": 2.0,
                     "HBBLBBPBLGE": 0.0,
-                    "IPDEDFHPHPO": 0.0,
+                    "innerRadius": 0.0,
                     "targetType": "Enemy",
                     "predicates": [
                         {

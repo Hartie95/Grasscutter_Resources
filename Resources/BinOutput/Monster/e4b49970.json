@@ -387,7 +387,7 @@
                     },
                     "secondHeight": 4.0,
                     "radius": 14.0,
-                    "IPDEDFHPHPO": 7.0
+                    "innerRadius": 7.0
                 },
                 "attackInfo": {
                     "attackTag": "",

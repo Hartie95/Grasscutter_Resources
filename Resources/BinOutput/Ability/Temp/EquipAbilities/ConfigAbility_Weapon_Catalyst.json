@@ -1658,7 +1658,7 @@
                                                     "z": 0.20000000298023224
                                                 },
                                                 "attachPointName": "WeaponL",
-                                                "MMFHENHCBGB": "Self"
+                                                "attachPointTargetType": "Self"
                                             }
                                         },
                                         {
@@ -2435,7 +2435,7 @@
                                             "z": 0.0
                                         }
                                     },
-                                    "OGADOPDNBMM": false
+                                    "setTarget": false
                                 },
                                 {
                                     "$type": "CreateGadget",

@@ -40,7 +40,7 @@
                     {
                         "$type": "ContextConditionMainQuestVisible",
                         "mainQuestId": 71044,
-                        "ACDFJMCPFGH": true
+                        "visible": true
                     }
                 ]
             },

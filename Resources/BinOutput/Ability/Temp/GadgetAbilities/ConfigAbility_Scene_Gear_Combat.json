@@ -813,7 +813,7 @@
                             },
                             "BHELOIADOLH": 3.0,
                             "HBBLBBPBLGE": 0.0,
-                            "IPDEDFHPHPO": 0.0,
+                            "innerRadius": 0.0,
                             "targetType": "All",
                             "predicates": [
                                 {
@@ -846,7 +846,7 @@
                             },
                             "BHELOIADOLH": -3.0,
                             "HBBLBBPBLGE": 0.0,
-                            "IPDEDFHPHPO": 0.0,
+                            "innerRadius": 0.0,
                             "targetType": "All",
                             "predicates": [
                                 {
@@ -1073,7 +1073,7 @@
                                     "z": 0.0
                                 },
                                 "attachPointName": "RootNode",
-                                "MMFHENHCBGB": "Applier"
+                                "attachPointTargetType": "Applier"
                             }
                         },
                         {
@@ -1314,7 +1314,7 @@
                                     "z": 0.0
                                 },
                                 "attachPointName": "RootNode",
-                                "MMFHENHCBGB": "Applier"
+                                "attachPointTargetType": "Applier"
                             }
                         },
                         {
@@ -1643,7 +1643,7 @@
                                     "z": 0.0
                                 },
                                 "attachPointName": "RootNode",
-                                "MMFHENHCBGB": "Applier"
+                                "attachPointTargetType": "Applier"
                             }
                         },
                         {
@@ -2440,7 +2440,7 @@
                 },
                 {
                     "$type": "TriggerHideWeapon",
-                    "FLCNICMDANB": [
+                    "partNames": [
                         "equip01"
                     ]
                 },
@@ -4211,7 +4211,7 @@
                                     "$type": "ByTargetGlobalValue",
                                     "key": "_SCENEOBJ_TracingEnergyBall_PowerUp",
                                     "value": 0.0,
-                                    "EODMLMGMLNP": true,
+                                    "forceByCaster": true,
                                     "compareType": "NoneOrEqual"
                                 }
                             ],
@@ -4235,7 +4235,7 @@
                                     "$type": "ByTargetGlobalValue",
                                     "key": "_SCENEOBJ_TracingEnergyBall_PowerUp",
                                     "value": 1.0,
-                                    "EODMLMGMLNP": true
+                                    "forceByCaster": true
                                 }
                             ],
                             "bulletID": 70330056,
@@ -4287,7 +4287,7 @@
                             "born": {
                                 "$type": "ConfigBornByAttachPoint",
                                 "attachPointName": "RootNode",
-                                "MMFHENHCBGB": "Applier"
+                                "attachPointTargetType": "Applier"
                             }
                         }
                     ]
@@ -4612,7 +4612,7 @@
                 },
                 {
                     "$type": "FireHitEffect",
-                    "OFIGOLJOGPJ": "Eff_SceneObj_TracingEnergyBall_Hit"
+                    "hitEntity": "Eff_SceneObj_TracingEnergyBall_Hit"
                 }
             ],
             "onKill": [
@@ -6920,7 +6920,7 @@
                                     "z": 0.0
                                 },
                                 "attachPointName": "RootNode",
-                                "MMFHENHCBGB": "Applier"
+                                "attachPointTargetType": "Applier"
                             }
                         },
                         {
@@ -7602,7 +7602,7 @@
                                     "z": 0.0
                                 },
                                 "attachPointName": "RootNode",
-                                "MMFHENHCBGB": "Applier"
+                                "attachPointTargetType": "Applier"
                             }
                         },
                         {

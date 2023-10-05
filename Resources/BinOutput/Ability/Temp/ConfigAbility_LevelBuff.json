@@ -5147,7 +5147,7 @@
                                             "$type": "ByTargetGlobalValue",
                                             "key": "_IS_TOWERBUFF_REACTION_HURT_EXPLODE_CD",
                                             "value": 0.0,
-                                            "EODMLMGMLNP": true,
+                                            "forceByCaster": true,
                                             "compareType": "LessAndEqual"
                                         }
                                     ],
@@ -5323,7 +5323,7 @@
                                             "$type": "ByTargetGlobalValue",
                                             "key": "_IS_TOWERBUFF_REACTION_HURT_SUPERCONDUCTOR_CD",
                                             "value": 0.0,
-                                            "EODMLMGMLNP": true,
+                                            "forceByCaster": true,
                                             "compareType": "LessAndEqual"
                                         }
                                     ],
@@ -5499,7 +5499,7 @@
                                             "$type": "ByTargetGlobalValue",
                                             "key": "_IS_TOWERBUFF_REACTION_HURT_MELT_CD",
                                             "value": 0.0,
-                                            "EODMLMGMLNP": true,
+                                            "forceByCaster": true,
                                             "compareType": "LessAndEqual"
                                         }
                                     ],
@@ -5675,7 +5675,7 @@
                                             "$type": "ByTargetGlobalValue",
                                             "key": "_IS_TOWERBUFF_REACTION_HURT_STREAM_CD",
                                             "value": 0.0,
-                                            "EODMLMGMLNP": true,
+                                            "forceByCaster": true,
                                             "compareType": "LessAndEqual"
                                         }
                                     ],
@@ -5851,7 +5851,7 @@
                                             "$type": "ByTargetGlobalValue",
                                             "key": "_IS_TOWERBUFF_REACTION_HURT_SHOCK_CD",
                                             "value": 0.0,
-                                            "EODMLMGMLNP": true,
+                                            "forceByCaster": true,
                                             "compareType": "LessAndEqual"
                                         }
                                     ],
@@ -6862,7 +6862,7 @@
                                     "$type": "ByTargetGlobalValue",
                                     "key": "LevelEntity_TowerBuff_AtkDefUpAfterULT_BuffCount",
                                     "value": "LevelEntity_TowerBuff_BuffSpeedUpCount",
-                                    "EODMLMGMLNP": true,
+                                    "forceByCaster": true,
                                     "compareType": "MoreThanAndEqual"
                                 }
                             ],
@@ -10145,14 +10145,14 @@
                                     "$type": "ByTargetGlobalValue",
                                     "key": "_Is_TowerBuff_AreaAttack_Charge",
                                     "value": 2.0,
-                                    "EODMLMGMLNP": true,
+                                    "forceByCaster": true,
                                     "compareType": "LessAndEqual"
                                 },
                                 {
                                     "$type": "ByTargetGlobalValue",
                                     "key": "_Is_TowerBuff_AreaAttack_CD",
                                     "value": 0.0,
-                                    "EODMLMGMLNP": true,
+                                    "forceByCaster": true,
                                     "compareType": "NoneOrEqual"
                                 }
                             ],
@@ -10543,7 +10543,7 @@
                                             "$type": "ByTargetGlobalValue",
                                             "key": "LevelEntity_TowerBuff_AttackUpAreaDamageLowHP_DoAttack",
                                             "value": 0.0,
-                                            "EODMLMGMLNP": true,
+                                            "forceByCaster": true,
                                             "compareType": "MoreThan"
                                         }
                                     ],
@@ -10914,7 +10914,7 @@
                                                 1.0,
                                                 "Sub"
                                             ],
-                                            "EODMLMGMLNP": true,
+                                            "forceByCaster": true,
                                             "compareType": "LessAndEqual"
                                         }
                                     ],
@@ -10994,7 +10994,7 @@
                                     "$type": "ByTargetGlobalValue",
                                     "key": "_Ability_TowerBuff_AreaNoEnemyAttackUp_TempEnemyCount",
                                     "value": 0.0,
-                                    "EODMLMGMLNP": true
+                                    "forceByCaster": true
                                 }
                             ],
                             "successActions": [
@@ -11018,7 +11018,7 @@
                                             "$type": "ByTargetGlobalValue",
                                             "key": "_Ability_TowerBuff_AreaNoEnemyAttackUp_TempEnemyCount",
                                             "value": "Value_BuffMaxCount",
-                                            "EODMLMGMLNP": true
+                                            "forceByCaster": true
                                         }
                                     ],
                                     "successActions": [
@@ -11062,7 +11062,7 @@
                                         1.0,
                                         "Sub"
                                     ],
-                                    "EODMLMGMLNP": true,
+                                    "forceByCaster": true,
                                     "compareType": "LessAndEqual"
                                 }
                             ],
@@ -11702,7 +11702,7 @@
                                     "$type": "ByTargetGlobalValue",
                                     "key": "_LevelEntity_TowerBuff_PhysicalHurtUpAreaAttack_NormalAttackDuration",
                                     "value": 1.0,
-                                    "EODMLMGMLNP": true
+                                    "forceByCaster": true
                                 }
                             ],
                             "successActions": [
@@ -12077,7 +12077,7 @@
                                     "$type": "ByTargetGlobalValue",
                                     "key": "_LevelEntity_TowerBuff_CriticalUpAreaAttackCount",
                                     "value": "LevelEntity_TowerBuff_BuffMaxLevel_P2",
-                                    "EODMLMGMLNP": true,
+                                    "forceByCaster": true,
                                     "compareType": "MoreThanAndEqual"
                                 },
                                 {
@@ -12295,7 +12295,7 @@
                                             "born": {
                                                 "$type": "ConfigBornByTarget"
                                             },
-                                            "OGADOPDNBMM": false
+                                            "setTarget": false
                                         },
                                         {
                                             "$type": "FireEffect",
@@ -12535,7 +12535,7 @@
                                                 "$type": "ConfigBornByTarget",
                                                 "onGround": true
                                             },
-                                            "OGADOPDNBMM": false
+                                            "setTarget": false
                                         },
                                         {
                                             "$type": "ApplyModifier",
@@ -17541,7 +17541,7 @@
                                         "$type": "ConfigBornByAttachPoint",
                                         "attachPointName": "RootNode"
                                     },
-                                    "OGADOPDNBMM": false
+                                    "setTarget": false
                                 },
                                 {
                                     "$type": "FireEffect",
@@ -19199,7 +19199,7 @@
                                         "$type": "ConfigBornByAttachPoint",
                                         "attachPointName": "RootNode"
                                     },
-                                    "OGADOPDNBMM": false
+                                    "setTarget": false
                                 },
                                 {
                                     "$type": "RemoveUniqueModifier",

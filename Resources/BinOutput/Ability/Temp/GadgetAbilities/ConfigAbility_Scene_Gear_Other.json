@@ -152,7 +152,7 @@
                             "born": {
                                 "$type": "ConfigBornByAttachPoint",
                                 "attachPointName": "attachPoint",
-                                "MMFHENHCBGB": "Caster"
+                                "attachPointTargetType": "Caster"
                             }
                         }
                     ]
@@ -799,7 +799,7 @@
                                     }
                                 }
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "AttachEffect",

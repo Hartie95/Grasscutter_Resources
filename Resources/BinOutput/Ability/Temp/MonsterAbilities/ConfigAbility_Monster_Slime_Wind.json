@@ -198,7 +198,7 @@
                                     "$type": "ByTargetGlobalValue",
                                     "key": "_ELITEAFFIX_ATTACK_ENHANCE",
                                     "value": 1.0,
-                                    "EODMLMGMLNP": true
+                                    "forceByCaster": true
                                 }
                             ],
                             "boolID": "Elite_Modifier",
@@ -350,7 +350,7 @@
                             },
                             "BHELOIADOLH": -10.0,
                             "HBBLBBPBLGE": 1.0,
-                            "IPDEDFHPHPO": 0.0,
+                            "innerRadius": 0.0,
                             "targetType": "All",
                             "predicates": [
                                 {
@@ -427,7 +427,7 @@
                             },
                             "BHELOIADOLH": -15.0,
                             "HBBLBBPBLGE": 3.0,
-                            "IPDEDFHPHPO": 0.0,
+                            "innerRadius": 0.0,
                             "targetType": "All",
                             "predicates": [
                                 {

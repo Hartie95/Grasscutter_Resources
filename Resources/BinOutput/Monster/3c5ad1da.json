@@ -904,7 +904,7 @@
     "move": {
         "$type": "ConfigAnimatorMove",
         "LLNGHPMEALD": {
-            "MPGPCCEHFGL": [
+            "excludeForces": [
                 "RetreatAirType",
                 "WindZoneType",
                 "AirflowType"

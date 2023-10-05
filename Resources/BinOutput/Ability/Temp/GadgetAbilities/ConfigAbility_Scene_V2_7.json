@@ -588,7 +588,7 @@
                             "modifierName": "Action_Unload_City"
                         }
                     ],
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "ApplyModifier",
                             "modifierName": "Action_Unload_City"
@@ -687,7 +687,7 @@
                             "content": "State_201"
                         }
                     ],
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "ExecuteGadgetLua"
                         },
@@ -1225,7 +1225,7 @@
                             }
                         }
                     ],
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "SetGlobalValue",
                             "value": 1.0,
@@ -2234,7 +2234,7 @@
                                     "$type": "ConfigDirectionByLookAtEntity"
                                 }
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "Predicated",

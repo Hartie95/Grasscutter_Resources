@@ -211,7 +211,7 @@
                         {
                             "$type": "TriggerSetVisible",
                             "CFIPAGENGPE": true,
-                            "ACDFJMCPFGH": true
+                            "visible": true
                         },
                         {
                             "$type": "EnablePushColliderName",
@@ -234,7 +234,7 @@
                         {
                             "$type": "TriggerSetVisible",
                             "CFIPAGENGPE": true,
-                            "ACDFJMCPFGH": true
+                            "visible": true
                         },
                         {
                             "$type": "EnablePushColliderName",
@@ -1001,9 +1001,9 @@
             "onAbilityStart": [
                 {
                     "$type": "TryFindBlinkPoint",
-                    "DGICDMAKHOJ": -180.0,
-                    "JLCCGHLNHOI": 2.0,
-                    "GLALMCMAFJF": 10.0,
+                    "forwardAngle": -180.0,
+                    "minRange": 2.0,
+                    "maxRange": 10.0,
                     "KCIAHJGFPBB": true
                 }
             ]
@@ -1032,7 +1032,7 @@
                     "born": {
                         "$type": "ConfigBornByTarget"
                     },
-                    "OGADOPDNBMM": false
+                    "setTarget": false
                 },
                 {
                     "$type": "TryFindBlinkPointByBorn",
@@ -1461,7 +1461,7 @@
                     "onAdded": [
                         {
                             "$type": "TriggerHideWeapon",
-                            "FLCNICMDANB": [
+                            "partNames": [
                                 "equip01"
                             ]
                         }
@@ -1469,8 +1469,8 @@
                     "onRemoved": [
                         {
                             "$type": "TriggerHideWeapon",
-                            "ACDFJMCPFGH": true,
-                            "FLCNICMDANB": [
+                            "visible": true,
+                            "partNames": [
                                 "equip01"
                             ]
                         }

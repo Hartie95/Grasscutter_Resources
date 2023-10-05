@@ -510,7 +510,7 @@
                                         },
                                         "onGround": true
                                     },
-                                    "OGADOPDNBMM": false
+                                    "setTarget": false
                                 },
                                 {
                                     "$type": "ApplyModifier",
@@ -676,7 +676,7 @@
                                         },
                                         "onGround": true
                                     },
-                                    "OGADOPDNBMM": false
+                                    "setTarget": false
                                 },
                                 {
                                     "$type": "ApplyModifier",
@@ -853,7 +853,7 @@
                                         },
                                         "onGround": true
                                     },
-                                    "OGADOPDNBMM": false
+                                    "setTarget": false
                                 },
                                 {
                                     "$type": "ApplyModifier",

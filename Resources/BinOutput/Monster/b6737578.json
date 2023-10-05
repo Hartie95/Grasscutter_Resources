@@ -1344,7 +1344,7 @@
                         "direction": {
                             "$type": "ConfigDirectionByAttachPoint",
                             "attachPointName": "RushAtkDIR",
-                            "MMFHENHCBGB": "Self"
+                            "attachPointTargetType": "Self"
                         }
                     },
                     "secondHeight": 3.0,

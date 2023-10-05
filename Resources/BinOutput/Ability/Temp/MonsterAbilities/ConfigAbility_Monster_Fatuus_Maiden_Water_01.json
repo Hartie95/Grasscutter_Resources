@@ -1824,7 +1824,7 @@
                                 "onGround": true,
                                 "CGHFADKHNKK": true
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "CreateGadget",
@@ -1911,7 +1911,7 @@
                             "$type": "ByTargetGlobalValue",
                             "key": "_MONSTER_FATUUS_MAIDEN_WATER_CAPTURE_TARGET",
                             "value": 1.0,
-                            "EODMLMGMLNP": true
+                            "forceByCaster": true
                         }
                     ],
                     "modifierName": "Monster_Fatuus_Maiden_Water_FireCapture_ToSelfAttackTarget"
@@ -2197,7 +2197,7 @@
                                     "$type": "ByTargetGlobalValue",
                                     "key": "_MONSTER_FATUUS_MAIDEN_WATER_WATERTOMB_TARGET",
                                     "value": 1.0,
-                                    "EODMLMGMLNP": true
+                                    "forceByCaster": true
                                 }
                             ],
                             "modifierName": "Monster_Fatuus_Maiden_WaterTomb_LockTarget_Eff"
@@ -2248,7 +2248,7 @@
                                 "onGround": true,
                                 "CGHFADKHNKK": true
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "CreateGadget",
@@ -2464,7 +2464,7 @@
                             ]
                         }
                     ],
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "EnableHitBoxByName",
                             "hitBoxNames": [
@@ -2482,7 +2482,7 @@
                         },
                         {
                             "$type": "TriggerSetVisible",
-                            "ACDFJMCPFGH": true
+                            "visible": true
                         },
                         {
                             "$type": "HideUIBillBoard"
@@ -2506,7 +2506,7 @@
                         },
                         {
                             "$type": "TriggerSetVisible",
-                            "ACDFJMCPFGH": true
+                            "visible": true
                         },
                         {
                             "$type": "HideUIBillBoard"
@@ -2631,7 +2631,7 @@
                         },
                         {
                             "$type": "TriggerSetVisible",
-                            "ACDFJMCPFGH": true
+                            "visible": true
                         }
                     ]
                 },
@@ -2868,7 +2868,7 @@
                         },
                         {
                             "$type": "TriggerSetVisible",
-                            "ACDFJMCPFGH": true
+                            "visible": true
                         },
                         {
                             "$type": "HideUIBillBoard"
@@ -2943,7 +2943,7 @@
                             "modifierName": "Monster_Fatuus_Maiden_Water_OpenEye_Effect"
                         }
                     ],
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "ApplyModifier",
                             "predicates": [
@@ -3210,7 +3210,7 @@
                     "modifierMixins": [
                         {
                             "$type": "VelocityForceMixin",
-                            "MPGPCCEHFGL": [
+                            "excludeForces": [
                                 "WindZoneType"
                             ]
                         }
@@ -3329,7 +3329,7 @@
                             "modifierName": "Monster_Fatuus_Maiden_Water_CounterAttack"
                         }
                     ],
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "ApplyModifier",
                             "modifierName": "Monster_Fatuus_Maiden_Water_CounterAttack"
@@ -3507,14 +3507,14 @@
                                     "$type": "ByTargetGlobalValue",
                                     "key": "_MONSTER_FATUUS_MAIDEN_WATER_BEHIT_INCD",
                                     "value": 0.0,
-                                    "EODMLMGMLNP": true,
+                                    "forceByCaster": true,
                                     "compareType": "NoneOrEqual"
                                 },
                                 {
                                     "$type": "ByTargetGlobalValue",
                                     "key": "_MONSTER_FATUUS_MAIDEN_OPEN",
                                     "value": 0.0,
-                                    "EODMLMGMLNP": true,
+                                    "forceByCaster": true,
                                     "compareType": "NoneOrEqual"
                                 }
                             ],
@@ -3708,7 +3708,7 @@
                                 "$type": "ConfigBornByPredicatePoint",
                                 "BIOOFAHEGLA": 0.5
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         }
                     ]
                 },
@@ -3741,7 +3741,7 @@
                                     "born": {
                                         "$type": "ConfigBornByTarget"
                                     },
-                                    "OGADOPDNBMM": false
+                                    "setTarget": false
                                 },
                                 {
                                     "$type": "CreateGadget",
@@ -3750,7 +3750,7 @@
                                             "$type": "ByTargetGlobalValue",
                                             "key": "_MONSTER_FATUUS_MAIDEN_OPEN",
                                             "value": 0.0,
-                                            "EODMLMGMLNP": true
+                                            "forceByCaster": true
                                         }
                                     ],
                                     "born": {
@@ -3774,7 +3774,7 @@
                                             "z": 2.0
                                         }
                                     },
-                                    "OGADOPDNBMM": false
+                                    "setTarget": false
                                 },
                                 {
                                     "$type": "CreateGadget",
@@ -3783,7 +3783,7 @@
                                             "$type": "ByTargetGlobalValue",
                                             "key": "_MONSTER_FATUUS_MAIDEN_OPEN",
                                             "value": 1.0,
-                                            "EODMLMGMLNP": true
+                                            "forceByCaster": true
                                         }
                                     ],
                                     "born": {
@@ -3807,7 +3807,7 @@
                                             "z": -1.600000023841858
                                         }
                                     },
-                                    "OGADOPDNBMM": false
+                                    "setTarget": false
                                 },
                                 {
                                     "$type": "CreateGadget",
@@ -3816,7 +3816,7 @@
                                             "$type": "ByTargetGlobalValue",
                                             "key": "_MONSTER_FATUUS_MAIDEN_OPEN",
                                             "value": 1.0,
-                                            "EODMLMGMLNP": true
+                                            "forceByCaster": true
                                         }
                                     ],
                                     "born": {
@@ -3840,7 +3840,7 @@
                                             "z": -1.600000023841858
                                         }
                                     },
-                                    "OGADOPDNBMM": false
+                                    "setTarget": false
                                 },
                                 {
                                     "$type": "CreateGadget",
@@ -3849,7 +3849,7 @@
                                             "$type": "ByTargetGlobalValue",
                                             "key": "_MONSTER_FATUUS_MAIDEN_OPEN",
                                             "value": 1.0,
-                                            "EODMLMGMLNP": true
+                                            "forceByCaster": true
                                         }
                                     ],
                                     "born": {

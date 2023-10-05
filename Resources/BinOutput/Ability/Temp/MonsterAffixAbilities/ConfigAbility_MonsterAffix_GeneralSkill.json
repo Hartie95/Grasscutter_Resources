@@ -64,7 +64,7 @@
                                     "$type": "ByTargetGlobalValue",
                                     "key": "_MONSTERAFFIX_WHITEBOX_THORNS_COOLDOWN",
                                     "value": 0.0,
-                                    "EODMLMGMLNP": true,
+                                    "forceByCaster": true,
                                     "compareType": "NoneOrEqual"
                                 }
                             ],
@@ -93,7 +93,7 @@
                                     "$type": "ByTargetGlobalValue",
                                     "key": "_MONSTERAFFIX_WHITEBOX_THORNS_COOLDOWN",
                                     "value": 0.0,
-                                    "EODMLMGMLNP": true,
+                                    "forceByCaster": true,
                                     "compareType": "NoneOrEqual"
                                 }
                             ],
@@ -396,7 +396,7 @@
                                     "modifierName": "MonsterAffix_FireDebuff_LoseHP_Area"
                                 }
                             ],
-                            "MCFCEOACJEB": [
+                            "exitActions": [
                                 {
                                     "$type": "ApplyModifier",
                                     "predicates": [
@@ -728,7 +728,7 @@
                                     "modifierName": "MonsterAffix_IceDebuff_ExtraStaminaCost_Area"
                                 }
                             ],
-                            "MCFCEOACJEB": [
+                            "exitActions": [
                                 {
                                     "$type": "ApplyModifier",
                                     "predicates": [
@@ -1021,7 +1021,7 @@
                                     "modifierName": "MonsterAffix_IceDebuff_ForbidStaminaRecovery_Area"
                                 }
                             ],
-                            "MCFCEOACJEB": [
+                            "exitActions": [
                                 {
                                     "$type": "ApplyModifier",
                                     "predicates": [
@@ -1318,7 +1318,7 @@
                                     "modifierName": "MonsterAffix_WaterDebuff_CoolDownIncrement_Area"
                                 }
                             ],
-                            "MCFCEOACJEB": [
+                            "exitActions": [
                                 {
                                     "$type": "ApplyModifier",
                                     "predicates": [
@@ -1616,7 +1616,7 @@
                                     "modifierName": "MonsterAffix_ElecDebuff_LoseEnergy_Area"
                                 }
                             ],
-                            "MCFCEOACJEB": [
+                            "exitActions": [
                                 {
                                     "$type": "ApplyModifier",
                                     "predicates": [
@@ -2311,7 +2311,7 @@
                             },
                             "BHELOIADOLH": 5.0,
                             "HBBLBBPBLGE": 1.2000000476837158,
-                            "IPDEDFHPHPO": 1.5,
+                            "innerRadius": 1.5,
                             "targetType": "Enemy",
                             "predicates": [
                                 {
@@ -2393,7 +2393,7 @@
                             },
                             "BHELOIADOLH": 5.0,
                             "HBBLBBPBLGE": 1.2000000476837158,
-                            "IPDEDFHPHPO": 1.5,
+                            "innerRadius": 1.5,
                             "targetType": "Enemy",
                             "predicates": [
                                 {
@@ -2679,7 +2679,7 @@
                                 "direction": {
                                     "$type": "ConfigDirectionByAttachPoint",
                                     "attachPointName": "BarrageAttachPoint1",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 },
                                 "attachPointName": "BarrageAttachPoint1"
                             }
@@ -2711,7 +2711,7 @@
                                 "direction": {
                                     "$type": "ConfigDirectionByAttachPoint",
                                     "attachPointName": "BarrageAttachPoint2",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 },
                                 "attachPointName": "BarrageAttachPoint2"
                             }
@@ -2743,7 +2743,7 @@
                                 "direction": {
                                     "$type": "ConfigDirectionByAttachPoint",
                                     "attachPointName": "BarrageAttachPoint3",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 },
                                 "attachPointName": "BarrageAttachPoint3"
                             }
@@ -2775,7 +2775,7 @@
                                 "direction": {
                                     "$type": "ConfigDirectionByAttachPoint",
                                     "attachPointName": "BarrageAttachPoint4",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 },
                                 "attachPointName": "BarrageAttachPoint4"
                             }
@@ -2807,7 +2807,7 @@
                                 "direction": {
                                     "$type": "ConfigDirectionByAttachPoint",
                                     "attachPointName": "BarrageAttachPoint5",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 },
                                 "attachPointName": "BarrageAttachPoint5"
                             }
@@ -5357,7 +5357,7 @@
                                     "born": {
                                         "$type": "ConfigBornByAttachPoint",
                                         "attachPointName": "RootNode",
-                                        "MMFHENHCBGB": "Caster"
+                                        "attachPointTargetType": "Caster"
                                     }
                                 },
                                 {

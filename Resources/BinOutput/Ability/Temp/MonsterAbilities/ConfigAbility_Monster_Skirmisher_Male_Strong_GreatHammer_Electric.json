@@ -810,7 +810,7 @@
                     "onAdded": [
                         {
                             "$type": "TriggerHideWeapon",
-                            "FLCNICMDANB": [
+                            "partNames": [
                                 "equip01"
                             ]
                         }
@@ -819,8 +819,8 @@
                         {
                             "$type": "TriggerHideWeapon",
                             "CFIPAGENGPE": true,
-                            "ACDFJMCPFGH": true,
-                            "FLCNICMDANB": [
+                            "visible": true,
+                            "partNames": [
                                 "equip01"
                             ]
                         }

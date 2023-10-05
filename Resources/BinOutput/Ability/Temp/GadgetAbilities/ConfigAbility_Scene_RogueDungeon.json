@@ -2526,7 +2526,7 @@
                             },
                             "BHELOIADOLH": 6.0,
                             "HBBLBBPBLGE": 0.5,
-                            "IPDEDFHPHPO": 0.20000000298023224,
+                            "innerRadius": 0.20000000298023224,
                             "targetType": "Enemy",
                             "predicates": [
                                 {
@@ -2571,7 +2571,7 @@
                             },
                             "BHELOIADOLH": 6.0,
                             "HBBLBBPBLGE": 0.5,
-                            "IPDEDFHPHPO": 0.20000000298023224,
+                            "innerRadius": 0.20000000298023224,
                             "targetType": "Enemy",
                             "predicates": [
                                 {

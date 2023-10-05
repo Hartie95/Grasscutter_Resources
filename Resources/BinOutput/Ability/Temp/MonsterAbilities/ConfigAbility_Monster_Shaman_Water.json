@@ -147,7 +147,7 @@
                                                 {
                                                     "$type": "ByTargetGlobalValue",
                                                     "key": "_FINDTAG",
-                                                    "EODMLMGMLNP": true
+                                                    "forceByCaster": true
                                                 }
                                             ],
                                             "born": {
@@ -174,7 +174,7 @@
                                         {
                                             "$type": "ByTargetGlobalValue",
                                             "key": "_FINDTAG",
-                                            "EODMLMGMLNP": true
+                                            "forceByCaster": true
                                         }
                                     ],
                                     "born": {
@@ -200,7 +200,7 @@
                                 {
                                     "$type": "ByTargetGlobalValue",
                                     "key": "_FINDTAG",
-                                    "EODMLMGMLNP": true
+                                    "forceByCaster": true
                                 }
                             ],
                             "triggerID": "SupportAttackExit"
@@ -211,7 +211,7 @@
                                 {
                                     "$type": "ByTargetGlobalValue",
                                     "key": "_FINDTAG",
-                                    "EODMLMGMLNP": true
+                                    "forceByCaster": true
                                 }
                             ],
                             "triggerID": "SupportAttackExit2"
@@ -327,7 +327,7 @@
                                         {
                                             "$type": "ByTargetGlobalValue",
                                             "key": "_FINDTAG",
-                                            "EODMLMGMLNP": true
+                                            "forceByCaster": true
                                         }
                                     ],
                                     "modifierName": "Shaman_Water_Follow_HealRain"
@@ -375,7 +375,7 @@
                                         {
                                             "$type": "ByTargetGlobalValue",
                                             "key": "_FINDTAG",
-                                            "EODMLMGMLNP": true
+                                            "forceByCaster": true
                                         }
                                     ],
                                     "modifierName": "Shaman_Water_Follow_HealRain"
@@ -423,7 +423,7 @@
                                         {
                                             "$type": "ByTargetGlobalValue",
                                             "key": "_FINDTAG",
-                                            "EODMLMGMLNP": true
+                                            "forceByCaster": true
                                         }
                                     ],
                                     "modifierName": "Shaman_Water_Follow_HealRain"
@@ -471,7 +471,7 @@
                                         {
                                             "$type": "ByTargetGlobalValue",
                                             "key": "_FINDTAG",
-                                            "EODMLMGMLNP": true
+                                            "forceByCaster": true
                                         }
                                     ],
                                     "modifierName": "Shaman_Water_Follow_HealRain"
@@ -519,7 +519,7 @@
                                         {
                                             "$type": "ByTargetGlobalValue",
                                             "key": "_FINDTAG",
-                                            "EODMLMGMLNP": true
+                                            "forceByCaster": true
                                         }
                                     ],
                                     "modifierName": "Shaman_Water_Follow_HealRain"
@@ -562,7 +562,7 @@
                                         {
                                             "$type": "ByTargetGlobalValue",
                                             "key": "_FINDTAG",
-                                            "EODMLMGMLNP": true
+                                            "forceByCaster": true
                                         }
                                     ],
                                     "modifierName": "Shaman_Water_Follow_HealRain"
@@ -583,7 +583,7 @@
                                 {
                                     "$type": "ByTargetGlobalValue",
                                     "key": "_FINDTAG",
-                                    "EODMLMGMLNP": true
+                                    "forceByCaster": true
                                 }
                             ],
                             "triggerID": "SupportAttackExit"
@@ -594,7 +594,7 @@
                                 {
                                     "$type": "ByTargetGlobalValue",
                                     "key": "_FINDTAG",
-                                    "EODMLMGMLNP": true
+                                    "forceByCaster": true
                                 }
                             ],
                             "triggerID": "SupportAttackExit2"
@@ -821,7 +821,7 @@
                                     "$type": "ByTargetGlobalValue",
                                     "key": "_LIFETAG",
                                     "value": 0.0,
-                                    "EODMLMGMLNP": true
+                                    "forceByCaster": true
                                 }
                             ],
                             "modifierName": "HealRain_Feild_LifeTime"

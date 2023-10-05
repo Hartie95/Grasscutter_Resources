@@ -176,7 +176,7 @@
                                 },
                                 {
                                     "$type": "TriggerSetVisible",
-                                    "ACDFJMCPFGH": true
+                                    "visible": true
                                 }
                             ]
                         }
@@ -199,7 +199,7 @@
                             "born": {
                                 "$type": "ConfigBornByTarget"
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "TryFindBlinkPointByBorn",
@@ -223,7 +223,7 @@
                             "born": {
                                 "$type": "ConfigBornByTarget"
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "TurnDirectionToPos",
@@ -297,7 +297,7 @@
                                 },
                                 {
                                     "$type": "TriggerSetVisible",
-                                    "ACDFJMCPFGH": true
+                                    "visible": true
                                 }
                             ]
                         }
@@ -319,7 +319,7 @@
                             "born": {
                                 "$type": "ConfigBornByTarget"
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "TurnDirectionToPos",
@@ -393,7 +393,7 @@
                                 },
                                 {
                                     "$type": "TriggerSetVisible",
-                                    "ACDFJMCPFGH": true
+                                    "visible": true
                                 }
                             ]
                         }
@@ -415,7 +415,7 @@
                             "born": {
                                 "$type": "ConfigBornByTarget"
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "TurnDirectionToPos",
@@ -489,7 +489,7 @@
                                 },
                                 {
                                     "$type": "TriggerSetVisible",
-                                    "ACDFJMCPFGH": true
+                                    "visible": true
                                 }
                             ]
                         }
@@ -511,7 +511,7 @@
                             "born": {
                                 "$type": "ConfigBornByTarget"
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "TurnDirectionToPos",
@@ -585,7 +585,7 @@
                                 },
                                 {
                                     "$type": "TriggerSetVisible",
-                                    "ACDFJMCPFGH": true
+                                    "visible": true
                                 }
                             ]
                         }
@@ -607,7 +607,7 @@
                             "born": {
                                 "$type": "ConfigBornByTarget"
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "TurnDirectionToPos",
@@ -759,7 +759,7 @@
                         },
                         {
                             "$type": "TriggerSetVisible",
-                            "ACDFJMCPFGH": true
+                            "visible": true
                         },
                         {
                             "$type": "HideUIBillBoard"
@@ -780,7 +780,7 @@
                             "born": {
                                 "$type": "ConfigBornByTarget"
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "AttachEffect",
@@ -841,7 +841,7 @@
                         },
                         {
                             "$type": "TriggerSetVisible",
-                            "ACDFJMCPFGH": true
+                            "visible": true
                         },
                         {
                             "$type": "HideUIBillBoard"
@@ -1128,7 +1128,7 @@
                             "modifierName": "UNIQUE_Monster_Raijin_01_HalfHp_Limbo"
                         }
                     ],
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "RemoveModifier",
                             "modifierName": "UNIQUE_Monster_Raijin_01_HalfHp_Limbo"
@@ -1168,14 +1168,14 @@
                                     "$type": "ByTargetGlobalValue",
                                     "key": "_MONSTER_RAIJIN_BEHIT_INCD",
                                     "value": 0.0,
-                                    "EODMLMGMLNP": true,
+                                    "forceByCaster": true,
                                     "compareType": "NoneOrEqual"
                                 },
                                 {
                                     "$type": "ByTargetGlobalValue",
                                     "key": "_MONSTER_RAIJIN_IMPROVE",
                                     "value": 0.0,
-                                    "EODMLMGMLNP": true,
+                                    "forceByCaster": true,
                                     "compareType": "NoneOrEqual"
                                 },
                                 {
@@ -1359,7 +1359,7 @@
                                     "z": 0.0
                                 },
                                 "attachPointName": "RootNode",
-                                "MMFHENHCBGB": "Applier"
+                                "attachPointTargetType": "Applier"
                             }
                         }
                     ]
@@ -1533,7 +1533,7 @@
                                 }
                             },
                             "FPIJACIKJKL": 1.7999999523162842,
-                            "GLALMCMAFJF": 30.0,
+                            "maxRange": 30.0,
                             "MPOEADACOHO": [
                                 "MeleeAttack2_BS",
                                 "MeleeAttack2_Loop"
@@ -1843,7 +1843,7 @@
                 "Monster_Raijin_01_ChargeBarOnReconnect": {
                     "modifierName": "",
                     "elementDurability": 100.0,
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "SetGlobalValue",
                             "value": 0.0,
@@ -1900,7 +1900,7 @@
                             "born": {
                                 "$type": "ConfigBornByTarget"
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "TryFindBlinkPointByBorn",
@@ -1946,7 +1946,7 @@
                     "onRemoved": [
                         {
                             "$type": "TriggerSetVisible",
-                            "ACDFJMCPFGH": true
+                            "visible": true
                         }
                     ]
                 },
@@ -2105,7 +2105,7 @@
                                     "z": 0.0
                                 },
                                 "attachPointName": "RootNode",
-                                "MMFHENHCBGB": "Applier"
+                                "attachPointTargetType": "Applier"
                             }
                         }
                     ]
@@ -2621,7 +2621,7 @@
                             }
                         }
                     ],
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "SetGlobalValue",
                             "value": 1.0,
@@ -3037,7 +3037,7 @@
                                 }
                             },
                             "FPIJACIKJKL": 0.4000000059604645,
-                            "GLALMCMAFJF": 30.0,
+                            "maxRange": 30.0,
                             "MPOEADACOHO": [
                                 "FlyBomb_Loop"
                             ],
@@ -3402,7 +3402,7 @@
                             "born": {
                                 "$type": "ConfigBornByAttachPoint",
                                 "attachPointName": "RootNode",
-                                "MMFHENHCBGB": "Applier"
+                                "attachPointTargetType": "Applier"
                             }
                         }
                     ]
@@ -3491,7 +3491,7 @@
                             "minValue": 0.0
                         }
                     ],
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "SetGlobalValue",
                             "value": 0.0,
@@ -3708,7 +3708,7 @@
                             "$type": "ConfigDirectionByLookAtEntity"
                         }
                     },
-                    "OGADOPDNBMM": false
+                    "setTarget": false
                 },
                 {
                     "$type": "TriggerBullet",
@@ -4538,7 +4538,7 @@
                                 "$type": "ConfigBornByTarget",
                                 "onGround": true
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "SetGlobalDir",
@@ -4551,7 +4551,7 @@
                                     "$type": "ConfigDirectionByLookAtEntity"
                                 }
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "Predicated",
@@ -4615,7 +4615,7 @@
                                 "$type": "ConfigBornByTarget",
                                 "onGround": true
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "SetGlobalDir",
@@ -4628,7 +4628,7 @@
                                     "$type": "ConfigDirectionByLookAtEntity"
                                 }
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "Predicated",
@@ -4717,7 +4717,7 @@
                                         "$type": "ConfigBornByTarget",
                                         "onGround": true
                                     },
-                                    "OGADOPDNBMM": false
+                                    "setTarget": false
                                 },
                                 {
                                     "$type": "CreateGadget",
@@ -4754,7 +4754,7 @@
                                 "$type": "ConfigBornByTarget",
                                 "onGround": true
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "CreateGadget",
@@ -4802,7 +4802,7 @@
                                         "$type": "ConfigBornByTarget",
                                         "onGround": true
                                     },
-                                    "OGADOPDNBMM": false
+                                    "setTarget": false
                                 },
                                 {
                                     "$type": "CreateGadget",
@@ -4839,7 +4839,7 @@
                                 "$type": "ConfigBornByTarget",
                                 "onGround": true
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "CreateGadget",
@@ -5305,7 +5305,7 @@
                                 },
                                 "onGround": true
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         }
                     ]
                 },
@@ -5500,7 +5500,7 @@
                                 "$type": "ConfigBornByTarget",
                                 "onGround": true
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "TurnDirectionToPos",
@@ -5620,7 +5620,7 @@
                             "born": {
                                 "$type": "ConfigBornByAttachPoint",
                                 "attachPointName": "LinkPoint",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ]
@@ -5637,7 +5637,7 @@
                             "born": {
                                 "$type": "ConfigBornByAttachPoint",
                                 "attachPointName": "LinkPoint",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ]
@@ -5652,7 +5652,7 @@
                         "$type": "ConfigBornByTarget",
                         "onGround": true
                     },
-                    "OGADOPDNBMM": false
+                    "setTarget": false
                 },
                 {
                     "$type": "SetGlobalDir",

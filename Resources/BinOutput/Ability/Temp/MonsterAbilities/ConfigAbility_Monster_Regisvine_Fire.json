@@ -2506,7 +2506,7 @@
                                             "target": "Self",
                                             "key": "_ABILITY_REGISVINE_FIRE_SURROUNDINGFIRE_HIT",
                                             "value": 0.0,
-                                            "EODMLMGMLNP": true
+                                            "forceByCaster": true
                                         }
                                     ],
                                     "NJEOPILMKCN": true,
@@ -2581,7 +2581,7 @@
                                             "target": "Self",
                                             "key": "_ABILITY_REGISVINE_FIRE_SURROUNDINGFIRE_HIT",
                                             "value": 0.0,
-                                            "EODMLMGMLNP": true
+                                            "forceByCaster": true
                                         }
                                     ],
                                     "NJEOPILMKCN": true,
@@ -2657,7 +2657,7 @@
                                             "target": "Self",
                                             "key": "_ABILITY_REGISVINE_FIRE_SURROUNDINGFIRE_HIT",
                                             "value": 0.0,
-                                            "EODMLMGMLNP": true
+                                            "forceByCaster": true
                                         }
                                     ],
                                     "NJEOPILMKCN": true,

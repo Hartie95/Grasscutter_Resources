@@ -728,7 +728,7 @@
                             "$type": "ByTargetGlobalValue",
                             "key": "_MONSTERAFFIX_QUEST_ADJUST",
                             "value": 1.0,
-                            "EODMLMGMLNP": true
+                            "forceByCaster": true
                         }
                     ],
                     "modifierName": "UNIQUE_LaSignora_Harbinger_Climate_QuestAdjust"
@@ -2155,7 +2155,7 @@
                                 "JBNMHNDDJJC": 0.0,
                                 "GCJBBHLBLLG": 50.0
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         }
                     ]
                 },
@@ -2258,7 +2258,7 @@
                                 "JBNMHNDDJJC": 0.0,
                                 "GCJBBHLBLLG": 50.0
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         }
                     ]
                 }
@@ -2397,7 +2397,7 @@
                         },
                         {
                             "$type": "TriggerSetVisible",
-                            "ACDFJMCPFGH": true
+                            "visible": true
                         },
                         {
                             "$type": "EnablePushColliderName",
@@ -3646,7 +3646,7 @@
                         },
                         {
                             "$type": "TriggerSetVisible",
-                            "ACDFJMCPFGH": true
+                            "visible": true
                         },
                         {
                             "$type": "EnablePushColliderName",

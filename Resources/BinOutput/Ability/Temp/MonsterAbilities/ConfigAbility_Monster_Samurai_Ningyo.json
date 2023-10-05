@@ -23,7 +23,7 @@
                             "value": true
                         }
                     ],
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "SetAnimatorBool",
                             "boolID": "AlertAffix",
@@ -58,7 +58,7 @@
                             "$type": "EnableAIStealthy"
                         }
                     ],
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "SetPoseBool",
                             "boolID": "SpecialAlert",
@@ -128,7 +128,7 @@
                             "$type": "ByTargetGlobalValue",
                             "key": "_MONSTERAFFIX_SAMURAI_NwINGYO_01_SPECIALALERT",
                             "value": 1.0,
-                            "EODMLMGMLNP": true
+                            "forceByCaster": true
                         }
                     ],
                     "modifierName": "Monster_Samurai_Ningyo_01_SpecialAlert"
@@ -155,9 +155,9 @@
                     "onAdded": [
                         {
                             "$type": "TryFindBlinkPoint",
-                            "DGICDMAKHOJ": 30.0,
-                            "JLCCGHLNHOI": 6.0,
-                            "GLALMCMAFJF": 8.0,
+                            "forwardAngle": 30.0,
+                            "minRange": 6.0,
+                            "maxRange": 8.0,
                             "BMANLAAMDML": 2.0
                         },
                         {
@@ -192,7 +192,7 @@
                                 "$type": "ConfigBornByTeleportToPoint"
                             },
                             "FPIJACIKJKL": 0.20000000298023224,
-                            "GLALMCMAFJF": 20.0,
+                            "maxRange": 20.0,
                             "MPOEADACOHO": [
                                 "RushCharge"
                             ],
@@ -483,7 +483,7 @@
                 "Monster_Samurai_Ningyo_01_ChangeAuthAndReconnect_Hadler": {
                     "modifierName": "",
                     "elementDurability": 100.0,
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "TriggerSetRenderersEnable",
                             "renderNames": [
@@ -1157,7 +1157,7 @@
                                 }
                             },
                             "FPIJACIKJKL": 0.20000000298023224,
-                            "GLALMCMAFJF": 20.0,
+                            "maxRange": 20.0,
                             "MPOEADACOHO": [
                                 "RushAtk"
                             ],
@@ -1208,7 +1208,7 @@
                                 }
                             },
                             "FPIJACIKJKL": 0.20000000298023224,
-                            "GLALMCMAFJF": 20.0,
+                            "maxRange": 20.0,
                             "MPOEADACOHO": [
                                 "RushAtk",
                                 "RushAtk_Wind",
@@ -1441,7 +1441,7 @@
                             "weight": 1.5
                         }
                     ],
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "SetPoseBool",
                             "boolID": "ChangeState"
@@ -1575,7 +1575,7 @@
                             "minValue": 0.0
                         }
                     ],
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "SetAnimatorBool",
                             "predicates": [
@@ -1800,7 +1800,7 @@
                                                     "$type": "ConfigDirectionByLookAtEntity"
                                                 }
                                             },
-                                            "OGADOPDNBMM": false
+                                            "setTarget": false
                                         }
                                     ],
                                     "failActions": [
@@ -1814,7 +1814,7 @@
                                                     "$type": "ConfigDirectionByLookAtEntity"
                                                 }
                                             },
-                                            "OGADOPDNBMM": false
+                                            "setTarget": false
                                         }
                                     ]
                                 },
@@ -2343,7 +2343,7 @@
                                     "maxRandomRange": 6.0
                                 }
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "ApplyModifier",
@@ -2448,7 +2448,7 @@
                             },
                             "BHELOIADOLH": 6.0,
                             "HBBLBBPBLGE": 2.0,
-                            "IPDEDFHPHPO": 1.5,
+                            "innerRadius": 1.5,
                             "targetType": "Enemy",
                             "modifierName": ""
                         }
@@ -2574,38 +2574,38 @@
                                             "$type": "ByTargetGlobalValue",
                                             "key": "_MONSTER_SAMURAI_NINGYO_CANDODGE",
                                             "value": 1.0,
-                                            "EODMLMGMLNP": true
+                                            "forceByCaster": true
                                         },
                                         {
                                             "$type": "ByTargetGlobalValue",
                                             "key": "_MONSTER_NINGYO_BLOCK_STATE",
                                             "value": 0.0,
-                                            "EODMLMGMLNP": true
+                                            "forceByCaster": true
                                         },
                                         {
                                             "$type": "ByTargetGlobalValue",
                                             "key": "_MONSTER_SAMURAI_NINGYO_INALERT",
                                             "value": 0.0,
-                                            "EODMLMGMLNP": true
+                                            "forceByCaster": true
                                         },
                                         {
                                             "$type": "ByTargetGlobalValue",
                                             "key": "_MONSTER_SAMURAI_NINGYO_DODGE_AFFIX",
                                             "value": 0.0,
-                                            "EODMLMGMLNP": true,
+                                            "forceByCaster": true,
                                             "compareType": "MoreThan"
                                         },
                                         {
                                             "$type": "ByTargetGlobalValue",
                                             "key": "_SAMURAI_NINGYO_IMPROVED_STATE",
                                             "value": 1.0,
-                                            "EODMLMGMLNP": true
+                                            "forceByCaster": true
                                         },
                                         {
                                             "$type": "ByTargetGlobalValue",
                                             "key": "_SAMURAI_NINGYO_FORCEDODGE_STATE",
                                             "value": 1.0,
-                                            "EODMLMGMLNP": true
+                                            "forceByCaster": true
                                         }
                                     ],
                                     "triggerID": "ForceDodge"
@@ -2666,7 +2666,7 @@
                                 }
                             },
                             "FPIJACIKJKL": 0.20000000298023224,
-                            "GLALMCMAFJF": 15.0,
+                            "maxRange": 15.0,
                             "MPOEADACOHO": [
                                 "ForceDodge"
                             ],
@@ -3138,7 +3138,7 @@
                 "Monster_Samurai_Ningyo_SilkForSure": {
                     "modifierName": "",
                     "elementDurability": 100.0,
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "SetGlobalValue",
                             "value": 0.0,
@@ -3314,7 +3314,7 @@
                             "skillEliteSetID": 4
                         }
                     ],
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "UseSkillEliteSet",
                             "predicates": [
@@ -3602,7 +3602,7 @@
                                 }
                             },
                             "FPIJACIKJKL": 0.20000000298023224,
-                            "GLALMCMAFJF": 20.0,
+                            "maxRange": 20.0,
                             "MPOEADACOHO": [
                                 "RushAtk",
                                 "RushAtk_Second",
@@ -3947,7 +3947,7 @@
                             "skillEliteSetID": 4
                         }
                     ],
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "UseSkillEliteSet",
                             "predicates": [
@@ -4295,7 +4295,7 @@
                         }
                     ],
                     "NHFJDDBKNCM": true,
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "SetAnimatorTrigger",
                             "triggerID": "DyingReconnect"
@@ -4324,7 +4324,7 @@
                             "$type": "KillSelf"
                         }
                     ],
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "RemoveModifier",
                             "modifierName": "Monster_Samurai_Ningyo_03_DieWithWind"
@@ -4653,7 +4653,7 @@
                         }
                     ],
                     "NHFJDDBKNCM": true,
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "SetAnimatorTrigger",
                             "triggerID": "DyingReconnect"
@@ -4682,7 +4682,7 @@
                             "$type": "KillSelf"
                         }
                     ],
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "RemoveModifier",
                             "modifierName": "Monster_Samurai_Ningyo_02_DieWithIce"
@@ -4710,7 +4710,7 @@
                             "modifierName": "Monster_Samurai_Ningyo_DieTogether_Eff_DelayCreate"
                         }
                     ],
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "ApplyModifier",
                             "modifierName": "Monster_Samurai_Ningyo_DieTogether_EffReconnectDelay"
@@ -4962,7 +4962,7 @@
                                         }
                                     },
                                     "FPIJACIKJKL": 0.10000000149011612,
-                                    "GLALMCMAFJF": 6.0,
+                                    "maxRange": 6.0,
                                     "MPOEADACOHO": [
                                         "GhostRangedChargeAttack_BS"
                                     ],
@@ -4981,7 +4981,7 @@
                                         }
                                     },
                                     "FPIJACIKJKL": 0.20000000298023224,
-                                    "GLALMCMAFJF": 6.0,
+                                    "maxRange": 6.0,
                                     "MPOEADACOHO": [
                                         "GhostRangedChargeAttack_BS"
                                     ],
@@ -5026,7 +5026,7 @@
                                 "MICIJLHMIIH": ""
                             },
                             "FPIJACIKJKL": 0.10000000149011612,
-                            "GLALMCMAFJF": 25.0,
+                            "maxRange": 25.0,
                             "MPOEADACOHO": [
                                 "BlinkToInnerCircle"
                             ],

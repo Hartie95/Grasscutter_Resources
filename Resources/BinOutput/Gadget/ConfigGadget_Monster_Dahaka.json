@@ -1867,7 +1867,7 @@
         "move": {
             "$type": "ConfigPinballBulletMove",
             "LLNGHPMEALD": {
-                "MPGPCCEHFGL": [
+                "excludeForces": [
                     "WindZoneType",
                     "AirflowType",
                     "RiseType",

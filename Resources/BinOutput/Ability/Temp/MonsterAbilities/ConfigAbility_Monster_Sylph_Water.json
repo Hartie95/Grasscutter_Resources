@@ -1621,7 +1621,7 @@
                                 },
                                 "attachPointName": "RootNode"
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "ApplyModifier",

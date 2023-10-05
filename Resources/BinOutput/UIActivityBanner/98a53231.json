@@ -21,7 +21,7 @@
             "trackQuest": {
                 "$type": "ContextConditionMainQuestVisible",
                 "mainQuestId": 2013,
-                "ACDFJMCPFGH": true
+                "visible": true
             },
             "trackMonster": {
                 "$type": "ContextConditionMainQuestState",

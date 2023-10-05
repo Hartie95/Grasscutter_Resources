@@ -461,7 +461,7 @@
                         },
                         {
                             "$type": "TriggerSetVisible",
-                            "ACDFJMCPFGH": true
+                            "visible": true
                         },
                         {
                             "$type": "HideUIBillBoard"
@@ -712,7 +712,7 @@
                     "stateIDs": [
                         "Howl"
                     ],
-                    "MCFCEOACJEB": [
+                    "exitActions": [
                         {
                             "$type": "ApplyModifier",
                             "modifierName": "Watcher_82124_Moniter_Cleaner"

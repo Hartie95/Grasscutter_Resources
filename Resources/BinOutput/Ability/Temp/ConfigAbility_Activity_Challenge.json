@@ -455,7 +455,7 @@
                                     "$type": "SetGlobalPos",
                                     "target": "SelfAttackTarget",
                                     "key": "_ActivityAbility_Challenge_AreaAttackOnEnemyKilled_POS",
-                                    "OGADOPDNBMM": false
+                                    "setTarget": false
                                 },
                                 {
                                     "$type": "FireEffect",
@@ -927,7 +927,7 @@
                                     "$type": "ByTargetGlobalValue",
                                     "key": "_ActivityAbility_Challenge_Frozen_DoAttack",
                                     "value": 0.0,
-                                    "EODMLMGMLNP": true,
+                                    "forceByCaster": true,
                                     "compareType": "MoreThan"
                                 }
                             ],
@@ -942,7 +942,7 @@
                                     "$type": "ByTargetGlobalValue",
                                     "key": "_ActivityAbility_Challenge_Frozen_DoAttack",
                                     "value": 0.0,
-                                    "EODMLMGMLNP": true,
+                                    "forceByCaster": true,
                                     "compareType": "MoreThan"
                                 }
                             ],
@@ -1282,7 +1282,7 @@
                                     "$type": "ByTargetGlobalValue",
                                     "key": "ActivityAbility_Challenge_LowHp_AreaAttack_DoAttack",
                                     "value": 0.0,
-                                    "EODMLMGMLNP": true,
+                                    "forceByCaster": true,
                                     "compareType": "MoreThan"
                                 }
                             ],
@@ -1296,7 +1296,7 @@
                                     "$type": "ByTargetGlobalValue",
                                     "key": "ActivityAbility_Challenge_LowHp_AreaAttack_DoAttack",
                                     "value": 0.0,
-                                    "EODMLMGMLNP": true,
+                                    "forceByCaster": true,
                                     "compareType": "MoreThan"
                                 }
                             ],
@@ -1510,7 +1510,7 @@
                                                     "target": "Other",
                                                     "doOffStage": true,
                                                     "key": "_ActivityAbility_Challenge_ExtraAttackOnEnemyKilled_POS",
-                                                    "OGADOPDNBMM": false
+                                                    "setTarget": false
                                                 },
                                                 {
                                                     "$type": "FireEffect",

@@ -1509,8 +1509,8 @@
                         {
                             "$type": "TryFindBlinkPoint",
                             "target": "Target",
-                            "DGICDMAKHOJ": 360.0,
-                            "GLALMCMAFJF": 1.0
+                            "forwardAngle": 360.0,
+                            "maxRange": 1.0
                         },
                         {
                             "$type": "DoBlink"
@@ -1575,7 +1575,7 @@
                     "onRemoved": [
                         {
                             "$type": "TriggerSetVisible",
-                            "ACDFJMCPFGH": true
+                            "visible": true
                         },
                         {
                             "$type": "TriggerAbility",
@@ -1658,8 +1658,8 @@
                 {
                     "$type": "TryFindBlinkPoint",
                     "target": "SelfAttackTarget",
-                    "DGICDMAKHOJ": 360.0,
-                    "GLALMCMAFJF": 1.0
+                    "forwardAngle": 360.0,
+                    "maxRange": 1.0
                 },
                 {
                     "$type": "DoBlink"
@@ -2362,7 +2362,7 @@
                     "onRemoved": [
                         {
                             "$type": "TriggerSetVisible",
-                            "ACDFJMCPFGH": true
+                            "visible": true
                         }
                     ]
                 },
@@ -2824,7 +2824,7 @@
                                     "$type": "ByTargetGlobalValue",
                                     "key": "_ELITEAFFIX_ATTACK_ENHANCE",
                                     "value": 1.0,
-                                    "EODMLMGMLNP": true
+                                    "forceByCaster": true
                                 }
                             ],
                             "abilityName": "Monster_Fatuus_Fire_01_Stage1Mirror_FollowAtk"

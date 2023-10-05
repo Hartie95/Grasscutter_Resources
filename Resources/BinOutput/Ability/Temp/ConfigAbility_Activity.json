@@ -1232,7 +1232,7 @@
                             "OFCABNHMIBA": [
                                 {
                                     "$type": "TriggerSetVisible",
-                                    "ACDFJMCPFGH": true
+                                    "visible": true
                                 },
                                 {
                                     "$type": "RemoveModifier",
@@ -1255,7 +1255,7 @@
                                 {
                                     "$type": "TriggerSetVisible",
                                     "doOffStage": true,
-                                    "ACDFJMCPFGH": true
+                                    "visible": true
                                 },
                                 {
                                     "$type": "RemoveModifier",
@@ -1472,7 +1472,7 @@
                         {
                             "$type": "ClearGlobalPos",
                             "key": "_Electric_Core_Pos",
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "Predicated",
@@ -1513,7 +1513,7 @@
                                             "z": 0.0
                                         }
                                     },
-                                    "OGADOPDNBMM": false
+                                    "setTarget": false
                                 }
                             ]
                         },
@@ -1805,7 +1805,7 @@
                             "OFCABNHMIBA": [
                                 {
                                     "$type": "TriggerSetVisible",
-                                    "ACDFJMCPFGH": true
+                                    "visible": true
                                 },
                                 {
                                     "$type": "RemoveModifier",
@@ -1828,7 +1828,7 @@
                                 {
                                     "$type": "TriggerSetVisible",
                                     "doOffStage": true,
-                                    "ACDFJMCPFGH": true
+                                    "visible": true
                                 },
                                 {
                                     "$type": "RemoveModifier",
@@ -2062,7 +2062,7 @@
                         {
                             "$type": "ClearGlobalPos",
                             "key": "_Electric_Core_Pos",
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "Predicated",
@@ -2103,7 +2103,7 @@
                                             "z": 0.0
                                         }
                                     },
-                                    "OGADOPDNBMM": false
+                                    "setTarget": false
                                 }
                             ]
                         },
@@ -3244,7 +3244,7 @@
                             "OFCABNHMIBA": [
                                 {
                                     "$type": "TriggerSetVisible",
-                                    "ACDFJMCPFGH": true
+                                    "visible": true
                                 },
                                 {
                                     "$type": "RemoveModifier",
@@ -3267,7 +3267,7 @@
                                 {
                                     "$type": "TriggerSetVisible",
                                     "doOffStage": true,
-                                    "ACDFJMCPFGH": true
+                                    "visible": true
                                 },
                                 {
                                     "$type": "RemoveModifier",
@@ -3489,7 +3489,7 @@
                         {
                             "$type": "ClearGlobalPos",
                             "key": "_Electric_Core_Pos",
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "Predicated",
@@ -3530,7 +3530,7 @@
                                             "z": 0.0
                                         }
                                     },
-                                    "OGADOPDNBMM": false
+                                    "setTarget": false
                                 }
                             ]
                         },

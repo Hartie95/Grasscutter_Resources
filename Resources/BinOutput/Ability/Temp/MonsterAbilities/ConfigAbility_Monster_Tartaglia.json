@@ -275,8 +275,8 @@
                             "failActions": [
                                 {
                                     "$type": "TriggerHideWeapon",
-                                    "ACDFJMCPFGH": true,
-                                    "FLCNICMDANB": [
+                                    "visible": true,
+                                    "partNames": [
                                         "equip01"
                                     ]
                                 }
@@ -291,7 +291,7 @@
                     "onRemoved": [
                         {
                             "$type": "TriggerHideWeapon",
-                            "FLCNICMDANB": [
+                            "partNames": [
                                 "equip01"
                             ]
                         },
@@ -342,8 +342,8 @@
                             "failActions": [
                                 {
                                     "$type": "TriggerHideWeapon",
-                                    "ACDFJMCPFGH": true,
-                                    "FLCNICMDANB": [
+                                    "visible": true,
+                                    "partNames": [
                                         "equip02",
                                         "equip03"
                                     ]
@@ -359,7 +359,7 @@
                     "onRemoved": [
                         {
                             "$type": "TriggerHideWeapon",
-                            "FLCNICMDANB": [
+                            "partNames": [
                                 "equip02",
                                 "equip03"
                             ]
@@ -1375,7 +1375,7 @@
                             },
                             "BHELOIADOLH": -10.0,
                             "HBBLBBPBLGE": 3.0,
-                            "IPDEDFHPHPO": 0.0,
+                            "innerRadius": 0.0,
                             "targetType": "All",
                             "modifierName": ""
                         }
@@ -1901,7 +1901,7 @@
                             },
                             "BHELOIADOLH": -10.0,
                             "HBBLBBPBLGE": 3.0,
-                            "IPDEDFHPHPO": 0.0,
+                            "innerRadius": 0.0,
                             "targetType": "All",
                             "modifierName": ""
                         }
@@ -2660,7 +2660,7 @@
                                 104,
                                 105
                             ],
-                            "MCFCEOACJEB": [
+                            "exitActions": [
                                 {
                                     "$type": "SetAnimatorBool",
                                     "boolID": "IsAttackOver",

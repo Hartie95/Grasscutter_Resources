@@ -2032,7 +2032,7 @@
                             "effectPattern": "Eff_ScenObj_BlowingStone_01_Buff"
                         }
                     ],
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "RemoveUniqueModifier",
                             "doOffStage": true,
@@ -2175,7 +2175,7 @@
                             "CFCMBANBCFG": true
                         }
                     ],
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "RemoveUniqueModifier",
                             "doOffStage": true,
@@ -2732,11 +2732,11 @@
                                     "z": 0.0
                                 },
                                 "attachPointName": "Flag",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ],
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "RemoveUniqueModifier",
                             "doOffStage": true,
@@ -2782,11 +2782,11 @@
                                     "z": 0.0
                                 },
                                 "attachPointName": "Flag",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ],
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "RemoveUniqueModifier",
                             "doOffStage": true,
@@ -3395,7 +3395,7 @@
                                             }
                                         }
                                     },
-                                    "OGADOPDNBMM": false
+                                    "setTarget": false
                                 },
                                 {
                                     "$type": "TriggerBullet",
@@ -4177,7 +4177,7 @@
                                         "z": 0.0
                                     },
                                     "attachPointName": "RootNode",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 },
                                 "attachPointName": "RootNode"
                             }
@@ -4252,7 +4252,7 @@
                                         },
                                         "KGHEECEGCCP": true
                                     },
-                                    "OGADOPDNBMM": false
+                                    "setTarget": false
                                 },
                                 {
                                     "$type": "TriggerBullet",
@@ -4442,7 +4442,7 @@
                                         "z": 0.0
                                     },
                                     "attachPointName": "RootNode",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 },
                                 "attachPointName": "RootNode"
                             }
@@ -4506,7 +4506,7 @@
                                         },
                                         "KGHEECEGCCP": true
                                     },
-                                    "OGADOPDNBMM": false
+                                    "setTarget": false
                                 },
                                 {
                                     "$type": "TriggerBullet",
@@ -9976,7 +9976,7 @@
                                 "direction": {
                                     "$type": "ConfigDirectionByAttachPoint",
                                     "attachPointName": "ShootPointTarget",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 },
                                 "attachPointName": "ShootPoint"
                             },
@@ -9993,7 +9993,7 @@
                             "born": {
                                 "$type": "ConfigBornByAttachPoint",
                                 "attachPointName": "ShootPoint",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ]

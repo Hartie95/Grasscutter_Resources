@@ -1620,7 +1620,7 @@
                             "born": {
                                 "$type": "ConfigBornBySelf"
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "ServerMonsterLog",
@@ -1779,7 +1779,7 @@
                             "z": 0.0
                         },
                         "attachPointName": "ForeRAttachPoint",
-                        "MMFHENHCBGB": "Self"
+                        "attachPointTargetType": "Self"
                     }
                 },
                 {
@@ -1801,7 +1801,7 @@
                             "z": 0.0
                         },
                         "attachPointName": "ForeRAttachPoint",
-                        "MMFHENHCBGB": "Self"
+                        "attachPointTargetType": "Self"
                     }
                 },
                 {
@@ -1823,7 +1823,7 @@
                             "z": 0.0
                         },
                         "attachPointName": "ForeRAttachPoint",
-                        "MMFHENHCBGB": "Self"
+                        "attachPointTargetType": "Self"
                     }
                 },
                 {
@@ -1840,7 +1840,7 @@
                                     "z": -1.0
                                 },
                                 "attachPointName": "ForeRAttachPoint",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             },
                             "radius": 6.0
                         },
@@ -1899,7 +1899,7 @@
                             "z": 0.0
                         },
                         "attachPointName": "ForeLAttachPoint",
-                        "MMFHENHCBGB": "Self"
+                        "attachPointTargetType": "Self"
                     }
                 },
                 {
@@ -1921,7 +1921,7 @@
                             "z": 0.0
                         },
                         "attachPointName": "ForeLAttachPoint",
-                        "MMFHENHCBGB": "Self"
+                        "attachPointTargetType": "Self"
                     }
                 },
                 {
@@ -1943,7 +1943,7 @@
                             "z": 0.0
                         },
                         "attachPointName": "ForeLAttachPoint",
-                        "MMFHENHCBGB": "Self"
+                        "attachPointTargetType": "Self"
                     }
                 },
                 {
@@ -1960,7 +1960,7 @@
                                     "z": -1.0
                                 },
                                 "attachPointName": "ForeLAttachPoint",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             },
                             "radius": 6.0
                         },
@@ -2011,7 +2011,7 @@
                             "z": 0.0
                         },
                         "attachPointName": "HindLAttachPoint",
-                        "MMFHENHCBGB": "Self"
+                        "attachPointTargetType": "Self"
                     }
                 },
                 {
@@ -2033,7 +2033,7 @@
                             "z": 0.0
                         },
                         "attachPointName": "HindLAttachPoint",
-                        "MMFHENHCBGB": "Self"
+                        "attachPointTargetType": "Self"
                     }
                 },
                 {
@@ -2055,7 +2055,7 @@
                             "z": 0.0
                         },
                         "attachPointName": "HindLAttachPoint",
-                        "MMFHENHCBGB": "Self"
+                        "attachPointTargetType": "Self"
                     }
                 },
                 {
@@ -2072,7 +2072,7 @@
                                     "z": -1.0
                                 },
                                 "attachPointName": "HindLAttachPoint",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             },
                             "radius": 6.0
                         },
@@ -2123,7 +2123,7 @@
                             "z": 0.0
                         },
                         "attachPointName": "HindRAttachPoint",
-                        "MMFHENHCBGB": "Self"
+                        "attachPointTargetType": "Self"
                     }
                 },
                 {
@@ -2145,7 +2145,7 @@
                             "z": 0.0
                         },
                         "attachPointName": "HindRAttachPoint",
-                        "MMFHENHCBGB": "Self"
+                        "attachPointTargetType": "Self"
                     }
                 },
                 {
@@ -2167,7 +2167,7 @@
                             "z": 0.0
                         },
                         "attachPointName": "HindRAttachPoint",
-                        "MMFHENHCBGB": "Self"
+                        "attachPointTargetType": "Self"
                     }
                 },
                 {
@@ -2184,7 +2184,7 @@
                                     "z": -1.0
                                 },
                                 "attachPointName": "HindRAttachPoint",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             },
                             "radius": 6.0
                         },
@@ -3068,10 +3068,10 @@
                                 "z": 0.0
                             },
                             "attachPointName": "RootNode",
-                            "MMFHENHCBGB": "Self"
+                            "attachPointTargetType": "Self"
                         },
                         "attachPointName": "RootNode",
-                        "MMFHENHCBGB": "Self"
+                        "attachPointTargetType": "Self"
                     },
                     "ENJEPFDLDDF": "Self"
                 },
@@ -3259,7 +3259,7 @@
                             },
                             "BHELOIADOLH": -7.5,
                             "HBBLBBPBLGE": 0.0,
-                            "IPDEDFHPHPO": 0.0,
+                            "innerRadius": 0.0,
                             "targetType": "Enemy",
                             "predicates": [
                                 {
@@ -3405,7 +3405,7 @@
                             },
                             "BHELOIADOLH": -7.5,
                             "HBBLBBPBLGE": 0.0,
-                            "IPDEDFHPHPO": 0.0,
+                            "innerRadius": 0.0,
                             "targetType": "Enemy",
                             "predicates": [
                                 {
@@ -4139,7 +4139,7 @@
                                     }
                                 },
                                 "attachPointName": "HindRAttachPoint",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         },
                         {
@@ -4158,7 +4158,7 @@
                                     "randomAngleHor": 15.0
                                 },
                                 "attachPointName": "HindRAttachPoint",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         },
                         {
@@ -4177,7 +4177,7 @@
                                     "randomAngleHor": 15.0
                                 },
                                 "attachPointName": "HindRAttachPoint",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ],
@@ -4373,7 +4373,7 @@
                                     },
                                     "randomAngleHor": 15.0,
                                     "attachPointName": "DirectionAttachPoint1",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 }
                             }
                         }
@@ -4408,7 +4408,7 @@
                                     },
                                     "randomAngleHor": 15.0,
                                     "attachPointName": "DirectionAttachPoint2",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 }
                             }
                         }
@@ -4443,7 +4443,7 @@
                                     },
                                     "randomAngleHor": 15.0,
                                     "attachPointName": "DirectionAttachPoint3",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 }
                             }
                         }
@@ -4664,7 +4664,7 @@
                                     }
                                 },
                                 "attachPointName": "ForeLAttachPoint",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         },
                         {
@@ -4683,7 +4683,7 @@
                                     "randomAngleHor": 15.0
                                 },
                                 "attachPointName": "HindRAttachPoint",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         },
                         {
@@ -4702,7 +4702,7 @@
                                     "randomAngleHor": 15.0
                                 },
                                 "attachPointName": "HindRAttachPoint",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ],
@@ -4898,7 +4898,7 @@
                                     },
                                     "randomAngleHor": 15.0,
                                     "attachPointName": "DirectionAttachPoint3",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 }
                             }
                         }
@@ -4933,7 +4933,7 @@
                                     },
                                     "randomAngleHor": 15.0,
                                     "attachPointName": "DirectionAttachPoint4",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 }
                             }
                         }
@@ -4968,7 +4968,7 @@
                                     },
                                     "randomAngleHor": 15.0,
                                     "attachPointName": "DirectionAttachPoint1",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 }
                             }
                         }
@@ -5265,7 +5265,7 @@
                                     },
                                     "randomAngleHor": 15.0,
                                     "attachPointName": "DirectionAttachPoint4",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 }
                             }
                         }
@@ -5300,7 +5300,7 @@
                                     },
                                     "randomAngleHor": 15.0,
                                     "attachPointName": "DirectionAttachPoint3",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 }
                             }
                         }
@@ -5335,7 +5335,7 @@
                                     },
                                     "randomAngleHor": 15.0,
                                     "attachPointName": "DirectionAttachPoint2",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 }
                             }
                         }
@@ -5408,7 +5408,7 @@
                                     }
                                 },
                                 "attachPointName": "HindLAttachPoint",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         },
                         {
@@ -5427,7 +5427,7 @@
                                     "randomAngleHor": 15.0
                                 },
                                 "attachPointName": "HindRAttachPoint",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         },
                         {
@@ -5446,7 +5446,7 @@
                                     "randomAngleHor": 15.0
                                 },
                                 "attachPointName": "HindRAttachPoint",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ],
@@ -5769,7 +5769,7 @@
                                     },
                                     "randomAngleHor": 15.0,
                                     "attachPointName": "DirectionAttachPoint2",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 }
                             }
                         }
@@ -5804,7 +5804,7 @@
                                     },
                                     "randomAngleHor": 15.0,
                                     "attachPointName": "DirectionAttachPoint1",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 }
                             }
                         }
@@ -5839,7 +5839,7 @@
                                     },
                                     "randomAngleHor": 15.0,
                                     "attachPointName": "DirectionAttachPoint4",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 }
                             }
                         }
@@ -5912,7 +5912,7 @@
                                     }
                                 },
                                 "attachPointName": "HindRAttachPoint",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         },
                         {
@@ -5931,7 +5931,7 @@
                                     "randomAngleHor": 15.0
                                 },
                                 "attachPointName": "HindRAttachPoint",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         },
                         {
@@ -5950,7 +5950,7 @@
                                     "randomAngleHor": 15.0
                                 },
                                 "attachPointName": "HindRAttachPoint",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ],
@@ -6813,7 +6813,7 @@
                             },
                             "BHELOIADOLH": -7.5,
                             "HBBLBBPBLGE": 0.0,
-                            "IPDEDFHPHPO": 0.0,
+                            "innerRadius": 0.0,
                             "targetType": "Enemy",
                             "predicates": [
                                 {
@@ -6919,7 +6919,7 @@
                             },
                             "BHELOIADOLH": -7.5,
                             "HBBLBBPBLGE": 0.0,
-                            "IPDEDFHPHPO": 0.0,
+                            "innerRadius": 0.0,
                             "targetType": "Enemy",
                             "predicates": [
                                 {
@@ -7769,7 +7769,7 @@
                             },
                             "BHELOIADOLH": -7.5,
                             "HBBLBBPBLGE": 0.0,
-                            "IPDEDFHPHPO": 0.0,
+                            "innerRadius": 0.0,
                             "targetType": "Enemy",
                             "predicates": [
                                 {
@@ -7891,7 +7891,7 @@
                             },
                             "BHELOIADOLH": -7.5,
                             "HBBLBBPBLGE": 0.0,
-                            "IPDEDFHPHPO": 0.0,
+                            "innerRadius": 0.0,
                             "targetType": "Enemy",
                             "predicates": [
                                 {
@@ -8395,7 +8395,7 @@
                                     },
                                     "randomAngleHor": 15.0,
                                     "attachPointName": "DirectionAttachPoint1",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 }
                             }
                         }
@@ -8430,7 +8430,7 @@
                                     },
                                     "randomAngleHor": 15.0,
                                     "attachPointName": "DirectionAttachPoint3",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 }
                             }
                         }
@@ -8465,7 +8465,7 @@
                                     },
                                     "randomAngleHor": 15.0,
                                     "attachPointName": "DirectionAttachPoint1",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 }
                             }
                         }
@@ -8500,7 +8500,7 @@
                                     },
                                     "randomAngleHor": 15.0,
                                     "attachPointName": "DirectionAttachPoint3",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 }
                             }
                         }
@@ -8925,7 +8925,7 @@
                                                 "z": 0.0
                                             },
                                             "attachPointName": "MouthAttachPoint",
-                                            "MMFHENHCBGB": "Self"
+                                            "attachPointTargetType": "Self"
                                         },
                                         "attachPointName": "MouthAttachPoint"
                                     },
@@ -8987,7 +8987,7 @@
                                                 "z": 0.0
                                             },
                                             "attachPointName": "MouthAttachPoint",
-                                            "MMFHENHCBGB": "Self"
+                                            "attachPointTargetType": "Self"
                                         },
                                         "attachPointName": "MouthAttachPoint"
                                     },
@@ -9049,7 +9049,7 @@
                                                 "z": 0.0
                                             },
                                             "attachPointName": "MouthAttachPoint",
-                                            "MMFHENHCBGB": "Self"
+                                            "attachPointTargetType": "Self"
                                         },
                                         "attachPointName": "MouthAttachPoint"
                                     },
@@ -9762,7 +9762,7 @@
                                     },
                                     "randomAngleHor": 15.0,
                                     "attachPointName": "DirectionAttachPoint1",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 }
                             }
                         }
@@ -9797,7 +9797,7 @@
                                     },
                                     "randomAngleHor": 15.0,
                                     "attachPointName": "DirectionAttachPoint2",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 }
                             }
                         }
@@ -9832,7 +9832,7 @@
                                     },
                                     "randomAngleHor": 15.0,
                                     "attachPointName": "DirectionAttachPoint4",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 }
                             }
                         }
@@ -9867,7 +9867,7 @@
                                     },
                                     "randomAngleHor": 15.0,
                                     "attachPointName": "DirectionAttachPoint3",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 }
                             }
                         }
@@ -10153,10 +10153,10 @@
                                         "z": 0.0
                                     },
                                     "attachPointName": "StingAttachPointL01",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 },
                                 "attachPointName": "StingAttachPointL01",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         },
                         {
@@ -10172,10 +10172,10 @@
                                         "z": 0.0
                                     },
                                     "attachPointName": "StingAttachPointL02",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 },
                                 "attachPointName": "StingAttachPointL02",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         },
                         {
@@ -10191,10 +10191,10 @@
                                         "z": 0.0
                                     },
                                     "attachPointName": "StingAttachPointR01",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 },
                                 "attachPointName": "StingAttachPointR01",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         },
                         {
@@ -10210,10 +10210,10 @@
                                         "z": 0.0
                                     },
                                     "attachPointName": "StingAttachPointR02",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 },
                                 "attachPointName": "StingAttachPointR02",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ],
@@ -10235,7 +10235,7 @@
                                 },
                                 "BIOOFAHEGLA": 0.75
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "ApplyModifier",
@@ -10376,10 +10376,10 @@
                                         "z": 0.0
                                     },
                                     "attachPointName": "StingAttachPointL01",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 },
                                 "attachPointName": "StingAttachPointL01",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         },
                         {
@@ -10395,10 +10395,10 @@
                                         "z": 0.0
                                     },
                                     "attachPointName": "StingAttachPointL02",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 },
                                 "attachPointName": "StingAttachPointL02",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         },
                         {
@@ -10414,10 +10414,10 @@
                                         "z": 0.0
                                     },
                                     "attachPointName": "StingAttachPointR01",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 },
                                 "attachPointName": "StingAttachPointR01",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         },
                         {
@@ -10433,10 +10433,10 @@
                                         "z": 0.0
                                     },
                                     "attachPointName": "StingAttachPointR02",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 },
                                 "attachPointName": "StingAttachPointR02",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ],
@@ -10477,10 +10477,10 @@
                                         "z": 0.0
                                     },
                                     "attachPointName": "StingAttachPointL01",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 },
                                 "attachPointName": "StingAttachPointL01",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         },
                         {
@@ -10496,10 +10496,10 @@
                                         "z": 0.0
                                     },
                                     "attachPointName": "StingAttachPointL02",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 },
                                 "attachPointName": "StingAttachPointL02",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         },
                         {
@@ -10515,10 +10515,10 @@
                                         "z": 0.0
                                     },
                                     "attachPointName": "StingAttachPointR01",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 },
                                 "attachPointName": "StingAttachPointR01",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         },
                         {
@@ -10534,10 +10534,10 @@
                                         "z": 0.0
                                     },
                                     "attachPointName": "StingAttachPointR02",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 },
                                 "attachPointName": "StingAttachPointR02",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ],

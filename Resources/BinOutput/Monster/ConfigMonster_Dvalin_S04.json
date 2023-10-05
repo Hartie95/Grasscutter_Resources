@@ -67,7 +67,7 @@
                             "z": -20.0
                         },
                         "attachPointName": "ClimbColliderAttachPoint",
-                        "MMFHENHCBGB": "Self"
+                        "attachPointTargetType": "Self"
                     },
                     "size": {
                         "x": 15.0,

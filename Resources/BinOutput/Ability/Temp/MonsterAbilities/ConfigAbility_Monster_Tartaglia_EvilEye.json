@@ -150,8 +150,8 @@
                             "failActions": [
                                 {
                                     "$type": "TriggerHideWeapon",
-                                    "ACDFJMCPFGH": true,
-                                    "FLCNICMDANB": [
+                                    "visible": true,
+                                    "partNames": [
                                         "equip02",
                                         "equip03"
                                     ]
@@ -167,7 +167,7 @@
                     "onRemoved": [
                         {
                             "$type": "TriggerHideWeapon",
-                            "FLCNICMDANB": [
+                            "partNames": [
                                 "equip02",
                                 "equip03"
                             ]
@@ -218,8 +218,8 @@
                             "failActions": [
                                 {
                                     "$type": "TriggerHideWeapon",
-                                    "ACDFJMCPFGH": true,
-                                    "FLCNICMDANB": [
+                                    "visible": true,
+                                    "partNames": [
                                         "equip04"
                                     ]
                                 }
@@ -229,7 +229,7 @@
                     "onRemoved": [
                         {
                             "$type": "TriggerHideWeapon",
-                            "FLCNICMDANB": [
+                            "partNames": [
                                 "equip04"
                             ]
                         },
@@ -1805,7 +1805,7 @@
                         "JBNMHNDDJJC": 7.0,
                         "GCJBBHLBLLG": 20.0
                     },
-                    "OGADOPDNBMM": false
+                    "setTarget": false
                 }
             ]
         }
@@ -2140,7 +2140,7 @@
                                 "$type": "ConfigBornByTarget",
                                 "onGround": true
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         }
                     ]
                 },
@@ -2223,7 +2223,7 @@
                                 "$type": "ConfigBornByTarget",
                                 "onGround": true
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         }
                     ]
                 }
@@ -2244,7 +2244,7 @@
                         "$type": "ConfigBornByTarget",
                         "onGround": true
                     },
-                    "OGADOPDNBMM": false
+                    "setTarget": false
                 },
                 {
                     "$type": "TryFindBlinkPointByBorn",
@@ -2381,7 +2381,7 @@
                         },
                         {
                             "$type": "TriggerHideWeapon",
-                            "FLCNICMDANB": [
+                            "partNames": [
                                 "equip04"
                             ]
                         }
@@ -2412,8 +2412,8 @@
                         },
                         {
                             "$type": "TriggerHideWeapon",
-                            "ACDFJMCPFGH": true,
-                            "FLCNICMDANB": [
+                            "visible": true,
+                            "partNames": [
                                 "equip04"
                             ]
                         }

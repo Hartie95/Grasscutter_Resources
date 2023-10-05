@@ -367,7 +367,7 @@
                                             "z": 0.0
                                         },
                                         "attachPointName": "ShootPoint",
-                                        "MMFHENHCBGB": "Applier"
+                                        "attachPointTargetType": "Applier"
                                     }
                                 }
                             ],
@@ -383,7 +383,7 @@
                                             "z": 0.0
                                         },
                                         "attachPointName": "ShootPoint",
-                                        "MMFHENHCBGB": "Applier"
+                                        "attachPointTargetType": "Applier"
                                     }
                                 }
                             ]
@@ -2313,7 +2313,7 @@
                             },
                             "BHELOIADOLH": 2.0,
                             "HBBLBBPBLGE": 1.0,
-                            "IPDEDFHPHPO": 0.0,
+                            "innerRadius": 0.0,
                             "targetType": "Enemy",
                             "predicates": [
                                 {
@@ -2345,7 +2345,7 @@
                             },
                             "BHELOIADOLH": 4.0,
                             "HBBLBBPBLGE": 1.0,
-                            "IPDEDFHPHPO": 0.0,
+                            "innerRadius": 0.0,
                             "targetType": "Enemy",
                             "predicates": [
                                 {
@@ -3398,7 +3398,7 @@
                             "born": {
                                 "$type": "ConfigBornByTarget"
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "FireEffect",

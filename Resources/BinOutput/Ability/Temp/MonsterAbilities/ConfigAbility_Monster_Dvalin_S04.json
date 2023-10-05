@@ -1825,7 +1825,7 @@
                                 "direction": {
                                     "$type": "ConfigDirectionByAttachPoint",
                                     "attachPointName": "DeadZone1",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 },
                                 "attachPointName": "DeadZone1"
                             },
@@ -1842,7 +1842,7 @@
                                 "direction": {
                                     "$type": "ConfigDirectionByAttachPoint",
                                     "attachPointName": "DeadZone2",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 },
                                 "attachPointName": "DeadZone2"
                             },
@@ -1859,7 +1859,7 @@
                                 "direction": {
                                     "$type": "ConfigDirectionByAttachPoint",
                                     "attachPointName": "DeadZone9",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 },
                                 "attachPointName": "DeadZone9"
                             },
@@ -1907,7 +1907,7 @@
                                 "direction": {
                                     "$type": "ConfigDirectionByAttachPoint",
                                     "attachPointName": "DeadZone3",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 },
                                 "attachPointName": "DeadZone3"
                             },
@@ -1924,7 +1924,7 @@
                                 "direction": {
                                     "$type": "ConfigDirectionByAttachPoint",
                                     "attachPointName": "DeadZone4",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 },
                                 "attachPointName": "DeadZone4"
                             },
@@ -1941,7 +1941,7 @@
                                 "direction": {
                                     "$type": "ConfigDirectionByAttachPoint",
                                     "attachPointName": "DeadZone5",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 },
                                 "attachPointName": "DeadZone5"
                             },
@@ -1989,7 +1989,7 @@
                                 "direction": {
                                     "$type": "ConfigDirectionByAttachPoint",
                                     "attachPointName": "DeadZone6",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 },
                                 "attachPointName": "DeadZone6"
                             },
@@ -2006,7 +2006,7 @@
                                 "direction": {
                                     "$type": "ConfigDirectionByAttachPoint",
                                     "attachPointName": "DeadZone7",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 },
                                 "attachPointName": "DeadZone7"
                             },
@@ -2023,7 +2023,7 @@
                                 "direction": {
                                     "$type": "ConfigDirectionByAttachPoint",
                                     "attachPointName": "DeadZone8",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 },
                                 "attachPointName": "DeadZone8"
                             },
@@ -3243,7 +3243,7 @@
                                     "z": 0.0
                                 },
                                 "attachPointName": "ClawRight",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             },
                             "gadgetID": 42901088,
                             "campID": 4001,
@@ -3260,7 +3260,7 @@
                                     "z": 0.0
                                 },
                                 "attachPointName": "ClawLeft",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             },
                             "gadgetID": 42901089,
                             "campID": 4001,
@@ -3617,7 +3617,7 @@
                                 "direction": {
                                     "$type": "ConfigDirectionByAttachPoint",
                                     "attachPointName": "Breathe",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 },
                                 "attachPointName": "Breathe"
                             }
@@ -3642,7 +3642,7 @@
                                     "z": 0.0
                                 },
                                 "attachPointName": "ClawRight",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             },
                             "gadgetID": 42901088,
                             "campID": 4001,
@@ -3660,7 +3660,7 @@
                                     "z": 0.0
                                 },
                                 "attachPointName": "ClawLeft",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             },
                             "gadgetID": 42901089,
                             "campID": 4001,
@@ -4084,7 +4084,7 @@
                     "born": {
                         "$type": "ConfigBornByAttachPoint",
                         "attachPointName": "StarFall1",
-                        "MMFHENHCBGB": "Self"
+                        "attachPointTargetType": "Self"
                     },
                     "gadgetID": 42901065,
                     "campID": 4001,
@@ -4097,7 +4097,7 @@
                     "born": {
                         "$type": "ConfigBornByAttachPoint",
                         "attachPointName": "StarFall2",
-                        "MMFHENHCBGB": "Self"
+                        "attachPointTargetType": "Self"
                     },
                     "gadgetID": 42901065,
                     "campID": 4001,
@@ -4110,7 +4110,7 @@
                     "born": {
                         "$type": "ConfigBornByAttachPoint",
                         "attachPointName": "StarFall9",
-                        "MMFHENHCBGB": "Self"
+                        "attachPointTargetType": "Self"
                     },
                     "gadgetID": 42901065,
                     "campID": 4001,
@@ -4123,7 +4123,7 @@
                     "born": {
                         "$type": "ConfigBornByAttachPoint",
                         "attachPointName": "StarFall3",
-                        "MMFHENHCBGB": "Self"
+                        "attachPointTargetType": "Self"
                     },
                     "gadgetID": 42901065,
                     "campID": 4001,
@@ -4136,7 +4136,7 @@
                     "born": {
                         "$type": "ConfigBornByAttachPoint",
                         "attachPointName": "StarFall4",
-                        "MMFHENHCBGB": "Self"
+                        "attachPointTargetType": "Self"
                     },
                     "gadgetID": 42901065,
                     "campID": 4001,
@@ -4149,7 +4149,7 @@
                     "born": {
                         "$type": "ConfigBornByAttachPoint",
                         "attachPointName": "StarFall5",
-                        "MMFHENHCBGB": "Self"
+                        "attachPointTargetType": "Self"
                     },
                     "gadgetID": 42901065,
                     "campID": 4001,
@@ -4162,7 +4162,7 @@
                     "born": {
                         "$type": "ConfigBornByAttachPoint",
                         "attachPointName": "StarFall6",
-                        "MMFHENHCBGB": "Self"
+                        "attachPointTargetType": "Self"
                     },
                     "gadgetID": 42901065,
                     "campID": 4001,
@@ -4175,7 +4175,7 @@
                     "born": {
                         "$type": "ConfigBornByAttachPoint",
                         "attachPointName": "StarFall7",
-                        "MMFHENHCBGB": "Self"
+                        "attachPointTargetType": "Self"
                     },
                     "gadgetID": 42901065,
                     "campID": 4001,
@@ -4188,7 +4188,7 @@
                     "born": {
                         "$type": "ConfigBornByAttachPoint",
                         "attachPointName": "StarFall8",
-                        "MMFHENHCBGB": "Self"
+                        "attachPointTargetType": "Self"
                     },
                     "gadgetID": 42901065,
                     "campID": 4001,
@@ -5029,7 +5029,7 @@
                                     }
                                 },
                                 "attachPointName": "Breathe",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             },
                             "ENJEPFDLDDF": "Target"
                         },
@@ -6086,7 +6086,7 @@
                                     "z": 0.0
                                 },
                                 "attachPointName": "ClimbColliderAttachPoint",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             },
                             "gadgetID": 42901069,
                             "campID": 4001,
@@ -6122,7 +6122,7 @@
                                     "z": 0.0
                                 },
                                 "attachPointName": "Seal_01",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             },
                             "gadgetID": 42901087,
                             "campID": 4001,
@@ -6238,7 +6238,7 @@
                             },
                             "BHELOIADOLH": 50.0,
                             "HBBLBBPBLGE": 0.0,
-                            "IPDEDFHPHPO": 2.0,
+                            "innerRadius": 2.0,
                             "targetType": "Enemy",
                             "predicates": [
                                 {

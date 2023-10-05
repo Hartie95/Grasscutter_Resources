@@ -629,7 +629,7 @@
                             "$type": "ConfigDirectionByAttackTarget"
                         },
                         "attachPointName": "BulletAttachPoint1",
-                        "MMFHENHCBGB": "Caster"
+                        "attachPointTargetType": "Caster"
                     }
                 }
             ]
@@ -775,7 +775,7 @@
                         },
                         {
                             "$type": "TriggerSetVisible",
-                            "ACDFJMCPFGH": true
+                            "visible": true
                         },
                         {
                             "$type": "TurnDirectionToPos",

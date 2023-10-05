@@ -3124,7 +3124,7 @@
                             "shapeName": "CircleR15",
                             "BHELOIADOLH": -5.0,
                             "HBBLBBPBLGE": 2.0,
-                            "IPDEDFHPHPO": 0.0,
+                            "innerRadius": 0.0,
                             "targetType": "All",
                             "predicates": [
                                 {
@@ -3546,9 +3546,9 @@
             "onAbilityStart": [
                 {
                     "$type": "FireHitEffect",
-                    "OFIGOLJOGPJ": "",
-                    "MHCHJLOELPF": {
-                        "MCNFNFLLGIH": "Eff_SceneObj_IceSentryTurrets_Ice_Hit",
+                    "hitEntity": "",
+                    "hitScene": {
+                        "defaultEffect": "Eff_SceneObj_IceSentryTurrets_Ice_Hit",
                         "GACILIABHFB": {
                             "Water": "Eff_SceneObj_IceSentryTurrets_Ice_Hit"
                         }

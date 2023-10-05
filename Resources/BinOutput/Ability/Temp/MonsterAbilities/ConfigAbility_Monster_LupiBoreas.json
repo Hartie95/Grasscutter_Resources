@@ -422,7 +422,7 @@
                     "born": {
                         "$type": "ConfigBornByTarget"
                     },
-                    "OGADOPDNBMM": false
+                    "setTarget": false
                 }
             ],
             "onAbilityStart": [
@@ -675,9 +675,9 @@
                                             "value": 52.5
                                         }
                                     ],
-                                    "DGICDMAKHOJ": 60.0,
-                                    "JLCCGHLNHOI": 5.0,
-                                    "GLALMCMAFJF": 7.0
+                                    "forwardAngle": 60.0,
+                                    "minRange": 5.0,
+                                    "maxRange": 7.0
                                 },
                                 {
                                     "$type": "FireEffect",
@@ -1200,7 +1200,7 @@
                         "NormalMove",
                         "SurroundTurn"
                     ],
-                    "OFLAPMGKHHE": [
+                    "enterPredicates": [
                         {
                             "$type": "ByTargetGlobalValue",
                             "key": "_MONSTER_LUPIBOREAS_WALKCONTROL",
@@ -1227,7 +1227,7 @@
                             ]
                         }
                     ],
-                    "MCFCEOACJEB": [
+                    "exitActions": [
                         {
                             "$type": "AddGlobalValue",
                             "value": -10.0,
@@ -1686,7 +1686,7 @@
                             ]
                         }
                     ],
-                    "MCFCEOACJEB": [
+                    "exitActions": [
                         {
                             "$type": "KillGadget",
                             "LBGGIBBMCMF": {
@@ -2061,7 +2061,7 @@
                                         "$type": "ConfigBornByTarget",
                                         "onGround": true
                                     },
-                                    "OGADOPDNBMM": false
+                                    "setTarget": false
                                 },
                                 {
                                     "$type": "ApplyModifier",
@@ -2214,7 +2214,7 @@
                                 "$type": "ConfigBornByTarget",
                                 "onGround": true
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "FireEffect",
@@ -2682,7 +2682,7 @@
                             },
                             "BHELOIADOLH": -15.0,
                             "HBBLBBPBLGE": 3.0,
-                            "IPDEDFHPHPO": 0.0,
+                            "innerRadius": 0.0,
                             "targetType": "All",
                             "modifierName": ""
                         }

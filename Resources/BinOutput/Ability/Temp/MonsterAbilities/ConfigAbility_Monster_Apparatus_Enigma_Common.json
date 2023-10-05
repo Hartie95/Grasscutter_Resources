@@ -347,14 +347,14 @@
                                     "target": "Self",
                                     "key": "_Enigma_BossFight_Enhanced",
                                     "value": 1.0,
-                                    "EODMLMGMLNP": true
+                                    "forceByCaster": true
                                 },
                                 {
                                     "$type": "ByTargetGlobalValue",
                                     "target": "Self",
                                     "key": "_ACTIVITY_BlitzRush_Tag",
                                     "value": 1.0,
-                                    "EODMLMGMLNP": true
+                                    "forceByCaster": true
                                 },
                                 {
                                     "$type": "ByHitBoxName",
@@ -381,14 +381,14 @@
                                     "target": "Self",
                                     "key": "_Enigma_BossFight_Enhanced",
                                     "value": 1.0,
-                                    "EODMLMGMLNP": true
+                                    "forceByCaster": true
                                 },
                                 {
                                     "$type": "ByTargetGlobalValue",
                                     "target": "Self",
                                     "key": "_ACTIVITY_BlitzRush_Tag",
                                     "value": 1.0,
-                                    "EODMLMGMLNP": true
+                                    "forceByCaster": true
                                 },
                                 {
                                     "$type": "ByHitBoxName",

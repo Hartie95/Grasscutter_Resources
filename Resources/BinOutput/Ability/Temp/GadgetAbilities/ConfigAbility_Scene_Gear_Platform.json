@@ -736,7 +736,7 @@
                                     "z": 0.0
                                 },
                                 "attachPointName": "RootNode",
-                                "MMFHENHCBGB": "Applier"
+                                "attachPointTargetType": "Applier"
                             }
                         },
                         {
@@ -961,7 +961,7 @@
                             },
                             "BHELOIADOLH": 15.0,
                             "HBBLBBPBLGE": 0.0,
-                            "IPDEDFHPHPO": 0.5,
+                            "innerRadius": 0.5,
                             "targetType": "All",
                             "predicates": [
                                 {

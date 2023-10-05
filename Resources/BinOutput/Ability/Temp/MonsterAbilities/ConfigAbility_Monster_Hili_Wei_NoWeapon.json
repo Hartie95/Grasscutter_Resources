@@ -872,9 +872,9 @@
                 },
                 {
                     "$type": "FireHitEffect",
-                    "OFIGOLJOGPJ": "",
-                    "MHCHJLOELPF": {
-                        "MCNFNFLLGIH": "Eff_Monster_Hili_None_PebbleBullet_AS",
+                    "hitEntity": "",
+                    "hitScene": {
+                        "defaultEffect": "Eff_Monster_Hili_None_PebbleBullet_AS",
                         "GACILIABHFB": {
                             "Water": "Eff_Monster_Hili_None_PebbleBullet_AS_Water"
                         }

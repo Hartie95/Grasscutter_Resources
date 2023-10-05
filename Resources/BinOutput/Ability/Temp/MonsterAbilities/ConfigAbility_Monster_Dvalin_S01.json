@@ -2047,7 +2047,7 @@
                                                     }
                                                 },
                                                 "attachPointName": "BarrageAttach3",
-                                                "MMFHENHCBGB": "Self"
+                                                "attachPointTargetType": "Self"
                                             }
                                         }
                                     ],
@@ -2071,7 +2071,7 @@
                                                     }
                                                 },
                                                 "attachPointName": "BarrageAttach4",
-                                                "MMFHENHCBGB": "Self"
+                                                "attachPointTargetType": "Self"
                                             }
                                         }
                                     ]
@@ -2097,7 +2097,7 @@
                                             }
                                         },
                                         "attachPointName": "BarrageAttach5",
-                                        "MMFHENHCBGB": "Self"
+                                        "attachPointTargetType": "Self"
                                     }
                                 }
                             ]
@@ -2127,7 +2127,7 @@
                                             }
                                         },
                                         "attachPointName": "BarrageAttach6",
-                                        "MMFHENHCBGB": "Self"
+                                        "attachPointTargetType": "Self"
                                     }
                                 }
                             ],
@@ -2151,7 +2151,7 @@
                                             }
                                         },
                                         "attachPointName": "BarrageAttach7",
-                                        "MMFHENHCBGB": "Self"
+                                        "attachPointTargetType": "Self"
                                     }
                                 }
                             ]
@@ -2508,7 +2508,7 @@
                                     "$type": "ConfigDirectionByEntity"
                                 },
                                 "attachPointName": "BarrageAttach1",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ],
@@ -2532,7 +2532,7 @@
                                     "$type": "ConfigDirectionByEntity"
                                 },
                                 "attachPointName": "BarrageAttach2",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ]
@@ -2821,7 +2821,7 @@
                                     "$type": "ConfigDirectionByEntity"
                                 },
                                 "attachPointName": "BarrageAttach1",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ],
@@ -2845,7 +2845,7 @@
                                     "$type": "ConfigDirectionByEntity"
                                 },
                                 "attachPointName": "BarrageAttach2",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ]
@@ -2942,7 +2942,7 @@
                                     }
                                 },
                                 "attachPointName": "BarrageAttach1",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             },
                             "gadgetID": 42901059,
                             "campID": 4001
@@ -2965,7 +2965,7 @@
                                     }
                                 },
                                 "attachPointName": "BarrageAttach2",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             },
                             "gadgetID": 42901059,
                             "campID": 4001
@@ -2988,7 +2988,7 @@
                                     }
                                 },
                                 "attachPointName": "BarrageAttach3",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             },
                             "gadgetID": 42901059,
                             "campID": 4001
@@ -3011,7 +3011,7 @@
                                     }
                                 },
                                 "attachPointName": "BarrageAttach5",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             },
                             "gadgetID": 42901059,
                             "campID": 4001
@@ -3034,7 +3034,7 @@
                                     }
                                 },
                                 "attachPointName": "BarrageAttach6",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             },
                             "gadgetID": 42901059,
                             "campID": 4001
@@ -3057,7 +3057,7 @@
                                     }
                                 },
                                 "attachPointName": "BarrageAttach8",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             },
                             "gadgetID": 42901059,
                             "campID": 4001
@@ -3080,7 +3080,7 @@
                                     }
                                 },
                                 "attachPointName": "BarrageAttach9",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             },
                             "gadgetID": 42901059,
                             "campID": 4001
@@ -3103,7 +3103,7 @@
                                     }
                                 },
                                 "attachPointName": "BarrageAttach10",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             },
                             "gadgetID": 42901059,
                             "campID": 4001
@@ -3126,7 +3126,7 @@
                                     }
                                 },
                                 "attachPointName": "BarrageAttach11",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             },
                             "gadgetID": 42901059,
                             "campID": 4001
@@ -3149,7 +3149,7 @@
                                     }
                                 },
                                 "attachPointName": "BarrageAttach12",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             },
                             "gadgetID": 42901059,
                             "campID": 4001
@@ -3172,7 +3172,7 @@
                                     }
                                 },
                                 "attachPointName": "BarrageAttach13",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             },
                             "gadgetID": 42901059,
                             "campID": 4001
@@ -3195,7 +3195,7 @@
                                     }
                                 },
                                 "attachPointName": "BarrageAttach14",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             },
                             "gadgetID": 42901059,
                             "campID": 4001
@@ -3218,7 +3218,7 @@
                                     }
                                 },
                                 "attachPointName": "BarrageAttach15",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             },
                             "gadgetID": 42901059,
                             "campID": 4001
@@ -3241,7 +3241,7 @@
                                     }
                                 },
                                 "attachPointName": "BarrageAttach16",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             },
                             "gadgetID": 42901059,
                             "campID": 4001
@@ -3264,7 +3264,7 @@
                                     }
                                 },
                                 "attachPointName": "BarrageAttach17",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             },
                             "gadgetID": 42901059,
                             "campID": 4001
@@ -3287,7 +3287,7 @@
                                     }
                                 },
                                 "attachPointName": "BarrageAttach18",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             },
                             "gadgetID": 42901059,
                             "campID": 4001
@@ -3310,7 +3310,7 @@
                                     }
                                 },
                                 "attachPointName": "BarrageAttach19",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             },
                             "gadgetID": 42901059,
                             "campID": 4001
@@ -3416,7 +3416,7 @@
                                     }
                                 },
                                 "attachPointName": "BarrageAttach3",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             },
                             "gadgetID": 42901060,
                             "campID": 4001
@@ -3439,7 +3439,7 @@
                                     }
                                 },
                                 "attachPointName": "BarrageAttach5",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             },
                             "gadgetID": 42901060,
                             "campID": 4001
@@ -3462,7 +3462,7 @@
                                     }
                                 },
                                 "attachPointName": "BarrageAttach6",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             },
                             "gadgetID": 42901060,
                             "campID": 4001
@@ -3485,7 +3485,7 @@
                                     }
                                 },
                                 "attachPointName": "BarrageAttach8",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             },
                             "gadgetID": 42901060,
                             "campID": 4001
@@ -3508,7 +3508,7 @@
                                     }
                                 },
                                 "attachPointName": "BarrageAttach9",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             },
                             "gadgetID": 42901060,
                             "campID": 4001
@@ -3531,7 +3531,7 @@
                                     }
                                 },
                                 "attachPointName": "BarrageAttach10",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             },
                             "gadgetID": 42901060,
                             "campID": 4001
@@ -3554,7 +3554,7 @@
                                     }
                                 },
                                 "attachPointName": "BarrageAttach11",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             },
                             "gadgetID": 42901060,
                             "campID": 4001
@@ -3577,7 +3577,7 @@
                                     }
                                 },
                                 "attachPointName": "BarrageAttach12",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             },
                             "gadgetID": 42901060,
                             "campID": 4001
@@ -3600,7 +3600,7 @@
                                     }
                                 },
                                 "attachPointName": "BarrageAttach13",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             },
                             "gadgetID": 42901060,
                             "campID": 4001
@@ -3623,7 +3623,7 @@
                                     }
                                 },
                                 "attachPointName": "BarrageAttach14",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             },
                             "gadgetID": 42901060,
                             "campID": 4001
@@ -3646,7 +3646,7 @@
                                     }
                                 },
                                 "attachPointName": "BarrageAttach15",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             },
                             "gadgetID": 42901060,
                             "campID": 4001
@@ -3669,7 +3669,7 @@
                                     }
                                 },
                                 "attachPointName": "BarrageAttach16",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             },
                             "gadgetID": 42901060,
                             "campID": 4001
@@ -3692,7 +3692,7 @@
                                     }
                                 },
                                 "attachPointName": "BarrageAttach17",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             },
                             "gadgetID": 42901060,
                             "campID": 4001
@@ -3715,7 +3715,7 @@
                                     }
                                 },
                                 "attachPointName": "BarrageAttach18",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             },
                             "gadgetID": 42901060,
                             "campID": 4001
@@ -3738,7 +3738,7 @@
                                     }
                                 },
                                 "attachPointName": "BarrageAttach19",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             },
                             "gadgetID": 42901060,
                             "campID": 4001

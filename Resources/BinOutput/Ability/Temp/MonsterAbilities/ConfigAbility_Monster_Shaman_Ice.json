@@ -102,7 +102,7 @@
                         "alongGround": true,
                         "BIOOFAHEGLA": 0.699999988079071
                     },
-                    "OGADOPDNBMM": false
+                    "setTarget": false
                 },
                 {
                     "$type": "FireEffect",
@@ -141,7 +141,7 @@
                                 "alongGround": true,
                                 "BIOOFAHEGLA": 0.4000000059604645
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "FireEffect",
@@ -621,7 +621,7 @@
                                     "modifierName": "IcePillar_Element"
                                 }
                             ],
-                            "HMLKELJFCKD": [
+                            "onShieldSuccess": [
                                 {
                                     "$type": "Predicated",
                                     "target": "Target",
@@ -644,7 +644,7 @@
                                                     "$type": "ConfigDirectionByLookAtEntity"
                                                 }
                                             },
-                                            "OGADOPDNBMM": false
+                                            "setTarget": false
                                         }
                                     ],
                                     "failActions": [
@@ -658,7 +658,7 @@
                                                     "$type": "ConfigDirectionByLookAtEntity"
                                                 }
                                             },
-                                            "OGADOPDNBMM": false
+                                            "setTarget": false
                                         }
                                     ]
                                 },
@@ -674,7 +674,7 @@
                                     }
                                 }
                             ],
-                            "FFOEHJLIDFC": [
+                            "onShieldFailed": [
                                 {
                                     "$type": "Predicated",
                                     "target": "Target",
@@ -697,7 +697,7 @@
                                                     "$type": "ConfigDirectionByLookAtEntity"
                                                 }
                                             },
-                                            "OGADOPDNBMM": false
+                                            "setTarget": false
                                         }
                                     ],
                                     "failActions": [
@@ -711,7 +711,7 @@
                                                     "$type": "ConfigDirectionByLookAtEntity"
                                                 }
                                             },
-                                            "OGADOPDNBMM": false
+                                            "setTarget": false
                                         }
                                     ]
                                 },

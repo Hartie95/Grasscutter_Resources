@@ -70,7 +70,7 @@
                     "onRemoved": [
                         {
                             "$type": "TriggerSetVisible",
-                            "ACDFJMCPFGH": true
+                            "visible": true
                         },
                         {
                             "$type": "EnablePushColliderName",
@@ -166,7 +166,7 @@
                                 {
                                     "$type": "TryFindBlinkPoint",
                                     "target": "Target",
-                                    "DGICDMAKHOJ": 360.0
+                                    "forwardAngle": 360.0
                                 }
                             ],
                             "failActions": [
@@ -193,7 +193,7 @@
                                         {
                                             "$type": "TryFindBlinkPoint",
                                             "target": "Target",
-                                            "DGICDMAKHOJ": 360.0
+                                            "forwardAngle": 360.0
                                         }
                                     ],
                                     "failActions": [
@@ -231,7 +231,7 @@
                                 {
                                     "$type": "TryFindBlinkPoint",
                                     "target": "Target",
-                                    "DGICDMAKHOJ": 360.0
+                                    "forwardAngle": 360.0
                                 }
                             ],
                             "failActions": [
@@ -258,7 +258,7 @@
                                         {
                                             "$type": "TryFindBlinkPoint",
                                             "target": "Target",
-                                            "DGICDMAKHOJ": 360.0
+                                            "forwardAngle": 360.0
                                         }
                                     ],
                                     "failActions": [

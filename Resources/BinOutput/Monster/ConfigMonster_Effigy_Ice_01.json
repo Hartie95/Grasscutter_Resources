@@ -370,7 +370,7 @@
                     },
                     "secondHeight": 5.0,
                     "radius": 6.0,
-                    "IPDEDFHPHPO": 2.0
+                    "innerRadius": 2.0
                 },
                 "attackInfo": {
                     "attackTag": "",
@@ -406,7 +406,7 @@
                     },
                     "secondHeight": 5.0,
                     "radius": 10.0,
-                    "IPDEDFHPHPO": 5.0
+                    "innerRadius": 5.0
                 },
                 "attackInfo": {
                     "attackTag": "",
@@ -442,7 +442,7 @@
                     },
                     "secondHeight": 5.0,
                     "radius": 14.0,
-                    "IPDEDFHPHPO": 8.0
+                    "innerRadius": 8.0
                 },
                 "attackInfo": {
                     "attackTag": "",

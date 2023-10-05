@@ -691,7 +691,7 @@
                             "shieldAngle": 360.0,
                             "shieldHPRatio": 1.0,
                             "damageRatio": 0.20000000298023224,
-                            "FFOEHJLIDFC": [
+                            "onShieldFailed": [
                                 {
                                     "$type": "FireEffect",
                                     "target": "Owner",
@@ -973,7 +973,7 @@
                             "shieldAngle": 360.0,
                             "shieldHPRatio": 1.0,
                             "damageRatio": 0.20000000298023224,
-                            "FFOEHJLIDFC": [
+                            "onShieldFailed": [
                                 {
                                     "$type": "FireEffect",
                                     "target": "Owner",
@@ -1619,14 +1619,14 @@
                     "onAdded": [
                         {
                             "$type": "TriggerHideWeapon",
-                            "FLCNICMDANB": [
+                            "partNames": [
                                 "equip02"
                             ]
                         },
                         {
                             "$type": "TriggerHideWeapon",
-                            "ACDFJMCPFGH": true,
-                            "FLCNICMDANB": [
+                            "visible": true,
+                            "partNames": [
                                 "equip01"
                             ]
                         }
@@ -1717,14 +1717,14 @@
                     "onAdded": [
                         {
                             "$type": "TriggerHideWeapon",
-                            "ACDFJMCPFGH": true,
-                            "FLCNICMDANB": [
+                            "visible": true,
+                            "partNames": [
                                 "equip02"
                             ]
                         },
                         {
                             "$type": "TriggerHideWeapon",
-                            "FLCNICMDANB": [
+                            "partNames": [
                                 "equip01"
                             ]
                         }

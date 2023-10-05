@@ -36,7 +36,7 @@
                             "stateIDs": [
                                 "FallingAnthem_AS_1"
                             ],
-                            "MCFCEOACJEB": [
+                            "exitActions": [
                                 {
                                     "$type": "ApplyModifier",
                                     "doOffStage": true,
@@ -917,7 +917,7 @@
                                         },
                                         "onGround": true
                                     },
-                                    "OGADOPDNBMM": false
+                                    "setTarget": false
                                 },
                                 {
                                     "$type": "ApplyModifier",
@@ -1611,7 +1611,7 @@
                                         "$type": "ConfigBornByTarget",
                                         "onGround": true
                                     },
-                                    "OGADOPDNBMM": false
+                                    "setTarget": false
                                 },
                                 {
                                     "$type": "ApplyModifier",

@@ -811,7 +811,7 @@
                             }
                         },
                         "attachPointName": "RootNode",
-                        "MMFHENHCBGB": "Caster"
+                        "attachPointTargetType": "Caster"
                     },
                     "JCAMCEOBIFG": true,
                     "gadgetID": 42602001,
@@ -2285,7 +2285,7 @@
                     "born": {
                         "$type": "ConfigBornByTarget"
                     },
-                    "OGADOPDNBMM": false
+                    "setTarget": false
                 }
             ]
         }

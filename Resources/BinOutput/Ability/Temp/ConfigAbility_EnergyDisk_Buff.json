@@ -46,7 +46,7 @@
                             "stateIDs": [
                                 "FallingAnthem_AS_1"
                             ],
-                            "MCFCEOACJEB": [
+                            "exitActions": [
                                 {
                                     "$type": "ApplyModifier",
                                     "modifierName": "EnergyDisk_FallingAttack_CD_Change"
@@ -1462,7 +1462,7 @@
                             },
                             "BHELOIADOLH": 4.0,
                             "HBBLBBPBLGE": 2.0,
-                            "IPDEDFHPHPO": 1.0,
+                            "innerRadius": 1.0,
                             "targetType": "All",
                             "predicates": [
                                 {
@@ -2979,7 +2979,7 @@
                                                     "z": 0.0
                                                 }
                                             },
-                                            "OGADOPDNBMM": false
+                                            "setTarget": false
                                         },
                                         {
                                             "$type": "CreateGadget",
@@ -3510,7 +3510,7 @@
                                                     "z": 0.0
                                                 }
                                             },
-                                            "OGADOPDNBMM": false
+                                            "setTarget": false
                                         },
                                         {
                                             "$type": "CreateGadget",

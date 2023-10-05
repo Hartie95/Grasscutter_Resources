@@ -450,7 +450,7 @@
                         },
                         {
                             "$type": "TriggerSetVisible",
-                            "ACDFJMCPFGH": true
+                            "visible": true
                         },
                         {
                             "$type": "HideUIBillBoard"
@@ -1193,7 +1193,7 @@
                 "Darkwraith_Strong_Wind_FunnelAtk_StaticGadget_Reconnect": {
                     "modifierName": "",
                     "elementDurability": 100.0,
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "SetGlobalValue",
                             "value": 1.0,
@@ -1997,7 +1997,7 @@
                             "born": {
                                 "$type": "ConfigBornBySelf"
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         }
                     ]
                 }

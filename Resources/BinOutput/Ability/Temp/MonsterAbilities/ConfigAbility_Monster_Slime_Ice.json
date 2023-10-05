@@ -234,7 +234,7 @@
                                     "$type": "ByTargetGlobalValue",
                                     "key": "_MONSTERAFFIX_ELEMENTRECOVERY_ICE",
                                     "value": 1.0,
-                                    "EODMLMGMLNP": true
+                                    "forceByCaster": true
                                 }
                             ],
                             "value": 30.0,

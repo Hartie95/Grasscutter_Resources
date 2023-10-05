@@ -403,7 +403,7 @@
                             },
                             "BHELOIADOLH": 5.0,
                             "HBBLBBPBLGE": 1.2000000476837158,
-                            "IPDEDFHPHPO": 1.5,
+                            "innerRadius": 1.5,
                             "targetType": "Enemy",
                             "predicates": [
                                 {
@@ -507,7 +507,7 @@
                             "$type": "ByTargetGlobalValue",
                             "key": "_TORNADO_COUNT",
                             "value": 1.0,
-                            "EODMLMGMLNP": true
+                            "forceByCaster": true
                         },
                         {
                             "$type": "ByTargetGlobalValue",
@@ -537,7 +537,7 @@
                             "$type": "ByTargetGlobalValue",
                             "key": "_TORNADO_COUNT",
                             "value": 2.0,
-                            "EODMLMGMLNP": true
+                            "forceByCaster": true
                         },
                         {
                             "$type": "ByTargetGlobalValue",
@@ -567,7 +567,7 @@
                             "$type": "ByTargetGlobalValue",
                             "key": "_TORNADO_COUNT",
                             "value": 3.0,
-                            "EODMLMGMLNP": true
+                            "forceByCaster": true
                         },
                         {
                             "$type": "ByTargetGlobalValue",
@@ -597,7 +597,7 @@
                             "$type": "ByTargetGlobalValue",
                             "key": "_TORNADO_COUNT",
                             "value": 1.0,
-                            "EODMLMGMLNP": true
+                            "forceByCaster": true
                         },
                         {
                             "$type": "ByTargetGlobalValue",
@@ -628,7 +628,7 @@
                             "$type": "ByTargetGlobalValue",
                             "key": "_TORNADO_COUNT",
                             "value": 2.0,
-                            "EODMLMGMLNP": true
+                            "forceByCaster": true
                         },
                         {
                             "$type": "ByTargetGlobalValue",
@@ -659,7 +659,7 @@
                             "$type": "ByTargetGlobalValue",
                             "key": "_TORNADO_COUNT",
                             "value": 3.0,
-                            "EODMLMGMLNP": true
+                            "forceByCaster": true
                         },
                         {
                             "$type": "ByTargetGlobalValue",
@@ -1130,7 +1130,7 @@
                             },
                             "BHELOIADOLH": 5.0,
                             "HBBLBBPBLGE": 1.2000000476837158,
-                            "IPDEDFHPHPO": 1.5,
+                            "innerRadius": 1.5,
                             "targetType": "Enemy",
                             "predicates": [
                                 {
@@ -1211,7 +1211,7 @@
                             },
                             "BHELOIADOLH": 5.0,
                             "HBBLBBPBLGE": 1.2000000476837158,
-                            "IPDEDFHPHPO": 1.5,
+                            "innerRadius": 1.5,
                             "targetType": "Enemy",
                             "predicates": [
                                 {

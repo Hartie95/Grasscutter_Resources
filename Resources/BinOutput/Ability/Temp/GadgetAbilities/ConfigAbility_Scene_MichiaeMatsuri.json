@@ -417,7 +417,7 @@
                                     "$type": "ConfigDirectionByReflection"
                                 },
                                 "attachPointName": "ShootPoint",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         },
                         {
@@ -467,7 +467,7 @@
                                     "FFABPPAADCA": 90.0
                                 },
                                 "attachPointName": "ShootPoint",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         },
                         {

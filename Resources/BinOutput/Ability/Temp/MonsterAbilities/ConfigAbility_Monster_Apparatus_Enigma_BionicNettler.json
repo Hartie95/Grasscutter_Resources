@@ -422,7 +422,7 @@
                                         "onGround": true
                                     },
                                     "FPIJACIKJKL": 1.8329999446868896,
-                                    "GLALMCMAFJF": 10.0,
+                                    "maxRange": 10.0,
                                     "MPOEADACOHO": [
                                         "EnergyLineRushMove"
                                     ],

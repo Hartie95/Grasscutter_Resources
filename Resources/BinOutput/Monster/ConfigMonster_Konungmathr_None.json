@@ -695,7 +695,7 @@
                     },
                     "secondHeight": 1.75,
                     "radius": 10.5,
-                    "IPDEDFHPHPO": 7.5
+                    "innerRadius": 7.5
                 },
                 "attackInfo": {
                     "attackTag": "",
@@ -1065,7 +1065,7 @@
                     },
                     "secondHeight": 1.75,
                     "radius": 11.0,
-                    "IPDEDFHPHPO": 8.5
+                    "innerRadius": 8.5
                 },
                 "attackInfo": {
                     "attackTag": "WeakEnd",

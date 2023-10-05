@@ -1158,7 +1158,7 @@
                             "born": {
                                 "$type": "ConfigBornByAttachPoint",
                                 "attachPointName": "RisePoint",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ]
@@ -1266,7 +1266,7 @@
                             "born": {
                                 "$type": "ConfigBornByAttachPoint",
                                 "attachPointName": "RisePoint",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ]
@@ -3040,21 +3040,21 @@
                                     "shapeName": "CircleR40H40",
                                     "BHELOIADOLH": 2.0,
                                     "HBBLBBPBLGE": 0.0,
-                                    "IPDEDFHPHPO": 0.0,
+                                    "innerRadius": 0.0,
                                     "modifierName": ""
                                 },
                                 {
                                     "shapeName": "CircleR6H40",
                                     "BHELOIADOLH": 5.0,
                                     "HBBLBBPBLGE": 0.0,
-                                    "IPDEDFHPHPO": 0.0,
+                                    "innerRadius": 0.0,
                                     "modifierName": ""
                                 },
                                 {
                                     "shapeName": "RectW10L10H30",
                                     "BHELOIADOLH": 10.0,
                                     "HBBLBBPBLGE": 0.0,
-                                    "IPDEDFHPHPO": 0.0,
+                                    "innerRadius": 0.0,
                                     "modifierName": "Tornado_Struggle"
                                 },
                                 {
@@ -3064,7 +3064,7 @@
                                     },
                                     "BHELOIADOLH": -10.0,
                                     "HBBLBBPBLGE": 0.0,
-                                    "IPDEDFHPHPO": 0.0,
+                                    "innerRadius": 0.0,
                                     "modifierName": "",
                                     "duration": 7.0
                                 }
@@ -3727,7 +3727,7 @@
                                             },
                                             "secondHeight": 20.0,
                                             "radius": 25.0,
-                                            "IPDEDFHPHPO": 2.200000047683716
+                                            "innerRadius": 2.200000047683716
                                         },
                                         "attackInfo": {
                                             "attackTag": "",
@@ -4627,7 +4627,7 @@
                             "born": {
                                 "$type": "ConfigBornByAttachPoint",
                                 "attachPointName": "FaceCenter",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ]
@@ -4642,7 +4642,7 @@
                             "born": {
                                 "$type": "ConfigBornByAttachPoint",
                                 "attachPointName": "FaceCenter",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         },
                         {
@@ -4651,7 +4651,7 @@
                             "born": {
                                 "$type": "ConfigBornByAttachPoint",
                                 "attachPointName": "FaceCenter",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ]
@@ -4666,7 +4666,7 @@
                             "born": {
                                 "$type": "ConfigBornByAttachPoint",
                                 "attachPointName": "CubeCenter",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ]
@@ -4796,7 +4796,7 @@
                             "born": {
                                 "$type": "ConfigBornByAttachPoint",
                                 "attachPointName": "FaceCenter",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ]
@@ -4811,7 +4811,7 @@
                             "born": {
                                 "$type": "ConfigBornByAttachPoint",
                                 "attachPointName": "FaceCenter",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         },
                         {
@@ -4820,7 +4820,7 @@
                             "born": {
                                 "$type": "ConfigBornByAttachPoint",
                                 "attachPointName": "FaceCenter",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ]
@@ -4835,7 +4835,7 @@
                             "born": {
                                 "$type": "ConfigBornByAttachPoint",
                                 "attachPointName": "CubeCenter",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ]
@@ -4887,7 +4887,7 @@
                             "born": {
                                 "$type": "ConfigBornByAttachPoint",
                                 "attachPointName": "RootNode",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ]
@@ -4980,7 +4980,7 @@
                                     },
                                     "secondHeight": 5.0,
                                     "radius": 6.0,
-                                    "IPDEDFHPHPO": 0.5
+                                    "innerRadius": 0.5
                                 },
                                 "attackInfo": {
                                     "attackTag": "",
@@ -5028,7 +5028,7 @@
                                             },
                                             "secondHeight": 5.0,
                                             "radius": 6.0,
-                                            "IPDEDFHPHPO": 0.5
+                                            "innerRadius": 0.5
                                         },
                                         "attackInfo": {
                                             "attackTag": "",
@@ -5133,7 +5133,7 @@
                                     },
                                     "secondHeight": 5.0,
                                     "radius": 6.0,
-                                    "IPDEDFHPHPO": 0.5
+                                    "innerRadius": 0.5
                                 },
                                 "attackInfo": {
                                     "attackTag": "",
@@ -6745,7 +6745,7 @@
                                     "z": 0.0
                                 },
                                 "attachPointName": "RootNode",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ]
@@ -7276,7 +7276,7 @@
                                     "z": 0.0
                                 },
                                 "attachPointName": "RootNode",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ]
@@ -7850,7 +7850,7 @@
                             "born": {
                                 "$type": "ConfigBornByAttachPoint",
                                 "attachPointName": "FaceCenter",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ]
@@ -7867,7 +7867,7 @@
                             "born": {
                                 "$type": "ConfigBornByAttachPoint",
                                 "attachPointName": "FaceCenter",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ]

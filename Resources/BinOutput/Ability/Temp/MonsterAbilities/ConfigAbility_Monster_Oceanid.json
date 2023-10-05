@@ -270,7 +270,7 @@
                     "onRemoved": [
                         {
                             "$type": "TriggerSetVisible",
-                            "ACDFJMCPFGH": true
+                            "visible": true
                         },
                         {
                             "$type": "EnableHitBoxByName",
@@ -390,7 +390,7 @@
                                             "$type": "ConfigDirectionByLookAtEntity"
                                         }
                                     },
-                                    "OGADOPDNBMM": false
+                                    "setTarget": false
                                 }
                             ],
                             "failActions": [
@@ -404,7 +404,7 @@
                                             "$type": "ConfigDirectionByLookAtEntity"
                                         }
                                     },
-                                    "OGADOPDNBMM": false
+                                    "setTarget": false
                                 }
                             ]
                         },
@@ -418,7 +418,7 @@
                                     "MICIJLHMIIH": "_OCEANID_BEINGHIT_DIR_"
                                 },
                                 "attachPointName": "RootNode",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ]
@@ -879,7 +879,7 @@
                                     "z": 0.0
                                 },
                                 "attachPointName": "BulletAttachPoint",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ]
@@ -926,7 +926,7 @@
                                             "IOIAHLPJDMH": 15.0
                                         },
                                         "attachPointName": "BulletAttachPoint",
-                                        "MMFHENHCBGB": "Self"
+                                        "attachPointTargetType": "Self"
                                     },
                                     "ENJEPFDLDDF": "Target"
                                 }
@@ -1173,7 +1173,7 @@
                                 "$type": "ConfigBornByAttachPoint",
                                 "attachPointName": "RootNode"
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "FixedMonsterRushMove",
@@ -1270,7 +1270,7 @@
                                 },
                                 "attachPointName": "RootNode"
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "ShowReminder",
@@ -1297,7 +1297,7 @@
                             "born": {
                                 "$type": "ConfigBornByAttachPoint",
                                 "attachPointName": "RootNode",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ],
@@ -1435,7 +1435,7 @@
                         },
                         {
                             "$type": "TriggerSetVisible",
-                            "ACDFJMCPFGH": true
+                            "visible": true
                         },
                         {
                             "$type": "Predicated",
@@ -1538,7 +1538,7 @@
                         },
                         {
                             "$type": "TriggerSetVisible",
-                            "ACDFJMCPFGH": true
+                            "visible": true
                         },
                         {
                             "$type": "Predicated",
@@ -1666,7 +1666,7 @@
                         },
                         {
                             "$type": "TriggerSetVisible",
-                            "ACDFJMCPFGH": true
+                            "visible": true
                         }
                     ]
                 }
@@ -1925,7 +1925,7 @@
                             "born": {
                                 "$type": "ConfigBornByAttachPoint",
                                 "attachPointName": "RootNode",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ],

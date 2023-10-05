@@ -126,7 +126,7 @@
                             "minValue": 0.0
                         }
                     ],
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "SetGlobalValue",
                             "value": 1.0,
@@ -174,7 +174,7 @@
                             "onRemoved": [
                                 {
                                     "$type": "TriggerSetVisible",
-                                    "ACDFJMCPFGH": true
+                                    "visible": true
                                 }
                             ]
                         }
@@ -197,7 +197,7 @@
                             "minValue": 0.0
                         }
                     ],
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "SetGlobalValue",
                             "value": 1.0,
@@ -281,7 +281,7 @@
                             "modifierName": "Darksign_Blink_ASDelay"
                         }
                     ],
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "SetGlobalValue",
                             "value": 1.0,
@@ -304,7 +304,7 @@
                             "minValue": 0.0
                         }
                     ],
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "SetGlobalValue",
                             "value": 1.0,
@@ -365,9 +365,9 @@
                         {
                             "$type": "TryFindBlinkPoint",
                             "target": "SelfAttackTarget",
-                            "DGICDMAKHOJ": 180.0,
-                            "JLCCGHLNHOI": 5.0,
-                            "GLALMCMAFJF": 15.0,
+                            "forwardAngle": 180.0,
+                            "minRange": 5.0,
+                            "maxRange": 15.0,
                             "CAHDDFDCLBI": true
                         }
                     ],
@@ -375,9 +375,9 @@
                         {
                             "$type": "TryFindBlinkPoint",
                             "target": "SelfAttackTarget",
-                            "DGICDMAKHOJ": 180.0,
-                            "JLCCGHLNHOI": 1.0,
-                            "GLALMCMAFJF": 3.0,
+                            "forwardAngle": 180.0,
+                            "minRange": 1.0,
+                            "maxRange": 3.0,
                             "CAHDDFDCLBI": true
                         }
                     ]
@@ -402,9 +402,9 @@
                         {
                             "$type": "TryFindBlinkPoint",
                             "target": "SelfAttackTarget",
-                            "DGICDMAKHOJ": 180.0,
-                            "JLCCGHLNHOI": 6.0,
-                            "GLALMCMAFJF": 10.0,
+                            "forwardAngle": 180.0,
+                            "minRange": 6.0,
+                            "maxRange": 10.0,
                             "CAHDDFDCLBI": true
                         },
                         {
@@ -488,9 +488,9 @@
                 {
                     "$type": "TryFindBlinkPoint",
                     "target": "SelfAttackTarget",
-                    "DGICDMAKHOJ": 180.0,
-                    "JLCCGHLNHOI": 6.0,
-                    "GLALMCMAFJF": 10.0,
+                    "forwardAngle": 180.0,
+                    "minRange": 6.0,
+                    "maxRange": 10.0,
                     "CAHDDFDCLBI": true
                 },
                 {
@@ -761,7 +761,7 @@
                                     "born": {
                                         "$type": "ConfigBornByTarget"
                                     },
-                                    "OGADOPDNBMM": false
+                                    "setTarget": false
                                 },
                                 {
                                     "$type": "TurnDirectionToPos",

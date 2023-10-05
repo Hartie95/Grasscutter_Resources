@@ -333,7 +333,7 @@
                                     "z": 0.0
                                 },
                                 "attachPointName": "BulletSource",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             },
                             "gadgetID": 42601005,
                             "campID": 4001,

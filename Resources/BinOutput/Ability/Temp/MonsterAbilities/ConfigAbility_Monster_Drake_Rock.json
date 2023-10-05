@@ -897,7 +897,7 @@
                         "onGround": true
                     },
                     "FPIJACIKJKL": 0.8199999928474426,
-                    "GLALMCMAFJF": 20.0,
+                    "maxRange": 20.0,
                     "MPOEADACOHO": [
                         "JumpAtk"
                     ],
@@ -987,7 +987,7 @@
                         "onGround": true
                     },
                     "FPIJACIKJKL": 1.100000023841858,
-                    "GLALMCMAFJF": 20.0,
+                    "maxRange": 20.0,
                     "MPOEADACOHO": [
                         "JumpAtkFinal"
                     ],
@@ -1493,7 +1493,7 @@
                                 }
                             },
                             "FPIJACIKJKL": 0.550000011920929,
-                            "GLALMCMAFJF": 10.0,
+                            "maxRange": 10.0,
                             "MPOEADACOHO": [
                                 "CrushAtkCharging"
                             ],
@@ -1632,7 +1632,7 @@
                         "onGround": true
                     },
                     "FPIJACIKJKL": 0.6299999952316284,
-                    "GLALMCMAFJF": 20.0,
+                    "maxRange": 20.0,
                     "MPOEADACOHO": [
                         "CrushAtkFinalHit"
                     ],
@@ -2187,7 +2187,7 @@
                             },
                             "secondHeight": 3.0,
                             "radius": 6.5,
-                            "IPDEDFHPHPO": 4.5
+                            "innerRadius": 4.5
                         },
                         "attackInfo": {
                             "attackTag": "",
@@ -2242,7 +2242,7 @@
                             },
                             "secondHeight": 3.0,
                             "radius": 8.5,
-                            "IPDEDFHPHPO": 6.5
+                            "innerRadius": 6.5
                         },
                         "attackInfo": {
                             "attackTag": "",

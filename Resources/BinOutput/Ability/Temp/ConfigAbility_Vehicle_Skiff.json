@@ -905,9 +905,9 @@
                 },
                 {
                     "$type": "FireHitEffect",
-                    "OFIGOLJOGPJ": "",
-                    "MHCHJLOELPF": {
-                        "MCNFNFLLGIH": "Eff_Skiff_Normal_Cannon_Explode_01",
+                    "hitEntity": "",
+                    "hitScene": {
+                        "defaultEffect": "Eff_Skiff_Normal_Cannon_Explode_01",
                         "GACILIABHFB": {
                             "Water": "Eff_Arrow_Fire_Hit_Water"
                         }
@@ -978,9 +978,9 @@
                 },
                 {
                     "$type": "FireHitEffect",
-                    "OFIGOLJOGPJ": "",
-                    "MHCHJLOELPF": {
-                        "MCNFNFLLGIH": "Eff_Skiff_Normal_Cannon_Explode_02",
+                    "hitEntity": "",
+                    "hitScene": {
+                        "defaultEffect": "Eff_Skiff_Normal_Cannon_Explode_02",
                         "GACILIABHFB": {
                             "Water": "Eff_Arrow_Fire_Hit_Water"
                         }

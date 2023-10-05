@@ -1544,7 +1544,7 @@
                             "shapeName": "CircleR4",
                             "BHELOIADOLH": 4.5,
                             "HBBLBBPBLGE": 0.0,
-                            "IPDEDFHPHPO": 1.0,
+                            "innerRadius": 1.0,
                             "targetType": "Enemy",
                             "modifierName": ""
                         }

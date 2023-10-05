@@ -351,7 +351,7 @@
                             "modifierName": "UNIQUE_Invoker_Deacon_Fire_ElementShield"
                         }
                     ],
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "ApplyModifier",
                             "modifierName": "UNIQUE_Invoker_Deacon_Fire_ElementShield"
@@ -392,7 +392,7 @@
                         },
                         {
                             "$type": "VelocityForceMixin",
-                            "MPGPCCEHFGL": [
+                            "excludeForces": [
                                 "WindZoneType"
                             ]
                         },
@@ -669,7 +669,7 @@
                             "onRemoved": [
                                 {
                                     "$type": "TriggerSetVisible",
-                                    "ACDFJMCPFGH": true
+                                    "visible": true
                                 },
                                 {
                                     "$type": "HideUIBillBoard"
@@ -910,7 +910,7 @@
                                     "$type": "ConfigDirectionByAttackTarget"
                                 },
                                 "attachPointName": "NormalAtk01",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ],
@@ -936,7 +936,7 @@
                                     "$type": "ConfigDirectionByAttackTarget"
                                 },
                                 "attachPointName": "NormalAtk02",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ],
@@ -962,7 +962,7 @@
                                     "$type": "ConfigDirectionByAttackTarget"
                                 },
                                 "attachPointName": "NormalAtk03",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ],
@@ -988,7 +988,7 @@
                                     "$type": "ConfigDirectionByAttackTarget"
                                 },
                                 "attachPointName": "NormalAtk04",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ],
@@ -1014,7 +1014,7 @@
                                     "$type": "ConfigDirectionByAttackTarget"
                                 },
                                 "attachPointName": "NormalAtk05",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ]
@@ -1129,7 +1129,7 @@
                             "$type": "SetGlobalPos",
                             "target": "SelfAttackTarget",
                             "key": "_MONSTER_INVOKER_DEACON_FIRE_BURNATK_POS",
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "CreateGadget",
@@ -1665,7 +1665,7 @@
                                     "z": 0.0
                                 },
                                 "attachPointName": "FirePoint",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             },
                             "ENJEPFDLDDF": "Owner"
                         },
@@ -2110,7 +2110,7 @@
                                     "$type": "ConfigDirectionByAttackTarget"
                                 },
                                 "attachPointName": "BurnAtk01",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ]
@@ -2179,9 +2179,9 @@
             "onAbilityStart": [
                 {
                     "$type": "FireHitEffect",
-                    "OFIGOLJOGPJ": "",
-                    "MHCHJLOELPF": {
-                        "MCNFNFLLGIH": "Eff_Monster_Invoker_Deacon_Fire_RangeAtk01_HitScene"
+                    "hitEntity": "",
+                    "hitScene": {
+                        "defaultEffect": "Eff_Monster_Invoker_Deacon_Fire_RangeAtk01_HitScene"
                     }
                 },
                 {
@@ -2306,7 +2306,7 @@
                                 "onGround": true,
                                 "BIOOFAHEGLA": 0.5
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "CreateGadget",
@@ -2507,7 +2507,7 @@
                                 "onGround": true,
                                 "BIOOFAHEGLA": 0.5
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "CreateGadget",

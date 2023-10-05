@@ -127,7 +127,7 @@
                             "z": 2.0
                         }
                     },
-                    "GLALMCMAFJF": 2.0,
+                    "maxRange": 2.0,
                     "GDCBDDNNPCM": 0.10000000149011612
                 }
             ]
@@ -648,7 +648,7 @@
                             },
                             "BHELOIADOLH": 10.0,
                             "HBBLBBPBLGE": 1.0,
-                            "IPDEDFHPHPO": 1.0,
+                            "innerRadius": 1.0,
                             "targetType": "Enemy",
                             "modifierName": ""
                         }
@@ -671,7 +671,7 @@
                             },
                             "BHELOIADOLH": 10.0,
                             "HBBLBBPBLGE": 1.0,
-                            "IPDEDFHPHPO": 1.0,
+                            "innerRadius": 1.0,
                             "targetType": "Enemy",
                             "modifierName": ""
                         }
@@ -695,7 +695,7 @@
                         "GCJBBHLBLLG": 50.0
                     },
                     "FPIJACIKJKL": 0.15000000596046448,
-                    "GLALMCMAFJF": 17.0,
+                    "maxRange": 17.0,
                     "MPOEADACOHO": [
                         "RushBuddy"
                     ],
@@ -2300,7 +2300,7 @@
                     "onAdded": [
                         {
                             "$type": "TriggerHideWeapon",
-                            "FLCNICMDANB": [
+                            "partNames": [
                                 "equip01",
                                 "equip02"
                             ]
@@ -2309,8 +2309,8 @@
                     "onRemoved": [
                         {
                             "$type": "TriggerHideWeapon",
-                            "ACDFJMCPFGH": true,
-                            "FLCNICMDANB": [
+                            "visible": true,
+                            "partNames": [
                                 "equip01",
                                 "equip02"
                             ]

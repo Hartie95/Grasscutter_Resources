@@ -710,7 +710,7 @@
                             "$type": "ByTargetGlobalValue",
                             "key": "_SummonNumberInFatuus",
                             "value": 1.0,
-                            "EODMLMGMLNP": true,
+                            "forceByCaster": true,
                             "compareType": "MoreThanAndEqual"
                         }
                     ],
@@ -723,7 +723,7 @@
                             "$type": "ByTargetGlobalValue",
                             "key": "_SummonNumberInFatuus",
                             "value": 0.0,
-                            "EODMLMGMLNP": true
+                            "forceByCaster": true
                         }
                     ],
                     "triggerID": "NormalCancle"
@@ -829,7 +829,7 @@
                         },
                         {
                             "$type": "TriggerHideWeapon",
-                            "FLCNICMDANB": [
+                            "partNames": [
                                 "equip01"
                             ]
                         },
@@ -868,12 +868,12 @@
                         },
                         {
                             "$type": "TriggerSetVisible",
-                            "ACDFJMCPFGH": true
+                            "visible": true
                         },
                         {
                             "$type": "TriggerHideWeapon",
-                            "ACDFJMCPFGH": true,
-                            "FLCNICMDANB": [
+                            "visible": true,
+                            "partNames": [
                                 "equip01"
                             ]
                         },
@@ -924,9 +924,9 @@
             "onAbilityStart": [
                 {
                     "$type": "TryFindBlinkPoint",
-                    "DGICDMAKHOJ": 45.0,
-                    "JLCCGHLNHOI": 4.0,
-                    "GLALMCMAFJF": 5.0
+                    "forwardAngle": 45.0,
+                    "minRange": 4.0,
+                    "maxRange": 5.0
                 },
                 {
                     "$type": "AddGlobalValue",
@@ -946,9 +946,9 @@
             "onAbilityStart": [
                 {
                     "$type": "TryFindBlinkPoint",
-                    "DGICDMAKHOJ": 45.0,
-                    "JLCCGHLNHOI": 8.0,
-                    "GLALMCMAFJF": 9.0
+                    "forwardAngle": 45.0,
+                    "minRange": 8.0,
+                    "maxRange": 9.0
                 },
                 {
                     "$type": "AddGlobalValue",
@@ -1127,9 +1127,9 @@
                 {
                     "$type": "TryFindBlinkPoint",
                     "target": "Target",
-                    "DGICDMAKHOJ": -30.0,
-                    "JLCCGHLNHOI": 1.5,
-                    "GLALMCMAFJF": 2.5
+                    "forwardAngle": -30.0,
+                    "minRange": 1.5,
+                    "maxRange": 2.5
                 }
             ]
         }
@@ -1141,9 +1141,9 @@
             "onAbilityStart": [
                 {
                     "$type": "TryFindBlinkPoint",
-                    "DGICDMAKHOJ": 30.0,
-                    "JLCCGHLNHOI": 8.0,
-                    "GLALMCMAFJF": 10.0
+                    "forwardAngle": 30.0,
+                    "minRange": 8.0,
+                    "maxRange": 10.0
                 }
             ]
         }
@@ -1626,7 +1626,7 @@
                                     }
                                 }
                             ],
-                            "HMLKELJFCKD": [
+                            "onShieldSuccess": [
                                 {
                                     "$type": "Predicated",
                                     "target": "Target",
@@ -1649,7 +1649,7 @@
                                                     "$type": "ConfigDirectionByLookAtEntity"
                                                 }
                                             },
-                                            "OGADOPDNBMM": false
+                                            "setTarget": false
                                         }
                                     ],
                                     "failActions": [
@@ -1663,7 +1663,7 @@
                                                     "$type": "ConfigDirectionByLookAtEntity"
                                                 }
                                             },
-                                            "OGADOPDNBMM": false
+                                            "setTarget": false
                                         }
                                     ]
                                 },
@@ -1679,7 +1679,7 @@
                                     }
                                 }
                             ],
-                            "FFOEHJLIDFC": [
+                            "onShieldFailed": [
                                 {
                                     "$type": "Predicated",
                                     "target": "Target",
@@ -1702,7 +1702,7 @@
                                                     "$type": "ConfigDirectionByLookAtEntity"
                                                 }
                                             },
-                                            "OGADOPDNBMM": false
+                                            "setTarget": false
                                         }
                                     ],
                                     "failActions": [
@@ -1716,7 +1716,7 @@
                                                     "$type": "ConfigDirectionByLookAtEntity"
                                                 }
                                             },
-                                            "OGADOPDNBMM": false
+                                            "setTarget": false
                                         }
                                     ]
                                 },
@@ -1736,7 +1736,7 @@
                         },
                         {
                             "$type": "VelocityForceMixin",
-                            "MPGPCCEHFGL": [
+                            "excludeForces": [
                                 "WindZoneType"
                             ]
                         }
@@ -1966,7 +1966,7 @@
                                     "z": 0.0
                                 },
                                 "attachPointName": "WeaponAttachPoint",
-                                "MMFHENHCBGB": "Applier"
+                                "attachPointTargetType": "Applier"
                             }
                         }
                     ]

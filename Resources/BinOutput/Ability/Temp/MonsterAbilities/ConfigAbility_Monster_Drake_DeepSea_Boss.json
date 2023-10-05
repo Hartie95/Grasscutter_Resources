@@ -30,7 +30,7 @@
                     "onAdded": [
                         {
                             "$type": "TriggerSetVisible",
-                            "ACDFJMCPFGH": true
+                            "visible": true
                         },
                         {
                             "$type": "HideUIBillBoard"
@@ -68,7 +68,7 @@
                             "onRemoved": [
                                 {
                                     "$type": "TriggerSetVisible",
-                                    "ACDFJMCPFGH": true
+                                    "visible": true
                                 },
                                 {
                                     "$type": "HideUIBillBoard"
@@ -182,7 +182,7 @@
                         "$type": "ConfigBornByTeleportToPoint"
                     },
                     "FPIJACIKJKL": 0.3799999952316284,
-                    "GLALMCMAFJF": 100.0,
+                    "maxRange": 100.0,
                     "MPOEADACOHO": [
                         "Alert_Jump"
                     ],
@@ -222,7 +222,7 @@
                     "onAdded": [
                         {
                             "$type": "TriggerSetVisible",
-                            "ACDFJMCPFGH": true
+                            "visible": true
                         },
                         {
                             "$type": "HideUIBillBoard"
@@ -260,7 +260,7 @@
                             "onRemoved": [
                                 {
                                     "$type": "TriggerSetVisible",
-                                    "ACDFJMCPFGH": true
+                                    "visible": true
                                 },
                                 {
                                     "$type": "HideUIBillBoard"
@@ -374,7 +374,7 @@
                         "$type": "ConfigBornByTeleportToPoint"
                     },
                     "FPIJACIKJKL": 0.3799999952316284,
-                    "GLALMCMAFJF": 100.0,
+                    "maxRange": 100.0,
                     "MPOEADACOHO": [
                         "Alert_Jump"
                     ],
@@ -705,7 +705,7 @@
                         "MICIJLHMIIH": ""
                     },
                     "FPIJACIKJKL": 0.6000000238418579,
-                    "GLALMCMAFJF": 100.0,
+                    "maxRange": 100.0,
                     "MPOEADACOHO": [
                         "JumpWall_WeakBackToGroundBS",
                         "JumpWall_WeakBackToGroundDuring"
@@ -728,7 +728,7 @@
                     "born": {
                         "$type": "ConfigBornByTarget"
                     },
-                    "OGADOPDNBMM": false
+                    "setTarget": false
                 },
                 {
                     "$type": "FireEffect",
@@ -1157,7 +1157,7 @@
                                     "born": {
                                         "$type": "ConfigBornByTarget"
                                     },
-                                    "OGADOPDNBMM": false
+                                    "setTarget": false
                                 },
                                 {
                                     "$type": "SetGlobalPos",
@@ -1169,7 +1169,7 @@
                                     "born": {
                                         "$type": "ConfigBornByTarget"
                                     },
-                                    "OGADOPDNBMM": false
+                                    "setTarget": false
                                 },
                                 {
                                     "$type": "SetGlobalValue",
@@ -1201,7 +1201,7 @@
                                             "born": {
                                                 "$type": "ConfigBornByTarget"
                                             },
-                                            "OGADOPDNBMM": false
+                                            "setTarget": false
                                         },
                                         {
                                             "$type": "SetGlobalPos",
@@ -1213,7 +1213,7 @@
                                             "born": {
                                                 "$type": "ConfigBornByTarget"
                                             },
-                                            "OGADOPDNBMM": false
+                                            "setTarget": false
                                         },
                                         {
                                             "$type": "SetGlobalValue",
@@ -1245,7 +1245,7 @@
                                                     "born": {
                                                         "$type": "ConfigBornByTarget"
                                                     },
-                                                    "OGADOPDNBMM": false
+                                                    "setTarget": false
                                                 },
                                                 {
                                                     "$type": "SetGlobalPos",
@@ -1257,7 +1257,7 @@
                                                     "born": {
                                                         "$type": "ConfigBornByTarget"
                                                     },
-                                                    "OGADOPDNBMM": false
+                                                    "setTarget": false
                                                 },
                                                 {
                                                     "$type": "SetGlobalValue",
@@ -1345,7 +1345,7 @@
                         "MICIJLHMIIH": ""
                     },
                     "FPIJACIKJKL": 1.0,
-                    "GLALMCMAFJF": -1.0,
+                    "maxRange": -1.0,
                     "MPOEADACOHO": [
                         "JumpWall_JumpToStart_BS"
                     ],
@@ -2452,7 +2452,7 @@
                                             "FEFAIFDFKME": 500500004
                                         }
                                     },
-                                    "OGADOPDNBMM": false
+                                    "setTarget": false
                                 },
                                 {
                                     "$type": "SetGlobalPos",
@@ -2465,7 +2465,7 @@
                                             "FEFAIFDFKME": 500500007
                                         }
                                     },
-                                    "OGADOPDNBMM": false
+                                    "setTarget": false
                                 },
                                 {
                                     "$type": "SetGlobalValue",
@@ -2503,7 +2503,7 @@
                                                     "FEFAIFDFKME": 500500005
                                                 }
                                             },
-                                            "OGADOPDNBMM": false
+                                            "setTarget": false
                                         },
                                         {
                                             "$type": "SetGlobalPos",
@@ -2516,7 +2516,7 @@
                                                     "FEFAIFDFKME": 500500008
                                                 }
                                             },
-                                            "OGADOPDNBMM": false
+                                            "setTarget": false
                                         },
                                         {
                                             "$type": "SetGlobalValue",
@@ -2554,7 +2554,7 @@
                                                             "FEFAIFDFKME": 500500006
                                                         }
                                                     },
-                                                    "OGADOPDNBMM": false
+                                                    "setTarget": false
                                                 },
                                                 {
                                                     "$type": "SetGlobalPos",
@@ -2567,7 +2567,7 @@
                                                             "FEFAIFDFKME": 500500009
                                                         }
                                                     },
-                                                    "OGADOPDNBMM": false
+                                                    "setTarget": false
                                                 },
                                                 {
                                                     "$type": "SetGlobalValue",
@@ -2622,7 +2622,7 @@
                         "MICIJLHMIIH": ""
                     },
                     "FPIJACIKJKL": 0.9599999785423279,
-                    "GLALMCMAFJF": -1.0,
+                    "maxRange": -1.0,
                     "MPOEADACOHO": [
                         "JumpWall_JumpToStart_AS"
                     ],
@@ -2848,7 +2848,7 @@
                                             "born": {
                                                 "$type": "ConfigBornByTarget"
                                             },
-                                            "OGADOPDNBMM": false
+                                            "setTarget": false
                                         },
                                         {
                                             "$type": "SetGlobalPos",
@@ -2860,7 +2860,7 @@
                                             "born": {
                                                 "$type": "ConfigBornByTarget"
                                             },
-                                            "OGADOPDNBMM": false
+                                            "setTarget": false
                                         },
                                         {
                                             "$type": "SetGlobalValue",
@@ -2894,7 +2894,7 @@
                                             "born": {
                                                 "$type": "ConfigBornByTarget"
                                             },
-                                            "OGADOPDNBMM": false
+                                            "setTarget": false
                                         },
                                         {
                                             "$type": "SetGlobalPos",
@@ -2906,7 +2906,7 @@
                                             "born": {
                                                 "$type": "ConfigBornByTarget"
                                             },
-                                            "OGADOPDNBMM": false
+                                            "setTarget": false
                                         },
                                         {
                                             "$type": "SetGlobalValue",
@@ -2955,7 +2955,7 @@
                                             "born": {
                                                 "$type": "ConfigBornByTarget"
                                             },
-                                            "OGADOPDNBMM": false
+                                            "setTarget": false
                                         },
                                         {
                                             "$type": "SetGlobalPos",
@@ -2967,7 +2967,7 @@
                                             "born": {
                                                 "$type": "ConfigBornByTarget"
                                             },
-                                            "OGADOPDNBMM": false
+                                            "setTarget": false
                                         },
                                         {
                                             "$type": "SetGlobalValue",
@@ -3001,7 +3001,7 @@
                                             "born": {
                                                 "$type": "ConfigBornByTarget"
                                             },
-                                            "OGADOPDNBMM": false
+                                            "setTarget": false
                                         },
                                         {
                                             "$type": "SetGlobalPos",
@@ -3013,7 +3013,7 @@
                                             "born": {
                                                 "$type": "ConfigBornByTarget"
                                             },
-                                            "OGADOPDNBMM": false
+                                            "setTarget": false
                                         },
                                         {
                                             "$type": "SetGlobalValue",
@@ -3059,7 +3059,7 @@
                         "MICIJLHMIIH": ""
                     },
                     "FPIJACIKJKL": 0.699999988079071,
-                    "GLALMCMAFJF": -1.0,
+                    "maxRange": -1.0,
                     "MPOEADACOHO": [
                         "JumpToFit_During"
                     ],
@@ -3250,7 +3250,7 @@
                                     "born": {
                                         "$type": "ConfigBornByTarget"
                                     },
-                                    "OGADOPDNBMM": false
+                                    "setTarget": false
                                 },
                                 {
                                     "$type": "SetGlobalPos",
@@ -3262,7 +3262,7 @@
                                     "born": {
                                         "$type": "ConfigBornByTarget"
                                     },
-                                    "OGADOPDNBMM": false
+                                    "setTarget": false
                                 }
                             ],
                             "failActions": [
@@ -3276,7 +3276,7 @@
                                     "born": {
                                         "$type": "ConfigBornByTarget"
                                     },
-                                    "OGADOPDNBMM": false
+                                    "setTarget": false
                                 },
                                 {
                                     "$type": "SetGlobalPos",
@@ -3288,7 +3288,7 @@
                                     "born": {
                                         "$type": "ConfigBornByTarget"
                                     },
-                                    "OGADOPDNBMM": false
+                                    "setTarget": false
                                 }
                             ]
                         }
@@ -3312,7 +3312,7 @@
                         "MICIJLHMIIH": ""
                     },
                     "FPIJACIKJKL": 0.699999988079071,
-                    "GLALMCMAFJF": -1.0,
+                    "maxRange": -1.0,
                     "MPOEADACOHO": [
                         "JumpToFit_During"
                     ],
@@ -3353,7 +3353,7 @@
                             "born": {
                                 "$type": "ConfigBornByTarget"
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "AttachEffect",
@@ -4060,7 +4060,7 @@
                                     "z": 0.0
                                 }
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "FixedMonsterRushMove",
@@ -4070,7 +4070,7 @@
                                 "MICIJLHMIIH": ""
                             },
                             "FPIJACIKJKL": 0.25,
-                            "GLALMCMAFJF": -1.0,
+                            "maxRange": -1.0,
                             "MPOEADACOHO": [
                                 "LaserAttack_Animove"
                             ],
@@ -4145,7 +4145,7 @@
                             "born": {
                                 "$type": "ConfigBornByTarget"
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "SetGlobalPos",
@@ -4157,7 +4157,7 @@
                             "born": {
                                 "$type": "ConfigBornByTarget"
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         }
                     ]
                 },
@@ -4190,7 +4190,7 @@
                         "MICIJLHMIIH": ""
                     },
                     "FPIJACIKJKL": 0.949999988079071,
-                    "GLALMCMAFJF": -1.0,
+                    "maxRange": -1.0,
                     "MPOEADACOHO": [
                         "JumpToLaser_During"
                     ],
@@ -4382,7 +4382,7 @@
                                     "z": 0.0
                                 }
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "FixedMonsterRushMove",
@@ -4392,7 +4392,7 @@
                                 "MICIJLHMIIH": ""
                             },
                             "FPIJACIKJKL": 0.25,
-                            "GLALMCMAFJF": -1.0,
+                            "maxRange": -1.0,
                             "MPOEADACOHO": [
                                 "LaserAttack_Animove"
                             ],
@@ -4502,7 +4502,7 @@
                             "born": {
                                 "$type": "ConfigBornByTarget"
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "SetGlobalPos",
@@ -4514,7 +4514,7 @@
                             "born": {
                                 "$type": "ConfigBornByTarget"
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         }
                     ]
                 },
@@ -4545,7 +4545,7 @@
                         "MICIJLHMIIH": ""
                     },
                     "FPIJACIKJKL": 0.949999988079071,
-                    "GLALMCMAFJF": -1.0,
+                    "maxRange": -1.0,
                     "MPOEADACOHO": [
                         "JumpToLaser_During"
                     ],
@@ -4599,7 +4599,7 @@
                                     "$type": "ByTargetGlobalValue",
                                     "key": "_DRAKE_DEEPSEA_MPATTACK_TIMES",
                                     "value": 0.0,
-                                    "EODMLMGMLNP": true,
+                                    "forceByCaster": true,
                                     "compareType": "NoneOrEqual"
                                 }
                             ],
@@ -4796,7 +4796,7 @@
                                     "$type": "ByTargetGlobalValue",
                                     "key": "_DRAKE_DEEPSEA_MPATTACK_TIMES",
                                     "value": 0.0,
-                                    "EODMLMGMLNP": true,
+                                    "forceByCaster": true,
                                     "compareType": "NoneOrEqual"
                                 }
                             ],
@@ -5147,7 +5147,7 @@
                     "born": {
                         "$type": "ConfigBornByTarget"
                     },
-                    "OGADOPDNBMM": false
+                    "setTarget": false
                 },
                 {
                     "$type": "CreateGadget",
@@ -5257,7 +5257,7 @@
                                     "$type": "ByTargetGlobalValue",
                                     "key": "_DRAKE_DEEPSEA_MPATTACK_TIMES",
                                     "value": 0.0,
-                                    "EODMLMGMLNP": true,
+                                    "forceByCaster": true,
                                     "compareType": "NoneOrEqual"
                                 }
                             ],
@@ -5528,7 +5528,7 @@
                                     "$type": "ByTargetGlobalValue",
                                     "key": "_DRAKE_DEEPSEA_MPATTACK_TIMES",
                                     "value": 0.0,
-                                    "EODMLMGMLNP": true,
+                                    "forceByCaster": true,
                                     "compareType": "NoneOrEqual"
                                 }
                             ],
@@ -6041,7 +6041,7 @@
                                         "$type": "ConfigBornByTarget",
                                         "onGround": true
                                     },
-                                    "OGADOPDNBMM": false
+                                    "setTarget": false
                                 },
                                 {
                                     "$type": "CreateGadget",
@@ -6085,7 +6085,7 @@
                                         "$type": "ConfigBornByTarget",
                                         "onGround": true
                                     },
-                                    "OGADOPDNBMM": false
+                                    "setTarget": false
                                 },
                                 {
                                     "$type": "CreateGadget",
@@ -6374,7 +6374,7 @@
                                         "$type": "ConfigBornByTarget",
                                         "onGround": true
                                     },
-                                    "OGADOPDNBMM": false
+                                    "setTarget": false
                                 },
                                 {
                                     "$type": "CreateGadget",
@@ -6418,7 +6418,7 @@
                                         "$type": "ConfigBornByTarget",
                                         "onGround": true
                                     },
-                                    "OGADOPDNBMM": false
+                                    "setTarget": false
                                 },
                                 {
                                     "$type": "CreateGadget",
@@ -6628,7 +6628,7 @@
                             "born": {
                                 "$type": "ConfigBornByTarget"
                             },
-                            "OGADOPDNBMM": false
+                            "setTarget": false
                         },
                         {
                             "$type": "FixedMonsterRushMove",
@@ -6638,7 +6638,7 @@
                                 "MICIJLHMIIH": ""
                             },
                             "FPIJACIKJKL": 0.5899999737739563,
-                            "GLALMCMAFJF": -1.0,
+                            "maxRange": -1.0,
                             "MPOEADACOHO": [
                                 "JumpToSwim_AS"
                             ],
@@ -8182,7 +8182,7 @@
                         }
                     },
                     "FPIJACIKJKL": 0.3400000035762787,
-                    "GLALMCMAFJF": -1.0,
+                    "maxRange": -1.0,
                     "MPOEADACOHO": [
                         "JumpWall_BS"
                     ],
@@ -8507,7 +8507,7 @@
                     "born": {
                         "$type": "ConfigBornByTarget"
                     },
-                    "OGADOPDNBMM": false
+                    "setTarget": false
                 },
                 {
                     "$type": "FireEffect",
@@ -8526,7 +8526,7 @@
                         "MICIJLHMIIH": ""
                     },
                     "FPIJACIKJKL": 0.8999999761581421,
-                    "GLALMCMAFJF": -1.0,
+                    "maxRange": -1.0,
                     "MPOEADACOHO": [
                         "JumpAttack"
                     ],

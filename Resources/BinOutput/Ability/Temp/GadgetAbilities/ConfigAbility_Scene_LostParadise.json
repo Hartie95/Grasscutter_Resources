@@ -375,7 +375,7 @@
                             "shapeName": "CircleR1",
                             "BHELOIADOLH": 2.0,
                             "HBBLBBPBLGE": 2.0,
-                            "IPDEDFHPHPO": 0.0,
+                            "innerRadius": 0.0,
                             "targetType": "All",
                             "predicates": [
                                 {
@@ -399,7 +399,7 @@
                             "shapeName": "CircleR2",
                             "BHELOIADOLH": 2.0,
                             "HBBLBBPBLGE": 2.0,
-                            "IPDEDFHPHPO": 0.0,
+                            "innerRadius": 0.0,
                             "targetType": "All",
                             "predicates": [
                                 {
@@ -423,7 +423,7 @@
                             "shapeName": "CircleR4",
                             "BHELOIADOLH": 1.0,
                             "HBBLBBPBLGE": 2.0,
-                            "IPDEDFHPHPO": 0.0,
+                            "innerRadius": 0.0,
                             "targetType": "All",
                             "predicates": [
                                 {
@@ -587,7 +587,7 @@
                             "shapeName": "CircleR6H3",
                             "BHELOIADOLH": 2.799999952316284,
                             "HBBLBBPBLGE": 3.0,
-                            "IPDEDFHPHPO": 1.0,
+                            "innerRadius": 1.0,
                             "targetType": "All",
                             "predicates": [
                                 {
@@ -613,7 +613,7 @@
                             "shapeName": "CircleR6H3",
                             "BHELOIADOLH": 380.0,
                             "HBBLBBPBLGE": 3.0,
-                            "IPDEDFHPHPO": 1.0,
+                            "innerRadius": 1.0,
                             "targetType": "All",
                             "predicates": [
                                 {

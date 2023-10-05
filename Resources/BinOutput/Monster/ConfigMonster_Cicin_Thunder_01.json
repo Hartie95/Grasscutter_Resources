@@ -641,7 +641,7 @@
     "move": {
         "$type": "ConfigAnimatorMove",
         "LLNGHPMEALD": {
-            "MPGPCCEHFGL": [
+            "excludeForces": [
                 "WindZoneType",
                 "AirflowType"
             ]

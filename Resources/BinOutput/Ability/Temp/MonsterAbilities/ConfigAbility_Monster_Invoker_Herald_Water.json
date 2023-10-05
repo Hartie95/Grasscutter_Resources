@@ -386,7 +386,7 @@
                             "onRemoved": [
                                 {
                                     "$type": "TriggerSetVisible",
-                                    "ACDFJMCPFGH": true
+                                    "visible": true
                                 },
                                 {
                                     "$type": "HideUIBillBoard"
@@ -442,7 +442,7 @@
                         "SlashAtk02",
                         "SlashAtkAS"
                     ],
-                    "OFLAPMGKHHE": [
+                    "enterPredicates": [
                         {
                             "$type": "ByTargetGlobalValue",
                             "key": "_MONSTER_INVOKER_HERALD_WATER_STATE",
@@ -1247,7 +1247,7 @@
                             "modifierName": "UNIQUE_Invoker_Herald_Water_ElementShield"
                         }
                     ],
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "ApplyModifier",
                             "modifierName": "UNIQUE_Invoker_Herald_Water_ElementShield"
@@ -1288,7 +1288,7 @@
                         },
                         {
                             "$type": "VelocityForceMixin",
-                            "MPGPCCEHFGL": [
+                            "excludeForces": [
                                 "WindZoneType"
                             ]
                         },

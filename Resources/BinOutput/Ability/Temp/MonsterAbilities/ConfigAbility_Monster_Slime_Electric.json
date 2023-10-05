@@ -506,7 +506,7 @@
                                     "$type": "ByTargetGlobalValue",
                                     "key": "_ABILITY_SLIME_ELECTRIC_POSITIVE_COUNT",
                                     "value": 0.0,
-                                    "EODMLMGMLNP": true
+                                    "forceByCaster": true
                                 }
                             ],
                             "modifierName": "Discharge_Transition"
@@ -522,7 +522,7 @@
                                     "$type": "ByTargetGlobalValue",
                                     "key": "_ABILITY_SLIME_ELECTRIC_POSITIVE_COUNT",
                                     "value": 0.0,
-                                    "EODMLMGMLNP": true
+                                    "forceByCaster": true
                                 }
                             ],
                             "triggerID": "Discharge",
@@ -1083,7 +1083,7 @@
                                     "$type": "ByTargetGlobalValue",
                                     "key": "_ABILITY_SLIME_ELECTRIC_POSITIVE_COUNT",
                                     "value": 0.0,
-                                    "EODMLMGMLNP": true
+                                    "forceByCaster": true
                                 }
                             ],
                             "modifierName": "Discharge_Transition"
@@ -1099,7 +1099,7 @@
                                     "$type": "ByTargetGlobalValue",
                                     "key": "_ABILITY_SLIME_ELECTRIC_POSITIVE_COUNT",
                                     "value": 0.0,
-                                    "EODMLMGMLNP": true
+                                    "forceByCaster": true
                                 }
                             ],
                             "triggerID": "Discharge",
@@ -1596,7 +1596,7 @@
                                     "born": {
                                         "$type": "ConfigBornByAttachPoint",
                                         "attachPointName": "ElectrifiedBody",
-                                        "MMFHENHCBGB": "Caster"
+                                        "attachPointTargetType": "Caster"
                                     }
                                 },
                                 {
@@ -1818,7 +1818,7 @@
                                     "$type": "ByTargetGlobalValue",
                                     "key": "_ABILITY_SLIME_ELECTRIC_NEGATIVE_COUNT",
                                     "value": 0.0,
-                                    "EODMLMGMLNP": true,
+                                    "forceByCaster": true,
                                     "compareType": "NoneOrEqual"
                                 }
                             ],
@@ -1835,7 +1835,7 @@
                                     "$type": "ByTargetGlobalValue",
                                     "key": "_ABILITY_SLIME_ELECTRIC_NEGATIVE_COUNT",
                                     "value": 0.0,
-                                    "EODMLMGMLNP": true,
+                                    "forceByCaster": true,
                                     "compareType": "MoreThan"
                                 }
                             ],

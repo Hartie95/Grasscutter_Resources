@@ -1134,7 +1134,7 @@
                             "$type": "ByTargetGlobalValue",
                             "key": "_MONSTERAFFIX_SUMMON_LIFETIME",
                             "value": 1.0,
-                            "EODMLMGMLNP": true
+                            "forceByCaster": true
                         }
                     ],
                     "FMHEBAPHGMP": 20010101,
@@ -1157,7 +1157,7 @@
                             "$type": "ByTargetGlobalValue",
                             "key": "_MONSTERAFFIX_SUMMON_LIFETIME",
                             "value": 0.0,
-                            "EODMLMGMLNP": true,
+                            "forceByCaster": true,
                             "compareType": "NoneOrEqual"
                         }
                     ],
@@ -1220,7 +1220,7 @@
                         },
                         "alongGround": true,
                         "attachPointName": "RootNode",
-                        "MMFHENHCBGB": "Caster"
+                        "attachPointTargetType": "Caster"
                     },
                     "gadgetID": 42001014,
                     "campID": 4001,
@@ -1237,7 +1237,7 @@
                         },
                         "alongGround": true,
                         "attachPointName": "RootNode",
-                        "MMFHENHCBGB": "Caster"
+                        "attachPointTargetType": "Caster"
                     }
                 }
             ]

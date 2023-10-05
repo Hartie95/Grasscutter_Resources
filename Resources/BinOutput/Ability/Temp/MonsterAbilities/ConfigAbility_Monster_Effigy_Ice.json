@@ -1370,7 +1370,7 @@
                         },
                         {
                             "$type": "TriggerSetVisible",
-                            "ACDFJMCPFGH": true
+                            "visible": true
                         },
                         {
                             "$type": "HideUIBillBoard"
@@ -1454,7 +1454,7 @@
                         {
                             "$type": "TryFindBlinkPoint",
                             "target": "Target",
-                            "DGICDMAKHOJ": 360.0
+                            "forwardAngle": 360.0
                         }
                     ]
                 }
@@ -1481,8 +1481,8 @@
                         {
                             "$type": "TryFindBlinkPoint",
                             "target": "Target",
-                            "DGICDMAKHOJ": 360.0,
-                            "GLALMCMAFJF": 6.0
+                            "forwardAngle": 360.0,
+                            "maxRange": 6.0
                         }
                     ]
                 }
@@ -3044,7 +3044,7 @@
                                         }
                                     },
                                     "radius": 14.0,
-                                    "IPDEDFHPHPO": 8.0
+                                    "innerRadius": 8.0
                                 },
                                 "attackInfo": {
                                     "attackTag": "",
@@ -3432,7 +3432,7 @@
                             "randomAngleHor": 5.0,
                             "IOIAHLPJDMH": 15.0,
                             "attachPointName": "IceBarrageMid",
-                            "MMFHENHCBGB": "Self"
+                            "attachPointTargetType": "Self"
                         },
                         "attachPointName": "TopBulletSource"
                     }
@@ -3460,7 +3460,7 @@
                             "randomAngleHor": 5.0,
                             "IOIAHLPJDMH": 15.0,
                             "attachPointName": "IceBarrageL",
-                            "MMFHENHCBGB": "Self"
+                            "attachPointTargetType": "Self"
                         },
                         "attachPointName": "TopBulletSource"
                     }
@@ -3488,7 +3488,7 @@
                             "randomAngleHor": 5.0,
                             "IOIAHLPJDMH": 15.0,
                             "attachPointName": "IceBarrageR",
-                            "MMFHENHCBGB": "Self"
+                            "attachPointTargetType": "Self"
                         },
                         "attachPointName": "TopBulletSource"
                     }
@@ -3902,7 +3902,7 @@
                                                     "born": {
                                                         "$type": "ConfigBornByTarget"
                                                     },
-                                                    "OGADOPDNBMM": false
+                                                    "setTarget": false
                                                 },
                                                 {
                                                     "$type": "TriggerBullet",
@@ -4095,7 +4095,7 @@
                                                     "born": {
                                                         "$type": "ConfigBornByTarget"
                                                     },
-                                                    "OGADOPDNBMM": false
+                                                    "setTarget": false
                                                 },
                                                 {
                                                     "$type": "TriggerBullet",
@@ -4446,7 +4446,7 @@
                                 "direction": {
                                     "$type": "ConfigDirectionByAttachPoint",
                                     "attachPointName": "ReviveSkillDirection",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 }
                             }
                         },
@@ -4477,7 +4477,7 @@
                                 "direction": {
                                     "$type": "ConfigDirectionByAttachPoint",
                                     "attachPointName": "ReviveSkillDirection",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 }
                             }
                         },
@@ -4501,7 +4501,7 @@
                                 "direction": {
                                     "$type": "ConfigDirectionByAttachPoint",
                                     "attachPointName": "ReviveSkillDirection",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 }
                             }
                         },
@@ -4525,7 +4525,7 @@
                                 "direction": {
                                     "$type": "ConfigDirectionByAttachPoint",
                                     "attachPointName": "ReviveSkillDirection",
-                                    "MMFHENHCBGB": "Self"
+                                    "attachPointTargetType": "Self"
                                 }
                             }
                         },
@@ -5009,7 +5009,7 @@
                                     },
                                     "secondHeight": 3.0,
                                     "radius": 7.0,
-                                    "IPDEDFHPHPO": 0.0
+                                    "innerRadius": 0.0
                                 },
                                 "attackInfo": {
                                     "attackTag": "",
@@ -5056,7 +5056,7 @@
                                     },
                                     "secondHeight": 3.0,
                                     "radius": 14.0,
-                                    "IPDEDFHPHPO": 7.0
+                                    "innerRadius": 7.0
                                 },
                                 "attackInfo": {
                                     "attackTag": "",
@@ -5103,7 +5103,7 @@
                                     },
                                     "secondHeight": 3.0,
                                     "radius": 21.0,
-                                    "IPDEDFHPHPO": 14.0
+                                    "innerRadius": 14.0
                                 },
                                 "attackInfo": {
                                     "attackTag": "",

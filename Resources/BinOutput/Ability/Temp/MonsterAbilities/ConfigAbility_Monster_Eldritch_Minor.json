@@ -87,7 +87,7 @@
                             }
                         }
                     ],
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "ApplyModifier",
                             "otherTargets": {
@@ -209,7 +209,7 @@
                             "modifierName": "Monster_Eldritch_Minor_PositionMiddle_DieCheck"
                         }
                     ],
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "ApplyModifier",
                             "otherTargets": {
@@ -315,7 +315,7 @@
                             }
                         }
                     ],
-                    "AMJKBHJBBGN": [
+                    "onReconnect": [
                         {
                             "$type": "ApplyModifier",
                             "otherTargets": {
@@ -1826,7 +1826,7 @@
                             "$type": "ByTargetGlobalValue",
                             "key": "SGV_Mini_Osial",
                             "value": 1.0,
-                            "EODMLMGMLNP": true
+                            "forceByCaster": true
                         }
                     ],
                     "luaCallType": "FromGroup",
@@ -2487,7 +2487,7 @@
                             "minValue": 0.0
                         }
                     ],
-                    "MCFCEOACJEB": [
+                    "exitActions": [
                         {
                             "$type": "KillGadget",
                             "LBGGIBBMCMF": {
@@ -2888,7 +2888,7 @@
                                 201,
                                 202
                             ],
-                            "MCFCEOACJEB": [
+                            "exitActions": [
                                 {
                                     "$type": "RemoveUniqueModifier",
                                     "modifierName": "UNIQUE_SkillPosition_Middle_Key"
@@ -2938,7 +2938,7 @@
                                 201,
                                 202
                             ],
-                            "MCFCEOACJEB": [
+                            "exitActions": [
                                 {
                                     "$type": "RemoveUniqueModifier",
                                     "modifierName": "UNIQUE_SkillPosition_Left_Key"
@@ -2988,7 +2988,7 @@
                                 201,
                                 202
                             ],
-                            "MCFCEOACJEB": [
+                            "exitActions": [
                                 {
                                     "$type": "RemoveUniqueModifier",
                                     "modifierName": "UNIQUE_SkillPosition_Right_Key"
@@ -4026,7 +4026,7 @@
                                     "z": 0.0
                                 },
                                 "attachPointName": "Jaw",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             },
                             "NJEOPILMKCN": true,
                             "ENJEPFDLDDF": "Self"
@@ -4149,7 +4149,7 @@
                                     }
                                 },
                                 "attachPointName": "Jaw",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ]
@@ -4214,7 +4214,7 @@
                             },
                             "BHELOIADOLH": 5.0,
                             "HBBLBBPBLGE": 0.5,
-                            "IPDEDFHPHPO": 0.20000000298023224,
+                            "innerRadius": 0.20000000298023224,
                             "targetType": "Enemy",
                             "modifierName": ""
                         }
@@ -4413,7 +4413,7 @@
                             },
                             "BHELOIADOLH": 3.0,
                             "HBBLBBPBLGE": 1.0,
-                            "IPDEDFHPHPO": 3.0,
+                            "innerRadius": 3.0,
                             "targetType": "Enemy",
                             "modifierName": ""
                         }
@@ -4436,7 +4436,7 @@
                             },
                             "BHELOIADOLH": 3.0,
                             "HBBLBBPBLGE": 1.0,
-                            "IPDEDFHPHPO": 3.0,
+                            "innerRadius": 3.0,
                             "targetType": "Enemy",
                             "modifierName": ""
                         }
@@ -4498,7 +4498,7 @@
                             },
                             "BHELOIADOLH": 5.0,
                             "HBBLBBPBLGE": 0.800000011920929,
-                            "IPDEDFHPHPO": 1.5,
+                            "innerRadius": 1.5,
                             "targetType": "Enemy",
                             "modifierName": ""
                         }
@@ -4560,7 +4560,7 @@
                             },
                             "BHELOIADOLH": 5.0,
                             "HBBLBBPBLGE": 0.800000011920929,
-                            "IPDEDFHPHPO": 1.5,
+                            "innerRadius": 1.5,
                             "targetType": "Enemy",
                             "modifierName": ""
                         }
@@ -4622,7 +4622,7 @@
                             },
                             "BHELOIADOLH": 6.0,
                             "HBBLBBPBLGE": 0.5,
-                            "IPDEDFHPHPO": 1.0,
+                            "innerRadius": 1.0,
                             "targetType": "Enemy",
                             "modifierName": ""
                         }
@@ -4767,7 +4767,7 @@
                                     }
                                 },
                                 "attachPointName": "FirstRound_Position1",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ]
@@ -4809,7 +4809,7 @@
                                     }
                                 },
                                 "attachPointName": "FirstRound_Position2",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ]
@@ -4851,7 +4851,7 @@
                                     }
                                 },
                                 "attachPointName": "FirstRound_Position3",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ]
@@ -4897,7 +4897,7 @@
                                     }
                                 },
                                 "attachPointName": "SecondRound_Position1",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ]
@@ -4943,7 +4943,7 @@
                                     }
                                 },
                                 "attachPointName": "SecondRound_Position2",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ]
@@ -4989,7 +4989,7 @@
                                     }
                                 },
                                 "attachPointName": "SecondRound_Position3",
-                                "MMFHENHCBGB": "Self"
+                                "attachPointTargetType": "Self"
                             }
                         }
                     ]

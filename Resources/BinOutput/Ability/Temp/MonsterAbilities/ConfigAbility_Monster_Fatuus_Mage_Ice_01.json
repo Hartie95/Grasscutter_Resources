@@ -262,7 +262,7 @@
                             "shieldAngle": 360.0,
                             "shieldHPRatio": 1.0,
                             "damageRatio": 0.20000000298023224,
-                            "HMLKELJFCKD": [
+                            "onShieldSuccess": [
                                 {
                                     "$type": "Predicated",
                                     "target": "Target",
@@ -285,7 +285,7 @@
                                                     "$type": "ConfigDirectionByLookAtEntity"
                                                 }
                                             },
-                                            "OGADOPDNBMM": false
+                                            "setTarget": false
                                         }
                                     ],
                                     "failActions": [
@@ -299,7 +299,7 @@
                                                     "$type": "ConfigDirectionByLookAtEntity"
                                                 }
                                             },
-                                            "OGADOPDNBMM": false
+                                            "setTarget": false
                                         }
                                     ]
                                 },
@@ -320,7 +320,7 @@
                                     "effectPattern": "Eff_Monster_Fatuus_Mage_Ice_CreateShield"
                                 }
                             ],
-                            "FFOEHJLIDFC": [
+                            "onShieldFailed": [
                                 {
                                     "$type": "Predicated",
                                     "target": "Target",
@@ -343,7 +343,7 @@
                                                     "$type": "ConfigDirectionByLookAtEntity"
                                                 }
                                             },
-                                            "OGADOPDNBMM": false
+                                            "setTarget": false
                                         }
                                     ],
                                     "failActions": [
@@ -357,7 +357,7 @@
                                                     "$type": "ConfigDirectionByLookAtEntity"
                                                 }
                                             },
-                                            "OGADOPDNBMM": false
+                                            "setTarget": false
                                         }
                                     ]
                                 },
@@ -382,7 +382,7 @@
                         },
                         {
                             "$type": "VelocityForceMixin",
-                            "MPGPCCEHFGL": [
+                            "excludeForces": [
                                 "WindZoneType"
                             ]
                         }
@@ -462,7 +462,7 @@
                             "shieldAngle": 360.0,
                             "shieldHPRatio": 1.0,
                             "damageRatio": 0.20000000298023224,
-                            "HMLKELJFCKD": [
+                            "onShieldSuccess": [
                                 {
                                     "$type": "Predicated",
                                     "target": "Target",
@@ -485,7 +485,7 @@
                                                     "$type": "ConfigDirectionByLookAtEntity"
                                                 }
                                             },
-                                            "OGADOPDNBMM": false
+                                            "setTarget": false
                                         }
                                     ],
                                     "failActions": [
@@ -499,7 +499,7 @@
                                                     "$type": "ConfigDirectionByLookAtEntity"
                                                 }
                                             },
-                                            "OGADOPDNBMM": false
+                                            "setTarget": false
                                         }
                                     ]
                                 },
@@ -520,7 +520,7 @@
                                     "effectPattern": "Eff_Monster_Fatuus_Mage_Ice_CreateShield"
                                 }
                             ],
-                            "FFOEHJLIDFC": [
+                            "onShieldFailed": [
                                 {
                                     "$type": "Predicated",
                                     "target": "Target",
@@ -543,7 +543,7 @@
                                                     "$type": "ConfigDirectionByLookAtEntity"
                                                 }
                                             },
-                                            "OGADOPDNBMM": false
+                                            "setTarget": false
                                         }
                                     ],
                                     "failActions": [
@@ -557,7 +557,7 @@
                                                     "$type": "ConfigDirectionByLookAtEntity"
                                                 }
                                             },
-                                            "OGADOPDNBMM": false
+                                            "setTarget": false
                                         }
                                     ]
                                 },
@@ -582,7 +582,7 @@
                         },
                         {
                             "$type": "VelocityForceMixin",
-                            "MPGPCCEHFGL": [
+                            "excludeForces": [
                                 "WindZoneType"
                             ]
                         }
@@ -662,7 +662,7 @@
                             "shieldAngle": 360.0,
                             "shieldHPRatio": 1.0,
                             "damageRatio": 0.20000000298023224,
-                            "HMLKELJFCKD": [
+                            "onShieldSuccess": [
                                 {
                                     "$type": "Predicated",
                                     "target": "Target",
@@ -685,7 +685,7 @@
                                                     "$type": "ConfigDirectionByLookAtEntity"
                                                 }
                                             },
-                                            "OGADOPDNBMM": false
+                                            "setTarget": false
                                         }
                                     ],
                                     "failActions": [
@@ -699,7 +699,7 @@
                                                     "$type": "ConfigDirectionByLookAtEntity"
                                                 }
                                             },
-                                            "OGADOPDNBMM": false
+                                            "setTarget": false
                                         }
                                     ]
                                 },
@@ -720,7 +720,7 @@
                                     "effectPattern": "Eff_Monster_Fatuus_Mage_Ice_CreateShield"
                                 }
                             ],
-                            "FFOEHJLIDFC": [
+                            "onShieldFailed": [
                                 {
                                     "$type": "Predicated",
                                     "target": "Target",
@@ -743,7 +743,7 @@
                                                     "$type": "ConfigDirectionByLookAtEntity"
                                                 }
                                             },
-                                            "OGADOPDNBMM": false
+                                            "setTarget": false
                                         }
                                     ],
                                     "failActions": [
@@ -757,7 +757,7 @@
                                                     "$type": "ConfigDirectionByLookAtEntity"
                                                 }
                                             },
-                                            "OGADOPDNBMM": false
+                                            "setTarget": false
                                         }
                                     ]
                                 },
@@ -782,7 +782,7 @@
                         },
                         {
                             "$type": "VelocityForceMixin",
-                            "MPGPCCEHFGL": [
+                            "excludeForces": [
                                 "WindZoneType"
                             ]
                         }
@@ -1075,7 +1075,7 @@
                 {
                     "$type": "ClearGlobalPos",
                     "key": "_MONSTER_FATUUS_ICE_ORDER_RUSHATTACK_POS",
-                    "OGADOPDNBMM": false
+                    "setTarget": false
                 },
                 {
                     "$type": "ClearGlobalPos",
@@ -1093,7 +1093,7 @@
                         "$type": "ConfigBornByPredicatePoint",
                         "BIOOFAHEGLA": 0.5
                     },
-                    "OGADOPDNBMM": false
+                    "setTarget": false
                 },
                 {
                     "$type": "CopyGlobalValue",
@@ -1202,7 +1202,7 @@
                         },
                         {
                             "$type": "TriggerSetVisible",
-                            "ACDFJMCPFGH": true
+                            "visible": true
                         },
                         {
                             "$type": "EnablePushColliderName",

@@ -32,7 +32,7 @@
                     "onRemoved": [
                         {
                             "$type": "TriggerSetVisible",
-                            "ACDFJMCPFGH": true
+                            "visible": true
                         }
                     ]
                 }
@@ -50,7 +50,7 @@
                         "$type": "ConfigBornByTeleportToPoint"
                     },
                     "FPIJACIKJKL": 0.6000000238418579,
-                    "GLALMCMAFJF": 100.0,
+                    "maxRange": 100.0,
                     "MPOEADACOHO": [
                         "Alert_Jump"
                     ],
@@ -445,7 +445,7 @@
                                     "$type": "ByTargetGlobalValue",
                                     "key": "_DRAKE_DEEPSEA_MPATTACK_TIMES",
                                     "value": 0.0,
-                                    "EODMLMGMLNP": true,
+                                    "forceByCaster": true,
                                     "compareType": "NoneOrEqual"
                                 }
                             ],
@@ -1517,7 +1517,7 @@
                                         "$type": "ConfigBornByTarget",
                                         "onGround": true
                                     },
-                                    "OGADOPDNBMM": false
+                                    "setTarget": false
                                 },
                                 {
                                     "$type": "CreateGadget",
@@ -1561,7 +1561,7 @@
                                         "$type": "ConfigBornByTarget",
                                         "onGround": true
                                     },
-                                    "OGADOPDNBMM": false
+                                    "setTarget": false
                                 },
                                 {
                                     "$type": "CreateGadget",
@@ -1622,7 +1622,7 @@
                                     "$type": "ByTargetGlobalValue",
                                     "key": "_DRAKE_DEEPSEA_MPATTACK_TIMES",
                                     "value": 0.0,
-                                    "EODMLMGMLNP": true,
+                                    "forceByCaster": true,
                                     "compareType": "NoneOrEqual"
                                 }
                             ],
@@ -1815,7 +1815,7 @@
                                     "$type": "ByTargetGlobalValue",
                                     "key": "_DRAKE_DEEPSEA_MPATTACK_TIMES",
                                     "value": 0.0,
-                                    "EODMLMGMLNP": true,
+                                    "forceByCaster": true,
                                     "compareType": "NoneOrEqual"
                                 }
                             ],
