@@ -11,12 +11,12 @@ PCIMGPIJLCO,quality
 GBLGBFKHCKK,activityTokens
 EOPFOMBPHBN,daysForReward
 FGGLHKGIBAC,notificationGroupId
-EJNMMCDEOED,rewardGroupId
-OLFHCINCACP,layerCount
+EJNMMCDEOED,rewardGroup
+OLFHCINCACP,floor
 INOFLAABAEF,threeStarReward
 NOOPFMGDIIH,sixStarReward
 MHCCKJKPINO,nineStarReward
-CGEFOADHPLF,levelReward
+CGEFOADHPLF,chamberRewards
 OCHLHGCLDON,numberOfChests
 OCHLHGCLDON,numberOfEchoShells
 OPFDPJMNEBJ,shellCount
@@ -24,3 +24,5 @@ HFGAPAPLOLC,echoShellType
 DNCOFBJDOMO,reminderList
 PNPABGIIJAN,dungeonEntryRecommendTips
 KLBLCHOPEDJ,interceptReviveAfterSettle
+MPCPJKAPGLF,isSkipLoading
+BDMFIMGPAED,dungeonEntryPoint
