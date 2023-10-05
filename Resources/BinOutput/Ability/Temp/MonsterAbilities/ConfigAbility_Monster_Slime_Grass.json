@@ -269,7 +269,7 @@
                         },
                         {
                             "$type": "HideUIBillBoard",
-                            "COCENMAFJGD": true
+                            "hide": true
                         },
                         {
                             "$type": "EnableAIStealthy",
@@ -461,7 +461,7 @@
                         },
                         {
                             "$type": "HideUIBillBoard",
-                            "COCENMAFJGD": true
+                            "hide": true
                         },
                         {
                             "$type": "EnableAIStealthy",

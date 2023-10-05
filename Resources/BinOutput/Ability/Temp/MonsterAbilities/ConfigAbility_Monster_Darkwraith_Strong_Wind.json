@@ -384,7 +384,7 @@
                         },
                         {
                             "$type": "HideUIBillBoard",
-                            "COCENMAFJGD": true
+                            "hide": true
                         },
                         {
                             "$type": "EnableHitBoxByName",
@@ -938,7 +938,7 @@
                         "$type": "ConfigBornByAttachPoint",
                         "attachPointName": "ChainAtk02_01"
                     },
-                    "ENJEPFDLDDF": "Self",
+                    "trackTarget": "Self",
                     "ACHALMGBBMK": true
                 },
                 {
@@ -948,7 +948,7 @@
                         "$type": "ConfigBornByAttachPoint",
                         "attachPointName": "ChainAtk02_02"
                     },
-                    "ENJEPFDLDDF": "Self",
+                    "trackTarget": "Self",
                     "ACHALMGBBMK": true
                 },
                 {
@@ -958,7 +958,7 @@
                         "$type": "ConfigBornByAttachPoint",
                         "attachPointName": "ChainAtk02_03"
                     },
-                    "ENJEPFDLDDF": "Self",
+                    "trackTarget": "Self",
                     "ACHALMGBBMK": true
                 },
                 {
@@ -968,7 +968,7 @@
                         "$type": "ConfigBornByAttachPoint",
                         "attachPointName": "ChainAtk02_04"
                     },
-                    "ENJEPFDLDDF": "Self",
+                    "trackTarget": "Self",
                     "ACHALMGBBMK": true
                 },
                 {
@@ -978,7 +978,7 @@
                         "$type": "ConfigBornByAttachPoint",
                         "attachPointName": "ChainAtk02_05"
                     },
-                    "ENJEPFDLDDF": "Self",
+                    "trackTarget": "Self",
                     "ACHALMGBBMK": true
                 },
                 {
@@ -988,7 +988,7 @@
                         "$type": "ConfigBornByAttachPoint",
                         "attachPointName": "ChainAtk02_06"
                     },
-                    "ENJEPFDLDDF": "Self",
+                    "trackTarget": "Self",
                     "ACHALMGBBMK": true
                 }
             ]
@@ -1676,7 +1676,7 @@
                     "$type": "Predicated",
                     "otherTargets": {
                         "$type": "SelectTargetsByShape",
-                        "AKMLOIFOBPO": "Nearest",
+                        "sortType": "Nearest",
                         "shapeName": "CircleR50",
                         "campTargetType": "Enemy",
                         "sizeRatio": 1.0
@@ -1871,7 +1871,7 @@
                             "$type": "Predicated",
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR15",
                                 "campTargetType": "Alliance",
                                 "sizeRatio": 1.0
@@ -1921,7 +1921,7 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR15",
                                 "campTargetType": "Alliance",
                                 "sizeRatio": 1.0

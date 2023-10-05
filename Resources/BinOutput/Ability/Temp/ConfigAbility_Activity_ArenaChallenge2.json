@@ -313,7 +313,7 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 5,
-                                "AKMLOIFOBPO": "Random",
+                                "sortType": "Random",
                                 "shapeName": "CircleR12",
                                 "campTargetType": "Enemy",
                                 "sizeRatio": 1.0
@@ -534,7 +534,7 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 3,
-                                "AKMLOIFOBPO": "Random",
+                                "sortType": "Random",
                                 "shapeName": "CircleR12",
                                 "campTargetType": "Enemy",
                                 "sizeRatio": 1.0
@@ -930,7 +930,7 @@
                                     "value": 0.0,
                                     "key": "_ActivityAbility_ArenaChallenge2_TiggerAoe_Type",
                                     "useLimitRange": true,
-                                    "FACHGOPKJKE": true,
+                                    "randomInRange": true,
                                     "maxValue": 4.0,
                                     "minValue": 0.0
                                 },

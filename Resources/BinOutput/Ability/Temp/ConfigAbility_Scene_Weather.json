@@ -563,7 +563,7 @@
                     "gadgetID": 70000009,
                     "campID": 9001,
                     "campTargetType": "AllExceptSelf",
-                    "CEBMHIFOHJM": true
+                    "byServer": true
                 }
             ],
             "isDynamicAbility": true
@@ -775,7 +775,7 @@
                     "modifierName": "",
                     "elementType": "Water",
                     "elementDurability": 80.0,
-                    "DDLOLBGNLEF": false
+                    "isElementDurabilityMutable": false
                 }
             },
             "onAdded": [
@@ -4151,7 +4151,7 @@
                     "modifierName": "",
                     "elementType": "Water",
                     "elementDurability": 55.0,
-                    "DDLOLBGNLEF": false
+                    "isElementDurabilityMutable": false
                 }
             },
             "onAdded": [
@@ -4238,7 +4238,7 @@
                     "modifierName": "",
                     "elementType": "Rock",
                     "elementDurability": 55.0,
-                    "DDLOLBGNLEF": false,
+                    "isElementDurabilityMutable": false,
                     "onAdded": [
                         {
                             "$type": "AttachEffect",

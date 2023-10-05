@@ -741,8 +741,8 @@
                             "born": {
                                 "$type": "ConfigBornBySelf"
                             },
-                            "NJEOPILMKCN": true,
-                            "ENJEPFDLDDF": "Self"
+                            "lifeByOwnerIsAlive": true,
+                            "trackTarget": "Self"
                         }
                     ],
                     "onRemoved": [
@@ -946,7 +946,7 @@
                                     "z": 0.0
                                 }
                             },
-                            "NJEOPILMKCN": true
+                            "lifeByOwnerIsAlive": true
                         }
                     ]
                 }
@@ -1062,7 +1062,7 @@
                             },
                             "gadgetID": 42006206,
                             "campID": 4001,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ],
                     "onRemoved": [
@@ -1307,7 +1307,7 @@
                             },
                             "gadgetID": 42006205,
                             "campID": 4001,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         },
                         {
                             "$type": "CreateGadget",
@@ -1329,7 +1329,7 @@
                             },
                             "gadgetID": 42006207,
                             "campID": 4001,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ],
                     "onRemoved": [

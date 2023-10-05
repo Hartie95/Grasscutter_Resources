@@ -219,7 +219,7 @@
                         },
                         {
                             "$type": "HideUIBillBoard",
-                            "COCENMAFJGD": true
+                            "hide": true
                         },
                         {
                             "$type": "SetGlobalValue",
@@ -439,7 +439,7 @@
                                 "OOOFAPPEOJK": [
                                     "Avatar"
                                 ],
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR100",
                                 "campTargetType": "All",
                                 "sizeRatio": 1.0
@@ -774,7 +774,7 @@
                                 "OOOFAPPEOJK": [
                                     "Gadget"
                                 ],
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR50",
                                 "campTargetType": "All",
                                 "sizeRatio": 1.0
@@ -822,7 +822,7 @@
                                 "OOOFAPPEOJK": [
                                     "Gadget"
                                 ],
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR50",
                                 "campTargetType": "All",
                                 "sizeRatio": 1.0
@@ -1492,7 +1492,7 @@
                             "effectPattern": "Eff_Monster_Konungmathr_Revive_Recover"
                         }
                     ],
-                    "NHFJDDBKNCM": true,
+                    "onThinkIntervalIsFixedUpdate": true,
                     "onReconnect": [
                         {
                             "$type": "SetAnimatorTrigger",
@@ -1720,7 +1720,7 @@
                         },
                         {
                             "$type": "HideUIBillBoard",
-                            "COCENMAFJGD": true
+                            "hide": true
                         },
                         {
                             "$type": "SetPoseBool",
@@ -3608,7 +3608,7 @@
                                 "direction": {
                                     "$type": "ConfigDirectionByAttackTarget",
                                     "randomAngleHor": 1.5,
-                                    "IOIAHLPJDMH": 1.0
+                                    "randomAngleVer": 1.0
                                 },
                                 "attachPointName": "LaserControl"
                             }
@@ -3797,7 +3797,7 @@
                                 "OOOFAPPEOJK": [
                                     "Gadget"
                                 ],
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR50",
                                 "campTargetType": "All",
                                 "sizeRatio": 1.0
@@ -3907,7 +3907,7 @@
                                 "OOOFAPPEOJK": [
                                     "Gadget"
                                 ],
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR50",
                                 "campTargetType": "All",
                                 "sizeRatio": 1.0
@@ -4015,7 +4015,7 @@
                                 "OOOFAPPEOJK": [
                                     "Gadget"
                                 ],
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR8",
                                 "campTargetType": "All",
                                 "sizeRatio": 1.0
@@ -4114,7 +4114,7 @@
                                 "OOOFAPPEOJK": [
                                     "Gadget"
                                 ],
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR50",
                                 "campTargetType": "All",
                                 "sizeRatio": 1.0
@@ -4150,7 +4150,7 @@
                                 "OOOFAPPEOJK": [
                                     "Gadget"
                                 ],
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR8",
                                 "campTargetType": "All",
                                 "sizeRatio": 1.0
@@ -4198,7 +4198,7 @@
                                 "OOOFAPPEOJK": [
                                     "Gadget"
                                 ],
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR100",
                                 "campTargetType": "All",
                                 "sizeRatio": 1.0
@@ -4219,7 +4219,7 @@
                                 "OOOFAPPEOJK": [
                                     "Avatar"
                                 ],
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR100",
                                 "campTargetType": "All",
                                 "sizeRatio": 1.0
@@ -4360,7 +4360,7 @@
                                         "OOOFAPPEOJK": [
                                             "Gadget"
                                         ],
-                                        "AKMLOIFOBPO": "Nearest",
+                                        "sortType": "Nearest",
                                         "shapeName": "CircleR10",
                                         "campTargetType": "All",
                                         "sizeRatio": 1.0
@@ -4741,7 +4741,7 @@
                                 "OOOFAPPEOJK": [
                                     "Gadget"
                                 ],
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR8",
                                 "campTargetType": "All",
                                 "sizeRatio": 1.0
@@ -5436,7 +5436,7 @@
                             "$type": "TriggerBullet",
                             "doOffStage": true,
                             "bulletID": 42304018,
-                            "ENJEPFDLDDF": "Team"
+                            "trackTarget": "Team"
                         }
                     ]
                 },
@@ -5470,7 +5470,7 @@
                                         "OOOFAPPEOJK": [
                                             "Gadget"
                                         ],
-                                        "AKMLOIFOBPO": "Nearest",
+                                        "sortType": "Nearest",
                                         "shapeName": "CircleR50",
                                         "campTargetType": "All",
                                         "sizeRatio": 1.0
@@ -5526,7 +5526,7 @@
                                         "OOOFAPPEOJK": [
                                             "Gadget"
                                         ],
-                                        "AKMLOIFOBPO": "Nearest",
+                                        "sortType": "Nearest",
                                         "shapeName": "CircleR50",
                                         "campTargetType": "All",
                                         "sizeRatio": 1.0
@@ -5663,7 +5663,7 @@
                                 "OOOFAPPEOJK": [
                                     "Gadget"
                                 ],
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR50",
                                 "campTargetType": "All",
                                 "sizeRatio": 1.0
@@ -6048,7 +6048,7 @@
                             "$type": "SetSelfAttackTarget",
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR50",
                                 "campTargetType": "SelfCamp",
                                 "sizeRatio": 1.0
@@ -6079,7 +6079,7 @@
                             "$type": "SetSelfAttackTarget",
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR50",
                                 "campTargetType": "SelfCamp",
                                 "sizeRatio": 1.0
@@ -6110,7 +6110,7 @@
                             "$type": "SetSelfAttackTarget",
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR50",
                                 "campTargetType": "SelfCamp",
                                 "sizeRatio": 1.0
@@ -6641,7 +6641,7 @@
                                 "OOOFAPPEOJK": [
                                     "Monster"
                                 ],
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR100",
                                 "campTargetType": "All",
                                 "sizeRatio": 1.0
@@ -6678,7 +6678,7 @@
                                     "$type": "SetSelfAttackTarget",
                                     "otherTargets": {
                                         "$type": "SelectTargetsByShape",
-                                        "AKMLOIFOBPO": "Nearest",
+                                        "sortType": "Nearest",
                                         "shapeName": "CircleR50",
                                         "campTargetType": "SelfCamp",
                                         "sizeRatio": 1.0
@@ -6707,7 +6707,7 @@
                                     "$type": "SetSelfAttackTarget",
                                     "otherTargets": {
                                         "$type": "SelectTargetsByShape",
-                                        "AKMLOIFOBPO": "Nearest",
+                                        "sortType": "Nearest",
                                         "shapeName": "CircleR50",
                                         "campTargetType": "SelfCamp",
                                         "sizeRatio": 1.0
@@ -6736,7 +6736,7 @@
                                     "$type": "SetSelfAttackTarget",
                                     "otherTargets": {
                                         "$type": "SelectTargetsByShape",
-                                        "AKMLOIFOBPO": "Nearest",
+                                        "sortType": "Nearest",
                                         "shapeName": "CircleR50",
                                         "campTargetType": "SelfCamp",
                                         "sizeRatio": 1.0

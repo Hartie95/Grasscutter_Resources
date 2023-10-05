@@ -78,7 +78,7 @@
                         },
                         "direction": {
                             "$type": "ConfigDirectionByAttackTarget",
-                            "INCAGGBCJNF": 60.0,
+                            "maxAngle": 60.0,
                             "ACCCPLDEJNB": 30.0
                         },
                         "attachPointName": "WeaponR"
@@ -124,8 +124,8 @@
                         "direction": {
                             "$type": "ConfigDirectionByAttackTarget",
                             "randomAngleHor": 0.30000001192092896,
-                            "IOIAHLPJDMH": 0.5,
-                            "INCAGGBCJNF": 60.0
+                            "randomAngleVer": 0.5,
+                            "maxAngle": 60.0
                         },
                         "attachPointName": "WeaponR"
                     }
@@ -154,7 +154,7 @@
                                 "y": 0.0,
                                 "z": 0.0
                             },
-                            "INCAGGBCJNF": 60.0,
+                            "maxAngle": 60.0,
                             "ACCCPLDEJNB": 30.0
                         },
                         "attachPointName": "WeaponR"
@@ -184,7 +184,7 @@
                                 "y": 5.0,
                                 "z": 0.0
                             },
-                            "INCAGGBCJNF": 60.0,
+                            "maxAngle": 60.0,
                             "ACCCPLDEJNB": 30.0
                         },
                         "attachPointName": "WeaponR"
@@ -214,7 +214,7 @@
                                 "y": 10.0,
                                 "z": 0.0
                             },
-                            "INCAGGBCJNF": 60.0,
+                            "maxAngle": 60.0,
                             "ACCCPLDEJNB": 30.0
                         },
                         "attachPointName": "WeaponR"
@@ -244,7 +244,7 @@
                                 "y": -5.0,
                                 "z": 0.0
                             },
-                            "INCAGGBCJNF": 60.0,
+                            "maxAngle": 60.0,
                             "ACCCPLDEJNB": 30.0
                         },
                         "attachPointName": "WeaponR"
@@ -274,7 +274,7 @@
                                 "y": -10.0,
                                 "z": 0.0
                             },
-                            "INCAGGBCJNF": 60.0,
+                            "maxAngle": 60.0,
                             "ACCCPLDEJNB": 30.0
                         },
                         "attachPointName": "WeaponR"
@@ -436,13 +436,13 @@
                                 "BeHitThrow",
                                 "Dodge"
                             ],
-                            "OKFKMBDCDHO": "DodgeTrigger",
-                            "OKEAOJGNCNJ": 0.25,
-                            "CLALNDAGFGJ": 0.15000000596046448,
-                            "LCJAOCJNEJJ": 3.75,
-                            "HFCIHIJGLMA": 0,
+                            "defendTriggerID": "DodgeTrigger",
+                            "defendProbability": 0.25,
+                            "defendProbabilityDelta": 0.15000000596046448,
+                            "defendTimeInterval": 3.75,
+                            "defendCountInterval": 0,
                             "attackType": "Melee",
-                            "GOLCBAPOOLF": [
+                            "onDefendSucceded": [
                                 {
                                     "$type": "AttachModifier",
                                     "modifierName": "DodgeInvincible"
@@ -460,7 +460,7 @@
                                     "target": "CurLocalAvatar"
                                 }
                             ],
-                            "FLNFDMFPBCD": true
+                            "randomDirection": true
                         }
                     ]
                 },
@@ -538,8 +538,8 @@
                         },
                         "direction": {
                             "$type": "ConfigDirectionByAttackTarget",
-                            "IHHIKIACOML": "Horizontal",
-                            "INCAGGBCJNF": 15.0
+                            "maxAngleType": "Horizontal",
+                            "maxAngle": 15.0
                         },
                         "attachPointName": "WeaponL"
                     }
@@ -598,8 +598,8 @@
                         },
                         "direction": {
                             "$type": "ConfigDirectionByAttackTarget",
-                            "IHHIKIACOML": "Horizontal",
-                            "INCAGGBCJNF": 15.0
+                            "maxAngleType": "Horizontal",
+                            "maxAngle": 15.0
                         },
                         "attachPointName": "WeaponR"
                     }

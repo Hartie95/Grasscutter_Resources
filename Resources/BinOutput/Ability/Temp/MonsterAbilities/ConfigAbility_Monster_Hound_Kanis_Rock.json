@@ -370,7 +370,7 @@
                         },
                         {
                             "$type": "HideUIBillBoard",
-                            "COCENMAFJGD": true
+                            "hide": true
                         },
                         {
                             "$type": "EnableHitBoxByName",

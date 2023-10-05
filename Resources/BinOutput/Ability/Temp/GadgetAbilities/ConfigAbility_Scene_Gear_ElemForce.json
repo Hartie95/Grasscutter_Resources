@@ -282,7 +282,7 @@
                                 }
                             ],
                             "IBGEDNNBIOF": "Other",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "gadgetID": 70330010,
                             "campID": 1001,
                             "campTargetType": "Enemy"
@@ -359,7 +359,7 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR20",
                                 "campTargetType": "All",
                                 "sizeRatio": 1.0
@@ -1373,11 +1373,11 @@
                                     "otherTargets": {
                                         "$type": "SelectTargetsByShape",
                                         "DJLKFLJENEG": 1,
-                                        "AKMLOIFOBPO": "Nearest",
+                                        "sortType": "Nearest",
                                         "shapeName": "CircleR2",
                                         "centerBasedOn": "CurLocalAvatar",
                                         "campTargetType": "All",
-                                        "AFLAEMMPLPN": "CurLocalAvatar",
+                                        "campBasedOn": "CurLocalAvatar",
                                         "sizeRatio": 1.0
                                     },
                                     "predicates": [
@@ -1437,11 +1437,11 @@
                                     "otherTargets": {
                                         "$type": "SelectTargetsByShape",
                                         "DJLKFLJENEG": 1,
-                                        "AKMLOIFOBPO": "Nearest",
+                                        "sortType": "Nearest",
                                         "shapeName": "CircleR2",
                                         "centerBasedOn": "CurLocalAvatar",
                                         "campTargetType": "All",
-                                        "AFLAEMMPLPN": "CurLocalAvatar",
+                                        "campBasedOn": "CurLocalAvatar",
                                         "sizeRatio": 1.0
                                     },
                                     "predicates": [
@@ -1501,11 +1501,11 @@
                                     "otherTargets": {
                                         "$type": "SelectTargetsByShape",
                                         "DJLKFLJENEG": 1,
-                                        "AKMLOIFOBPO": "Nearest",
+                                        "sortType": "Nearest",
                                         "shapeName": "CircleR2",
                                         "centerBasedOn": "CurLocalAvatar",
                                         "campTargetType": "All",
-                                        "AFLAEMMPLPN": "CurLocalAvatar",
+                                        "campBasedOn": "CurLocalAvatar",
                                         "sizeRatio": 1.0
                                     },
                                     "predicates": [
@@ -1620,11 +1620,11 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR2",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -1730,11 +1730,11 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR2",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -1826,11 +1826,11 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR2",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -1993,11 +1993,11 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR2",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -2394,11 +2394,11 @@
                                     "otherTargets": {
                                         "$type": "SelectTargetsByShape",
                                         "DJLKFLJENEG": 1,
-                                        "AKMLOIFOBPO": "Nearest",
+                                        "sortType": "Nearest",
                                         "shapeName": "CircleR2",
                                         "centerBasedOn": "CurLocalAvatar",
                                         "campTargetType": "All",
-                                        "AFLAEMMPLPN": "CurLocalAvatar",
+                                        "campBasedOn": "CurLocalAvatar",
                                         "sizeRatio": 1.0
                                     },
                                     "predicates": [
@@ -2458,11 +2458,11 @@
                                     "otherTargets": {
                                         "$type": "SelectTargetsByShape",
                                         "DJLKFLJENEG": 1,
-                                        "AKMLOIFOBPO": "Nearest",
+                                        "sortType": "Nearest",
                                         "shapeName": "CircleR2",
                                         "centerBasedOn": "CurLocalAvatar",
                                         "campTargetType": "All",
-                                        "AFLAEMMPLPN": "CurLocalAvatar",
+                                        "campBasedOn": "CurLocalAvatar",
                                         "sizeRatio": 1.0
                                     },
                                     "predicates": [
@@ -2522,11 +2522,11 @@
                                     "otherTargets": {
                                         "$type": "SelectTargetsByShape",
                                         "DJLKFLJENEG": 1,
-                                        "AKMLOIFOBPO": "Nearest",
+                                        "sortType": "Nearest",
                                         "shapeName": "CircleR2",
                                         "centerBasedOn": "CurLocalAvatar",
                                         "campTargetType": "All",
-                                        "AFLAEMMPLPN": "CurLocalAvatar",
+                                        "campBasedOn": "CurLocalAvatar",
                                         "sizeRatio": 1.0
                                     },
                                     "predicates": [
@@ -2641,11 +2641,11 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR2",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -2751,11 +2751,11 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR2",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -2848,11 +2848,11 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR2",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -3016,11 +3016,11 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR2",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -3409,11 +3409,11 @@
                                     "otherTargets": {
                                         "$type": "SelectTargetsByShape",
                                         "DJLKFLJENEG": 1,
-                                        "AKMLOIFOBPO": "Nearest",
+                                        "sortType": "Nearest",
                                         "shapeName": "CircleR2",
                                         "centerBasedOn": "CurLocalAvatar",
                                         "campTargetType": "All",
-                                        "AFLAEMMPLPN": "CurLocalAvatar",
+                                        "campBasedOn": "CurLocalAvatar",
                                         "sizeRatio": 1.0
                                     },
                                     "predicates": [
@@ -3473,11 +3473,11 @@
                                     "otherTargets": {
                                         "$type": "SelectTargetsByShape",
                                         "DJLKFLJENEG": 1,
-                                        "AKMLOIFOBPO": "Nearest",
+                                        "sortType": "Nearest",
                                         "shapeName": "CircleR2",
                                         "centerBasedOn": "CurLocalAvatar",
                                         "campTargetType": "All",
-                                        "AFLAEMMPLPN": "CurLocalAvatar",
+                                        "campBasedOn": "CurLocalAvatar",
                                         "sizeRatio": 1.0
                                     },
                                     "predicates": [
@@ -3537,11 +3537,11 @@
                                     "otherTargets": {
                                         "$type": "SelectTargetsByShape",
                                         "DJLKFLJENEG": 1,
-                                        "AKMLOIFOBPO": "Nearest",
+                                        "sortType": "Nearest",
                                         "shapeName": "CircleR2",
                                         "centerBasedOn": "CurLocalAvatar",
                                         "campTargetType": "All",
-                                        "AFLAEMMPLPN": "CurLocalAvatar",
+                                        "campBasedOn": "CurLocalAvatar",
                                         "sizeRatio": 1.0
                                     },
                                     "predicates": [
@@ -3656,11 +3656,11 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR2",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -3766,11 +3766,11 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR2",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -3862,11 +3862,11 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR2",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -4029,11 +4029,11 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR2",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -4430,11 +4430,11 @@
                                     "otherTargets": {
                                         "$type": "SelectTargetsByShape",
                                         "DJLKFLJENEG": 1,
-                                        "AKMLOIFOBPO": "Nearest",
+                                        "sortType": "Nearest",
                                         "shapeName": "CircleR2",
                                         "centerBasedOn": "CurLocalAvatar",
                                         "campTargetType": "All",
-                                        "AFLAEMMPLPN": "CurLocalAvatar",
+                                        "campBasedOn": "CurLocalAvatar",
                                         "sizeRatio": 1.0
                                     },
                                     "predicates": [
@@ -4494,11 +4494,11 @@
                                     "otherTargets": {
                                         "$type": "SelectTargetsByShape",
                                         "DJLKFLJENEG": 1,
-                                        "AKMLOIFOBPO": "Nearest",
+                                        "sortType": "Nearest",
                                         "shapeName": "CircleR2",
                                         "centerBasedOn": "CurLocalAvatar",
                                         "campTargetType": "All",
-                                        "AFLAEMMPLPN": "CurLocalAvatar",
+                                        "campBasedOn": "CurLocalAvatar",
                                         "sizeRatio": 1.0
                                     },
                                     "predicates": [
@@ -4558,11 +4558,11 @@
                                     "otherTargets": {
                                         "$type": "SelectTargetsByShape",
                                         "DJLKFLJENEG": 1,
-                                        "AKMLOIFOBPO": "Nearest",
+                                        "sortType": "Nearest",
                                         "shapeName": "CircleR2",
                                         "centerBasedOn": "CurLocalAvatar",
                                         "campTargetType": "All",
-                                        "AFLAEMMPLPN": "CurLocalAvatar",
+                                        "campBasedOn": "CurLocalAvatar",
                                         "sizeRatio": 1.0
                                     },
                                     "predicates": [
@@ -4677,11 +4677,11 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR2",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -4787,11 +4787,11 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR2",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -4884,11 +4884,11 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR2",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -5052,11 +5052,11 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR2",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -5445,11 +5445,11 @@
                                     "otherTargets": {
                                         "$type": "SelectTargetsByShape",
                                         "DJLKFLJENEG": 1,
-                                        "AKMLOIFOBPO": "Nearest",
+                                        "sortType": "Nearest",
                                         "shapeName": "CircleR2",
                                         "centerBasedOn": "CurLocalAvatar",
                                         "campTargetType": "All",
-                                        "AFLAEMMPLPN": "CurLocalAvatar",
+                                        "campBasedOn": "CurLocalAvatar",
                                         "sizeRatio": 1.0
                                     },
                                     "predicates": [
@@ -5509,11 +5509,11 @@
                                     "otherTargets": {
                                         "$type": "SelectTargetsByShape",
                                         "DJLKFLJENEG": 1,
-                                        "AKMLOIFOBPO": "Nearest",
+                                        "sortType": "Nearest",
                                         "shapeName": "CircleR2",
                                         "centerBasedOn": "CurLocalAvatar",
                                         "campTargetType": "All",
-                                        "AFLAEMMPLPN": "CurLocalAvatar",
+                                        "campBasedOn": "CurLocalAvatar",
                                         "sizeRatio": 1.0
                                     },
                                     "predicates": [
@@ -5666,11 +5666,11 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR2",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -5776,11 +5776,11 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR2",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -5872,11 +5872,11 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR2",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -6039,11 +6039,11 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR2",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -6440,11 +6440,11 @@
                                     "otherTargets": {
                                         "$type": "SelectTargetsByShape",
                                         "DJLKFLJENEG": 1,
-                                        "AKMLOIFOBPO": "Nearest",
+                                        "sortType": "Nearest",
                                         "shapeName": "CircleR2",
                                         "centerBasedOn": "CurLocalAvatar",
                                         "campTargetType": "All",
-                                        "AFLAEMMPLPN": "CurLocalAvatar",
+                                        "campBasedOn": "CurLocalAvatar",
                                         "sizeRatio": 1.0
                                     },
                                     "predicates": [
@@ -6635,11 +6635,11 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR2",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -6745,11 +6745,11 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR2",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -6842,11 +6842,11 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR2",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -7010,11 +7010,11 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR2",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -7403,11 +7403,11 @@
                                     "otherTargets": {
                                         "$type": "SelectTargetsByShape",
                                         "DJLKFLJENEG": 1,
-                                        "AKMLOIFOBPO": "Nearest",
+                                        "sortType": "Nearest",
                                         "shapeName": "CircleR2",
                                         "centerBasedOn": "CurLocalAvatar",
                                         "campTargetType": "All",
-                                        "AFLAEMMPLPN": "CurLocalAvatar",
+                                        "campBasedOn": "CurLocalAvatar",
                                         "sizeRatio": 1.0
                                     },
                                     "predicates": [
@@ -7467,11 +7467,11 @@
                                     "otherTargets": {
                                         "$type": "SelectTargetsByShape",
                                         "DJLKFLJENEG": 1,
-                                        "AKMLOIFOBPO": "Nearest",
+                                        "sortType": "Nearest",
                                         "shapeName": "CircleR2",
                                         "centerBasedOn": "CurLocalAvatar",
                                         "campTargetType": "All",
-                                        "AFLAEMMPLPN": "CurLocalAvatar",
+                                        "campBasedOn": "CurLocalAvatar",
                                         "sizeRatio": 1.0
                                     },
                                     "predicates": [
@@ -7531,11 +7531,11 @@
                                     "otherTargets": {
                                         "$type": "SelectTargetsByShape",
                                         "DJLKFLJENEG": 1,
-                                        "AKMLOIFOBPO": "Nearest",
+                                        "sortType": "Nearest",
                                         "shapeName": "CircleR2",
                                         "centerBasedOn": "CurLocalAvatar",
                                         "campTargetType": "All",
-                                        "AFLAEMMPLPN": "CurLocalAvatar",
+                                        "campBasedOn": "CurLocalAvatar",
                                         "sizeRatio": 1.0
                                     },
                                     "predicates": [
@@ -7650,11 +7650,11 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR2",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -7760,11 +7760,11 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR2",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -7856,11 +7856,11 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR2",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -8023,11 +8023,11 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR2",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -8424,11 +8424,11 @@
                                     "otherTargets": {
                                         "$type": "SelectTargetsByShape",
                                         "DJLKFLJENEG": 1,
-                                        "AKMLOIFOBPO": "Nearest",
+                                        "sortType": "Nearest",
                                         "shapeName": "CircleR2",
                                         "centerBasedOn": "CurLocalAvatar",
                                         "campTargetType": "All",
-                                        "AFLAEMMPLPN": "CurLocalAvatar",
+                                        "campBasedOn": "CurLocalAvatar",
                                         "sizeRatio": 1.0
                                     },
                                     "predicates": [
@@ -8488,11 +8488,11 @@
                                     "otherTargets": {
                                         "$type": "SelectTargetsByShape",
                                         "DJLKFLJENEG": 1,
-                                        "AKMLOIFOBPO": "Nearest",
+                                        "sortType": "Nearest",
                                         "shapeName": "CircleR2",
                                         "centerBasedOn": "CurLocalAvatar",
                                         "campTargetType": "All",
-                                        "AFLAEMMPLPN": "CurLocalAvatar",
+                                        "campBasedOn": "CurLocalAvatar",
                                         "sizeRatio": 1.0
                                     },
                                     "predicates": [
@@ -8552,11 +8552,11 @@
                                     "otherTargets": {
                                         "$type": "SelectTargetsByShape",
                                         "DJLKFLJENEG": 1,
-                                        "AKMLOIFOBPO": "Nearest",
+                                        "sortType": "Nearest",
                                         "shapeName": "CircleR2",
                                         "centerBasedOn": "CurLocalAvatar",
                                         "campTargetType": "All",
-                                        "AFLAEMMPLPN": "CurLocalAvatar",
+                                        "campBasedOn": "CurLocalAvatar",
                                         "sizeRatio": 1.0
                                     },
                                     "predicates": [
@@ -8671,11 +8671,11 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR2",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -8781,11 +8781,11 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR2",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -8878,11 +8878,11 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR2",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -9046,11 +9046,11 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR2",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -9439,11 +9439,11 @@
                                     "otherTargets": {
                                         "$type": "SelectTargetsByShape",
                                         "DJLKFLJENEG": 1,
-                                        "AKMLOIFOBPO": "Nearest",
+                                        "sortType": "Nearest",
                                         "shapeName": "CircleR2",
                                         "centerBasedOn": "CurLocalAvatar",
                                         "campTargetType": "All",
-                                        "AFLAEMMPLPN": "CurLocalAvatar",
+                                        "campBasedOn": "CurLocalAvatar",
                                         "sizeRatio": 1.0
                                     },
                                     "predicates": [
@@ -9503,11 +9503,11 @@
                                     "otherTargets": {
                                         "$type": "SelectTargetsByShape",
                                         "DJLKFLJENEG": 1,
-                                        "AKMLOIFOBPO": "Nearest",
+                                        "sortType": "Nearest",
                                         "shapeName": "CircleR2",
                                         "centerBasedOn": "CurLocalAvatar",
                                         "campTargetType": "All",
-                                        "AFLAEMMPLPN": "CurLocalAvatar",
+                                        "campBasedOn": "CurLocalAvatar",
                                         "sizeRatio": 1.0
                                     },
                                     "predicates": [
@@ -9567,11 +9567,11 @@
                                     "otherTargets": {
                                         "$type": "SelectTargetsByShape",
                                         "DJLKFLJENEG": 1,
-                                        "AKMLOIFOBPO": "Nearest",
+                                        "sortType": "Nearest",
                                         "shapeName": "CircleR2",
                                         "centerBasedOn": "CurLocalAvatar",
                                         "campTargetType": "All",
-                                        "AFLAEMMPLPN": "CurLocalAvatar",
+                                        "campBasedOn": "CurLocalAvatar",
                                         "sizeRatio": 1.0
                                     },
                                     "predicates": [
@@ -9686,11 +9686,11 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR2",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -9796,11 +9796,11 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR2",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -9892,11 +9892,11 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR2",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -10059,11 +10059,11 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR2",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -10460,11 +10460,11 @@
                                     "otherTargets": {
                                         "$type": "SelectTargetsByShape",
                                         "DJLKFLJENEG": 1,
-                                        "AKMLOIFOBPO": "Nearest",
+                                        "sortType": "Nearest",
                                         "shapeName": "CircleR2",
                                         "centerBasedOn": "CurLocalAvatar",
                                         "campTargetType": "All",
-                                        "AFLAEMMPLPN": "CurLocalAvatar",
+                                        "campBasedOn": "CurLocalAvatar",
                                         "sizeRatio": 1.0
                                     },
                                     "predicates": [
@@ -10524,11 +10524,11 @@
                                     "otherTargets": {
                                         "$type": "SelectTargetsByShape",
                                         "DJLKFLJENEG": 1,
-                                        "AKMLOIFOBPO": "Nearest",
+                                        "sortType": "Nearest",
                                         "shapeName": "CircleR2",
                                         "centerBasedOn": "CurLocalAvatar",
                                         "campTargetType": "All",
-                                        "AFLAEMMPLPN": "CurLocalAvatar",
+                                        "campBasedOn": "CurLocalAvatar",
                                         "sizeRatio": 1.0
                                     },
                                     "predicates": [
@@ -10588,11 +10588,11 @@
                                     "otherTargets": {
                                         "$type": "SelectTargetsByShape",
                                         "DJLKFLJENEG": 1,
-                                        "AKMLOIFOBPO": "Nearest",
+                                        "sortType": "Nearest",
                                         "shapeName": "CircleR2",
                                         "centerBasedOn": "CurLocalAvatar",
                                         "campTargetType": "All",
-                                        "AFLAEMMPLPN": "CurLocalAvatar",
+                                        "campBasedOn": "CurLocalAvatar",
                                         "sizeRatio": 1.0
                                     },
                                     "predicates": [
@@ -10707,11 +10707,11 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR2",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -10817,11 +10817,11 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR2",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -10914,11 +10914,11 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR2",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -11082,11 +11082,11 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR2",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -11475,11 +11475,11 @@
                                     "otherTargets": {
                                         "$type": "SelectTargetsByShape",
                                         "DJLKFLJENEG": 1,
-                                        "AKMLOIFOBPO": "Nearest",
+                                        "sortType": "Nearest",
                                         "shapeName": "CircleR2",
                                         "centerBasedOn": "CurLocalAvatar",
                                         "campTargetType": "All",
-                                        "AFLAEMMPLPN": "CurLocalAvatar",
+                                        "campBasedOn": "CurLocalAvatar",
                                         "sizeRatio": 1.0
                                     },
                                     "predicates": [
@@ -11539,11 +11539,11 @@
                                     "otherTargets": {
                                         "$type": "SelectTargetsByShape",
                                         "DJLKFLJENEG": 1,
-                                        "AKMLOIFOBPO": "Nearest",
+                                        "sortType": "Nearest",
                                         "shapeName": "CircleR2",
                                         "centerBasedOn": "CurLocalAvatar",
                                         "campTargetType": "All",
-                                        "AFLAEMMPLPN": "CurLocalAvatar",
+                                        "campBasedOn": "CurLocalAvatar",
                                         "sizeRatio": 1.0
                                     },
                                     "predicates": [
@@ -11603,11 +11603,11 @@
                                     "otherTargets": {
                                         "$type": "SelectTargetsByShape",
                                         "DJLKFLJENEG": 1,
-                                        "AKMLOIFOBPO": "Nearest",
+                                        "sortType": "Nearest",
                                         "shapeName": "CircleR2",
                                         "centerBasedOn": "CurLocalAvatar",
                                         "campTargetType": "All",
-                                        "AFLAEMMPLPN": "CurLocalAvatar",
+                                        "campBasedOn": "CurLocalAvatar",
                                         "sizeRatio": 1.0
                                     },
                                     "predicates": [
@@ -11722,11 +11722,11 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR2",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -11832,11 +11832,11 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR2",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -11928,11 +11928,11 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR2",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -12095,11 +12095,11 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR2",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -12496,11 +12496,11 @@
                                     "otherTargets": {
                                         "$type": "SelectTargetsByShape",
                                         "DJLKFLJENEG": 1,
-                                        "AKMLOIFOBPO": "Nearest",
+                                        "sortType": "Nearest",
                                         "shapeName": "CircleR2",
                                         "centerBasedOn": "CurLocalAvatar",
                                         "campTargetType": "All",
-                                        "AFLAEMMPLPN": "CurLocalAvatar",
+                                        "campBasedOn": "CurLocalAvatar",
                                         "sizeRatio": 1.0
                                     },
                                     "predicates": [
@@ -12560,11 +12560,11 @@
                                     "otherTargets": {
                                         "$type": "SelectTargetsByShape",
                                         "DJLKFLJENEG": 1,
-                                        "AKMLOIFOBPO": "Nearest",
+                                        "sortType": "Nearest",
                                         "shapeName": "CircleR2",
                                         "centerBasedOn": "CurLocalAvatar",
                                         "campTargetType": "All",
-                                        "AFLAEMMPLPN": "CurLocalAvatar",
+                                        "campBasedOn": "CurLocalAvatar",
                                         "sizeRatio": 1.0
                                     },
                                     "predicates": [
@@ -12624,11 +12624,11 @@
                                     "otherTargets": {
                                         "$type": "SelectTargetsByShape",
                                         "DJLKFLJENEG": 1,
-                                        "AKMLOIFOBPO": "Nearest",
+                                        "sortType": "Nearest",
                                         "shapeName": "CircleR2",
                                         "centerBasedOn": "CurLocalAvatar",
                                         "campTargetType": "All",
-                                        "AFLAEMMPLPN": "CurLocalAvatar",
+                                        "campBasedOn": "CurLocalAvatar",
                                         "sizeRatio": 1.0
                                     },
                                     "predicates": [
@@ -12743,11 +12743,11 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR2",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -12853,11 +12853,11 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR2",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -12950,11 +12950,11 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR2",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -13118,11 +13118,11 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR2",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -13511,11 +13511,11 @@
                                     "otherTargets": {
                                         "$type": "SelectTargetsByShape",
                                         "DJLKFLJENEG": 1,
-                                        "AKMLOIFOBPO": "Nearest",
+                                        "sortType": "Nearest",
                                         "shapeName": "CircleR2",
                                         "centerBasedOn": "CurLocalAvatar",
                                         "campTargetType": "All",
-                                        "AFLAEMMPLPN": "CurLocalAvatar",
+                                        "campBasedOn": "CurLocalAvatar",
                                         "sizeRatio": 1.0
                                     },
                                     "predicates": [
@@ -13575,11 +13575,11 @@
                                     "otherTargets": {
                                         "$type": "SelectTargetsByShape",
                                         "DJLKFLJENEG": 1,
-                                        "AKMLOIFOBPO": "Nearest",
+                                        "sortType": "Nearest",
                                         "shapeName": "CircleR2",
                                         "centerBasedOn": "CurLocalAvatar",
                                         "campTargetType": "All",
-                                        "AFLAEMMPLPN": "CurLocalAvatar",
+                                        "campBasedOn": "CurLocalAvatar",
                                         "sizeRatio": 1.0
                                     },
                                     "predicates": [
@@ -13639,11 +13639,11 @@
                                     "otherTargets": {
                                         "$type": "SelectTargetsByShape",
                                         "DJLKFLJENEG": 1,
-                                        "AKMLOIFOBPO": "Nearest",
+                                        "sortType": "Nearest",
                                         "shapeName": "CircleR2",
                                         "centerBasedOn": "CurLocalAvatar",
                                         "campTargetType": "All",
-                                        "AFLAEMMPLPN": "CurLocalAvatar",
+                                        "campBasedOn": "CurLocalAvatar",
                                         "sizeRatio": 1.0
                                     },
                                     "predicates": [
@@ -13758,11 +13758,11 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR2",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -13868,11 +13868,11 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR2",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -13964,11 +13964,11 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR2",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -14131,11 +14131,11 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR2",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -14532,11 +14532,11 @@
                                     "otherTargets": {
                                         "$type": "SelectTargetsByShape",
                                         "DJLKFLJENEG": 1,
-                                        "AKMLOIFOBPO": "Nearest",
+                                        "sortType": "Nearest",
                                         "shapeName": "CircleR2",
                                         "centerBasedOn": "CurLocalAvatar",
                                         "campTargetType": "All",
-                                        "AFLAEMMPLPN": "CurLocalAvatar",
+                                        "campBasedOn": "CurLocalAvatar",
                                         "sizeRatio": 1.0
                                     },
                                     "predicates": [
@@ -14596,11 +14596,11 @@
                                     "otherTargets": {
                                         "$type": "SelectTargetsByShape",
                                         "DJLKFLJENEG": 1,
-                                        "AKMLOIFOBPO": "Nearest",
+                                        "sortType": "Nearest",
                                         "shapeName": "CircleR2",
                                         "centerBasedOn": "CurLocalAvatar",
                                         "campTargetType": "All",
-                                        "AFLAEMMPLPN": "CurLocalAvatar",
+                                        "campBasedOn": "CurLocalAvatar",
                                         "sizeRatio": 1.0
                                     },
                                     "predicates": [
@@ -14660,11 +14660,11 @@
                                     "otherTargets": {
                                         "$type": "SelectTargetsByShape",
                                         "DJLKFLJENEG": 1,
-                                        "AKMLOIFOBPO": "Nearest",
+                                        "sortType": "Nearest",
                                         "shapeName": "CircleR2",
                                         "centerBasedOn": "CurLocalAvatar",
                                         "campTargetType": "All",
-                                        "AFLAEMMPLPN": "CurLocalAvatar",
+                                        "campBasedOn": "CurLocalAvatar",
                                         "sizeRatio": 1.0
                                     },
                                     "predicates": [
@@ -14779,11 +14779,11 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR2",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -14889,11 +14889,11 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR2",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -14986,11 +14986,11 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR2",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -15154,11 +15154,11 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR2",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -15615,7 +15615,7 @@
                             },
                             "gadgetID": 70330017,
                             "campTargetType": "Enemy",
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         },
                         {
                             "$type": "ExecuteGadgetLua",

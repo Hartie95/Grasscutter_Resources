@@ -122,8 +122,8 @@
                         },
                         {
                             "$type": "KillSelf",
-                            "BEKKIHBPHGD": true,
-                            "EOIGEKNINFE": true
+                            "banDrop": true,
+                            "banExp": true
                         }
                     ]
                 },
@@ -189,7 +189,7 @@
                     "modifierName": "",
                     "elementType": "Grass",
                     "elementDurability": 30.0,
-                    "DDLOLBGNLEF": false,
+                    "isElementDurabilityMutable": false,
                     "modifierMixins": [
                         {
                             "$type": "DoActionByEventMixin",
@@ -262,7 +262,7 @@
                     "modifierName": "",
                     "elementType": "Grass",
                     "elementDurability": 30.0,
-                    "DDLOLBGNLEF": false,
+                    "isElementDurabilityMutable": false,
                     "modifierMixins": [
                         {
                             "$type": "DoActionByEventMixin",
@@ -400,7 +400,7 @@
                     "modifierName": "",
                     "elementType": "Grass",
                     "elementDurability": 30.0,
-                    "DDLOLBGNLEF": false,
+                    "isElementDurabilityMutable": false,
                     "modifierMixins": [
                         {
                             "$type": "DoActionByEventMixin",
@@ -599,17 +599,17 @@
                     "onAdded": [
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "direction": {
                                     "$type": "ConfigBornDirectionType",
                                     "randomAngleHor": 10.0,
-                                    "IOIAHLPJDMH": 10.0
+                                    "randomAngleVer": 10.0
                                 }
                             },
                             "gadgetID": 70710045,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ]
                 },
@@ -633,8 +633,8 @@
                     "onAdded": [
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
-                                "AKMLOIFOBPO": "Reversed",
+                            "gadgetInfo": {
+                                "sortType": "Reversed",
                                 "configID": 70710045
                             }
                         }
@@ -670,17 +670,17 @@
                     "onAdded": [
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "direction": {
                                     "$type": "ConfigBornDirectionType",
                                     "randomAngleHor": 180.0,
-                                    "IOIAHLPJDMH": 70.0
+                                    "randomAngleVer": 70.0
                                 }
                             },
                             "gadgetID": 70710046,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ]
                 },
@@ -704,8 +704,8 @@
                     "onAdded": [
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
-                                "AKMLOIFOBPO": "Reversed",
+                            "gadgetInfo": {
+                                "sortType": "Reversed",
                                 "configID": 70710046
                             }
                         }
@@ -741,17 +741,17 @@
                     "onAdded": [
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "direction": {
                                     "$type": "ConfigBornDirectionType",
                                     "randomAngleHor": 180.0,
-                                    "IOIAHLPJDMH": 70.0
+                                    "randomAngleVer": 70.0
                                 }
                             },
                             "gadgetID": 70710047,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ]
                 },
@@ -775,8 +775,8 @@
                     "onAdded": [
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
-                                "AKMLOIFOBPO": "Reversed",
+                            "gadgetInfo": {
+                                "sortType": "Reversed",
                                 "configID": 70710047
                             }
                         }

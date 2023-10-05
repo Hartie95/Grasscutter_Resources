@@ -20,7 +20,7 @@
                                     "z": 0.0
                                 }
                             },
-                            "ENJEPFDLDDF": "Self",
+                            "trackTarget": "Self",
                             "MLHHDMOKLBG": true
                         },
                         {
@@ -33,8 +33,8 @@
                     "onRemoved": [
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
-                                "AKMLOIFOBPO": "Reversed",
+                            "gadgetInfo": {
+                                "sortType": "Reversed",
                                 "configID": 42303005
                             }
                         },
@@ -63,7 +63,7 @@
                                     "z": 0.0
                                 }
                             },
-                            "ENJEPFDLDDF": "Self",
+                            "trackTarget": "Self",
                             "MLHHDMOKLBG": true
                         },
                         {
@@ -76,8 +76,8 @@
                     "onRemoved": [
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
-                                "AKMLOIFOBPO": "Reversed",
+                            "gadgetInfo": {
+                                "sortType": "Reversed",
                                 "configID": 42303006
                             }
                         },
@@ -327,7 +327,7 @@
                             "z": 0.0
                         }
                     },
-                    "NJEOPILMKCN": true
+                    "lifeByOwnerIsAlive": true
                 }
             ]
         }
@@ -819,7 +819,7 @@
                     "otherTargets": {
                         "$type": "SelectTargetsByShape",
                         "DJLKFLJENEG": 1,
-                        "AKMLOIFOBPO": "Random",
+                        "sortType": "Random",
                         "shapeName": "CircleR15",
                         "campTargetType": "Alliance",
                         "sizeRatio": 1.0
@@ -1222,7 +1222,7 @@
                             "$type": "Predicated",
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
-                                "AKMLOIFOBPO": "Random",
+                                "sortType": "Random",
                                 "shapeName": "CircleR15",
                                 "campTargetType": "Alliance",
                                 "sizeRatio": 1.0
@@ -1259,7 +1259,7 @@
                                             "$type": "ConfigDirectionByAttackTarget"
                                         }
                                     },
-                                    "NJEOPILMKCN": true
+                                    "lifeByOwnerIsAlive": true
                                 }
                             ]
                         }
@@ -1398,7 +1398,7 @@
                     "otherTargets": {
                         "$type": "SelectTargetsByShape",
                         "DJLKFLJENEG": 1,
-                        "AKMLOIFOBPO": "Random",
+                        "sortType": "Random",
                         "shapeName": "CircleR25",
                         "centerBasedOn": "SelfAttackTarget",
                         "campTargetType": "Alliance",
@@ -1470,7 +1470,7 @@
                     "otherTargets": {
                         "$type": "SelectTargetsByShape",
                         "DJLKFLJENEG": 1,
-                        "AKMLOIFOBPO": "Random",
+                        "sortType": "Random",
                         "shapeName": "CircleR50",
                         "centerBasedOn": "SelfAttackTarget",
                         "campTargetType": "Alliance",
@@ -1687,8 +1687,8 @@
                 },
                 {
                     "$type": "KillGadget",
-                    "LBGGIBBMCMF": {
-                        "AKMLOIFOBPO": "Reversed",
+                    "gadgetInfo": {
+                        "sortType": "Reversed",
                         "configID": 42303008
                     }
                 }
@@ -1778,8 +1778,8 @@
                                     "z": -1.5
                                 }
                             },
-                            "NJEOPILMKCN": true,
-                            "ENJEPFDLDDF": "Self"
+                            "lifeByOwnerIsAlive": true,
+                            "trackTarget": "Self"
                         },
                         {
                             "$type": "TriggerBullet",
@@ -1792,8 +1792,8 @@
                                     "z": -1.5
                                 }
                             },
-                            "NJEOPILMKCN": true,
-                            "ENJEPFDLDDF": "Self"
+                            "lifeByOwnerIsAlive": true,
+                            "trackTarget": "Self"
                         },
                         {
                             "$type": "TriggerBullet",
@@ -1806,8 +1806,8 @@
                                     "z": 3.0
                                 }
                             },
-                            "NJEOPILMKCN": true,
-                            "ENJEPFDLDDF": "Self"
+                            "lifeByOwnerIsAlive": true,
+                            "trackTarget": "Self"
                         }
                     ]
                 }
@@ -2263,7 +2263,7 @@
                         },
                         {
                             "$type": "HideUIBillBoard",
-                            "COCENMAFJGD": true
+                            "hide": true
                         },
                         {
                             "$type": "RemoveModifier",
@@ -2684,15 +2684,15 @@
                 },
                 {
                     "$type": "KillGadget",
-                    "LBGGIBBMCMF": {
-                        "AKMLOIFOBPO": "Reversed",
+                    "gadgetInfo": {
+                        "sortType": "Reversed",
                         "configID": 42303002
                     }
                 },
                 {
                     "$type": "KillGadget",
-                    "LBGGIBBMCMF": {
-                        "AKMLOIFOBPO": "Reversed",
+                    "gadgetInfo": {
+                        "sortType": "Reversed",
                         "configID": 42303011
                     }
                 }

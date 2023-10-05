@@ -141,7 +141,7 @@
                         },
                         {
                             "$type": "HideUIBillBoard",
-                            "COCENMAFJGD": true
+                            "hide": true
                         },
                         {
                             "$type": "SetPoseBool",
@@ -974,7 +974,7 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR30",
                                 "campTargetType": "SelfCamp",
                                 "sizeRatio": 1.0
@@ -992,7 +992,7 @@
                         {
                             "$type": "CreateGadget",
                             "target": "SelfAttackTarget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornByTargetLinearPoint",
                                 "onGround": true,
@@ -1008,8 +1008,8 @@
                     "onRemoved": [
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
-                                "AKMLOIFOBPO": "Reversed",
+                            "gadgetInfo": {
+                                "sortType": "Reversed",
                                 "configID": 42401015
                             }
                         }

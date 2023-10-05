@@ -358,7 +358,7 @@
                         },
                         {
                             "$type": "HideUIBillBoard",
-                            "COCENMAFJGD": true
+                            "hide": true
                         },
                         {
                             "$type": "EnableHitBoxByName",
@@ -607,7 +607,7 @@
                             "z": 0.0
                         }
                     },
-                    "ENJEPFDLDDF": "TargetOwner"
+                    "trackTarget": "TargetOwner"
                 }
             ]
         }
@@ -619,8 +619,8 @@
             "onAbilityStart": [
                 {
                     "$type": "KillSelf",
-                    "BEKKIHBPHGD": true,
-                    "EOIGEKNINFE": true
+                    "banDrop": true,
+                    "banExp": true
                 }
             ]
         }
@@ -797,7 +797,7 @@
                     "modifierName": "",
                     "elementType": "Electric",
                     "elementDurability": 50.0,
-                    "DDLOLBGNLEF": false
+                    "isElementDurabilityMutable": false
                 }
             },
             "onAdded": [

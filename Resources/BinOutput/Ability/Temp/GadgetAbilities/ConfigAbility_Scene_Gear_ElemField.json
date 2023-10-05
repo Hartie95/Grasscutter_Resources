@@ -385,7 +385,7 @@
                         },
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "gadgetID": 70330016
                         }
                     ],
@@ -1514,7 +1514,7 @@
                         },
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "gadgetID": 70330016
                         }
                     ],
@@ -1542,7 +1542,7 @@
                     "isUnique": true,
                     "elementType": "Water",
                     "elementDurability": 55.0,
-                    "DDLOLBGNLEF": false
+                    "isElementDurabilityMutable": false
                 }
             }
         }

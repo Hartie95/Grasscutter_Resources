@@ -998,12 +998,12 @@
                         },
                         "direction": {
                             "$type": "ConfigDirectionByAttackTarget",
-                            "IHHIKIACOML": "Vertical",
-                            "INCAGGBCJNF": 20.0
+                            "maxAngleType": "Vertical",
+                            "maxAngle": 20.0
                         },
                         "attachPointName": "Head"
                     },
-                    "NJEOPILMKCN": true
+                    "lifeByOwnerIsAlive": true
                 },
                 {
                     "$type": "FireEffect",
@@ -1061,12 +1061,12 @@
                         },
                         "direction": {
                             "$type": "ConfigDirectionByAttackTarget",
-                            "IHHIKIACOML": "Vertical",
-                            "INCAGGBCJNF": 20.0
+                            "maxAngleType": "Vertical",
+                            "maxAngle": 20.0
                         },
                         "attachPointName": "Head"
                     },
-                    "NJEOPILMKCN": true
+                    "lifeByOwnerIsAlive": true
                 },
                 {
                     "$type": "FireEffect",
@@ -1124,12 +1124,12 @@
                         },
                         "direction": {
                             "$type": "ConfigDirectionByAttackTarget",
-                            "IHHIKIACOML": "Vertical",
-                            "INCAGGBCJNF": 20.0
+                            "maxAngleType": "Vertical",
+                            "maxAngle": 20.0
                         },
                         "attachPointName": "Head"
                     },
-                    "NJEOPILMKCN": true
+                    "lifeByOwnerIsAlive": true
                 },
                 {
                     "$type": "FireEffect",

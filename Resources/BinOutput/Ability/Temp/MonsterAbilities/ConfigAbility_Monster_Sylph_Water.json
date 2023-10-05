@@ -902,7 +902,7 @@
                             },
                             "gadgetID": 42006103,
                             "campID": 4001,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ]
                 },
@@ -1064,7 +1064,7 @@
                             },
                             "gadgetID": 42006106,
                             "campID": 4001,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ],
                     "onRemoved": [
@@ -1290,7 +1290,7 @@
                             },
                             "gadgetID": 42006104,
                             "campID": 4001,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         },
                         {
                             "$type": "CreateGadget",
@@ -1312,7 +1312,7 @@
                             },
                             "gadgetID": 42006107,
                             "campID": 4001,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ],
                     "onRemoved": [
@@ -1400,7 +1400,7 @@
                             "$type": "Predicated",
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
-                                "AKMLOIFOBPO": "LowHpRatio",
+                                "sortType": "LowHpRatio",
                                 "shapeName": "CircleR20H40",
                                 "campTargetType": "Alliance",
                                 "sizeRatio": 1.0
@@ -1448,7 +1448,7 @@
                                             }
                                         }
                                     },
-                                    "ENJEPFDLDDF": "Target"
+                                    "trackTarget": "Target"
                                 },
                                 {
                                     "$type": "AddGlobalValue",

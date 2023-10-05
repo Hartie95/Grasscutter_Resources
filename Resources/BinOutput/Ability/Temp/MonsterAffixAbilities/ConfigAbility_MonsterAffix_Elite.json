@@ -206,7 +206,7 @@
                             "value": 0.0,
                             "key": "_ABYSS_RESETRANDOM",
                             "useLimitRange": true,
-                            "FACHGOPKJKE": true,
+                            "randomInRange": true,
                             "maxValue": 3.0,
                             "minValue": 0.0
                         },
@@ -473,7 +473,7 @@
                 },
                 {
                     "$type": "HideUIBillBoard",
-                    "COCENMAFJGD": true
+                    "hide": true
                 }
             ],
             "isDynamicAbility": true
@@ -1477,7 +1477,7 @@
                         },
                         {
                             "$type": "HideUIBillBoard",
-                            "COCENMAFJGD": true
+                            "hide": true
                         },
                         {
                             "$type": "SetAnimatorInt",
@@ -1666,8 +1666,8 @@
                                     "z": 0.0
                                 }
                             },
-                            "NJEOPILMKCN": true,
-                            "ENJEPFDLDDF": "Owner"
+                            "lifeByOwnerIsAlive": true,
+                            "trackTarget": "Owner"
                         },
                         {
                             "$type": "Predicated",
@@ -1725,8 +1725,8 @@
                     "onRemoved": [
                         {
                             "$type": "KillSelf",
-                            "BEKKIHBPHGD": true,
-                            "EOIGEKNINFE": true
+                            "banDrop": true,
+                            "banExp": true
                         }
                     ]
                 },
@@ -1753,8 +1753,8 @@
                     "onRemoved": [
                         {
                             "$type": "KillSelf",
-                            "BEKKIHBPHGD": true,
-                            "EOIGEKNINFE": true
+                            "banDrop": true,
+                            "banExp": true
                         }
                     ]
                 },
@@ -1867,7 +1867,7 @@
                     "onAdded": [
                         {
                             "$type": "HideUIBillBoard",
-                            "COCENMAFJGD": true
+                            "hide": true
                         }
                     ],
                     "onBeingHit": [
@@ -2661,9 +2661,9 @@
                         {
                             "$type": "KillSelf",
                             "duration": 2.0,
-                            "BEKKIHBPHGD": true,
-                            "EOIGEKNINFE": true,
-                            "PGGBJIDIINM": "Disappear"
+                            "banDrop": true,
+                            "banExp": true,
+                            "killSelfType": "Disappear"
                         }
                     ]
                 }

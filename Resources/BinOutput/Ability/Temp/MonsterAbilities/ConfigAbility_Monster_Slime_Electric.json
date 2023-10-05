@@ -457,7 +457,7 @@
                             "value": 0.0,
                             "key": "_ABILITY_SLIME_ELECTRIC_DISCHARGE",
                             "useLimitRange": true,
-                            "FACHGOPKJKE": true,
+                            "randomInRange": true,
                             "maxValue": 9.0,
                             "minValue": 5.0
                         },
@@ -1034,7 +1034,7 @@
                             "value": 0.0,
                             "key": "_ABILITY_SLIME_ELECTRIC_DISCHARGE",
                             "useLimitRange": true,
-                            "FACHGOPKJKE": true,
+                            "randomInRange": true,
                             "maxValue": 9.0,
                             "minValue": 5.0
                         },
@@ -1539,7 +1539,7 @@
                             "value": 0.0,
                             "key": "_ABILITY_SLIME_ELECTRIC_DISCHARGE",
                             "useLimitRange": true,
-                            "FACHGOPKJKE": true,
+                            "randomInRange": true,
                             "maxValue": 9.0,
                             "minValue": 5.0
                         },
@@ -1649,7 +1649,7 @@
                             "value": 0.0,
                             "key": "_ABILITY_SLIME_ELECTRIC_DISCHARGE",
                             "useLimitRange": true,
-                            "FACHGOPKJKE": true,
+                            "randomInRange": true,
                             "maxValue": 5.0,
                             "minValue": 3.0
                         },

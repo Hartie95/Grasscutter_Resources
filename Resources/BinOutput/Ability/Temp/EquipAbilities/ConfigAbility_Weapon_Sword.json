@@ -5353,7 +5353,7 @@
                             "modifierName": "UNIQUE_Weapon_Sword_Opus_CD"
                         }
                     ],
-                    "NHFJDDBKNCM": true
+                    "onThinkIntervalIsFixedUpdate": true
                 }
             },
             "onAdded": [

@@ -688,7 +688,7 @@
                             "value": 0.0,
                             "key": "_ABILITY_SLIME_ELECTRIC_DISCHARGE",
                             "useLimitRange": true,
-                            "FACHGOPKJKE": true,
+                            "randomInRange": true,
                             "maxValue": 9.0,
                             "minValue": 5.0
                         },
@@ -1154,7 +1154,7 @@
                             "value": 0.0,
                             "key": "_ABILITY_SLIME_ELECTRIC_DISCHARGE",
                             "useLimitRange": true,
-                            "FACHGOPKJKE": true,
+                            "randomInRange": true,
                             "maxValue": 9.0,
                             "minValue": 5.0
                         },
@@ -1599,8 +1599,8 @@
                         },
                         "attachPointName": "RootNode"
                     },
-                    "NJEOPILMKCN": true,
-                    "ENJEPFDLDDF": "Self"
+                    "lifeByOwnerIsAlive": true,
+                    "trackTarget": "Self"
                 },
                 {
                     "$type": "TriggerBullet",
@@ -1623,8 +1623,8 @@
                         },
                         "attachPointName": "RootNode"
                     },
-                    "NJEOPILMKCN": true,
-                    "ENJEPFDLDDF": "Self"
+                    "lifeByOwnerIsAlive": true,
+                    "trackTarget": "Self"
                 },
                 {
                     "$type": "TriggerBullet",
@@ -1647,8 +1647,8 @@
                         },
                         "attachPointName": "RootNode"
                     },
-                    "NJEOPILMKCN": true,
-                    "ENJEPFDLDDF": "Self"
+                    "lifeByOwnerIsAlive": true,
+                    "trackTarget": "Self"
                 },
                 {
                     "$type": "FireEffect",

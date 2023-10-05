@@ -1237,7 +1237,7 @@
                                     "$type": "SelectTargetsByShape",
                                     "shapeName": "CircleR0_5",
                                     "campTargetType": "Enemy",
-                                    "AFLAEMMPLPN": "Applier",
+                                    "campBasedOn": "Applier",
                                     "sizeRatio": 1.0
                                 },
                                 "predicates": [
@@ -1300,7 +1300,7 @@
                                     "DJLKFLJENEG": 1,
                                     "shapeName": "CircleR10H3",
                                     "campTargetType": "Enemy",
-                                    "AFLAEMMPLPN": "Applier",
+                                    "campBasedOn": "Applier",
                                     "sizeRatio": 1.0
                                 },
                                 "predicates": [
@@ -1340,7 +1340,7 @@
                                 "DJLKFLJENEG": 1,
                                 "shapeName": "CircleR0_5",
                                 "campTargetType": "Enemy",
-                                "AFLAEMMPLPN": "Applier",
+                                "campBasedOn": "Applier",
                                 "sizeRatio": 1.0
                             },
                             "OKHOMILNNBL": "Self",
@@ -1408,7 +1408,7 @@
                                     "$type": "SelectTargetsByShape",
                                     "shapeName": "CircleR0_5",
                                     "campTargetType": "Enemy",
-                                    "AFLAEMMPLPN": "Applier",
+                                    "campBasedOn": "Applier",
                                     "sizeRatio": 1.0
                                 },
                                 "predicates": [
@@ -1470,7 +1470,7 @@
                                     "DJLKFLJENEG": 1,
                                     "shapeName": "CircleR20H10",
                                     "campTargetType": "Enemy",
-                                    "AFLAEMMPLPN": "Applier",
+                                    "campBasedOn": "Applier",
                                     "sizeRatio": 1.0
                                 },
                                 "predicates": [
@@ -1510,7 +1510,7 @@
                                 "DJLKFLJENEG": 1,
                                 "shapeName": "CircleR0_5",
                                 "campTargetType": "Enemy",
-                                "AFLAEMMPLPN": "Applier",
+                                "campBasedOn": "Applier",
                                 "sizeRatio": 1.0
                             },
                             "OKHOMILNNBL": "Self",
@@ -3306,7 +3306,7 @@
                                 "$type": "SelectTargetsByShape",
                                 "shapeName": "CircleR5",
                                 "campTargetType": "Enemy",
-                                "AFLAEMMPLPN": "Applier",
+                                "campBasedOn": "Applier",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -3404,7 +3404,7 @@
                                 "$type": "SelectTargetsByShape",
                                 "shapeName": "CircleR5",
                                 "campTargetType": "Enemy",
-                                "AFLAEMMPLPN": "Applier",
+                                "campBasedOn": "Applier",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [

@@ -389,7 +389,7 @@
                     "otherTargets": {
                         "$type": "SelectTargetsByLCTrigger",
                         "DJLKFLJENEG": 1,
-                        "AKMLOIFOBPO": "Random",
+                        "sortType": "Random",
                         "campTargetType": "Enemy"
                     }
                 },
@@ -648,7 +648,7 @@
                     "otherTargets": {
                         "$type": "SelectTargetsByLCTrigger",
                         "DJLKFLJENEG": 1,
-                        "AKMLOIFOBPO": "Random",
+                        "sortType": "Random",
                         "campTargetType": "Enemy"
                     }
                 },
@@ -885,7 +885,7 @@
                     "otherTargets": {
                         "$type": "SelectTargetsByLCTrigger",
                         "DJLKFLJENEG": 1,
-                        "AKMLOIFOBPO": "Random",
+                        "sortType": "Random",
                         "campTargetType": "Enemy"
                     }
                 },
@@ -1222,7 +1222,7 @@
                     "otherTargets": {
                         "$type": "SelectTargetsByLCTrigger",
                         "DJLKFLJENEG": 1,
-                        "AKMLOIFOBPO": "Random",
+                        "sortType": "Random",
                         "campTargetType": "Enemy"
                     }
                 },
@@ -1428,7 +1428,7 @@
                     "otherTargets": {
                         "$type": "SelectTargetsByLCTrigger",
                         "DJLKFLJENEG": 1,
-                        "AKMLOIFOBPO": "Random",
+                        "sortType": "Random",
                         "campTargetType": "Enemy"
                     }
                 },

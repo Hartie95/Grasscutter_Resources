@@ -3523,7 +3523,7 @@
                                 "$type": "ConfigBornByAttachPoint",
                                 "attachPointName": "BulletFollowPoint"
                             },
-                            "ENJEPFDLDDF": "Self",
+                            "trackTarget": "Self",
                             "ACHALMGBBMK": true,
                             "MLHHDMOKLBG": true
                         },
@@ -4474,7 +4474,7 @@
                     "value": 0.0,
                     "key": "_MONSTER_Nithhoggr_None_Crystal_Random",
                     "useLimitRange": true,
-                    "FACHGOPKJKE": true,
+                    "randomInRange": true,
                     "maxValue": 4.0,
                     "minValue": 0.0
                 },
@@ -4490,7 +4490,7 @@
                     "value": 0.0,
                     "key": "_MONSTER_Nithhoggr_None_Crystal_Random",
                     "useLimitRange": true,
-                    "FACHGOPKJKE": true,
+                    "randomInRange": true,
                     "maxValue": 7.0,
                     "minValue": 5.0
                 },
@@ -5686,7 +5686,7 @@
                                 "$type": "ConfigBornByAttachPoint",
                                 "attachPointName": "BulletFollowPoint"
                             },
-                            "ENJEPFDLDDF": "Self",
+                            "trackTarget": "Self",
                             "ACHALMGBBMK": true,
                             "MLHHDMOKLBG": true
                         }
@@ -5694,8 +5694,8 @@
                     "onRemoved": [
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
-                                "AKMLOIFOBPO": "Reversed",
+                            "gadgetInfo": {
+                                "sortType": "Reversed",
                                 "configID": 42401025
                             }
                         }

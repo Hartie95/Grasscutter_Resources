@@ -932,7 +932,7 @@
                             "born": {
                                 "$type": "ConfigBornBySelf"
                             },
-                            "ENJEPFDLDDF": "Self",
+                            "trackTarget": "Self",
                             "MLHHDMOKLBG": true
                         }
                     ],
@@ -1176,7 +1176,7 @@
                             },
                             "gadgetID": 42006503,
                             "campID": 4001,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ],
                     "onRemoved": [
@@ -1297,7 +1297,7 @@
                         },
                         {
                             "$type": "HideUIBillBoard",
-                            "COCENMAFJGD": true
+                            "hide": true
                         },
                         {
                             "$type": "ApplyModifier",
@@ -1508,7 +1508,7 @@
                             },
                             "gadgetID": 42006502,
                             "campID": 4001,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ],
                     "onRemoved": [

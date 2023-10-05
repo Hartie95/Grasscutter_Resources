@@ -46,7 +46,7 @@
                     "modifierName": "",
                     "elementType": "Rock",
                     "elementDurability": 15.0,
-                    "DDLOLBGNLEF": false,
+                    "isElementDurabilityMutable": false,
                     "onAdded": [
                         {
                             "$type": "SetGlobalValue",
@@ -273,7 +273,7 @@
                     "modifierName": "",
                     "elementType": "Rock",
                     "elementDurability": 15.0,
-                    "DDLOLBGNLEF": false
+                    "isElementDurabilityMutable": false
                 },
                 "UNIQUE_Avatar": {
                     "stacking": "Unique",
@@ -2371,7 +2371,7 @@
                     "modifierName": "",
                     "elementType": "Fire",
                     "elementDurability": 15.0,
-                    "DDLOLBGNLEF": false,
+                    "isElementDurabilityMutable": false,
                     "onAdded": [
                         {
                             "$type": "AttachEffect",
@@ -3586,7 +3586,7 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR10",
                                 "campTargetType": "Enemy",
                                 "sizeRatio": 1.0
@@ -3605,7 +3605,7 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR10",
                                 "campTargetType": "Enemy",
                                 "sizeRatio": 1.0
@@ -3874,7 +3874,7 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByTag",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "tag": "IS_LIGHT_POINT"
                             },
                             "targetPredicates": [
@@ -6193,7 +6193,7 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByLCTrigger",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "campTargetType": "AllExceptSelf"
                             },
                             "targetPredicates": [
@@ -6223,7 +6223,7 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByLCTrigger",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "campTargetType": "AllExceptSelf"
                             },
                             "targetPredicates": [
@@ -10885,7 +10885,7 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByTag",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "tag": "IS_LIGHT_POINT"
                             },
                             "targetPredicates": [

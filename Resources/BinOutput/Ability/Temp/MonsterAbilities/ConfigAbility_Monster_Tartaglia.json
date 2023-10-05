@@ -261,7 +261,7 @@
                                 {
                                     "$type": "TriggerCreateGadgetToEquipPart",
                                     "gadgetID": 50004032,
-                                    "EPBOKNDHCPD": "equip01"
+                                    "equipPart": "equip01"
                                 },
                                 {
                                     "$type": "AddGlobalValue",
@@ -323,12 +323,12 @@
                                 {
                                     "$type": "TriggerCreateGadgetToEquipPart",
                                     "gadgetID": 50004035,
-                                    "EPBOKNDHCPD": "equip02"
+                                    "equipPart": "equip02"
                                 },
                                 {
                                     "$type": "TriggerCreateGadgetToEquipPart",
                                     "gadgetID": 50004036,
-                                    "EPBOKNDHCPD": "equip03"
+                                    "equipPart": "equip03"
                                 },
                                 {
                                     "$type": "AddGlobalValue",
@@ -824,7 +824,7 @@
                 },
                 {
                     "$type": "CreateGadget",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornByActionPoint",
                         "onGround": true,
@@ -838,7 +838,7 @@
                     "gadgetID": 42903005,
                     "campID": 4001,
                     "campTargetType": "Enemy",
-                    "CEBMHIFOHJM": true
+                    "byServer": true
                 }
             ],
             "onKill": [
@@ -1181,9 +1181,9 @@
                         {
                             "$type": "KillSelf",
                             "duration": 2.0,
-                            "BEKKIHBPHGD": true,
-                            "EOIGEKNINFE": true,
-                            "EKINLACJBGF": true
+                            "banDrop": true,
+                            "banExp": true,
+                            "banHPPercentageDrop": true
                         }
                     ]
                 },
@@ -1659,13 +1659,13 @@
                                 "CoverAttack_Flexible",
                                 "ChangePosition_Flexible"
                             ],
-                            "OKFKMBDCDHO": "DefendTrigger",
-                            "OKEAOJGNCNJ": 1.0,
-                            "CLALNDAGFGJ": 0.0,
-                            "LCJAOCJNEJJ": 0.0,
-                            "HFCIHIJGLMA": 0,
+                            "defendTriggerID": "DefendTrigger",
+                            "defendProbability": 1.0,
+                            "defendProbabilityDelta": 0.0,
+                            "defendTimeInterval": 0.0,
+                            "defendCountInterval": 0,
                             "attackType": "Melee",
-                            "GOLCBAPOOLF": [
+                            "onDefendSucceded": [
                                 {
                                     "$type": "SetRandomOverrideMapValue",
                                     "MOCGLDDNLKO": 1.0,
@@ -1921,12 +1921,12 @@
                             "stateIDs": [
                                 "BeHit"
                             ],
-                            "OKFKMBDCDHO": "",
-                            "OKEAOJGNCNJ": 1.0,
-                            "CLALNDAGFGJ": 0.0,
-                            "LCJAOCJNEJJ": "Tartaglia_Recover_RandomTime",
-                            "HFCIHIJGLMA": 0,
-                            "GOLCBAPOOLF": [
+                            "defendTriggerID": "",
+                            "defendProbability": 1.0,
+                            "defendProbabilityDelta": 0.0,
+                            "defendTimeInterval": "Tartaglia_Recover_RandomTime",
+                            "defendCountInterval": 0,
+                            "onDefendSucceded": [
                                 {
                                     "$type": "RemoveModifier",
                                     "modifierName": "Tartaglia_Recover_Timer"
@@ -2092,8 +2092,8 @@
                         "$type": "ConfigBornByAttachPoint",
                         "direction": {
                             "$type": "ConfigDirectionByAttackTarget",
-                            "IHHIKIACOML": "Vertical",
-                            "INCAGGBCJNF": 30.0
+                            "maxAngleType": "Vertical",
+                            "maxAngle": 30.0
                         },
                         "attachPointName": "WeaponL"
                     }
@@ -2443,8 +2443,8 @@
                         "$type": "ConfigBornByAttachPoint",
                         "direction": {
                             "$type": "ConfigDirectionByAttackTarget",
-                            "IHHIKIACOML": "Vertical",
-                            "INCAGGBCJNF": 30.0
+                            "maxAngleType": "Vertical",
+                            "maxAngle": 30.0
                         },
                         "attachPointName": "WeaponL"
                     }
@@ -2469,8 +2469,8 @@
                         },
                         "direction": {
                             "$type": "ConfigDirectionByAttackTarget",
-                            "IHHIKIACOML": "Vertical",
-                            "INCAGGBCJNF": 30.0
+                            "maxAngleType": "Vertical",
+                            "maxAngle": 30.0
                         }
                     }
                 }
@@ -2494,8 +2494,8 @@
                         },
                         "direction": {
                             "$type": "ConfigDirectionByAttackTarget",
-                            "IHHIKIACOML": "Vertical",
-                            "INCAGGBCJNF": 30.0
+                            "maxAngleType": "Vertical",
+                            "maxAngle": 30.0
                         }
                     }
                 }
@@ -3153,7 +3153,7 @@
                 },
                 {
                     "$type": "CreateGadget",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornBySelf",
                         "offset": {
@@ -3169,7 +3169,7 @@
                 },
                 {
                     "$type": "CreateGadget",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornBySelf",
                         "offset": {

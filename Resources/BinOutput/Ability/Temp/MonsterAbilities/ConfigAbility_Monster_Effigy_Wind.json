@@ -362,7 +362,7 @@
                     "isUnique": true,
                     "elementType": "Wind",
                     "elementDurability": 25.0,
-                    "DDLOLBGNLEF": false
+                    "isElementDurabilityMutable": false
                 },
                 "EnergyCore": {
                     "modifierName": "",
@@ -384,7 +384,7 @@
                         },
                         {
                             "$type": "HideUIBillBoard",
-                            "COCENMAFJGD": true
+                            "hide": true
                         },
                         {
                             "$type": "SetGlobalValue",
@@ -528,7 +528,7 @@
                         },
                         {
                             "$type": "HideUIBillBoard",
-                            "COCENMAFJGD": true
+                            "hide": true
                         },
                         {
                             "$type": "EnablePushColliderName",
@@ -947,7 +947,7 @@
                         },
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "offset": {
@@ -966,7 +966,7 @@
                         },
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "offset": {
@@ -985,7 +985,7 @@
                         },
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "offset": {
@@ -1004,7 +1004,7 @@
                         },
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "offset": {
@@ -1271,7 +1271,7 @@
                         },
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "offset": {
@@ -1288,7 +1288,7 @@
                             },
                             "gadgetID": 42004121,
                             "campID": 4001,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ]
                 }
@@ -1364,7 +1364,7 @@
                                 },
                                 "onGround": true
                             },
-                            "ENJEPFDLDDF": "Self"
+                            "trackTarget": "Self"
                         }
                     ],
                     "onRemoved": [
@@ -1434,7 +1434,7 @@
                         },
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "offset": {
@@ -1451,7 +1451,7 @@
                             },
                             "gadgetID": 42004121,
                             "campID": 4001,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ]
                 }
@@ -1567,7 +1567,7 @@
                             "z": 0.0
                         }
                     },
-                    "ENJEPFDLDDF": "Owner"
+                    "trackTarget": "Owner"
                 },
                 {
                     "$type": "KillSelf"
@@ -1850,7 +1850,7 @@
                         },
                         {
                             "$type": "KillServerGadget",
-                            "LBGGIBBMCMF": {
+                            "gadgetInfo": {
                                 "configID": 42004104
                             }
                         },
@@ -1881,7 +1881,7 @@
                         },
                         {
                             "$type": "KillServerGadget",
-                            "LBGGIBBMCMF": {
+                            "gadgetInfo": {
                                 "configID": 42004104
                             }
                         },
@@ -2339,12 +2339,12 @@
                                                 "z": 0.0
                                             },
                                             "randomAngleHor": 15.0,
-                                            "IOIAHLPJDMH": 15.0
+                                            "randomAngleVer": 15.0
                                         },
                                         "attachPointName": "AttachPointInL1",
                                         "attachPointTargetType": "Self"
                                     },
-                                    "ENJEPFDLDDF": "Target"
+                                    "trackTarget": "Target"
                                 },
                                 {
                                     "$type": "TriggerBullet",
@@ -2364,12 +2364,12 @@
                                                 "z": 0.0
                                             },
                                             "randomAngleHor": 15.0,
-                                            "IOIAHLPJDMH": 15.0
+                                            "randomAngleVer": 15.0
                                         },
                                         "attachPointName": "AttachPointInL3",
                                         "attachPointTargetType": "Self"
                                     },
-                                    "ENJEPFDLDDF": "Target"
+                                    "trackTarget": "Target"
                                 },
                                 {
                                     "$type": "ApplyModifier",
@@ -2417,12 +2417,12 @@
                                                 "z": 0.0
                                             },
                                             "randomAngleHor": 15.0,
-                                            "IOIAHLPJDMH": 15.0
+                                            "randomAngleVer": 15.0
                                         },
                                         "attachPointName": "AttachPointInR1",
                                         "attachPointTargetType": "Self"
                                     },
-                                    "ENJEPFDLDDF": "Target"
+                                    "trackTarget": "Target"
                                 },
                                 {
                                     "$type": "TriggerBullet",
@@ -2442,12 +2442,12 @@
                                                 "z": 0.0
                                             },
                                             "randomAngleHor": 15.0,
-                                            "IOIAHLPJDMH": 15.0
+                                            "randomAngleVer": 15.0
                                         },
                                         "attachPointName": "AttachPointInR2",
                                         "attachPointTargetType": "Self"
                                     },
-                                    "ENJEPFDLDDF": "Target"
+                                    "trackTarget": "Target"
                                 },
                                 {
                                     "$type": "TriggerBullet",
@@ -2467,12 +2467,12 @@
                                                 "z": 0.0
                                             },
                                             "randomAngleHor": 15.0,
-                                            "IOIAHLPJDMH": 15.0
+                                            "randomAngleVer": 15.0
                                         },
                                         "attachPointName": "AttachPointInR3",
                                         "attachPointTargetType": "Self"
                                     },
-                                    "ENJEPFDLDDF": "Target"
+                                    "trackTarget": "Target"
                                 },
                                 {
                                     "$type": "ApplyModifier",
@@ -2520,12 +2520,12 @@
                                                 "z": 0.0
                                             },
                                             "randomAngleHor": 15.0,
-                                            "IOIAHLPJDMH": 15.0
+                                            "randomAngleVer": 15.0
                                         },
                                         "attachPointName": "AttachPointInR4",
                                         "attachPointTargetType": "Self"
                                     },
-                                    "ENJEPFDLDDF": "Target"
+                                    "trackTarget": "Target"
                                 },
                                 {
                                     "$type": "TriggerBullet",
@@ -2545,12 +2545,12 @@
                                                 "z": 0.0
                                             },
                                             "randomAngleHor": 15.0,
-                                            "IOIAHLPJDMH": 15.0
+                                            "randomAngleVer": 15.0
                                         },
                                         "attachPointName": "AttachPointInL2",
                                         "attachPointTargetType": "Self"
                                     },
-                                    "ENJEPFDLDDF": "Target"
+                                    "trackTarget": "Target"
                                 },
                                 {
                                     "$type": "TriggerBullet",
@@ -2570,12 +2570,12 @@
                                                 "z": 0.0
                                             },
                                             "randomAngleHor": 15.0,
-                                            "IOIAHLPJDMH": 15.0
+                                            "randomAngleVer": 15.0
                                         },
                                         "attachPointName": "AttachPointInL4",
                                         "attachPointTargetType": "Self"
                                     },
-                                    "ENJEPFDLDDF": "Target"
+                                    "trackTarget": "Target"
                                 },
                                 {
                                     "$type": "ApplyModifier",
@@ -2900,12 +2900,12 @@
                                                 "z": 0.0
                                             },
                                             "randomAngleHor": 15.0,
-                                            "IOIAHLPJDMH": 15.0
+                                            "randomAngleVer": 15.0
                                         },
                                         "attachPointName": "AttachPointInL1",
                                         "attachPointTargetType": "Self"
                                     },
-                                    "ENJEPFDLDDF": "Target"
+                                    "trackTarget": "Target"
                                 },
                                 {
                                     "$type": "TriggerBullet",
@@ -2925,12 +2925,12 @@
                                                 "z": 0.0
                                             },
                                             "randomAngleHor": 15.0,
-                                            "IOIAHLPJDMH": 15.0
+                                            "randomAngleVer": 15.0
                                         },
                                         "attachPointName": "AttachPointInL3",
                                         "attachPointTargetType": "Self"
                                     },
-                                    "ENJEPFDLDDF": "Target"
+                                    "trackTarget": "Target"
                                 },
                                 {
                                     "$type": "ApplyModifier",
@@ -2978,12 +2978,12 @@
                                                 "z": 0.0
                                             },
                                             "randomAngleHor": 15.0,
-                                            "IOIAHLPJDMH": 15.0
+                                            "randomAngleVer": 15.0
                                         },
                                         "attachPointName": "AttachPointInR1",
                                         "attachPointTargetType": "Self"
                                     },
-                                    "ENJEPFDLDDF": "Target"
+                                    "trackTarget": "Target"
                                 },
                                 {
                                     "$type": "TriggerBullet",
@@ -3003,12 +3003,12 @@
                                                 "z": 0.0
                                             },
                                             "randomAngleHor": 15.0,
-                                            "IOIAHLPJDMH": 15.0
+                                            "randomAngleVer": 15.0
                                         },
                                         "attachPointName": "AttachPointInR2",
                                         "attachPointTargetType": "Self"
                                     },
-                                    "ENJEPFDLDDF": "Target"
+                                    "trackTarget": "Target"
                                 },
                                 {
                                     "$type": "TriggerBullet",
@@ -3028,12 +3028,12 @@
                                                 "z": 0.0
                                             },
                                             "randomAngleHor": 15.0,
-                                            "IOIAHLPJDMH": 15.0
+                                            "randomAngleVer": 15.0
                                         },
                                         "attachPointName": "AttachPointInR3",
                                         "attachPointTargetType": "Self"
                                     },
-                                    "ENJEPFDLDDF": "Target"
+                                    "trackTarget": "Target"
                                 },
                                 {
                                     "$type": "ApplyModifier",
@@ -3081,12 +3081,12 @@
                                                 "z": 0.0
                                             },
                                             "randomAngleHor": 15.0,
-                                            "IOIAHLPJDMH": 15.0
+                                            "randomAngleVer": 15.0
                                         },
                                         "attachPointName": "AttachPointInR4",
                                         "attachPointTargetType": "Self"
                                     },
-                                    "ENJEPFDLDDF": "Target"
+                                    "trackTarget": "Target"
                                 },
                                 {
                                     "$type": "TriggerBullet",
@@ -3106,12 +3106,12 @@
                                                 "z": 0.0
                                             },
                                             "randomAngleHor": 15.0,
-                                            "IOIAHLPJDMH": 15.0
+                                            "randomAngleVer": 15.0
                                         },
                                         "attachPointName": "AttachPointInL2",
                                         "attachPointTargetType": "Self"
                                     },
-                                    "ENJEPFDLDDF": "Target"
+                                    "trackTarget": "Target"
                                 },
                                 {
                                     "$type": "TriggerBullet",
@@ -3131,12 +3131,12 @@
                                                 "z": 0.0
                                             },
                                             "randomAngleHor": 15.0,
-                                            "IOIAHLPJDMH": 15.0
+                                            "randomAngleVer": 15.0
                                         },
                                         "attachPointName": "AttachPointInL4",
                                         "attachPointTargetType": "Self"
                                     },
-                                    "ENJEPFDLDDF": "Target"
+                                    "trackTarget": "Target"
                                 },
                                 {
                                     "$type": "ApplyModifier",
@@ -3907,7 +3907,7 @@
             "onAdded": [
                 {
                     "$type": "CreateGadget",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornBySelf",
                         "offset": {
@@ -4017,7 +4017,7 @@
             "onAdded": [
                 {
                     "$type": "CreateGadget",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornBySelf",
                         "offset": {
@@ -4028,7 +4028,7 @@
                     },
                     "JCAMCEOBIFG": true,
                     "gadgetID": 42004006,
-                    "CEBMHIFOHJM": true
+                    "byServer": true
                 },
                 {
                     "$type": "SetGlobalPos",
@@ -4330,7 +4330,7 @@
                         },
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "offset": {
@@ -4349,11 +4349,11 @@
                             "gadgetID": 42004104,
                             "campID": 4001,
                             "campTargetType": "Enemy",
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         },
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "offset": {
@@ -4372,11 +4372,11 @@
                             "gadgetID": 42004104,
                             "campID": 4001,
                             "campTargetType": "Enemy",
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         },
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "offset": {
@@ -4395,11 +4395,11 @@
                             "gadgetID": 42004104,
                             "campID": 4001,
                             "campTargetType": "Enemy",
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         },
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "offset": {
@@ -4418,11 +4418,11 @@
                             "gadgetID": 42004104,
                             "campID": 4001,
                             "campTargetType": "Enemy",
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         },
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "offset": {
@@ -4441,11 +4441,11 @@
                             "gadgetID": 42004104,
                             "campID": 4001,
                             "campTargetType": "Enemy",
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         },
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "offset": {
@@ -4464,11 +4464,11 @@
                             "gadgetID": 42004104,
                             "campID": 4001,
                             "campTargetType": "Enemy",
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         },
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "offset": {
@@ -4487,11 +4487,11 @@
                             "gadgetID": 42004104,
                             "campID": 4001,
                             "campTargetType": "Enemy",
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         },
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "offset": {
@@ -4510,7 +4510,7 @@
                             "gadgetID": 42004104,
                             "campID": 4001,
                             "campTargetType": "Enemy",
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ],
                     "onThinkInterval": [
@@ -4570,7 +4570,7 @@
                         },
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "offset": {
@@ -4589,11 +4589,11 @@
                             "gadgetID": 42004104,
                             "campID": 4001,
                             "campTargetType": "Enemy",
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         },
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "offset": {
@@ -4612,11 +4612,11 @@
                             "gadgetID": 42004104,
                             "campID": 4001,
                             "campTargetType": "Enemy",
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         },
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "offset": {
@@ -4635,11 +4635,11 @@
                             "gadgetID": 42004104,
                             "campID": 4001,
                             "campTargetType": "Enemy",
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         },
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "offset": {
@@ -4658,11 +4658,11 @@
                             "gadgetID": 42004104,
                             "campID": 4001,
                             "campTargetType": "Enemy",
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         },
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "offset": {
@@ -4681,11 +4681,11 @@
                             "gadgetID": 42004104,
                             "campID": 4001,
                             "campTargetType": "Enemy",
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         },
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "offset": {
@@ -4704,11 +4704,11 @@
                             "gadgetID": 42004104,
                             "campID": 4001,
                             "campTargetType": "Enemy",
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         },
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "offset": {
@@ -4727,11 +4727,11 @@
                             "gadgetID": 42004104,
                             "campID": 4001,
                             "campTargetType": "Enemy",
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         },
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "offset": {
@@ -4750,7 +4750,7 @@
                             "gadgetID": 42004104,
                             "campID": 4001,
                             "campTargetType": "Enemy",
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ],
                     "onThinkInterval": [
@@ -4896,7 +4896,7 @@
                         },
                         "onGround": true
                     },
-                    "ENJEPFDLDDF": "Self"
+                    "trackTarget": "Self"
                 },
                 {
                     "$type": "TriggerBullet",
@@ -4923,7 +4923,7 @@
                         },
                         "onGround": true
                     },
-                    "ENJEPFDLDDF": "Self"
+                    "trackTarget": "Self"
                 }
             ]
         }
@@ -5061,7 +5061,7 @@
                     "duration": 10.0,
                     "elementType": "Fire",
                     "elementDurability": 25.0,
-                    "DDLOLBGNLEF": false
+                    "isElementDurabilityMutable": false
                 },
                 "HitByWater": {
                     "stacking": "Unique",
@@ -5069,7 +5069,7 @@
                     "duration": 10.0,
                     "elementType": "Water",
                     "elementDurability": 25.0,
-                    "DDLOLBGNLEF": false
+                    "isElementDurabilityMutable": false
                 },
                 "HitByElectric": {
                     "stacking": "Unique",
@@ -5077,7 +5077,7 @@
                     "duration": 10.0,
                     "elementType": "Electric",
                     "elementDurability": 25.0,
-                    "DDLOLBGNLEF": false
+                    "isElementDurabilityMutable": false
                 },
                 "HitByIce": {
                     "stacking": "Unique",
@@ -5085,7 +5085,7 @@
                     "duration": 10.0,
                     "elementType": "Ice",
                     "elementDurability": 25.0,
-                    "DDLOLBGNLEF": false
+                    "isElementDurabilityMutable": false
                 },
                 "Tornado_Mix_Handler": {
                     "modifierName": "",
@@ -5938,7 +5938,7 @@
                                     "forceByCaster": true
                                 }
                             ],
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "offset": {
@@ -5949,7 +5949,7 @@
                             },
                             "JCAMCEOBIFG": true,
                             "gadgetID": 42004105,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         },
                         {
                             "$type": "CreateGadget",
@@ -5967,7 +5967,7 @@
                                     "forceByCaster": true
                                 }
                             ],
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "offset": {
@@ -5978,7 +5978,7 @@
                             },
                             "JCAMCEOBIFG": true,
                             "gadgetID": 42004106,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         },
                         {
                             "$type": "CreateGadget",
@@ -5996,7 +5996,7 @@
                                     "forceByCaster": true
                                 }
                             ],
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "offset": {
@@ -6007,7 +6007,7 @@
                             },
                             "JCAMCEOBIFG": true,
                             "gadgetID": 42004107,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         },
                         {
                             "$type": "CreateGadget",
@@ -6025,7 +6025,7 @@
                                     "forceByCaster": true
                                 }
                             ],
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "offset": {
@@ -6036,7 +6036,7 @@
                             },
                             "JCAMCEOBIFG": true,
                             "gadgetID": 42004108,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         },
                         {
                             "$type": "CreateGadget",
@@ -6054,7 +6054,7 @@
                                     "forceByCaster": true
                                 }
                             ],
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "offset": {
@@ -6065,7 +6065,7 @@
                             },
                             "JCAMCEOBIFG": true,
                             "gadgetID": 42004109,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ],
                     "failActions": [
@@ -6085,7 +6085,7 @@
                                     "forceByCaster": true
                                 }
                             ],
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "offset": {
@@ -6096,7 +6096,7 @@
                             },
                             "JCAMCEOBIFG": true,
                             "gadgetID": 42004105,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         },
                         {
                             "$type": "CreateGadget",
@@ -6114,7 +6114,7 @@
                                     "forceByCaster": true
                                 }
                             ],
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "offset": {
@@ -6125,7 +6125,7 @@
                             },
                             "JCAMCEOBIFG": true,
                             "gadgetID": 42004106,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         },
                         {
                             "$type": "CreateGadget",
@@ -6143,7 +6143,7 @@
                                     "forceByCaster": true
                                 }
                             ],
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "offset": {
@@ -6154,7 +6154,7 @@
                             },
                             "JCAMCEOBIFG": true,
                             "gadgetID": 42004107,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         },
                         {
                             "$type": "CreateGadget",
@@ -6172,7 +6172,7 @@
                                     "forceByCaster": true
                                 }
                             ],
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "offset": {
@@ -6183,7 +6183,7 @@
                             },
                             "JCAMCEOBIFG": true,
                             "gadgetID": 42004108,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         },
                         {
                             "$type": "CreateGadget",
@@ -6201,7 +6201,7 @@
                                     "forceByCaster": true
                                 }
                             ],
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "offset": {
@@ -6212,7 +6212,7 @@
                             },
                             "JCAMCEOBIFG": true,
                             "gadgetID": 42004109,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ]
                 }
@@ -7500,7 +7500,7 @@
                             "z": 0.0
                         }
                     },
-                    "ENJEPFDLDDF": "OriginOwner"
+                    "trackTarget": "OriginOwner"
                 },
                 {
                     "$type": "TriggerBullet",
@@ -7531,7 +7531,7 @@
                             "z": 0.0
                         }
                     },
-                    "ENJEPFDLDDF": "OriginOwner"
+                    "trackTarget": "OriginOwner"
                 },
                 {
                     "$type": "TriggerBullet",
@@ -7562,7 +7562,7 @@
                             "z": 0.0
                         }
                     },
-                    "ENJEPFDLDDF": "OriginOwner"
+                    "trackTarget": "OriginOwner"
                 },
                 {
                     "$type": "TriggerBullet",
@@ -7593,7 +7593,7 @@
                             "z": 0.0
                         }
                     },
-                    "ENJEPFDLDDF": "OriginOwner"
+                    "trackTarget": "OriginOwner"
                 },
                 {
                     "$type": "TriggerBullet",
@@ -7624,7 +7624,7 @@
                             "z": 0.0
                         }
                     },
-                    "ENJEPFDLDDF": "OriginOwner"
+                    "trackTarget": "OriginOwner"
                 },
                 {
                     "$type": "KillSelf",
@@ -10990,7 +10990,7 @@
                         {
                             "$type": "CreateGadget",
                             "target": "SelfAttackTarget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornByTarget",
                                 "offset": {
@@ -11007,7 +11007,7 @@
                             },
                             "gadgetID": 42004135,
                             "campID": 4001,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ]
                 },
@@ -11019,7 +11019,7 @@
                         {
                             "$type": "CreateGadget",
                             "target": "SelfAttackTarget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornByTarget",
                                 "offset": {
@@ -11036,7 +11036,7 @@
                             },
                             "gadgetID": 42004135,
                             "campID": 4001,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         },
                         {
                             "$type": "CreateGadget",
@@ -11044,7 +11044,7 @@
                                 "$type": "SelectTargetsByChildren",
                                 "configID": 42004006
                             },
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornByTarget",
                                 "offset": {
@@ -11061,7 +11061,7 @@
                             },
                             "gadgetID": 42004135,
                             "campID": 4001,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ]
                 },
@@ -11073,7 +11073,7 @@
                         {
                             "$type": "CreateGadget",
                             "target": "SelfAttackTarget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornByTarget",
                                 "offset": {
@@ -11090,7 +11090,7 @@
                             },
                             "gadgetID": 42004135,
                             "campID": 4001,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         },
                         {
                             "$type": "CreateGadget",
@@ -11098,7 +11098,7 @@
                                 "$type": "SelectTargetsByChildren",
                                 "configID": 42004006
                             },
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornByTarget",
                                 "offset": {
@@ -11115,7 +11115,7 @@
                             },
                             "gadgetID": 42004135,
                             "campID": 4001,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ]
                 }
@@ -11160,7 +11160,7 @@
                     "onRemoved": [
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "offset": {
@@ -11172,7 +11172,7 @@
                             },
                             "gadgetID": 42004132,
                             "campID": 4001,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ]
                 }

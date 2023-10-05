@@ -170,9 +170,9 @@
                 },
                 {
                     "$type": "KillSelf",
-                    "BEKKIHBPHGD": true,
-                    "EOIGEKNINFE": true,
-                    "PGGBJIDIINM": "Disappear"
+                    "banDrop": true,
+                    "banExp": true,
+                    "killSelfType": "Disappear"
                 }
             ]
         }
@@ -223,9 +223,9 @@
                 },
                 {
                     "$type": "KillSelf",
-                    "BEKKIHBPHGD": true,
-                    "EOIGEKNINFE": true,
-                    "PGGBJIDIINM": "Disappear"
+                    "banDrop": true,
+                    "banExp": true,
+                    "killSelfType": "Disappear"
                 }
             ]
         }
@@ -379,9 +379,9 @@
                         },
                         {
                             "$type": "KillSelf",
-                            "BEKKIHBPHGD": true,
-                            "EOIGEKNINFE": true,
-                            "PGGBJIDIINM": "Disappear"
+                            "banDrop": true,
+                            "banExp": true,
+                            "killSelfType": "Disappear"
                         },
                         {
                             "$type": "SetAnimatorBool",
@@ -448,7 +448,7 @@
                     "onAdded": [
                         {
                             "$type": "HideUIBillBoard",
-                            "COCENMAFJGD": true
+                            "hide": true
                         }
                     ]
                 }

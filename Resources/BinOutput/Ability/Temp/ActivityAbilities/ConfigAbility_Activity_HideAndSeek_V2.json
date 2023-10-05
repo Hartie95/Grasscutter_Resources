@@ -1624,7 +1624,7 @@
                     "onRemoved": [
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
+                            "gadgetInfo": {
                                 "configID": 44000200
                             }
                         }
@@ -1655,7 +1655,7 @@
                     "onRemoved": [
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
+                            "gadgetInfo": {
                                 "configID": 44000201
                             }
                         }
@@ -1686,7 +1686,7 @@
                     "onRemoved": [
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
+                            "gadgetInfo": {
                                 "configID": 44000202
                             }
                         }
@@ -1717,7 +1717,7 @@
                     "onRemoved": [
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
+                            "gadgetInfo": {
                                 "configID": 44000203
                             }
                         },
@@ -1753,7 +1753,7 @@
                     "onRemoved": [
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
+                            "gadgetInfo": {
                                 "configID": 44000204
                             }
                         }
@@ -1784,7 +1784,7 @@
                     "onRemoved": [
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
+                            "gadgetInfo": {
                                 "configID": 44000205
                             }
                         }
@@ -1815,7 +1815,7 @@
                     "onRemoved": [
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
+                            "gadgetInfo": {
                                 "configID": 44000206
                             }
                         }
@@ -1846,7 +1846,7 @@
                     "onRemoved": [
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
+                            "gadgetInfo": {
                                 "configID": 44000207
                             }
                         }
@@ -1877,7 +1877,7 @@
                     "onRemoved": [
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
+                            "gadgetInfo": {
                                 "configID": 44000208
                             }
                         }
@@ -1908,7 +1908,7 @@
                     "onRemoved": [
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
+                            "gadgetInfo": {
                                 "configID": 44000209
                             }
                         }
@@ -1939,7 +1939,7 @@
                     "onRemoved": [
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
+                            "gadgetInfo": {
                                 "configID": 44000400
                             }
                         }
@@ -1970,7 +1970,7 @@
                     "onRemoved": [
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
+                            "gadgetInfo": {
                                 "configID": 44000401
                             }
                         }
@@ -2001,7 +2001,7 @@
                     "onRemoved": [
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
+                            "gadgetInfo": {
                                 "configID": 44000402
                             }
                         }
@@ -2032,7 +2032,7 @@
                     "onRemoved": [
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
+                            "gadgetInfo": {
                                 "configID": 44000403
                             }
                         },
@@ -2068,7 +2068,7 @@
                     "onRemoved": [
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
+                            "gadgetInfo": {
                                 "configID": 44000404
                             }
                         }
@@ -2099,7 +2099,7 @@
                     "onRemoved": [
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
+                            "gadgetInfo": {
                                 "configID": 44000405
                             }
                         }
@@ -2130,7 +2130,7 @@
                     "onRemoved": [
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
+                            "gadgetInfo": {
                                 "configID": 44000406
                             }
                         }
@@ -2161,7 +2161,7 @@
                     "onRemoved": [
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
+                            "gadgetInfo": {
                                 "configID": 44000407
                             }
                         }
@@ -2192,7 +2192,7 @@
                     "onRemoved": [
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
+                            "gadgetInfo": {
                                 "configID": 44000408
                             }
                         }
@@ -2223,7 +2223,7 @@
                     "onRemoved": [
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
+                            "gadgetInfo": {
                                 "configID": 44000409
                             }
                         }
@@ -2254,7 +2254,7 @@
                     "onRemoved": [
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
+                            "gadgetInfo": {
                                 "configID": 44000410
                             }
                         }
@@ -2285,7 +2285,7 @@
                     "onRemoved": [
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
+                            "gadgetInfo": {
                                 "configID": 44000411
                             }
                         }
@@ -2316,7 +2316,7 @@
                     "onRemoved": [
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
+                            "gadgetInfo": {
                                 "configID": 44000412
                             }
                         }
@@ -3301,7 +3301,7 @@
                             "$type": "KillGadget",
                             "target": "CurTeamAvatars",
                             "doOffStage": true,
-                            "LBGGIBBMCMF": {
+                            "gadgetInfo": {
                                 "configID": 44000109
                             }
                         }
@@ -3750,7 +3750,7 @@
                             "$type": "KillGadget",
                             "target": "CurTeamAvatars",
                             "doOffStage": true,
-                            "LBGGIBBMCMF": {
+                            "gadgetInfo": {
                                 "configID": 44000108
                             }
                         }
@@ -3778,7 +3778,7 @@
                                     "$type": "KillGadget",
                                     "target": "CurTeamAvatars",
                                     "doOffStage": true,
-                                    "LBGGIBBMCMF": {
+                                    "gadgetInfo": {
                                         "configID": 44000108
                                     }
                                 },

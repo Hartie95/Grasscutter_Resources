@@ -325,7 +325,7 @@
                         },
                         {
                             "$type": "HideUIBillBoard",
-                            "COCENMAFJGD": true
+                            "hide": true
                         }
                     ]
                 },
@@ -368,7 +368,7 @@
                     "modifierName": "",
                     "elementType": "Fire",
                     "elementDurability": 100.0,
-                    "DDLOLBGNLEF": false,
+                    "isElementDurabilityMutable": false,
                     "onAdded": [
                         {
                             "$type": "EnablePushColliderName",
@@ -652,7 +652,7 @@
                                 }
                             ],
                             "showDamageText": "",
-                            "NGOKEFIDFCJ": true
+                            "useMutiPlayerFixData": true
                         }
                     ],
                     "onAdded": [
@@ -1333,7 +1333,7 @@
                             "$type": "CreateGadget",
                             "target": "Owner",
                             "OAKAJFOAANM": true,
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "offset": {
@@ -1344,7 +1344,7 @@
                             },
                             "JCAMCEOBIFG": true,
                             "gadgetID": 42004504,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         },
                         {
                             "$type": "AddGlobalValue",
@@ -1509,7 +1509,7 @@
                     "onAdded": [
                         {
                             "$type": "HideUIBillBoard",
-                            "COCENMAFJGD": true
+                            "hide": true
                         }
                     ],
                     "onRemoved": [
@@ -1593,7 +1593,7 @@
                     "otherTargets": {
                         "$type": "SelectTargetsByShape",
                         "DJLKFLJENEG": 1,
-                        "AKMLOIFOBPO": "Nearest",
+                        "sortType": "Nearest",
                         "shapeName": "CircleR50",
                         "campTargetType": "AllExceptSelf",
                         "sizeRatio": 1.0
@@ -1675,7 +1675,7 @@
                         },
                         {
                             "$type": "HideUIBillBoard",
-                            "COCENMAFJGD": true
+                            "hide": true
                         },
                         {
                             "$type": "EnableHitBoxByName",
@@ -1760,7 +1760,7 @@
             "onAdded": [
                 {
                     "$type": "CreateGadget",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornBySelf",
                         "offset": {
@@ -1771,7 +1771,7 @@
                     },
                     "JCAMCEOBIFG": true,
                     "gadgetID": 42004006,
-                    "CEBMHIFOHJM": true
+                    "byServer": true
                 },
                 {
                     "$type": "SetGlobalPos",
@@ -3057,7 +3057,7 @@
                                 {
                                     "$type": "CreateGadget",
                                     "target": "SelfAttackTarget",
-                                    "NJEOPILMKCN": true,
+                                    "lifeByOwnerIsAlive": true,
                                     "born": {
                                         "$type": "ConfigBornByPredicatePoint",
                                         "bornRandom": {
@@ -3083,7 +3083,7 @@
                     "onAdded": [
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornByAttachPoint",
                                 "onGround": true,
@@ -3094,7 +3094,7 @@
                         },
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornByAttachPoint",
                                 "onGround": true,
@@ -3105,7 +3105,7 @@
                         },
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornByAttachPoint",
                                 "onGround": true,
@@ -3118,7 +3118,7 @@
                     "onThinkInterval": [
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "bornRandom": {
@@ -3355,7 +3355,7 @@
                             "$type": "CreateGadget",
                             "target": "Owner",
                             "OAKAJFOAANM": true,
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "onGround": true,
@@ -3364,7 +3364,7 @@
                             "JCAMCEOBIFG": true,
                             "gadgetID": 42004503,
                             "campID": 4001,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ]
                 }
@@ -3789,7 +3789,7 @@
                         },
                         {
                             "$type": "HideUIBillBoard",
-                            "COCENMAFJGD": true
+                            "hide": true
                         }
                     ],
                     "onRemoved": [

@@ -388,7 +388,7 @@
                             "shieldAngle": 360.0,
                             "shieldHPRatio": 1.0,
                             "damageRatio": 0.20000000298023224,
-                            "NGOKEFIDFCJ": true
+                            "useMutiPlayerFixData": true
                         },
                         {
                             "$type": "VelocityForceMixin",
@@ -610,10 +610,10 @@
                         },
                         {
                             "$type": "KillSelf",
-                            "BEKKIHBPHGD": true,
-                            "EOIGEKNINFE": true,
-                            "EKINLACJBGF": true,
-                            "PGGBJIDIINM": "Disappear"
+                            "banDrop": true,
+                            "banExp": true,
+                            "banHPPercentageDrop": true,
+                            "killSelfType": "Disappear"
                         }
                     ]
                 },
@@ -650,7 +650,7 @@
                                 },
                                 {
                                     "$type": "HideUIBillBoard",
-                                    "COCENMAFJGD": true
+                                    "hide": true
                                 },
                                 {
                                     "$type": "EnableHitBoxByName",
@@ -1133,7 +1133,7 @@
                         },
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornByGlobalValue",
                                 "bornRandom": {
@@ -1156,7 +1156,7 @@
                             "gadgetID": 42203006,
                             "campID": 4001,
                             "campTargetType": "Enemy",
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ]
                 }
@@ -1410,7 +1410,7 @@
                         }
                     ],
                     "OAKAJFOAANM": true,
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornByGlobalValue",
                         "offset": {
@@ -1425,7 +1425,7 @@
                     "gadgetID": 42203007,
                     "campID": 4001,
                     "campTargetType": "Enemy",
-                    "CEBMHIFOHJM": true
+                    "byServer": true
                 }
             ]
         }
@@ -1622,7 +1622,7 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR50",
                                 "campTargetType": "AllExceptSelf",
                                 "sizeRatio": 1.0
@@ -1667,7 +1667,7 @@
                                 "attachPointName": "FirePoint",
                                 "attachPointTargetType": "Self"
                             },
-                            "ENJEPFDLDDF": "Owner"
+                            "trackTarget": "Owner"
                         },
                         {
                             "$type": "RemoveModifier",
@@ -1883,7 +1883,7 @@
             "onKill": [
                 {
                     "$type": "HideUIBillBoard",
-                    "COCENMAFJGD": true
+                    "hide": true
                 },
                 {
                     "$type": "EnablePushColliderName",
@@ -2311,7 +2311,7 @@
                         {
                             "$type": "CreateGadget",
                             "target": "SelfAttackTarget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornByGlobalValue",
                                 "bornRandom": {
@@ -2343,7 +2343,7 @@
                         {
                             "$type": "CreateGadget",
                             "target": "SelfAttackTarget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "bornRandom": {
@@ -2373,7 +2373,7 @@
                         {
                             "$type": "CreateGadget",
                             "target": "SelfAttackTarget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "bornRandom": {
@@ -2512,7 +2512,7 @@
                         {
                             "$type": "CreateGadget",
                             "target": "SelfAttackTarget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornByGlobalValue",
                                 "bornRandom": {
@@ -2544,7 +2544,7 @@
                         {
                             "$type": "CreateGadget",
                             "target": "SelfAttackTarget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "bornRandom": {
@@ -2574,7 +2574,7 @@
                         {
                             "$type": "CreateGadget",
                             "target": "SelfAttackTarget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "bornRandom": {
@@ -2641,7 +2641,7 @@
             "onAbilityStart": [
                 {
                     "$type": "KillServerGadget",
-                    "LBGGIBBMCMF": {
+                    "gadgetInfo": {
                         "configID": 42203007
                     }
                 }

@@ -302,7 +302,7 @@
                             "$type": "Predicated",
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR10",
                                 "campTargetType": "All",
                                 "sizeRatio": 1.0

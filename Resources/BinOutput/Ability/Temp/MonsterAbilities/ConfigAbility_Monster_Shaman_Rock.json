@@ -294,13 +294,13 @@
                         {
                             "$type": "CreateGadget",
                             "target": "Target",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornByTarget",
                                 "onGround": true
                             },
                             "gadgetID": 42103011,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ]
                 },

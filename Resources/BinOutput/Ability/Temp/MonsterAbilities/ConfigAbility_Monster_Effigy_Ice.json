@@ -326,7 +326,7 @@
                         },
                         {
                             "$type": "HideUIBillBoard",
-                            "COCENMAFJGD": true
+                            "hide": true
                         }
                     ]
                 },
@@ -369,7 +369,7 @@
                     "modifierName": "",
                     "elementType": "Frozen",
                     "elementDurability": 100.0,
-                    "DDLOLBGNLEF": false,
+                    "isElementDurabilityMutable": false,
                     "onAdded": [
                         {
                             "$type": "EnablePushColliderName",
@@ -854,7 +854,7 @@
                     "onRemoved": [
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
+                            "gadgetInfo": {
                                 "configID": 42004410
                             }
                         },
@@ -1311,7 +1311,7 @@
                         },
                         {
                             "$type": "HideUIBillBoard",
-                            "COCENMAFJGD": true
+                            "hide": true
                         },
                         {
                             "$type": "EnableHitBoxByName",
@@ -1405,7 +1405,7 @@
             "onAdded": [
                 {
                     "$type": "CreateGadget",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornBySelf",
                         "offset": {
@@ -1416,7 +1416,7 @@
                     },
                     "JCAMCEOBIFG": true,
                     "gadgetID": 42004006,
-                    "CEBMHIFOHJM": true
+                    "byServer": true
                 },
                 {
                     "$type": "SetGlobalPos",
@@ -2987,7 +2987,7 @@
                         },
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
+                            "gadgetInfo": {
                                 "configID": 42004403
                             }
                         }
@@ -2999,7 +2999,7 @@
                     "onAdded": [
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "onGround": true
@@ -3131,7 +3131,7 @@
                                 {
                                     "$type": "CreateGadget",
                                     "target": "SelfAttackTarget",
-                                    "NJEOPILMKCN": true,
+                                    "lifeByOwnerIsAlive": true,
                                     "born": {
                                         "$type": "ConfigBornByPredicatePoint",
                                         "bornRandom": {
@@ -3163,7 +3163,7 @@
                                 {
                                     "$type": "CreateGadget",
                                     "target": "SelfAttackTarget",
-                                    "NJEOPILMKCN": true,
+                                    "lifeByOwnerIsAlive": true,
                                     "born": {
                                         "$type": "ConfigBornByPredicatePoint",
                                         "bornRandom": {
@@ -3193,7 +3193,7 @@
                             "actions": [
                                 {
                                     "$type": "CreateGadget",
-                                    "NJEOPILMKCN": true,
+                                    "lifeByOwnerIsAlive": true,
                                     "born": {
                                         "$type": "ConfigBornBySelf",
                                         "bornRandom": {
@@ -3217,7 +3217,7 @@
                             "actions": [
                                 {
                                     "$type": "CreateGadget",
-                                    "NJEOPILMKCN": true,
+                                    "lifeByOwnerIsAlive": true,
                                     "born": {
                                         "$type": "ConfigBornBySelf",
                                         "bornRandom": {
@@ -3430,7 +3430,7 @@
                         "direction": {
                             "$type": "ConfigDirectionByAttachPoint",
                             "randomAngleHor": 5.0,
-                            "IOIAHLPJDMH": 15.0,
+                            "randomAngleVer": 15.0,
                             "attachPointName": "IceBarrageMid",
                             "attachPointTargetType": "Self"
                         },
@@ -3458,7 +3458,7 @@
                         "direction": {
                             "$type": "ConfigDirectionByAttachPoint",
                             "randomAngleHor": 5.0,
-                            "IOIAHLPJDMH": 15.0,
+                            "randomAngleVer": 15.0,
                             "attachPointName": "IceBarrageL",
                             "attachPointTargetType": "Self"
                         },
@@ -3486,7 +3486,7 @@
                         "direction": {
                             "$type": "ConfigDirectionByAttachPoint",
                             "randomAngleHor": 5.0,
-                            "IOIAHLPJDMH": 15.0,
+                            "randomAngleVer": 15.0,
                             "attachPointName": "IceBarrageR",
                             "attachPointTargetType": "Self"
                         },
@@ -3519,7 +3519,7 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR50",
                                 "campTargetType": "AllExceptSelf",
                                 "sizeRatio": 1.0
@@ -4184,7 +4184,7 @@
                     "otherTargets": {
                         "$type": "SelectTargetsByShape",
                         "DJLKFLJENEG": 1,
-                        "AKMLOIFOBPO": "Nearest",
+                        "sortType": "Nearest",
                         "shapeName": "CircleR50",
                         "campTargetType": "AllExceptSelf",
                         "sizeRatio": 1.0

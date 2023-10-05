@@ -5613,7 +5613,7 @@
                         {
                             "$type": "HideUIBillBoard",
                             "doOffStage": true,
-                            "COCENMAFJGD": true
+                            "hide": true
                         },
                         {
                             "$type": "SetAnimatorInt",
@@ -5788,7 +5788,7 @@
                 {
                     "$type": "HideUIBillBoard",
                     "doOffStage": true,
-                    "COCENMAFJGD": true
+                    "hide": true
                 }
             ]
         }
@@ -5931,7 +5931,7 @@
                         {
                             "$type": "HideUIBillBoard",
                             "doOffStage": true,
-                            "COCENMAFJGD": true
+                            "hide": true
                         },
                         {
                             "$type": "SetAnimatorInt",
@@ -6134,7 +6134,7 @@
                 {
                     "$type": "HideUIBillBoard",
                     "doOffStage": true,
-                    "COCENMAFJGD": true
+                    "hide": true
                 }
             ]
         }
@@ -6302,7 +6302,7 @@
                         {
                             "$type": "HideUIBillBoard",
                             "doOffStage": true,
-                            "COCENMAFJGD": true
+                            "hide": true
                         },
                         {
                             "$type": "SetAnimatorInt",
@@ -6530,7 +6530,7 @@
                 {
                     "$type": "HideUIBillBoard",
                     "doOffStage": true,
-                    "COCENMAFJGD": true
+                    "hide": true
                 }
             ]
         }
@@ -6547,7 +6547,7 @@
                     "onAdded": [
                         {
                             "$type": "HideUIBillBoard",
-                            "COCENMAFJGD": true
+                            "hide": true
                         }
                     ],
                     "onRemoved": [
@@ -6592,7 +6592,7 @@
                 },
                 {
                     "$type": "HideUIBillBoard",
-                    "COCENMAFJGD": true
+                    "hide": true
                 }
             ]
         }

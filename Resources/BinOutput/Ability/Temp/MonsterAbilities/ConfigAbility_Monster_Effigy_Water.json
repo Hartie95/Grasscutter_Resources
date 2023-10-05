@@ -376,7 +376,7 @@
                     "isUnique": true,
                     "elementType": "Water",
                     "elementDurability": 100.0,
-                    "DDLOLBGNLEF": false,
+                    "isElementDurabilityMutable": false,
                     "onAdded": [
                         {
                             "$type": "EnablePushColliderName",
@@ -794,7 +794,7 @@
                 },
                 {
                     "$type": "CreateGadget",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornBySelf",
                         "offset": {
@@ -805,7 +805,7 @@
                     },
                     "JCAMCEOBIFG": true,
                     "gadgetID": 42004006,
-                    "CEBMHIFOHJM": true
+                    "byServer": true
                 },
                 {
                     "$type": "SetSkillAnchor",
@@ -4835,7 +4835,7 @@
                                 "$type": "ConfigBornByAttachPoint",
                                 "attachPointName": "RootNode"
                             },
-                            "ENJEPFDLDDF": "Self"
+                            "trackTarget": "Self"
                         },
                         {
                             "$type": "EnablePushColliderName",
@@ -5843,7 +5843,7 @@
                             "z": 0.5
                         }
                     },
-                    "ENJEPFDLDDF": "Owner"
+                    "trackTarget": "Owner"
                 }
             ]
         }

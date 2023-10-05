@@ -2223,7 +2223,7 @@
                             "modifierName": "UNIQUE_Avatar_Ayato_ElementalBurst_NormalAttackUp"
                         }
                     ],
-                    "NHFJDDBKNCM": true
+                    "onThinkIntervalIsFixedUpdate": true
                 },
                 "Ayato_ElementalBurst_Gadget_Timer1": {
                     "stacking": "Unique",
@@ -2308,7 +2308,7 @@
                             "modifierName": "Ayato_ElementalBurst_Gadget_Timer1"
                         }
                     ],
-                    "NHFJDDBKNCM": true
+                    "onThinkIntervalIsFixedUpdate": true
                 },
                 "Ayato_ElementalBurst_Gadget_Timer2": {
                     "stacking": "Unique",
@@ -2393,7 +2393,7 @@
                             "modifierName": "Ayato_ElementalBurst_Gadget_Timer2"
                         }
                     ],
-                    "NHFJDDBKNCM": true
+                    "onThinkIntervalIsFixedUpdate": true
                 },
                 "UNIQUE_Avatar_Ayato_ElementalBurst_NormalAttackUp": {
                     "modifierName": "",
@@ -2528,7 +2528,7 @@
                             "value": "Energy"
                         }
                     ],
-                    "NHFJDDBKNCM": true
+                    "onThinkIntervalIsFixedUpdate": true
                 }
             },
             "onAdded": [

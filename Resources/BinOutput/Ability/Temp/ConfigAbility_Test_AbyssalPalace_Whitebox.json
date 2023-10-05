@@ -1449,7 +1449,7 @@
                                 "OOOFAPPEOJK": [
                                     "Gadget"
                                 ],
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR3",
                                 "campTargetType": "Enemy",
                                 "sizeRatio": 1.0
@@ -1484,7 +1484,7 @@
                                 "OOOFAPPEOJK": [
                                     "Gadget"
                                 ],
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR3",
                                 "campTargetType": "Enemy",
                                 "sizeRatio": 1.0

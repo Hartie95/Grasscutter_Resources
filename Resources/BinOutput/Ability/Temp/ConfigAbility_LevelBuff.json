@@ -10827,10 +10827,10 @@
                             "$type": "Predicated",
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR5",
                                 "campTargetType": "Enemy",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "targetPredicates": [
@@ -10966,7 +10966,7 @@
                         {
                             "$type": "KillGadget",
                             "doOffStage": true,
-                            "LBGGIBBMCMF": {
+                            "gadgetInfo": {
                                 "configID": 44000008
                             }
                         }
@@ -12667,8 +12667,8 @@
                     "onRemoved": [
                         {
                             "$type": "KillSelf",
-                            "BEKKIHBPHGD": true,
-                            "EOIGEKNINFE": true
+                            "banDrop": true,
+                            "banExp": true
                         }
                     ],
                     "onThinkInterval": [
@@ -14225,7 +14225,7 @@
                             "LCEHMPAGCPL": true
                         }
                     ],
-                    "NHFJDDBKNCM": true,
+                    "onThinkIntervalIsFixedUpdate": true,
                     "buffID": 90005
                 }
             },
@@ -18245,7 +18245,7 @@
                             "effectPattern": "Eff_Monster_Common_AbyssDebuff_MinLayer_EndTrigger"
                         }
                     ],
-                    "NHFJDDBKNCM": true
+                    "onThinkIntervalIsFixedUpdate": true
                 },
                 "UNIQUE_LevelEntity_TowerBuff_NormalAttackTriggerBomb_Effect": {
                     "stacking": "Unique",

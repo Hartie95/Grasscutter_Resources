@@ -1192,7 +1192,7 @@
                             "value": -4.0
                         }
                     ],
-                    "NHFJDDBKNCM": true
+                    "onThinkIntervalIsFixedUpdate": true
                 },
                 "SERVER_ClimateAbility_ColdMonster_Lv1": {
                     "stacking": "Multiple",
@@ -1537,7 +1537,7 @@
                             "value": -4.0
                         }
                     ],
-                    "NHFJDDBKNCM": true
+                    "onThinkIntervalIsFixedUpdate": true
                 },
                 "SERVER_ClimateAbility_HotMonster_Lv1": {
                     "stacking": "Multiple",

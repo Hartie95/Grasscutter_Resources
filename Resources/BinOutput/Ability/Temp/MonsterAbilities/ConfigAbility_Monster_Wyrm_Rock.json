@@ -89,15 +89,15 @@
                     "onRemoved": [
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
-                                "AKMLOIFOBPO": "Reversed",
+                            "gadgetInfo": {
+                                "sortType": "Reversed",
                                 "configID": 42603014
                             }
                         },
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
-                                "AKMLOIFOBPO": "Reversed",
+                            "gadgetInfo": {
+                                "sortType": "Reversed",
                                 "configID": 42603015
                             }
                         },
@@ -138,7 +138,7 @@
                             "z": 0.0
                         }
                     },
-                    "ENJEPFDLDDF": "Self",
+                    "trackTarget": "Self",
                     "MLHHDMOKLBG": true
                 },
                 {
@@ -160,8 +160,8 @@
                             "z": 0.0
                         }
                     },
-                    "NJEOPILMKCN": true,
-                    "ENJEPFDLDDF": "Self"
+                    "lifeByOwnerIsAlive": true,
+                    "trackTarget": "Self"
                 },
                 {
                     "$type": "ApplyModifier",
@@ -417,7 +417,7 @@
                     "onAdded": [
                         {
                             "$type": "HideUIBillBoard",
-                            "COCENMAFJGD": true
+                            "hide": true
                         },
                         {
                             "$type": "AttachEffect",
@@ -674,7 +674,7 @@
                     "otherTargets": {
                         "$type": "SelectTargetsByShape",
                         "DJLKFLJENEG": 1,
-                        "AKMLOIFOBPO": "Random",
+                        "sortType": "Random",
                         "shapeName": "CircleR20",
                         "campTargetType": "All",
                         "sizeRatio": 1.0
@@ -815,7 +815,7 @@
                 },
                 {
                     "$type": "CreateGadget",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornBySelf",
                         "offset": {
@@ -832,7 +832,7 @@
                 },
                 {
                     "$type": "CreateGadget",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornBySelf",
                         "offset": {
@@ -849,7 +849,7 @@
                 },
                 {
                     "$type": "CreateGadget",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornBySelf",
                         "offset": {
@@ -866,7 +866,7 @@
                 },
                 {
                     "$type": "CreateGadget",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornBySelf",
                         "offset": {
@@ -1564,7 +1564,7 @@
                         },
                         {
                             "$type": "HideUIBillBoard",
-                            "COCENMAFJGD": true
+                            "hide": true
                         },
                         {
                             "$type": "ApplyModifier",

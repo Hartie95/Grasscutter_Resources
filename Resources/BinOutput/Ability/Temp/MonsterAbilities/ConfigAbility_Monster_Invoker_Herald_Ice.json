@@ -326,7 +326,7 @@
                 {
                     "$type": "CreateGadget",
                     "target": "SelfAttackTarget",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornByPredicatePoint",
                         "onGround": true,
@@ -346,7 +346,7 @@
                 {
                     "$type": "CreateGadget",
                     "target": "SelfAttackTarget",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornByPredicatePoint",
                         "onGround": true,
@@ -568,7 +568,7 @@
                         },
                         {
                             "$type": "HideUIBillBoard",
-                            "COCENMAFJGD": true
+                            "hide": true
                         },
                         {
                             "$type": "EnableHitBoxByName",
@@ -674,7 +674,7 @@
                         {
                             "$type": "CreateGadget",
                             "target": "SelfAttackTarget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornByTargetLinearPoint",
                                 "bornRandom": {
@@ -857,7 +857,7 @@
                             "shieldAngle": 360.0,
                             "shieldHPRatio": 1.0,
                             "damageRatio": 0.20000000298023224,
-                            "NGOKEFIDFCJ": true
+                            "useMutiPlayerFixData": true
                         },
                         {
                             "$type": "VelocityForceMixin",

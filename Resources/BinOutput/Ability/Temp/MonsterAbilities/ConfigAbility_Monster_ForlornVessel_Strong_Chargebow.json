@@ -82,14 +82,14 @@
                                 "NormalAtk_AS2",
                                 "SpecialAtk"
                             ],
-                            "OKFKMBDCDHO": "",
-                            "DEHPOLDCMNJ": 90.0,
-                            "OKEAOJGNCNJ": 1.0,
-                            "CLALNDAGFGJ": 0.0,
-                            "LCJAOCJNEJJ": 0.0,
-                            "HFCIHIJGLMA": 0,
+                            "defendTriggerID": "",
+                            "defendAngle": 90.0,
+                            "defendProbability": 1.0,
+                            "defendProbabilityDelta": 0.0,
+                            "defendTimeInterval": 0.0,
+                            "defendCountInterval": 0,
                             "NNBOPJAKFGO": true,
-                            "GOLCBAPOOLF": [
+                            "onDefendSucceded": [
                                 {
                                     "$type": "FireEffect",
                                     "effectPattern": "Eff_Monster_Brute_None_Shield_Defend",
@@ -616,7 +616,7 @@
                         },
                         "direction": {
                             "$type": "ConfigDirectionByAttackTarget",
-                            "INCAGGBCJNF": 15.0
+                            "maxAngle": 15.0
                         }
                     }
                 }
@@ -721,7 +721,7 @@
                             "born": {
                                 "$type": "ConfigBornBySelf"
                             },
-                            "ENJEPFDLDDF": "Self",
+                            "trackTarget": "Self",
                             "MLHHDMOKLBG": true
                         }
                     ]

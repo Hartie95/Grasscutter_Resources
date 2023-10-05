@@ -139,7 +139,7 @@
                                     "HPRatio": 0.0
                                 }
                             ],
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "offset": {
@@ -176,7 +176,7 @@
                             "minValue": 0.0
                         }
                     ],
-                    "NHFJDDBKNCM": true,
+                    "onThinkIntervalIsFixedUpdate": true,
                     "thinkIntervalIgnoreTimeScale": true
                 },
                 "Activity_ChannellerSlab_DangerArea_CoolDown": {

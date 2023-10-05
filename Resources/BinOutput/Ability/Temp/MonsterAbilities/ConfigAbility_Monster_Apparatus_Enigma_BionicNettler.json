@@ -27,8 +27,8 @@
                         },
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
-                                "AKMLOIFOBPO": "Reversed",
+                            "gadgetInfo": {
+                                "sortType": "Reversed",
                                 "configID": 42401009
                             }
                         }
@@ -210,7 +210,7 @@
                             "value": 0.0,
                             "key": "_MONSTER_Apparatus_Enigma_BionicNettler_Reset",
                             "useLimitRange": true,
-                            "FACHGOPKJKE": true,
+                            "randomInRange": true,
                             "maxValue": 3.0,
                             "minValue": 0.0
                         },

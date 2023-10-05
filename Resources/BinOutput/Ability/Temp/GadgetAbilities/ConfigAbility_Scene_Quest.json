@@ -1118,7 +1118,7 @@
                     "modifierName": "",
                     "elementType": "Grass",
                     "elementDurability": 30.0,
-                    "DDLOLBGNLEF": false,
+                    "isElementDurabilityMutable": false,
                     "modifierMixins": [
                         {
                             "$type": "DoActionByEventMixin",

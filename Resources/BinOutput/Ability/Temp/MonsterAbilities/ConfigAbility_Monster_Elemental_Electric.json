@@ -75,7 +75,7 @@
                     "modifierName": "",
                     "elementType": "Electric",
                     "elementDurability": 50.0,
-                    "DDLOLBGNLEF": false,
+                    "isElementDurabilityMutable": false,
                     "onAdded": [
                         {
                             "$type": "EnableHitBoxByName",
@@ -415,7 +415,7 @@
                 },
                 {
                     "$type": "KillGadget",
-                    "LBGGIBBMCMF": {
+                    "gadgetInfo": {
                         "configID": 42002101
                     }
                 },

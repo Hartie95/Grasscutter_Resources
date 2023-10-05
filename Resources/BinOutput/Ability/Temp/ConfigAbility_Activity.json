@@ -1108,7 +1108,7 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByTag",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "tag": "_IS_ELECTRIC_CORE"
                             },
                             "CGFKFGDGHOI": "AVATAR_Electric_Core",
@@ -1479,7 +1479,7 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByTag",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "tag": "_IS_ELECTRIC_CORE"
                             },
                             "predicates": [
@@ -1681,7 +1681,7 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByTag",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "tag": "_IS_ELECTRIC_CORE"
                             },
                             "CGFKFGDGHOI": "AVATAR_Electric_Core",
@@ -2069,7 +2069,7 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByTag",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "tag": "_IS_ELECTRIC_CORE"
                             },
                             "predicates": [
@@ -3120,7 +3120,7 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByTag",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "tag": "_IS_ELECTRIC_CORE"
                             },
                             "CGFKFGDGHOI": "AVATAR_Electric_Core",
@@ -3496,7 +3496,7 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByTag",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "tag": "_IS_ELECTRIC_CORE"
                             },
                             "predicates": [
@@ -3697,7 +3697,7 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByTag",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "tag": "IS_LIGHT_POINT"
                             },
                             "predicates": [
@@ -4337,7 +4337,7 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByTag",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "tag": "IS_LIGHT_POINT"
                             },
                             "predicates": [

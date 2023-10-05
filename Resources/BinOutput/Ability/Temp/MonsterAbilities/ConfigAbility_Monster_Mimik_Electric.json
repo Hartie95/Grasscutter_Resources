@@ -723,7 +723,7 @@
                     "onRemoved": [
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
+                            "gadgetInfo": {
                                 "configID": 42601005
                             }
                         },
@@ -937,7 +937,7 @@
                             "$type": "TriggerBullet",
                             "doOffStage": true,
                             "bulletID": 42601013,
-                            "ENJEPFDLDDF": "Team"
+                            "trackTarget": "Team"
                         }
                     ]
                 }
@@ -966,7 +966,7 @@
                         "OOOFAPPEOJK": [
                             "Gadget"
                         ],
-                        "AKMLOIFOBPO": "Nearest",
+                        "sortType": "Nearest",
                         "shapeName": "CircleR50",
                         "campTargetType": "All",
                         "sizeRatio": 1.0
@@ -1010,7 +1010,7 @@
                                 "y": 0.0,
                                 "z": 0.0
                             },
-                            "INCAGGBCJNF": 60.0
+                            "maxAngle": 60.0
                         },
                         "attachPointName": "BulletSource"
                     }
@@ -1032,7 +1032,7 @@
                                 "y": 0.0,
                                 "z": 0.0
                             },
-                            "INCAGGBCJNF": 60.0
+                            "maxAngle": 60.0
                         },
                         "attachPointName": "BulletSource"
                     }
@@ -1369,7 +1369,7 @@
                     "otherTargets": {
                         "$type": "SelectTargetsByShape",
                         "DJLKFLJENEG": 4,
-                        "AKMLOIFOBPO": "Nearest",
+                        "sortType": "Nearest",
                         "shapeName": "CircleR1.5",
                         "campTargetType": "AllExceptSelf",
                         "sizeRatio": 1.0

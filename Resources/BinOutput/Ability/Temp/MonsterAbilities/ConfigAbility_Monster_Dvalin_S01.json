@@ -154,7 +154,7 @@
                         }
                     },
                     "gadgetID": 42901008,
-                    "CEBMHIFOHJM": true
+                    "byServer": true
                 }
             ],
             "onKill": [
@@ -1445,7 +1445,7 @@
                                 "direction": {
                                     "$type": "ConfigDirectionByAttachPoint",
                                     "randomAngleHor": 1.0,
-                                    "IOIAHLPJDMH": 1.0,
+                                    "randomAngleVer": 1.0,
                                     "attachPointName": "FocusAnchor"
                                 }
                             }
@@ -1465,7 +1465,7 @@
                                 "direction": {
                                     "$type": "ConfigDirectionByAttachPoint",
                                     "randomAngleHor": 1.0,
-                                    "IOIAHLPJDMH": 1.0,
+                                    "randomAngleVer": 1.0,
                                     "attachPointName": "FocusAnchor"
                                 }
                             }
@@ -1713,10 +1713,10 @@
                                         "z": 0.0
                                     },
                                     "randomAngleHor": 75.0,
-                                    "IOIAHLPJDMH": 75.0
+                                    "randomAngleVer": 75.0
                                 }
                             },
-                            "ENJEPFDLDDF": "CurLocalAvatar"
+                            "trackTarget": "CurLocalAvatar"
                         }
                     ],
                     "failActions": [
@@ -1739,10 +1739,10 @@
                                         "z": 0.0
                                     },
                                     "randomAngleHor": 75.0,
-                                    "IOIAHLPJDMH": 75.0
+                                    "randomAngleVer": 75.0
                                 }
                             },
-                            "ENJEPFDLDDF": "CurLocalAvatar"
+                            "trackTarget": "CurLocalAvatar"
                         }
                     ]
                 }
@@ -2420,12 +2420,12 @@
                                         "z": 0.0
                                     },
                                     "randomAngleHor": 15.0,
-                                    "IOIAHLPJDMH": 15.0
+                                    "randomAngleVer": 15.0
                                 },
                                 "GDENJEFPMGC": "TriggerBulletPos",
                                 "MICIJLHMIIH": ""
                             },
-                            "ENJEPFDLDDF": "CurLocalAvatar"
+                            "trackTarget": "CurLocalAvatar"
                         }
                     ]
                 },
@@ -2447,12 +2447,12 @@
                                         "z": 0.0
                                     },
                                     "randomAngleHor": 15.0,
-                                    "IOIAHLPJDMH": 15.0
+                                    "randomAngleVer": 15.0
                                 },
                                 "GDENJEFPMGC": "TriggerBulletPos",
                                 "MICIJLHMIIH": ""
                             },
-                            "ENJEPFDLDDF": "CurLocalAvatar"
+                            "trackTarget": "CurLocalAvatar"
                         }
                     ]
                 },
@@ -2474,12 +2474,12 @@
                                         "z": 0.0
                                     },
                                     "randomAngleHor": 15.0,
-                                    "IOIAHLPJDMH": 15.0
+                                    "randomAngleVer": 15.0
                                 },
                                 "GDENJEFPMGC": "TriggerBulletPos",
                                 "MICIJLHMIIH": ""
                             },
-                            "ENJEPFDLDDF": "CurLocalAvatar"
+                            "trackTarget": "CurLocalAvatar"
                         }
                     ]
                 }
@@ -2733,12 +2733,12 @@
                                         "z": 0.0
                                     },
                                     "randomAngleHor": 15.0,
-                                    "IOIAHLPJDMH": 15.0
+                                    "randomAngleVer": 15.0
                                 },
                                 "GDENJEFPMGC": "TriggerBulletPos",
                                 "MICIJLHMIIH": ""
                             },
-                            "ENJEPFDLDDF": "CurLocalAvatar"
+                            "trackTarget": "CurLocalAvatar"
                         }
                     ]
                 },
@@ -2760,12 +2760,12 @@
                                         "z": 0.0
                                     },
                                     "randomAngleHor": 15.0,
-                                    "IOIAHLPJDMH": 15.0
+                                    "randomAngleVer": 15.0
                                 },
                                 "GDENJEFPMGC": "TriggerBulletPos",
                                 "MICIJLHMIIH": ""
                             },
-                            "ENJEPFDLDDF": "CurLocalAvatar"
+                            "trackTarget": "CurLocalAvatar"
                         }
                     ]
                 },
@@ -2787,12 +2787,12 @@
                                         "z": 0.0
                                     },
                                     "randomAngleHor": 15.0,
-                                    "IOIAHLPJDMH": 15.0
+                                    "randomAngleVer": 15.0
                                 },
                                 "GDENJEFPMGC": "TriggerBulletPos",
                                 "MICIJLHMIIH": ""
                             },
-                            "ENJEPFDLDDF": "CurLocalAvatar"
+                            "trackTarget": "CurLocalAvatar"
                         }
                     ]
                 }

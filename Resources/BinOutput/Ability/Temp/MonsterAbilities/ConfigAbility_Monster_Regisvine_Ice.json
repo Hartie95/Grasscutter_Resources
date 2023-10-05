@@ -179,7 +179,7 @@
                             "actions": [
                                 {
                                     "$type": "CreateGadget",
-                                    "NJEOPILMKCN": true,
+                                    "lifeByOwnerIsAlive": true,
                                     "born": {
                                         "$type": "ConfigBornBySelf",
                                         "bornRandom": {
@@ -228,7 +228,7 @@
                                             "compareType": "NoneOrEqual"
                                         }
                                     ],
-                                    "NJEOPILMKCN": true,
+                                    "lifeByOwnerIsAlive": true,
                                     "born": {
                                         "$type": "ConfigBornByPredicatePoint",
                                         "bornRandom": {
@@ -285,7 +285,7 @@
                                             "compareType": "NoneOrEqual"
                                         }
                                     ],
-                                    "NJEOPILMKCN": true,
+                                    "lifeByOwnerIsAlive": true,
                                     "born": {
                                         "$type": "ConfigBornByPredicatePoint",
                                         "bornRandom": {
@@ -622,7 +622,7 @@
                 },
                 {
                     "$type": "KillGadget",
-                    "LBGGIBBMCMF": {
+                    "gadgetInfo": {
                         "configID": 42602015
                     }
                 }
@@ -1148,7 +1148,7 @@
                         },
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "onGround": true,
@@ -1158,7 +1158,7 @@
                             "gadgetID": 42602029,
                             "campID": 4001,
                             "campTargetType": "Enemy",
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         },
                         {
                             "$type": "SetPoseInt",

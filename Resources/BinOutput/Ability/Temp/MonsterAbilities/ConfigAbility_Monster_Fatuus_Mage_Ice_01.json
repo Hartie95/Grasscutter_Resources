@@ -378,7 +378,7 @@
                                     "effectPattern": "Eff_Monster_Fatuus_Mage_Ice_CreateShield"
                                 }
                             ],
-                            "NGOKEFIDFCJ": true
+                            "useMutiPlayerFixData": true
                         },
                         {
                             "$type": "VelocityForceMixin",
@@ -578,7 +578,7 @@
                                     "effectPattern": "Eff_Monster_Fatuus_Mage_Ice_CreateShield"
                                 }
                             ],
-                            "NGOKEFIDFCJ": true
+                            "useMutiPlayerFixData": true
                         },
                         {
                             "$type": "VelocityForceMixin",
@@ -778,7 +778,7 @@
                                     "effectPattern": "Eff_Monster_Fatuus_Mage_Ice_CreateShield"
                                 }
                             ],
-                            "NGOKEFIDFCJ": true
+                            "useMutiPlayerFixData": true
                         },
                         {
                             "$type": "VelocityForceMixin",
@@ -1247,7 +1247,7 @@
                 },
                 {
                     "$type": "HideUIBillBoard",
-                    "COCENMAFJGD": true
+                    "hide": true
                 },
                 {
                     "$type": "TriggerSetVisible"

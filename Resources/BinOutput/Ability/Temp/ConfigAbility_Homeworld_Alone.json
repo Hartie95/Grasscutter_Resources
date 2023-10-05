@@ -597,9 +597,9 @@
                         },
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "gadgetID": 77200117,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ]
                 }

@@ -3730,7 +3730,7 @@
                             "HPCINAENGPH": "ElementBurst"
                         }
                     ],
-                    "NHFJDDBKNCM": true
+                    "onThinkIntervalIsFixedUpdate": true
                 },
                 "Monster_Shougun_Mitakenarukami_BurstAtk02_SetCamera": {
                     "modifierName": "",
@@ -4136,7 +4136,7 @@
                             }
                         }
                     ],
-                    "NHFJDDBKNCM": true,
+                    "onThinkIntervalIsFixedUpdate": true,
                     "thinkIntervalIgnoreTimeScale": true
                 },
                 "Monster_Shougun_Mitakenarukami_BurstAtk02_NotInShieldEffect": {
@@ -4278,7 +4278,7 @@
                             ]
                         }
                     ],
-                    "NHFJDDBKNCM": true,
+                    "onThinkIntervalIsFixedUpdate": true,
                     "thinkIntervalIgnoreTimeScale": true
                 },
                 "Monster_Shougun_Mitakenarukami_BurstAtk02_SakuraShieldHit": {
@@ -4893,7 +4893,7 @@
                         "direction": {
                             "$type": "ConfigDirectionByAttachPoint",
                             "randomAngleHor": 2.5,
-                            "IOIAHLPJDMH": 2.5,
+                            "randomAngleVer": 2.5,
                             "attachPointName": "VajraAttach01",
                             "attachPointTargetType": "Self"
                         },
@@ -5490,7 +5490,7 @@
                                 "z": 0.0
                             },
                             "randomAngleHor": 2.5,
-                            "IOIAHLPJDMH": 2.5,
+                            "randomAngleVer": 2.5,
                             "attachPointName": "VajraAttach02",
                             "attachPointTargetType": "Self"
                         },
@@ -8045,7 +8045,7 @@
                             "$type": "Predicated",
                             "otherTargets": {
                                 "$type": "SelectTargetsByChildren",
-                                "AKMLOIFOBPO": "Reversed",
+                                "sortType": "Reversed",
                                 "configID": 42906120
                             },
                             "successActions": [
@@ -8064,7 +8064,7 @@
                                             "$type": "ConfigDirectionByLookAtEntity"
                                         }
                                     },
-                                    "ENJEPFDLDDF": "Target"
+                                    "trackTarget": "Target"
                                 }
                             ]
                         }
@@ -9351,13 +9351,13 @@
                                 "NormalMove",
                                 "Defend"
                             ],
-                            "OKFKMBDCDHO": "DefendTrigger",
-                            "OKEAOJGNCNJ": 1.0,
-                            "CLALNDAGFGJ": 0.0,
-                            "LCJAOCJNEJJ": 0.0,
-                            "HFCIHIJGLMA": 0,
+                            "defendTriggerID": "DefendTrigger",
+                            "defendProbability": 1.0,
+                            "defendProbabilityDelta": 0.0,
+                            "defendTimeInterval": 0.0,
+                            "defendCountInterval": 0,
                             "attackType": "Melee",
-                            "GOLCBAPOOLF": [
+                            "onDefendSucceded": [
                                 {
                                     "$type": "SetGlobalValue",
                                     "value": 1.0,

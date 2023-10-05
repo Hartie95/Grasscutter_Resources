@@ -8,7 +8,7 @@
                     "modifierName": "",
                     "elementType": "Water",
                     "elementDurability": 25.0,
-                    "DDLOLBGNLEF": false,
+                    "isElementDurabilityMutable": false,
                     "onBeingHit": [
                         {
                             "$type": "Predicated",
@@ -77,7 +77,7 @@
                     "modifierName": "",
                     "elementType": "Water",
                     "elementDurability": 50.0,
-                    "DDLOLBGNLEF": false,
+                    "isElementDurabilityMutable": false,
                     "onBeingHit": [
                         {
                             "$type": "Predicated",
@@ -655,8 +655,8 @@
                         },
                         "direction": {
                             "$type": "ConfigDirectionByAttackTarget",
-                            "IHHIKIACOML": "Horizontal",
-                            "INCAGGBCJNF": 60.0
+                            "maxAngleType": "Horizontal",
+                            "maxAngle": 60.0
                         },
                         "attachPointName": "RootNode"
                     }

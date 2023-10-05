@@ -145,10 +145,10 @@
                         },
                         {
                             "$type": "KillSelf",
-                            "BEKKIHBPHGD": true,
-                            "EOIGEKNINFE": true,
-                            "EKINLACJBGF": true,
-                            "PGGBJIDIINM": "Disappear"
+                            "banDrop": true,
+                            "banExp": true,
+                            "banHPPercentageDrop": true,
+                            "killSelfType": "Disappear"
                         }
                     ]
                 },
@@ -185,7 +185,7 @@
                                 },
                                 {
                                     "$type": "HideUIBillBoard",
-                                    "COCENMAFJGD": true
+                                    "hide": true
                                 },
                                 {
                                     "$type": "EnableHitBoxByName",
@@ -440,7 +440,7 @@
                         "onGround": true,
                         "direction": {
                             "$type": "ConfigDirectionByAttackTarget",
-                            "IHHIKIACOML": "Horizontal"
+                            "maxAngleType": "Horizontal"
                         },
                         "FOILCBGLNDF": -12.0,
                         "JBNMHNDDJJC": 0.0,
@@ -470,7 +470,7 @@
                         "onGround": true,
                         "direction": {
                             "$type": "ConfigDirectionByAttackTarget",
-                            "IHHIKIACOML": "Horizontal"
+                            "maxAngleType": "Horizontal"
                         },
                         "FOILCBGLNDF": -12.0,
                         "JBNMHNDDJJC": 0.0,
@@ -1369,7 +1369,7 @@
                             "shieldAngle": 360.0,
                             "shieldHPRatio": 1.0,
                             "damageRatio": 0.20000000298023224,
-                            "NGOKEFIDFCJ": true
+                            "useMutiPlayerFixData": true
                         },
                         {
                             "$type": "VelocityForceMixin",

@@ -37,9 +37,9 @@
                                 "$type": "SelectTargetsByChildren",
                                 "configID": 24020102
                             },
-                            "BEKKIHBPHGD": true,
-                            "EOIGEKNINFE": true,
-                            "PGGBJIDIINM": "Disappear"
+                            "banDrop": true,
+                            "banExp": true,
+                            "killSelfType": "Disappear"
                         },
                         {
                             "$type": "KillSelf",
@@ -47,9 +47,9 @@
                                 "$type": "SelectTargetsByChildren",
                                 "configID": 24020103
                             },
-                            "BEKKIHBPHGD": true,
-                            "EOIGEKNINFE": true,
-                            "PGGBJIDIINM": "Disappear"
+                            "banDrop": true,
+                            "banExp": true,
+                            "killSelfType": "Disappear"
                         },
                         {
                             "$type": "KillSelf",
@@ -57,9 +57,9 @@
                                 "$type": "SelectTargetsByChildren",
                                 "configID": 24020202
                             },
-                            "BEKKIHBPHGD": true,
-                            "EOIGEKNINFE": true,
-                            "PGGBJIDIINM": "Disappear"
+                            "banDrop": true,
+                            "banExp": true,
+                            "killSelfType": "Disappear"
                         },
                         {
                             "$type": "KillSelf",
@@ -67,9 +67,9 @@
                                 "$type": "SelectTargetsByChildren",
                                 "configID": 24020203
                             },
-                            "BEKKIHBPHGD": true,
-                            "EOIGEKNINFE": true,
-                            "PGGBJIDIINM": "Disappear"
+                            "banDrop": true,
+                            "banExp": true,
+                            "killSelfType": "Disappear"
                         },
                         {
                             "$type": "KillSelf",
@@ -77,9 +77,9 @@
                                 "$type": "SelectTargetsByChildren",
                                 "configID": 24020302
                             },
-                            "BEKKIHBPHGD": true,
-                            "EOIGEKNINFE": true,
-                            "PGGBJIDIINM": "Disappear"
+                            "banDrop": true,
+                            "banExp": true,
+                            "killSelfType": "Disappear"
                         },
                         {
                             "$type": "KillSelf",
@@ -87,9 +87,9 @@
                                 "$type": "SelectTargetsByChildren",
                                 "configID": 24020303
                             },
-                            "BEKKIHBPHGD": true,
-                            "EOIGEKNINFE": true,
-                            "PGGBJIDIINM": "Disappear"
+                            "banDrop": true,
+                            "banExp": true,
+                            "killSelfType": "Disappear"
                         },
                         {
                             "$type": "KillSelf",
@@ -97,9 +97,9 @@
                                 "$type": "SelectTargetsByChildren",
                                 "configID": 24020402
                             },
-                            "BEKKIHBPHGD": true,
-                            "EOIGEKNINFE": true,
-                            "PGGBJIDIINM": "Disappear"
+                            "banDrop": true,
+                            "banExp": true,
+                            "killSelfType": "Disappear"
                         },
                         {
                             "$type": "KillSelf",
@@ -107,9 +107,9 @@
                                 "$type": "SelectTargetsByChildren",
                                 "configID": 24020403
                             },
-                            "BEKKIHBPHGD": true,
-                            "EOIGEKNINFE": true,
-                            "PGGBJIDIINM": "Disappear"
+                            "banDrop": true,
+                            "banExp": true,
+                            "killSelfType": "Disappear"
                         },
                         {
                             "$type": "SetPoseBool",
@@ -127,9 +127,9 @@
                                 "$type": "SelectTargetsByChildren",
                                 "configID": 24020102
                             },
-                            "BEKKIHBPHGD": true,
-                            "EOIGEKNINFE": true,
-                            "PGGBJIDIINM": "Disappear"
+                            "banDrop": true,
+                            "banExp": true,
+                            "killSelfType": "Disappear"
                         },
                         {
                             "$type": "KillSelf",
@@ -137,9 +137,9 @@
                                 "$type": "SelectTargetsByChildren",
                                 "configID": 24020103
                             },
-                            "BEKKIHBPHGD": true,
-                            "EOIGEKNINFE": true,
-                            "PGGBJIDIINM": "Disappear"
+                            "banDrop": true,
+                            "banExp": true,
+                            "killSelfType": "Disappear"
                         },
                         {
                             "$type": "KillSelf",
@@ -147,9 +147,9 @@
                                 "$type": "SelectTargetsByChildren",
                                 "configID": 24020202
                             },
-                            "BEKKIHBPHGD": true,
-                            "EOIGEKNINFE": true,
-                            "PGGBJIDIINM": "Disappear"
+                            "banDrop": true,
+                            "banExp": true,
+                            "killSelfType": "Disappear"
                         },
                         {
                             "$type": "KillSelf",
@@ -157,9 +157,9 @@
                                 "$type": "SelectTargetsByChildren",
                                 "configID": 24020203
                             },
-                            "BEKKIHBPHGD": true,
-                            "EOIGEKNINFE": true,
-                            "PGGBJIDIINM": "Disappear"
+                            "banDrop": true,
+                            "banExp": true,
+                            "killSelfType": "Disappear"
                         },
                         {
                             "$type": "KillSelf",
@@ -167,9 +167,9 @@
                                 "$type": "SelectTargetsByChildren",
                                 "configID": 24020302
                             },
-                            "BEKKIHBPHGD": true,
-                            "EOIGEKNINFE": true,
-                            "PGGBJIDIINM": "Disappear"
+                            "banDrop": true,
+                            "banExp": true,
+                            "killSelfType": "Disappear"
                         },
                         {
                             "$type": "KillSelf",
@@ -177,9 +177,9 @@
                                 "$type": "SelectTargetsByChildren",
                                 "configID": 24020303
                             },
-                            "BEKKIHBPHGD": true,
-                            "EOIGEKNINFE": true,
-                            "PGGBJIDIINM": "Disappear"
+                            "banDrop": true,
+                            "banExp": true,
+                            "killSelfType": "Disappear"
                         },
                         {
                             "$type": "KillSelf",
@@ -187,9 +187,9 @@
                                 "$type": "SelectTargetsByChildren",
                                 "configID": 24020402
                             },
-                            "BEKKIHBPHGD": true,
-                            "EOIGEKNINFE": true,
-                            "PGGBJIDIINM": "Disappear"
+                            "banDrop": true,
+                            "banExp": true,
+                            "killSelfType": "Disappear"
                         },
                         {
                             "$type": "KillSelf",
@@ -197,9 +197,9 @@
                                 "$type": "SelectTargetsByChildren",
                                 "configID": 24020403
                             },
-                            "BEKKIHBPHGD": true,
-                            "EOIGEKNINFE": true,
-                            "PGGBJIDIINM": "Disappear"
+                            "banDrop": true,
+                            "banExp": true,
+                            "killSelfType": "Disappear"
                         },
                         {
                             "$type": "SetGlobalValue",
@@ -816,7 +816,7 @@
                             "value": 0.0,
                             "key": "_ENHANCED_TargetValue",
                             "useLimitRange": true,
-                            "FACHGOPKJKE": true,
+                            "randomInRange": true,
                             "maxValue": 4.0,
                             "minValue": 0.0
                         },
@@ -1389,7 +1389,7 @@
             "onAdded": [
                 {
                     "$type": "CreateGadget",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornBySelf",
                         "offset": {
@@ -1400,7 +1400,7 @@
                     },
                     "JCAMCEOBIFG": true,
                     "gadgetID": 42402007,
-                    "CEBMHIFOHJM": true
+                    "byServer": true
                 },
                 {
                     "$type": "SetGlobalPos",
@@ -1824,8 +1824,8 @@
                                 "$type": "SelectTargetsByChildren",
                                 "configID": 24020102
                             },
-                            "BEKKIHBPHGD": true,
-                            "EOIGEKNINFE": true
+                            "banDrop": true,
+                            "banExp": true
                         },
                         {
                             "$type": "KillSelf",
@@ -1833,8 +1833,8 @@
                                 "$type": "SelectTargetsByChildren",
                                 "configID": 24020103
                             },
-                            "BEKKIHBPHGD": true,
-                            "EOIGEKNINFE": true
+                            "banDrop": true,
+                            "banExp": true
                         },
                         {
                             "$type": "KillSelf",
@@ -1842,8 +1842,8 @@
                                 "$type": "SelectTargetsByChildren",
                                 "configID": 24020202
                             },
-                            "BEKKIHBPHGD": true,
-                            "EOIGEKNINFE": true
+                            "banDrop": true,
+                            "banExp": true
                         },
                         {
                             "$type": "KillSelf",
@@ -1851,8 +1851,8 @@
                                 "$type": "SelectTargetsByChildren",
                                 "configID": 24020203
                             },
-                            "BEKKIHBPHGD": true,
-                            "EOIGEKNINFE": true
+                            "banDrop": true,
+                            "banExp": true
                         },
                         {
                             "$type": "KillSelf",
@@ -1860,8 +1860,8 @@
                                 "$type": "SelectTargetsByChildren",
                                 "configID": 24020302
                             },
-                            "BEKKIHBPHGD": true,
-                            "EOIGEKNINFE": true
+                            "banDrop": true,
+                            "banExp": true
                         },
                         {
                             "$type": "KillSelf",
@@ -1869,8 +1869,8 @@
                                 "$type": "SelectTargetsByChildren",
                                 "configID": 24020303
                             },
-                            "BEKKIHBPHGD": true,
-                            "EOIGEKNINFE": true
+                            "banDrop": true,
+                            "banExp": true
                         },
                         {
                             "$type": "KillSelf",
@@ -1878,8 +1878,8 @@
                                 "$type": "SelectTargetsByChildren",
                                 "configID": 24020402
                             },
-                            "BEKKIHBPHGD": true,
-                            "EOIGEKNINFE": true
+                            "banDrop": true,
+                            "banExp": true
                         },
                         {
                             "$type": "KillSelf",
@@ -1887,8 +1887,8 @@
                                 "$type": "SelectTargetsByChildren",
                                 "configID": 24020403
                             },
-                            "BEKKIHBPHGD": true,
-                            "EOIGEKNINFE": true
+                            "banDrop": true,
+                            "banExp": true
                         }
                     ]
                 },
@@ -1967,15 +1967,15 @@
                                 "$type": "ConfigBornByAttachPoint",
                                 "attachPointName": "RootNode"
                             },
-                            "NJEOPILMKCN": true,
-                            "ENJEPFDLDDF": "Self"
+                            "lifeByOwnerIsAlive": true,
+                            "trackTarget": "Self"
                         }
                     ],
                     "onRemoved": [
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
-                                "AKMLOIFOBPO": "Reversed",
+                            "gadgetInfo": {
+                                "sortType": "Reversed",
                                 "configID": 42402005
                             }
                         }
@@ -2157,7 +2157,7 @@
                         },
                         {
                             "$type": "HideUIBillBoard",
-                            "COCENMAFJGD": true
+                            "hide": true
                         }
                     ],
                     "onRemoved": [
@@ -2224,7 +2224,7 @@
                             "$type": "TriggerBullet",
                             "doOffStage": true,
                             "bulletID": 42402002,
-                            "ENJEPFDLDDF": "Team"
+                            "trackTarget": "Team"
                         }
                     ]
                 },
@@ -2263,7 +2263,7 @@
                                 "OOOFAPPEOJK": [
                                     "Gadget"
                                 ],
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR50",
                                 "campTargetType": "All",
                                 "sizeRatio": 1.0
@@ -2338,7 +2338,7 @@
                                 "OOOFAPPEOJK": [
                                     "Gadget"
                                 ],
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR50",
                                 "campTargetType": "All",
                                 "sizeRatio": 1.0
@@ -2535,7 +2535,7 @@
                                     "HPRatio": 0.0
                                 }
                             ],
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornByTarget",
                                 "offset": {
@@ -2584,7 +2584,7 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR30",
                                 "campTargetType": "AllExceptSelf",
                                 "sizeRatio": 1.0

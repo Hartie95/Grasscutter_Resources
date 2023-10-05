@@ -824,7 +824,7 @@
                     "modifierName": "",
                     "elementType": "Fire",
                     "elementDurability": 50.0,
-                    "DDLOLBGNLEF": false,
+                    "isElementDurabilityMutable": false,
                     "onBeingHit": [
                         {
                             "$type": "TriggerBullet",
@@ -6752,7 +6752,7 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Random",
+                                "sortType": "Random",
                                 "shapeName": "CircleR30",
                                 "campTargetType": "AllExceptSelf",
                                 "sizeRatio": 1.0
@@ -7523,7 +7523,7 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Random",
+                                "sortType": "Random",
                                 "shapeName": "CircleR30",
                                 "campTargetType": "AllExceptSelf",
                                 "sizeRatio": 1.0
@@ -8294,7 +8294,7 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Random",
+                                "sortType": "Random",
                                 "shapeName": "CircleR30",
                                 "campTargetType": "AllExceptSelf",
                                 "sizeRatio": 1.0
@@ -9595,7 +9595,7 @@
                     "modifierName": "",
                     "elementType": "Water",
                     "elementDurability": 100.0,
-                    "DDLOLBGNLEF": false,
+                    "isElementDurabilityMutable": false,
                     "onAdded": [
                         {
                             "$type": "AttachEffect",
@@ -10346,7 +10346,7 @@
                     "otherTargets": {
                         "$type": "SelectTargetsByShape",
                         "DJLKFLJENEG": 1,
-                        "AKMLOIFOBPO": "Nearest",
+                        "sortType": "Nearest",
                         "shapeName": "CircleR50",
                         "campTargetType": "Alliance",
                         "sizeRatio": 1.0
@@ -10377,7 +10377,7 @@
                     "otherTargets": {
                         "$type": "SelectTargetsByShape",
                         "DJLKFLJENEG": 1,
-                        "AKMLOIFOBPO": "Nearest",
+                        "sortType": "Nearest",
                         "shapeName": "CircleR50",
                         "campTargetType": "Alliance",
                         "sizeRatio": 1.0
@@ -10408,7 +10408,7 @@
                     "otherTargets": {
                         "$type": "SelectTargetsByShape",
                         "DJLKFLJENEG": 1,
-                        "AKMLOIFOBPO": "Nearest",
+                        "sortType": "Nearest",
                         "shapeName": "CircleR50",
                         "campTargetType": "Alliance",
                         "sizeRatio": 1.0
@@ -12943,7 +12943,7 @@
                     "modifierName": "",
                     "elementType": "Fire",
                     "elementDurability": 100.0,
-                    "DDLOLBGNLEF": false,
+                    "isElementDurabilityMutable": false,
                     "onAdded": [
                         {
                             "$type": "AttachEffect",
@@ -13081,7 +13081,7 @@
                     "modifierName": "",
                     "elementType": "Electric",
                     "elementDurability": 100.0,
-                    "DDLOLBGNLEF": false,
+                    "isElementDurabilityMutable": false,
                     "onAdded": [
                         {
                             "$type": "AttachEffect",
@@ -13219,7 +13219,7 @@
                     "modifierName": "",
                     "elementType": "Fire",
                     "elementDurability": 100.0,
-                    "DDLOLBGNLEF": false,
+                    "isElementDurabilityMutable": false,
                     "onAdded": [
                         {
                             "$type": "AttachEffect",

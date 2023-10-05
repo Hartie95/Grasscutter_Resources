@@ -1174,7 +1174,7 @@
                     "modifierName": "",
                     "elementType": "Fire",
                     "elementDurability": 15.0,
-                    "DDLOLBGNLEF": false,
+                    "isElementDurabilityMutable": false,
                     "thinkInterval": 0.5,
                     "onThinkInterval": [
                         {
@@ -1991,7 +1991,7 @@
                 },
                 {
                     "$type": "CreateGadget",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornBySelf",
                         "offset": {
@@ -2003,7 +2003,7 @@
                     "gadgetID": 70500021,
                     "campID": 5001,
                     "campTargetType": "Enemy",
-                    "CEBMHIFOHJM": true
+                    "byServer": true
                 }
             ],
             "onKill": [
@@ -2391,10 +2391,10 @@
                                             "otherTargets": {
                                                 "$type": "SelectTargetsByShape",
                                                 "DJLKFLJENEG": 1,
-                                                "AKMLOIFOBPO": "Nearest",
+                                                "sortType": "Nearest",
                                                 "shapeName": "CircleR20",
                                                 "campTargetType": "All",
-                                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                                "campBasedOn": "CurLocalAvatar",
                                                 "sizeRatio": 1.0
                                             },
                                             "predicates": [
@@ -2535,10 +2535,10 @@
                                             "otherTargets": {
                                                 "$type": "SelectTargetsByShape",
                                                 "DJLKFLJENEG": 1,
-                                                "AKMLOIFOBPO": "Nearest",
+                                                "sortType": "Nearest",
                                                 "shapeName": "CircleR20",
                                                 "campTargetType": "All",
-                                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                                "campBasedOn": "CurLocalAvatar",
                                                 "sizeRatio": 1.0
                                             },
                                             "predicates": [
@@ -3229,7 +3229,7 @@
                                 "$type": "SelectTargetsByShape",
                                 "shapeName": "CircleR15H10",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -3257,7 +3257,7 @@
                                 "$type": "SelectTargetsByShape",
                                 "shapeName": "CircleR15H10",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "targetPredicates": [

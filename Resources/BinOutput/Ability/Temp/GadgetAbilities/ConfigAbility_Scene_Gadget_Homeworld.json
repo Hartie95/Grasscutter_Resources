@@ -130,7 +130,7 @@
                             "value": 0.0,
                             "key": "_Show_Mode",
                             "useLimitRange": true,
-                            "FACHGOPKJKE": true,
+                            "randomInRange": true,
                             "maxValue": 20.0,
                             "minValue": 1.0
                         },
@@ -358,7 +358,7 @@
                             "value": 0.0,
                             "key": "_Show_Mode",
                             "useLimitRange": true,
-                            "FACHGOPKJKE": true,
+                            "randomInRange": true,
                             "maxValue": 10.0,
                             "minValue": 1.0
                         },

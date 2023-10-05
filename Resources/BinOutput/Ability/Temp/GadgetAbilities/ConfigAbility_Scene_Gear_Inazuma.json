@@ -80,7 +80,7 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR15",
                                 "campTargetType": "AllExceptSelf",
                                 "sizeRatio": 1.0
@@ -262,7 +262,7 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR10",
                                 "campTargetType": "AllExceptSelf",
                                 "sizeRatio": 1.0
@@ -280,7 +280,7 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR10",
                                 "campTargetType": "AllExceptSelf",
                                 "sizeRatio": 1.0
@@ -361,7 +361,7 @@
                                     "otherTargets": {
                                         "$type": "SelectTargetsByShape",
                                         "DJLKFLJENEG": 1,
-                                        "AKMLOIFOBPO": "Nearest",
+                                        "sortType": "Nearest",
                                         "shapeName": "CircleR10",
                                         "campTargetType": "AllExceptSelf",
                                         "sizeRatio": 1.0
@@ -1028,7 +1028,7 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR10",
                                 "campTargetType": "AllExceptSelf",
                                 "sizeRatio": 1.0
@@ -1046,7 +1046,7 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR10",
                                 "campTargetType": "AllExceptSelf",
                                 "sizeRatio": 1.0
@@ -1127,7 +1127,7 @@
                                     "otherTargets": {
                                         "$type": "SelectTargetsByShape",
                                         "DJLKFLJENEG": 1,
-                                        "AKMLOIFOBPO": "Nearest",
+                                        "sortType": "Nearest",
                                         "shapeName": "CircleR10",
                                         "campTargetType": "AllExceptSelf",
                                         "sizeRatio": 1.0
@@ -1836,7 +1836,7 @@
                             "JKJMJMKEBBD": "isTerminal",
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR15",
                                 "campTargetType": "AllExceptSelf",
                                 "sizeRatio": 1.0
@@ -3252,7 +3252,7 @@
                             "$type": "ApplyModifier",
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR10",
                                 "campTargetType": "AllExceptSelf",
                                 "sizeRatio": 1.0
@@ -3774,7 +3774,7 @@
                             "$type": "ApplyModifier",
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR10",
                                 "campTargetType": "AllExceptSelf",
                                 "sizeRatio": 1.0
@@ -6884,7 +6884,7 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 4,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR10H10",
                                 "campTargetType": "AllExceptSelf",
                                 "sizeRatio": 1.0
@@ -7117,7 +7117,7 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 4,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR10H10",
                                 "campTargetType": "AllExceptSelf",
                                 "sizeRatio": 1.0
@@ -7978,7 +7978,7 @@
                     "modifierName": "",
                     "elementType": "Electric",
                     "elementDurability": 15.0,
-                    "DDLOLBGNLEF": false
+                    "isElementDurabilityMutable": false
                 },
                 "ElecImpulse": {
                     "modifierName": "",
@@ -8331,7 +8331,7 @@
                                                 },
                                                 "attachPointName": "ShootPoint"
                                             },
-                                            "ENJEPFDLDDF": "Caster"
+                                            "trackTarget": "Caster"
                                         },
                                         {
                                             "$type": "DebugLog",
@@ -9856,7 +9856,7 @@
                     "onAdded": [
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "offset": {
@@ -9867,7 +9867,7 @@
                             },
                             "gadgetID": 70330112,
                             "campID": 5001,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ]
                 },
@@ -9957,7 +9957,7 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR4H4",
                                 "campTargetType": "Enemy",
                                 "sizeRatio": 1.0
@@ -10306,7 +10306,7 @@
                             "$type": "Predicated",
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR10H5",
                                 "campTargetType": "All",
                                 "sizeRatio": 1.0
@@ -10629,7 +10629,7 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR30H10",
                                 "campTargetType": "AllExceptSelf",
                                 "sizeRatio": 1.0
@@ -11997,7 +11997,7 @@
                             "$type": "Predicated",
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR9H9",
                                 "campTargetType": "Enemy",
                                 "sizeRatio": 1.0
@@ -12110,7 +12110,7 @@
                             "$type": "Predicated",
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR4H4",
                                 "campTargetType": "Enemy",
                                 "sizeRatio": 1.0
@@ -12212,7 +12212,7 @@
                     "onAdded": [
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "offset": {
@@ -12223,7 +12223,7 @@
                             },
                             "gadgetID": 70330112,
                             "campID": 5001,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ]
                 },
@@ -12314,7 +12314,7 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR4H4",
                                 "campTargetType": "Enemy",
                                 "sizeRatio": 1.0
@@ -12373,7 +12373,7 @@
                     "onAdded": [
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "offset": {
@@ -12384,7 +12384,7 @@
                             },
                             "gadgetID": 70330112,
                             "campID": 5001,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ]
                 },
@@ -12476,7 +12476,7 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR4H4",
                                 "campTargetType": "Enemy",
                                 "sizeRatio": 1.0
@@ -13898,7 +13898,7 @@
                     "onAdded": [
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "offset": {
@@ -13909,7 +13909,7 @@
                             },
                             "gadgetID": 70330112,
                             "campID": 5001,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ]
                 },
@@ -14001,7 +14001,7 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR4H4",
                                 "campTargetType": "Enemy",
                                 "sizeRatio": 1.0
@@ -14060,7 +14060,7 @@
                     "onAdded": [
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "offset": {
@@ -14071,7 +14071,7 @@
                             },
                             "gadgetID": 70330112,
                             "campID": 5001,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ]
                 },
@@ -14164,7 +14164,7 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR4H4",
                                 "campTargetType": "Enemy",
                                 "sizeRatio": 1.0
@@ -14223,7 +14223,7 @@
                     "onAdded": [
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "offset": {
@@ -14234,7 +14234,7 @@
                             },
                             "gadgetID": 70330112,
                             "campID": 5001,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ]
                 },
@@ -14328,7 +14328,7 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR4H4",
                                 "campTargetType": "Enemy",
                                 "sizeRatio": 1.0
@@ -14874,7 +14874,7 @@
                     "onAdded": [
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "offset": {
@@ -14885,7 +14885,7 @@
                             },
                             "gadgetID": 70330112,
                             "campID": 5001,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ]
                 },
@@ -14960,7 +14960,7 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR2",
                                 "campTargetType": "Enemy",
                                 "sizeRatio": 1.0
@@ -15019,7 +15019,7 @@
                     "onAdded": [
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "offset": {
@@ -15030,7 +15030,7 @@
                             },
                             "gadgetID": 70330112,
                             "campID": 5001,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ]
                 },
@@ -15106,7 +15106,7 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR4H4",
                                 "campTargetType": "Enemy",
                                 "sizeRatio": 1.0
@@ -15165,7 +15165,7 @@
                     "onAdded": [
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "offset": {
@@ -15176,7 +15176,7 @@
                             },
                             "gadgetID": 70330112,
                             "campID": 5001,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ]
                 },
@@ -15253,7 +15253,7 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR4H4",
                                 "campTargetType": "Enemy",
                                 "sizeRatio": 1.0
@@ -15312,7 +15312,7 @@
                     "onAdded": [
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "offset": {
@@ -15323,7 +15323,7 @@
                             },
                             "gadgetID": 70330112,
                             "campID": 5001,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ]
                 },
@@ -15400,7 +15400,7 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR2",
                                 "campTargetType": "Enemy",
                                 "sizeRatio": 1.0
@@ -15459,7 +15459,7 @@
                     "onAdded": [
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "offset": {
@@ -15470,7 +15470,7 @@
                             },
                             "gadgetID": 70330112,
                             "campID": 5001,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ]
                 },
@@ -15548,7 +15548,7 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR4H4",
                                 "campTargetType": "Enemy",
                                 "sizeRatio": 1.0
@@ -15607,7 +15607,7 @@
                     "onAdded": [
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "offset": {
@@ -15618,7 +15618,7 @@
                             },
                             "gadgetID": 70330112,
                             "campID": 5001,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ]
                 },
@@ -15697,7 +15697,7 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR4H4",
                                 "campTargetType": "Enemy",
                                 "sizeRatio": 1.0
@@ -16315,7 +16315,7 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByTag",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "tag": "isHPGadget"
                             },
                             "IGKNCNDCLOO": "Self",
@@ -17208,7 +17208,7 @@
                                 },
                                 {
                                     "$type": "HideUIBillBoard",
-                                    "COCENMAFJGD": true
+                                    "hide": true
                                 }
                             ],
                             "failActions": [

@@ -6006,11 +6006,11 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Random",
+                                "sortType": "Random",
                                 "shapeName": "CircleR5",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "Enemy",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "targetPredicates": [
@@ -6054,11 +6054,11 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Random",
+                                "sortType": "Random",
                                 "shapeName": "CircleR5",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "Enemy",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "targetPredicates": [
@@ -6354,11 +6354,11 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Random",
+                                "sortType": "Random",
                                 "shapeName": "CircleR5",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "Enemy",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "targetPredicates": [
@@ -6402,11 +6402,11 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Random",
+                                "sortType": "Random",
                                 "shapeName": "CircleR5",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "Enemy",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "targetPredicates": [
@@ -6702,11 +6702,11 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Random",
+                                "sortType": "Random",
                                 "shapeName": "CircleR5",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "Enemy",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "targetPredicates": [
@@ -6750,11 +6750,11 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Random",
+                                "sortType": "Random",
                                 "shapeName": "CircleR5",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "Enemy",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "targetPredicates": [

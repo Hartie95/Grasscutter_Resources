@@ -393,9 +393,9 @@
                         },
                         {
                             "$type": "KillSelf",
-                            "BEKKIHBPHGD": true,
-                            "EOIGEKNINFE": true,
-                            "PGGBJIDIINM": "Disappear"
+                            "banDrop": true,
+                            "banExp": true,
+                            "killSelfType": "Disappear"
                         }
                     ]
                 }
@@ -462,9 +462,9 @@
                         },
                         {
                             "$type": "KillSelf",
-                            "BEKKIHBPHGD": true,
-                            "EOIGEKNINFE": true,
-                            "PGGBJIDIINM": "Disappear"
+                            "banDrop": true,
+                            "banExp": true,
+                            "killSelfType": "Disappear"
                         }
                     ]
                 }
@@ -789,7 +789,7 @@
                             "value": 0.0,
                             "key": "_BOAR_03_RUSHTIMESPlUS",
                             "useLimitRange": true,
-                            "FACHGOPKJKE": true,
+                            "randomInRange": true,
                             "maxValue": 2.0,
                             "minValue": 1.0
                         },
@@ -926,15 +926,15 @@
                             "born": {
                                 "$type": "ConfigBornBySelf"
                             },
-                            "NJEOPILMKCN": true,
-                            "ENJEPFDLDDF": "Self"
+                            "lifeByOwnerIsAlive": true,
+                            "trackTarget": "Self"
                         }
                     ],
                     "onRemoved": [
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
-                                "AKMLOIFOBPO": "Reversed",
+                            "gadgetInfo": {
+                                "sortType": "Reversed",
                                 "configID": 42802005
                             }
                         }
@@ -2139,7 +2139,7 @@
                             "born": {
                                 "$type": "ConfigBornByTarget"
                             },
-                            "ENJEPFDLDDF": "Self"
+                            "trackTarget": "Self"
                         },
                         {
                             "$type": "TurnDirection",
@@ -2149,8 +2149,8 @@
                     "exitActions": [
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
-                                "AKMLOIFOBPO": "Reversed",
+                            "gadgetInfo": {
+                                "sortType": "Reversed",
                                 "configID": 42802005
                             }
                         }

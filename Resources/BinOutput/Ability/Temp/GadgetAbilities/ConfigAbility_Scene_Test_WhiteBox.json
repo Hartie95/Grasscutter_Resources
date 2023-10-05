@@ -59,7 +59,7 @@
                                     ]
                                 }
                             ],
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornByAttachPoint",
                                 "offset": {
@@ -71,7 +71,7 @@
                             },
                             "gadgetID": 70900349,
                             "campTargetType": "All",
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         },
                         {
                             "$type": "DebugLog",
@@ -304,14 +304,14 @@
                             "gadgetID": 70900350,
                             "campID": 1001,
                             "campTargetType": "Enemy",
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         },
                         {
                             "$type": "ApplyModifier",
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR2",
                                 "campTargetType": "All",
                                 "sizeRatio": 1.0
@@ -349,7 +349,7 @@
                     "otherTargets": {
                         "$type": "SelectTargetsByShape",
                         "DJLKFLJENEG": 1,
-                        "AKMLOIFOBPO": "Nearest",
+                        "sortType": "Nearest",
                         "shapeName": "CircleR5",
                         "campTargetType": "All",
                         "sizeRatio": 1.0
@@ -369,7 +369,7 @@
                     "otherTargets": {
                         "$type": "SelectTargetsByShape",
                         "DJLKFLJENEG": 1,
-                        "AKMLOIFOBPO": "Nearest",
+                        "sortType": "Nearest",
                         "shapeName": "CircleR5",
                         "campTargetType": "All",
                         "sizeRatio": 1.0
@@ -388,7 +388,7 @@
                     "otherTargets": {
                         "$type": "SelectTargetsByShape",
                         "DJLKFLJENEG": 1,
-                        "AKMLOIFOBPO": "Nearest",
+                        "sortType": "Nearest",
                         "shapeName": "CircleR5",
                         "campTargetType": "All",
                         "sizeRatio": 1.0
@@ -2787,7 +2787,7 @@
                     "modifierName": "",
                     "elementType": "Grass",
                     "elementDurability": 100.0,
-                    "DDLOLBGNLEF": false
+                    "isElementDurabilityMutable": false
                 },
                 "Burning_Grass": {
                     "modifierName": "",
@@ -2824,8 +2824,8 @@
                                     "actions": [
                                         {
                                             "$type": "KillGadget",
-                                            "LBGGIBBMCMF": {
-                                                "AKMLOIFOBPO": "Nearest",
+                                            "gadgetInfo": {
+                                                "sortType": "Nearest",
                                                 "configID": 70900047
                                             }
                                         },
@@ -3163,7 +3163,7 @@
                                 "shapeName": "CircleR5",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -3189,7 +3189,7 @@
                                 "shapeName": "CircleR5",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -3266,7 +3266,7 @@
                                 "shapeName": "CircleR5",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -3292,7 +3292,7 @@
                                 "shapeName": "CircleR5",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -3496,7 +3496,7 @@
                             },
                             "gadgetID": 70900360,
                             "campID": 5001,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ]
                 }
@@ -5396,7 +5396,7 @@
                     "modifierName": "",
                     "elementType": "Electric",
                     "elementDurability": 15.0,
-                    "DDLOLBGNLEF": false,
+                    "isElementDurabilityMutable": false,
                     "state": "Limbo"
                 },
                 "Deactive": {
@@ -5563,7 +5563,7 @@
                                     "otherTargets": {
                                         "$type": "SelectTargetsByShape",
                                         "DJLKFLJENEG": 1,
-                                        "AKMLOIFOBPO": "Nearest",
+                                        "sortType": "Nearest",
                                         "shapeName": "CircleR10",
                                         "campTargetType": "AllExceptSelf",
                                         "sizeRatio": 1.0
@@ -5594,7 +5594,7 @@
                                     "otherTargets": {
                                         "$type": "SelectTargetsByShape",
                                         "DJLKFLJENEG": 1,
-                                        "AKMLOIFOBPO": "Nearest",
+                                        "sortType": "Nearest",
                                         "shapeName": "CircleR10",
                                         "campTargetType": "AllExceptSelf",
                                         "sizeRatio": 1.0
@@ -5712,7 +5712,7 @@
                     "modifierName": "",
                     "elementType": "Electric",
                     "elementDurability": 15.0,
-                    "DDLOLBGNLEF": false,
+                    "isElementDurabilityMutable": false,
                     "modifierMixins": [
                         {
                             "$type": "AttachModifierToSelfGlobalValueMixin",
@@ -5809,7 +5809,7 @@
                             "JKJMJMKEBBD": "isTerminal",
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR15H30",
                                 "campTargetType": "AllExceptSelf",
                                 "sizeRatio": 1.0
@@ -5956,14 +5956,14 @@
                     "modifierName": "",
                     "elementType": "Electric",
                     "elementDurability": 15.0,
-                    "DDLOLBGNLEF": false,
+                    "isElementDurabilityMutable": false,
                     "state": "Limbo"
                 },
                 "NormalPhase": {
                     "modifierName": "",
                     "elementType": "Electric",
                     "elementDurability": 15.0,
-                    "DDLOLBGNLEF": false,
+                    "isElementDurabilityMutable": false,
                     "state": "Limbo"
                 },
                 "ActivePhase": {
@@ -6579,7 +6579,7 @@
                             "JKJMJMKEBBD": "isTerminal",
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR10H10",
                                 "campTargetType": "AllExceptSelf",
                                 "sizeRatio": 1.0
@@ -7915,7 +7915,7 @@
                             "$type": "ApplyModifier",
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR9H9",
                                 "campTargetType": "AllExceptSelf",
                                 "sizeRatio": 1.0

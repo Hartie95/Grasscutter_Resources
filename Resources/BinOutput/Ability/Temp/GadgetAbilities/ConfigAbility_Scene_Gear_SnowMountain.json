@@ -582,7 +582,7 @@
                     "modifierName": "",
                     "elementType": "Fire",
                     "elementDurability": 15.0,
-                    "DDLOLBGNLEF": false,
+                    "isElementDurabilityMutable": false,
                     "onAdded": [
                         {
                             "$type": "AddGlobalValue",
@@ -742,7 +742,7 @@
                     "modifierName": "",
                     "elementType": "Fire",
                     "elementDurability": 15.0,
-                    "DDLOLBGNLEF": false,
+                    "isElementDurabilityMutable": false,
                     "thinkInterval": 0.5,
                     "onThinkInterval": [
                         {
@@ -852,7 +852,7 @@
                     "modifierName": "",
                     "elementType": "Fire",
                     "elementDurability": 15.0,
-                    "DDLOLBGNLEF": false,
+                    "isElementDurabilityMutable": false,
                     "onAdded": [
                         {
                             "$type": "AttachEffect",
@@ -1101,7 +1101,7 @@
                     "modifierName": "",
                     "elementType": "Fire",
                     "elementDurability": 15.0,
-                    "DDLOLBGNLEF": false,
+                    "isElementDurabilityMutable": false,
                     "onAdded": [
                         {
                             "$type": "AddGlobalValue",
@@ -1301,7 +1301,7 @@
                     "modifierName": "",
                     "elementType": "Ice",
                     "elementDurability": 100.0,
-                    "DDLOLBGNLEF": false,
+                    "isElementDurabilityMutable": false,
                     "onAdded": [
                         {
                             "$type": "AttachEffect",
@@ -1735,7 +1735,7 @@
                     "modifierName": "",
                     "elementType": "Ice",
                     "elementDurability": 30.0,
-                    "DDLOLBGNLEF": false,
+                    "isElementDurabilityMutable": false,
                     "onBeingHit": [
                         {
                             "$type": "Predicated",

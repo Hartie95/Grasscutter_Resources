@@ -25,7 +25,7 @@
                 "GrassMaterial": {
                     "modifierName": "",
                     "elementDurability": 50.0,
-                    "DDLOLBGNLEF": false
+                    "isElementDurabilityMutable": false
                 }
             },
             "onAdded": [
@@ -235,7 +235,7 @@
                     "onAdded": [
                         {
                             "$type": "HideUIBillBoard",
-                            "COCENMAFJGD": true
+                            "hide": true
                         },
                         {
                             "$type": "RemoveModifier",
@@ -651,7 +651,7 @@
                     "isUnique": true,
                     "elementType": "Electric",
                     "elementDurability": 50.0,
-                    "DDLOLBGNLEF": false,
+                    "isElementDurabilityMutable": false,
                     "thinkInterval": 1.5,
                     "onAdded": [
                         {
@@ -1202,7 +1202,7 @@
                     "onAdded": [
                         {
                             "$type": "HideUIBillBoard",
-                            "COCENMAFJGD": true
+                            "hide": true
                         }
                     ]
                 },

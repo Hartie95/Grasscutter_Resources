@@ -374,9 +374,9 @@
                         {
                             "$type": "KillSelf",
                             "duration": 1.0,
-                            "BEKKIHBPHGD": true,
-                            "EOIGEKNINFE": true,
-                            "PGGBJIDIINM": "Disappear"
+                            "banDrop": true,
+                            "banExp": true,
+                            "killSelfType": "Disappear"
                         }
                     ]
                 }
@@ -459,7 +459,7 @@
                                         "z": 0.0
                                     },
                                     "randomAngleHor": 45.0,
-                                    "IOIAHLPJDMH": 15.0
+                                    "randomAngleVer": 15.0
                                 }
                             }
                         }
@@ -591,7 +591,7 @@
                             "value": 0.0,
                             "key": "_MONSTER_LUPIBOREAS_WOLFSOUL_TIMER",
                             "useLimitRange": true,
-                            "FACHGOPKJKE": true,
+                            "randomInRange": true,
                             "maxValue": [
                                 "WolfSoul_TimerBase",
                                 0.6000000238418579,
@@ -695,11 +695,11 @@
                                         "onGround": true,
                                         "direction": {
                                             "$type": "ConfigDirectionByAttackTarget",
-                                            "IHHIKIACOML": "Horizontal"
+                                            "maxAngleType": "Horizontal"
                                         },
                                         "alongGround": true
                                     },
-                                    "NJEOPILMKCN": true
+                                    "lifeByOwnerIsAlive": true
                                 },
                                 {
                                     "$type": "AddGlobalValue",
@@ -714,7 +714,7 @@
                                     "value": 0.0,
                                     "key": "_MONSTER_LUPIBOREAS_WOLFSOUL_TIMER",
                                     "useLimitRange": true,
-                                    "FACHGOPKJKE": true,
+                                    "randomInRange": true,
                                     "maxValue": [
                                         "WolfSoul_TimerBase",
                                         0.6000000238418579,
@@ -1041,7 +1041,7 @@
                         },
                         {
                             "$type": "HideUIBillBoard",
-                            "COCENMAFJGD": true
+                            "hide": true
                         },
                         {
                             "$type": "SetPoseBool",
@@ -1093,7 +1093,7 @@
                         },
                         {
                             "$type": "HideUIBillBoard",
-                            "COCENMAFJGD": true
+                            "hide": true
                         },
                         {
                             "$type": "SetPoseBool",
@@ -1396,7 +1396,7 @@
                         },
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornByActionPoint",
                                 "onGround": true,
@@ -1408,7 +1408,7 @@
                             },
                             "JCAMCEOBIFG": true,
                             "gadgetID": 42902001,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         },
                         {
                             "$type": "FireEffect",
@@ -1453,7 +1453,7 @@
                             "$type": "ApplyModifier",
                             "otherTargets": {
                                 "$type": "SelectTargetsByChildren",
-                                "AKMLOIFOBPO": "Reversed",
+                                "sortType": "Reversed",
                                 "configID": 42902001
                             },
                             "modifierName": "RunBehaviorOver"
@@ -1640,7 +1640,7 @@
                             "born": {
                                 "$type": "ConfigBornBySelf"
                             },
-                            "ENJEPFDLDDF": "Self",
+                            "trackTarget": "Self",
                             "MLHHDMOKLBG": true
                         },
                         {
@@ -1649,7 +1649,7 @@
                             "born": {
                                 "$type": "ConfigBornBySelf"
                             },
-                            "ENJEPFDLDDF": "Self",
+                            "trackTarget": "Self",
                             "MLHHDMOKLBG": true
                         },
                         {
@@ -1689,15 +1689,15 @@
                     "exitActions": [
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
-                                "AKMLOIFOBPO": "Reversed",
+                            "gadgetInfo": {
+                                "sortType": "Reversed",
                                 "configID": 42902021
                             }
                         },
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
-                                "AKMLOIFOBPO": "Reversed",
+                            "gadgetInfo": {
+                                "sortType": "Reversed",
                                 "configID": 42902023
                             }
                         },
@@ -2748,7 +2748,7 @@
             "onAbilityStart": [
                 {
                     "$type": "CreateGadget",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornByActionPoint",
                         "onGround": true,
@@ -2761,11 +2761,11 @@
                     "JCAMCEOBIFG": true,
                     "gadgetID": 42902011,
                     "campID": 4001,
-                    "CEBMHIFOHJM": true
+                    "byServer": true
                 },
                 {
                     "$type": "CreateGadget",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornByActionPoint",
                         "onGround": true,
@@ -2786,11 +2786,11 @@
                     "JCAMCEOBIFG": true,
                     "gadgetID": 42902012,
                     "campID": 4001,
-                    "CEBMHIFOHJM": true
+                    "byServer": true
                 },
                 {
                     "$type": "CreateGadget",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornByActionPoint",
                         "onGround": true,
@@ -2811,11 +2811,11 @@
                     "JCAMCEOBIFG": true,
                     "gadgetID": 42902013,
                     "campID": 4001,
-                    "CEBMHIFOHJM": true
+                    "byServer": true
                 },
                 {
                     "$type": "CreateGadget",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornByActionPoint",
                         "onGround": true,
@@ -2836,11 +2836,11 @@
                     "JCAMCEOBIFG": true,
                     "gadgetID": 42902014,
                     "campID": 4001,
-                    "CEBMHIFOHJM": true
+                    "byServer": true
                 },
                 {
                     "$type": "CreateGadget",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornByActionPoint",
                         "onGround": true,
@@ -2861,11 +2861,11 @@
                     "JCAMCEOBIFG": true,
                     "gadgetID": 42902015,
                     "campID": 4001,
-                    "CEBMHIFOHJM": true
+                    "byServer": true
                 },
                 {
                     "$type": "CreateGadget",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornByActionPoint",
                         "onGround": true,
@@ -2886,7 +2886,7 @@
                     "JCAMCEOBIFG": true,
                     "gadgetID": 42902016,
                     "campID": 4001,
-                    "CEBMHIFOHJM": true
+                    "byServer": true
                 }
             ]
         }
@@ -2904,7 +2904,7 @@
                     "onThinkInterval": [
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornByActionPoint",
                                 "bornRandom": {
@@ -2933,7 +2933,7 @@
                         {
                             "$type": "CreateGadget",
                             "target": "SelfAttackTarget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornByPredicatePoint",
                                 "bornRandom": {
@@ -3072,7 +3072,7 @@
                         },
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "offset": {
@@ -3085,7 +3085,7 @@
                             "JCAMCEOBIFG": true,
                             "gadgetID": 42902018,
                             "campID": 4001,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ],
                     "onRemoved": [
@@ -3305,7 +3305,7 @@
                         },
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "offset": {
@@ -3318,7 +3318,7 @@
                             "JCAMCEOBIFG": true,
                             "gadgetID": 42902018,
                             "campID": 4001,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ],
                     "onRemoved": [
@@ -3538,7 +3538,7 @@
                         },
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "offset": {
@@ -3551,7 +3551,7 @@
                             "JCAMCEOBIFG": true,
                             "gadgetID": 42902018,
                             "campID": 4001,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ],
                     "onRemoved": [
@@ -3771,7 +3771,7 @@
                         },
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "offset": {
@@ -3784,7 +3784,7 @@
                             "JCAMCEOBIFG": true,
                             "gadgetID": 42902018,
                             "campID": 4001,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ],
                     "onRemoved": [
@@ -4004,7 +4004,7 @@
                         },
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "offset": {
@@ -4017,7 +4017,7 @@
                             "JCAMCEOBIFG": true,
                             "gadgetID": 42902018,
                             "campID": 4001,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ],
                     "onRemoved": [
@@ -4237,7 +4237,7 @@
                         },
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "offset": {
@@ -4250,7 +4250,7 @@
                             "JCAMCEOBIFG": true,
                             "gadgetID": 42902018,
                             "campID": 4001,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ],
                     "onRemoved": [
@@ -5441,7 +5441,7 @@
                     "$type": "CreateGadget",
                     "target": "OriginOwner",
                     "IBGEDNNBIOF": "Other",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornBySelf"
                     },

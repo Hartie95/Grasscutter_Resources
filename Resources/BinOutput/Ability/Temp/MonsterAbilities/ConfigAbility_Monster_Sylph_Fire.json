@@ -706,7 +706,7 @@
                         },
                         {
                             "$type": "HideUIBillBoard",
-                            "COCENMAFJGD": true
+                            "hide": true
                         },
                         {
                             "$type": "ApplyModifier",
@@ -895,7 +895,7 @@
                             },
                             "gadgetID": 42006604,
                             "campID": 4001,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ],
                     "onRemoved": [
@@ -1246,7 +1246,7 @@
                             },
                             "gadgetID": 42006603,
                             "campID": 4001,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ],
                     "onRemoved": [
@@ -1352,7 +1352,7 @@
                             },
                             "gadgetID": 42006602,
                             "campID": 4001,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ]
                 },

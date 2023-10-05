@@ -373,13 +373,13 @@
                                 "Defend_AS",
                                 "ShieldFlap"
                             ],
-                            "OKFKMBDCDHO": "DefendTrigger",
-                            "DEHPOLDCMNJ": 90.0,
-                            "OKEAOJGNCNJ": 1.0,
-                            "CLALNDAGFGJ": 0.0,
-                            "LCJAOCJNEJJ": 0.0,
-                            "HFCIHIJGLMA": 0,
-                            "GOLCBAPOOLF": [
+                            "defendTriggerID": "DefendTrigger",
+                            "defendAngle": 90.0,
+                            "defendProbability": 1.0,
+                            "defendProbabilityDelta": 0.0,
+                            "defendTimeInterval": 0.0,
+                            "defendCountInterval": 0,
+                            "onDefendSucceded": [
                                 {
                                     "$type": "FireEffect",
                                     "effectPattern": "Eff_Monster_Brute_None_Shield_Defend",
@@ -393,8 +393,8 @@
                                     }
                                 }
                             ],
-                            "DOFIPDFDFPK": {
-                                "GOLCBAPOOLF": {
+                            "defendAudioConfig": {
+                                "onDefendSucceded": {
                                     "text": "Play_sfx_impact_shield"
                                 }
                             }
@@ -433,13 +433,13 @@
                                 "BeHit",
                                 "BeHitThrow"
                             ],
-                            "OKFKMBDCDHO": "DefendTrigger",
-                            "OKEAOJGNCNJ": 1.0,
-                            "CLALNDAGFGJ": 0.0,
-                            "LCJAOCJNEJJ": 2.0,
-                            "EAEELLPBGHO": false,
-                            "HFCIHIJGLMA": 0,
-                            "GOLCBAPOOLF": [
+                            "defendTriggerID": "DefendTrigger",
+                            "defendProbability": 1.0,
+                            "defendProbabilityDelta": 0.0,
+                            "defendTimeInterval": 2.0,
+                            "alwaysRecover": false,
+                            "defendCountInterval": 0,
+                            "onDefendSucceded": [
                                 {
                                     "$type": "FireEffect",
                                     "effectPattern": "Eff_Monster_Brute_None_Shield_Defend",
@@ -453,8 +453,8 @@
                                     }
                                 }
                             ],
-                            "DOFIPDFDFPK": {
-                                "GOLCBAPOOLF": {
+                            "defendAudioConfig": {
+                                "onDefendSucceded": {
                                     "text": "Play_sfx_impact_shield"
                                 }
                             }
@@ -745,13 +745,13 @@
                                 "ShieldSmash",
                                 "Defend"
                             ],
-                            "OKFKMBDCDHO": "DefendTrigger",
-                            "DEHPOLDCMNJ": 90.0,
-                            "OKEAOJGNCNJ": 1.0,
-                            "CLALNDAGFGJ": 0.0,
-                            "LCJAOCJNEJJ": 0.0,
-                            "HFCIHIJGLMA": 0,
-                            "GOLCBAPOOLF": [
+                            "defendTriggerID": "DefendTrigger",
+                            "defendAngle": 90.0,
+                            "defendProbability": 1.0,
+                            "defendProbabilityDelta": 0.0,
+                            "defendTimeInterval": 0.0,
+                            "defendCountInterval": 0,
+                            "onDefendSucceded": [
                                 {
                                     "$type": "FireEffect",
                                     "effectPattern": "Eff_Monster_Brute_Rock_Shield_Defend"
@@ -811,8 +811,8 @@
                                     ]
                                 }
                             ],
-                            "DOFIPDFDFPK": {
-                                "GOLCBAPOOLF": {
+                            "defendAudioConfig": {
+                                "onDefendSucceded": {
                                     "text": "Play_sfx_impact_shield_rock"
                                 }
                             }
@@ -953,13 +953,13 @@
                                 "BeHit",
                                 "BeHitThrow"
                             ],
-                            "OKFKMBDCDHO": "DefendTrigger",
-                            "OKEAOJGNCNJ": 1.0,
-                            "CLALNDAGFGJ": 0.0,
-                            "LCJAOCJNEJJ": 2.0,
-                            "EAEELLPBGHO": false,
-                            "HFCIHIJGLMA": 0,
-                            "GOLCBAPOOLF": [
+                            "defendTriggerID": "DefendTrigger",
+                            "defendProbability": 1.0,
+                            "defendProbabilityDelta": 0.0,
+                            "defendTimeInterval": 2.0,
+                            "alwaysRecover": false,
+                            "defendCountInterval": 0,
+                            "onDefendSucceded": [
                                 {
                                     "$type": "FireEffect",
                                     "effectPattern": "Eff_Monster_Brute_Rock_Shield_Defend"
@@ -973,8 +973,8 @@
                                     "minValue": 0.0
                                 }
                             ],
-                            "DOFIPDFDFPK": {
-                                "GOLCBAPOOLF": {
+                            "defendAudioConfig": {
+                                "onDefendSucceded": {
                                     "text": "Play_sfx_impact_shield_rock"
                                 }
                             }
@@ -1259,20 +1259,20 @@
                                 "ShieldSmash",
                                 "Defend"
                             ],
-                            "OKFKMBDCDHO": "DefendTrigger",
-                            "DEHPOLDCMNJ": 90.0,
-                            "OKEAOJGNCNJ": 1.0,
-                            "CLALNDAGFGJ": 0.0,
-                            "LCJAOCJNEJJ": 0.0,
-                            "HFCIHIJGLMA": 0,
-                            "GOLCBAPOOLF": [
+                            "defendTriggerID": "DefendTrigger",
+                            "defendAngle": 90.0,
+                            "defendProbability": 1.0,
+                            "defendProbabilityDelta": 0.0,
+                            "defendTimeInterval": 0.0,
+                            "defendCountInterval": 0,
+                            "onDefendSucceded": [
                                 {
                                     "$type": "FireEffect",
                                     "effectPattern": "Eff_Monster_Brute_Ice_Shield_Defend"
                                 }
                             ],
-                            "DOFIPDFDFPK": {
-                                "GOLCBAPOOLF": {
+                            "defendAudioConfig": {
+                                "onDefendSucceded": {
                                     "text": "Play_sfx_impact_shield_ice"
                                 }
                             }
@@ -1311,20 +1311,20 @@
                                 "BeHit",
                                 "BeHitThrow"
                             ],
-                            "OKFKMBDCDHO": "DefendTrigger",
-                            "OKEAOJGNCNJ": 1.0,
-                            "CLALNDAGFGJ": 0.0,
-                            "LCJAOCJNEJJ": 2.0,
-                            "EAEELLPBGHO": false,
-                            "HFCIHIJGLMA": 0,
-                            "GOLCBAPOOLF": [
+                            "defendTriggerID": "DefendTrigger",
+                            "defendProbability": 1.0,
+                            "defendProbabilityDelta": 0.0,
+                            "defendTimeInterval": 2.0,
+                            "alwaysRecover": false,
+                            "defendCountInterval": 0,
+                            "onDefendSucceded": [
                                 {
                                     "$type": "FireEffect",
                                     "effectPattern": "Eff_Monster_Brute_Ice_Shield_Defend"
                                 }
                             ],
-                            "DOFIPDFDFPK": {
-                                "GOLCBAPOOLF": {
+                            "defendAudioConfig": {
+                                "onDefendSucceded": {
                                     "text": "Play_sfx_impact_shield_ice"
                                 }
                             }
@@ -2336,7 +2336,7 @@
                 {
                     "$type": "TriggerCreateGadgetToEquipPart",
                     "gadgetID": 50004012,
-                    "EPBOKNDHCPD": "equip02"
+                    "equipPart": "equip02"
                 }
             ]
         }

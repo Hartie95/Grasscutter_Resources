@@ -199,7 +199,7 @@
                             "BOJIBPNEOHP": true
                         }
                     ],
-                    "NHFJDDBKNCM": true,
+                    "onThinkIntervalIsFixedUpdate": true,
                     "HFBALDBFOOH": [
                         "Corruption"
                     ]

@@ -8,7 +8,7 @@
                     "modifierName": "",
                     "elementType": "Grass",
                     "elementDurability": 5.0,
-                    "DDLOLBGNLEF": false,
+                    "isElementDurabilityMutable": false,
                     "onBeingHit": [
                         {
                             "$type": "ApplyModifier",

@@ -90,8 +90,8 @@
                     "onRemoved": [
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
-                                "AKMLOIFOBPO": "Nearest",
+                            "gadgetInfo": {
+                                "sortType": "Nearest",
                                 "configID": 70690005
                             }
                         },
@@ -184,8 +184,8 @@
                     "onRemoved": [
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
-                                "AKMLOIFOBPO": "Nearest",
+                            "gadgetInfo": {
+                                "sortType": "Nearest",
                                 "configID": 70690005
                             }
                         },
@@ -278,8 +278,8 @@
                     "onRemoved": [
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
-                                "AKMLOIFOBPO": "Nearest",
+                            "gadgetInfo": {
+                                "sortType": "Nearest",
                                 "configID": 70690005
                             }
                         },
@@ -372,8 +372,8 @@
                     "onRemoved": [
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
-                                "AKMLOIFOBPO": "Nearest",
+                            "gadgetInfo": {
+                                "sortType": "Nearest",
                                 "configID": 70690005
                             }
                         },
@@ -466,8 +466,8 @@
                     "onRemoved": [
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
-                                "AKMLOIFOBPO": "Nearest",
+                            "gadgetInfo": {
+                                "sortType": "Nearest",
                                 "configID": 70690005
                             }
                         },
@@ -2823,7 +2823,7 @@
                     "onAdded": [
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornByAttachPoint",
                                 "offset": {
@@ -2835,7 +2835,7 @@
                             },
                             "gadgetID": 70330022,
                             "campTargetType": "All",
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ]
                 },
@@ -2884,7 +2884,7 @@
                     "onAdded": [
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornByAttachPoint",
                                 "offset": {
@@ -2896,7 +2896,7 @@
                             },
                             "gadgetID": 70330002,
                             "campTargetType": "All",
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ]
                 },

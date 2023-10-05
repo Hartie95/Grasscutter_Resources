@@ -281,7 +281,7 @@
                 {
                     "$type": "CreateGadget",
                     "HBMNAKPIDCM": "Caster",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornByTarget",
                         "offset": {
@@ -291,7 +291,7 @@
                         }
                     },
                     "gadgetID": 70350338,
-                    "CEBMHIFOHJM": true
+                    "byServer": true
                 },
                 {
                     "$type": "ApplyModifier",
@@ -345,7 +345,7 @@
                 {
                     "$type": "CreateGadget",
                     "HBMNAKPIDCM": "Caster",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornByTarget",
                         "offset": {
@@ -355,7 +355,7 @@
                         }
                     },
                     "gadgetID": 70350339,
-                    "CEBMHIFOHJM": true
+                    "byServer": true
                 },
                 {
                     "$type": "ApplyModifier",

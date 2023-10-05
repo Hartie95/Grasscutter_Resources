@@ -2282,7 +2282,7 @@
                     "modifierName": "",
                     "elementType": "Water",
                     "elementDurability": 55.0,
-                    "DDLOLBGNLEF": false
+                    "isElementDurabilityMutable": false
                 }
             },
             "onAdded": [
@@ -2973,7 +2973,7 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Random",
+                                "sortType": "Random",
                                 "shapeName": "CircleR30",
                                 "campTargetType": "AllExceptSelf",
                                 "sizeRatio": 1.0
@@ -4848,7 +4848,7 @@
                     "modifierName": "",
                     "elementType": "Fire",
                     "elementDurability": 15.0,
-                    "DDLOLBGNLEF": false,
+                    "isElementDurabilityMutable": false,
                     "onAdded": [
                         {
                             "$type": "AttachEffect",
@@ -5040,7 +5040,7 @@
                     "modifierName": "",
                     "elementType": "Fire",
                     "elementDurability": 15.0,
-                    "DDLOLBGNLEF": false,
+                    "isElementDurabilityMutable": false,
                     "onAdded": [
                         {
                             "$type": "AddGlobalValue",

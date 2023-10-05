@@ -3625,7 +3625,7 @@
                             "overrideMapKey": "Duration_count"
                         }
                     ],
-                    "NHFJDDBKNCM": true
+                    "onThinkIntervalIsFixedUpdate": true
                 },
                 "UNIQUE_Avatar_Yoimiya_ElementalBurst_Tag": {
                     "modifierName": "",

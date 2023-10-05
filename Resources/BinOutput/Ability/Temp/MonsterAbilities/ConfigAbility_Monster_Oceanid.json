@@ -923,12 +923,12 @@
                                                 "z": 0.0
                                             },
                                             "randomAngleHor": 15.0,
-                                            "IOIAHLPJDMH": 15.0
+                                            "randomAngleVer": 15.0
                                         },
                                         "attachPointName": "BulletAttachPoint",
                                         "attachPointTargetType": "Self"
                                     },
-                                    "ENJEPFDLDDF": "Target"
+                                    "trackTarget": "Target"
                                 }
                             ]
                         }

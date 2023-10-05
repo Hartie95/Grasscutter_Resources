@@ -408,7 +408,7 @@
                         "$type": "ConfigBornByAttachPoint",
                         "direction": {
                             "$type": "ConfigDirectionByAttackTarget",
-                            "INCAGGBCJNF": 30.0
+                            "maxAngle": 30.0
                         },
                         "attachPointName": "MouthFirePoint"
                     }
@@ -647,7 +647,7 @@
                         "$type": "ConfigBornByAttachPoint",
                         "direction": {
                             "$type": "ConfigDirectionByAttackTarget",
-                            "INCAGGBCJNF": 30.0
+                            "maxAngle": 30.0
                         },
                         "attachPointName": "MouthFirePoint"
                     }
@@ -1756,7 +1756,7 @@
                         "$type": "ConfigBornByAttachPoint",
                         "direction": {
                             "$type": "ConfigDirectionByAttackTarget",
-                            "INCAGGBCJNF": 30.0
+                            "maxAngle": 30.0
                         },
                         "attachPointName": "MouthFirePoint"
                     }
@@ -1949,7 +1949,7 @@
                         "$type": "ConfigBornByAttachPoint",
                         "direction": {
                             "$type": "ConfigDirectionByAttackTarget",
-                            "INCAGGBCJNF": 30.0
+                            "maxAngle": 30.0
                         },
                         "attachPointName": "MouthFirePoint"
                     }

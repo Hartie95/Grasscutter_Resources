@@ -595,7 +595,7 @@
                                 "OOOFAPPEOJK": [
                                     "Avatar"
                                 ],
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR10H10",
                                 "campTargetType": "AllExceptSelf",
                                 "sizeRatio": 1.0
@@ -1593,7 +1593,7 @@
                     "modifierName": "",
                     "elementType": "Ice",
                     "elementDurability": 30.0,
-                    "DDLOLBGNLEF": false,
+                    "isElementDurabilityMutable": false,
                     "onAdded": [
                         {
                             "$type": "AttachEffect",

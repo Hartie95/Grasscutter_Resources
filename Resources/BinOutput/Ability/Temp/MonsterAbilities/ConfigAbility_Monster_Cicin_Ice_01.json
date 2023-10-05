@@ -602,7 +602,7 @@
                 },
                 {
                     "$type": "HideUIBillBoard",
-                    "COCENMAFJGD": true
+                    "hide": true
                 },
                 {
                     "$type": "TriggerSetVisible"
@@ -766,7 +766,7 @@
                 },
                 {
                     "$type": "HideUIBillBoard",
-                    "COCENMAFJGD": true
+                    "hide": true
                 },
                 {
                     "$type": "TriggerSetVisible"
@@ -951,7 +951,7 @@
                             "z": 0.0
                         }
                     },
-                    "ENJEPFDLDDF": "Owner"
+                    "trackTarget": "Owner"
                 }
             ]
         }

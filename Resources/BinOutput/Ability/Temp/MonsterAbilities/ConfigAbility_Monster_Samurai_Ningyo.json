@@ -73,7 +73,7 @@
                     "onAdded": [
                         {
                             "$type": "HideUIBillBoard",
-                            "COCENMAFJGD": true
+                            "hide": true
                         },
                         {
                             "$type": "SetAIHitFeeling"
@@ -1771,13 +1771,13 @@
                                 "Provoke",
                                 "RushCharge"
                             ],
-                            "OKFKMBDCDHO": "",
-                            "DEHPOLDCMNJ": 120.0,
-                            "OKEAOJGNCNJ": 1.0,
-                            "CLALNDAGFGJ": 0.0,
-                            "LCJAOCJNEJJ": 0.20000000298023224,
-                            "HFCIHIJGLMA": 0,
-                            "GOLCBAPOOLF": [
+                            "defendTriggerID": "",
+                            "defendAngle": 120.0,
+                            "defendProbability": 1.0,
+                            "defendProbabilityDelta": 0.0,
+                            "defendTimeInterval": 0.20000000298023224,
+                            "defendCountInterval": 0,
+                            "onDefendSucceded": [
                                 {
                                     "$type": "Predicated",
                                     "target": "Target",
@@ -2243,8 +2243,8 @@
                         {
                             "$type": "TriggerBullet",
                             "bulletID": 42509018,
-                            "NJEOPILMKCN": true,
-                            "ENJEPFDLDDF": "Applier"
+                            "lifeByOwnerIsAlive": true,
+                            "trackTarget": "Applier"
                         }
                     ]
                 }
@@ -2385,7 +2385,7 @@
                                 "GDENJEFPMGC": "_SAMURAI_NINGYO_MASK_CLOSE_PLACE",
                                 "MICIJLHMIIH": ""
                             },
-                            "NJEOPILMKCN": true
+                            "lifeByOwnerIsAlive": true
                         }
                     ]
                 }
@@ -2647,7 +2647,7 @@
                         },
                         {
                             "$type": "HideUIBillBoard",
-                            "COCENMAFJGD": true
+                            "hide": true
                         },
                         {
                             "$type": "EnablePushColliderName",
@@ -3197,10 +3197,10 @@
             "onAdded": [
                 {
                     "$type": "CreateGadget",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "JCAMCEOBIFG": true,
                     "gadgetID": 42509001,
-                    "CEBMHIFOHJM": true
+                    "byServer": true
                 }
             ],
             "onAbilityStart": [
@@ -3654,7 +3654,7 @@
                     },
                     "gadgetID": 42509007,
                     "campID": 4001,
-                    "CEBMHIFOHJM": true
+                    "byServer": true
                 }
             ],
             "onKill": [
@@ -4294,7 +4294,7 @@
                             "minValue": 0.0
                         }
                     ],
-                    "NHFJDDBKNCM": true,
+                    "onThinkIntervalIsFixedUpdate": true,
                     "onReconnect": [
                         {
                             "$type": "SetAnimatorTrigger",
@@ -4652,7 +4652,7 @@
                             "minValue": 0.0
                         }
                     ],
-                    "NHFJDDBKNCM": true,
+                    "onThinkIntervalIsFixedUpdate": true,
                     "onReconnect": [
                         {
                             "$type": "SetAnimatorTrigger",
@@ -6577,13 +6577,13 @@
                     "onAdded": [
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf"
                             },
                             "JCAMCEOBIFG": true,
                             "gadgetID": 42509017,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ]
                 }
@@ -6620,7 +6620,7 @@
                     "onRemoved": [
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf"
                             },

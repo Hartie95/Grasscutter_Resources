@@ -991,7 +991,7 @@
                                 "$type": "SelectTargetsByShape",
                                 "shapeName": "CircleR6",
                                 "campTargetType": "Alliance",
-                                "AFLAEMMPLPN": "Owner",
+                                "campBasedOn": "Owner",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [

@@ -2199,10 +2199,10 @@
                         "OOOFAPPEOJK": [
                             "Gadget"
                         ],
-                        "AKMLOIFOBPO": "Nearest",
+                        "sortType": "Nearest",
                         "shapeName": "CircleR50",
                         "campTargetType": "All",
-                        "AFLAEMMPLPN": "CurLocalAvatar",
+                        "campBasedOn": "CurLocalAvatar",
                         "sizeRatio": 1.0
                     },
                     "targetPredicates": [
@@ -2228,10 +2228,10 @@
                         "OOOFAPPEOJK": [
                             "Gadget"
                         ],
-                        "AKMLOIFOBPO": "Nearest",
+                        "sortType": "Nearest",
                         "shapeName": "CircleR50",
                         "campTargetType": "All",
-                        "AFLAEMMPLPN": "CurLocalAvatar",
+                        "campBasedOn": "CurLocalAvatar",
                         "sizeRatio": 1.0
                     },
                     "targetPredicates": [

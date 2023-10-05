@@ -270,9 +270,9 @@
                         {
                             "$type": "KillSelf",
                             "duration": 2.0,
-                            "BEKKIHBPHGD": true,
-                            "EOIGEKNINFE": true,
-                            "PGGBJIDIINM": "Disappear"
+                            "banDrop": true,
+                            "banExp": true,
+                            "killSelfType": "Disappear"
                         }
                     ]
                 },
@@ -360,9 +360,9 @@
                         {
                             "$type": "KillSelf",
                             "duration": 1.0,
-                            "BEKKIHBPHGD": true,
-                            "EOIGEKNINFE": true,
-                            "PGGBJIDIINM": "Disappear"
+                            "banDrop": true,
+                            "banExp": true,
+                            "killSelfType": "Disappear"
                         }
                     ]
                 }

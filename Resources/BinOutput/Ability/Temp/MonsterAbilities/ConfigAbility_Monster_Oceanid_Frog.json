@@ -162,7 +162,7 @@
                     "isUnique": true,
                     "elementType": "Water",
                     "elementDurability": 100.0,
-                    "DDLOLBGNLEF": false
+                    "isElementDurabilityMutable": false
                 },
                 "Monster_Oceanid_Frog_CommonEffect": {
                     "modifierName": "",
@@ -255,8 +255,8 @@
                         },
                         "direction": {
                             "$type": "ConfigDirectionByAttackTarget",
-                            "IHHIKIACOML": "Horizontal",
-                            "INCAGGBCJNF": 45.0
+                            "maxAngleType": "Horizontal",
+                            "maxAngle": 45.0
                         }
                     }
                 },

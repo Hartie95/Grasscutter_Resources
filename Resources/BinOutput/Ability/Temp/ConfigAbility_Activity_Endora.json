@@ -370,7 +370,7 @@
                             "$type": "KillGadget",
                             "target": "CurTeamAvatars",
                             "doOffStage": true,
-                            "LBGGIBBMCMF": {
+                            "gadgetInfo": {
                                 "configID": 44000103
                             }
                         },
@@ -434,7 +434,7 @@
                             "$type": "KillGadget",
                             "target": "CurTeamAvatars",
                             "doOffStage": true,
-                            "LBGGIBBMCMF": {
+                            "gadgetInfo": {
                                 "configID": 44000103
                             }
                         },

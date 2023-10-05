@@ -56,7 +56,7 @@
                                     "otherTargets": {
                                         "$type": "SelectTargetsByShape",
                                         "DJLKFLJENEG": 1,
-                                        "AKMLOIFOBPO": "Nearest",
+                                        "sortType": "Nearest",
                                         "shapeName": "CircleR30",
                                         "campTargetType": "All",
                                         "sizeRatio": 1.0
@@ -93,7 +93,7 @@
                                     "otherTargets": {
                                         "$type": "SelectTargetsByShape",
                                         "DJLKFLJENEG": 2,
-                                        "AKMLOIFOBPO": "Nearest",
+                                        "sortType": "Nearest",
                                         "shapeName": "CircleR30",
                                         "campTargetType": "All",
                                         "sizeRatio": 1.0
@@ -130,7 +130,7 @@
                                     "$type": "SetGlobalValue",
                                     "otherTargets": {
                                         "$type": "SelectTargetsByShape",
-                                        "AKMLOIFOBPO": "Nearest",
+                                        "sortType": "Nearest",
                                         "shapeName": "CircleR30",
                                         "campTargetType": "All",
                                         "sizeRatio": 1.0
@@ -188,7 +188,7 @@
                                             "$type": "ApplyModifier",
                                             "otherTargets": {
                                                 "$type": "SelectTargetsByShape",
-                                                "AKMLOIFOBPO": "Nearest",
+                                                "sortType": "Nearest",
                                                 "shapeName": "CircleR30",
                                                 "campTargetType": "All",
                                                 "sizeRatio": 1.0
@@ -627,7 +627,7 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR15",
                                 "campTargetType": "Enemy",
                                 "sizeRatio": 1.0
@@ -1341,7 +1341,7 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Random",
+                                "sortType": "Random",
                                 "shapeName": "CircleR40",
                                 "campTargetType": "All",
                                 "sizeRatio": 1.0
@@ -1379,7 +1379,7 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Random",
+                                "sortType": "Random",
                                 "shapeName": "CircleR40",
                                 "campTargetType": "All",
                                 "sizeRatio": 1.0
@@ -4717,7 +4717,7 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR10",
                                 "campTargetType": "All",
                                 "sizeRatio": 1.0
@@ -4768,7 +4768,7 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR10",
                                 "campTargetType": "All",
                                 "sizeRatio": 1.0
@@ -7055,7 +7055,7 @@
                         {
                             "$type": "CreateGadget",
                             "HBMNAKPIDCM": "Caster",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornByTarget",
                                 "onGround": true
@@ -8131,7 +8131,7 @@
                                 "OOOFAPPEOJK": [
                                     "Monster"
                                 ],
-                                "AKMLOIFOBPO": "Random",
+                                "sortType": "Random",
                                 "shapeName": "CircleR4",
                                 "campTargetType": "Enemy",
                                 "sizeRatio": 1.0
@@ -8257,7 +8257,7 @@
                                 "OOOFAPPEOJK": [
                                     "Monster"
                                 ],
-                                "AKMLOIFOBPO": "Random",
+                                "sortType": "Random",
                                 "shapeName": "CircleR4",
                                 "campTargetType": "Enemy",
                                 "sizeRatio": 1.0
@@ -8654,7 +8654,7 @@
                                 "OOOFAPPEOJK": [
                                     "Monster"
                                 ],
-                                "AKMLOIFOBPO": "Random",
+                                "sortType": "Random",
                                 "shapeName": "CircleR4",
                                 "campTargetType": "Enemy",
                                 "sizeRatio": 1.0
@@ -8788,7 +8788,7 @@
                                 "OOOFAPPEOJK": [
                                     "Monster"
                                 ],
-                                "AKMLOIFOBPO": "Random",
+                                "sortType": "Random",
                                 "shapeName": "CircleR4",
                                 "campTargetType": "Enemy",
                                 "sizeRatio": 1.0
@@ -9354,7 +9354,7 @@
                             "$type": "ApplyModifier",
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR6",
                                 "campTargetType": "All",
                                 "sizeRatio": 1.0

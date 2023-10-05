@@ -835,7 +835,7 @@
                         },
                         {
                             "$type": "HideUIBillBoard",
-                            "COCENMAFJGD": true
+                            "hide": true
                         },
                         {
                             "$type": "EnableHitBoxByName",
@@ -1111,7 +1111,7 @@
                     "$type": "TriggerAbility",
                     "otherTargets": {
                         "$type": "SelectTargetsByChildren",
-                        "AKMLOIFOBPO": "Random",
+                        "sortType": "Random",
                         "configID": 26060101
                     },
                     "abilityName": "Monster_Cicin_TriggerOwnerDodge"
@@ -1228,12 +1228,12 @@
                                 "BeHit",
                                 "BeHitThrow"
                             ],
-                            "OKFKMBDCDHO": "DodgeTrigger",
-                            "OKEAOJGNCNJ": 1.0,
-                            "CLALNDAGFGJ": 0.0,
-                            "LCJAOCJNEJJ": 5.0,
-                            "HFCIHIJGLMA": 0,
-                            "GOLCBAPOOLF": [
+                            "defendTriggerID": "DodgeTrigger",
+                            "defendProbability": 1.0,
+                            "defendProbabilityDelta": 0.0,
+                            "defendTimeInterval": 5.0,
+                            "defendCountInterval": 0,
+                            "onDefendSucceded": [
                                 {
                                     "$type": "TriggerAbility",
                                     "abilityName": "Abyss_Fire_ForceBlink"
@@ -1334,7 +1334,7 @@
                     "value": 0.0,
                     "key": "_ABILITY_RANDOM_RANGEATK_TIMES",
                     "useLimitRange": true,
-                    "FACHGOPKJKE": true,
+                    "randomInRange": true,
                     "maxValue": 5.0,
                     "minValue": 2.0
                 },
@@ -1732,7 +1732,7 @@
                                     }
                                 }
                             ],
-                            "NGOKEFIDFCJ": true
+                            "useMutiPlayerFixData": true
                         },
                         {
                             "$type": "VelocityForceMixin",

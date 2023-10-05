@@ -322,7 +322,7 @@
                                     "compareType": "NoneOrEqual"
                                 }
                             ],
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornByTarget",
                                 "offset": {
@@ -339,7 +339,7 @@
                             },
                             "gadgetID": 42103016,
                             "campID": 4001,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         },
                         {
                             "$type": "CreateGadget",
@@ -352,7 +352,7 @@
                                     "value": 1.0
                                 }
                             ],
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornByTarget",
                                 "offset": {
@@ -369,7 +369,7 @@
                             },
                             "gadgetID": 42103016,
                             "campID": 4001,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         },
                         {
                             "$type": "CreateGadget",
@@ -382,7 +382,7 @@
                                     "value": 1.0
                                 }
                             ],
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornByTarget",
                                 "offset": {
@@ -399,7 +399,7 @@
                             },
                             "gadgetID": 42103016,
                             "campID": 4001,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ]
                 }

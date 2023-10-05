@@ -152,7 +152,7 @@
                         },
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornByActionPoint",
                                 "offset": {
@@ -171,7 +171,7 @@
                             "JCAMCEOBIFG": true,
                             "gadgetID": 42608006,
                             "campID": 4001,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         },
                         {
                             "$type": "ApplyModifier",
@@ -811,22 +811,22 @@
                         },
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
-                                "AKMLOIFOBPO": "Reversed",
+                            "gadgetInfo": {
+                                "sortType": "Reversed",
                                 "configID": 42608002
                             }
                         },
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
-                                "AKMLOIFOBPO": "Reversed",
+                            "gadgetInfo": {
+                                "sortType": "Reversed",
                                 "configID": 42608003
                             }
                         },
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
-                                "AKMLOIFOBPO": "Reversed",
+                            "gadgetInfo": {
+                                "sortType": "Reversed",
                                 "configID": 42608004
                             }
                         }
@@ -2274,7 +2274,7 @@
                     "otherTargets": {
                         "$type": "SelectTargetsByShape",
                         "DJLKFLJENEG": 1,
-                        "AKMLOIFOBPO": "Random",
+                        "sortType": "Random",
                         "shapeName": "CircleR100H80",
                         "campTargetType": "SelfCamp",
                         "sizeRatio": 1.0
@@ -2490,8 +2490,8 @@
                     "exitActions": [
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
-                                "AKMLOIFOBPO": "Reversed",
+                            "gadgetInfo": {
+                                "sortType": "Reversed",
                                 "configID": 42608002
                             }
                         }
@@ -3163,7 +3163,7 @@
                             "$type": "Predicated",
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
-                                "AKMLOIFOBPO": "Random",
+                                "sortType": "Random",
                                 "shapeName": "CircleR100H80",
                                 "campTargetType": "SelfCamp",
                                 "sizeRatio": 1.0
@@ -3442,7 +3442,7 @@
                     "value": 0.0,
                     "key": "_MONSTER_Elrtich_RandomTag",
                     "useLimitRange": true,
-                    "FACHGOPKJKE": true,
+                    "randomInRange": true,
                     "maxValue": 2.0,
                     "minValue": 0.0
                 },
@@ -4028,8 +4028,8 @@
                                 "attachPointName": "Jaw",
                                 "attachPointTargetType": "Self"
                             },
-                            "NJEOPILMKCN": true,
-                            "ENJEPFDLDDF": "Self"
+                            "lifeByOwnerIsAlive": true,
+                            "trackTarget": "Self"
                         }
                     ],
                     "onThinkInterval": [
@@ -4047,12 +4047,12 @@
                         },
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
+                            "gadgetInfo": {
                                 "configID": 42608007
                             }
                         }
                     ],
-                    "NHFJDDBKNCM": true
+                    "onThinkIntervalIsFixedUpdate": true
                 },
                 "Monster_Eldritch_Minor_WaterJet_Laser": {
                     "modifierName": "",
@@ -4277,7 +4277,7 @@
             "onAbilityStart": [
                 {
                     "$type": "CreateGadget",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornByActionPoint",
                         "offset": {
@@ -5133,22 +5133,22 @@
                         },
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
-                                "AKMLOIFOBPO": "Reversed",
+                            "gadgetInfo": {
+                                "sortType": "Reversed",
                                 "configID": 42608002
                             }
                         },
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
-                                "AKMLOIFOBPO": "Reversed",
+                            "gadgetInfo": {
+                                "sortType": "Reversed",
                                 "configID": 42608003
                             }
                         },
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
-                                "AKMLOIFOBPO": "Reversed",
+                            "gadgetInfo": {
+                                "sortType": "Reversed",
                                 "configID": 42608004
                             }
                         },
@@ -5406,7 +5406,7 @@
                             "value": 0.0,
                             "key": "_ELDRITCH_MINOR_ALERT_MISSPOINT",
                             "useLimitRange": true,
-                            "FACHGOPKJKE": true,
+                            "randomInRange": true,
                             "maxValue": 10.0,
                             "minValue": 1.0
                         },
@@ -5515,7 +5515,7 @@
                             "value": 0.0,
                             "key": "_ELDRITCH_MINOR_ALERT_MISSPOINT",
                             "useLimitRange": true,
-                            "FACHGOPKJKE": true,
+                            "randomInRange": true,
                             "maxValue": 10.0,
                             "minValue": 1.0
                         },

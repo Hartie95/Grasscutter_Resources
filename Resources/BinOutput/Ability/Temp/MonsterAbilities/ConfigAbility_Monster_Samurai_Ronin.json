@@ -1732,7 +1732,7 @@
                         {
                             "$type": "TriggerBullet",
                             "bulletID": 42508004,
-                            "ENJEPFDLDDF": "Self",
+                            "trackTarget": "Self",
                             "MLHHDMOKLBG": true
                         }
                     ],
@@ -1746,8 +1746,8 @@
                         },
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
-                                "AKMLOIFOBPO": "Reversed",
+                            "gadgetInfo": {
+                                "sortType": "Reversed",
                                 "configID": 42508004
                             }
                         }
@@ -1966,8 +1966,8 @@
                         "$type": "ConfigBornByAttachPoint",
                         "direction": {
                             "$type": "ConfigDirectionByAttackTarget",
-                            "IHHIKIACOML": "Vertical",
-                            "INCAGGBCJNF": 45.0
+                            "maxAngleType": "Vertical",
+                            "maxAngle": 45.0
                         },
                         "attachPointName": "WeaponL"
                     }
@@ -2345,13 +2345,13 @@
                                 "DefendLoop",
                                 "DefendHit"
                             ],
-                            "OKFKMBDCDHO": "DefendHit",
-                            "DEHPOLDCMNJ": 90.0,
-                            "OKEAOJGNCNJ": 1.0,
-                            "CLALNDAGFGJ": 0.0,
-                            "LCJAOCJNEJJ": 0.0,
-                            "HFCIHIJGLMA": 0,
-                            "GOLCBAPOOLF": [
+                            "defendTriggerID": "DefendHit",
+                            "defendAngle": 90.0,
+                            "defendProbability": 1.0,
+                            "defendProbabilityDelta": 0.0,
+                            "defendTimeInterval": 0.0,
+                            "defendCountInterval": 0,
+                            "onDefendSucceded": [
                                 {
                                     "$type": "SetGlobalValue",
                                     "value": 1.0,

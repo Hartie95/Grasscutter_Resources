@@ -899,7 +899,7 @@
                                     "gadgetID": 70950005,
                                     "campID": 1001,
                                     "campTargetType": "Enemy",
-                                    "CEBMHIFOHJM": true
+                                    "byServer": true
                                 },
                                 {
                                     "$type": "AddGlobalValue",

@@ -236,8 +236,8 @@
                         },
                         "direction": {
                             "$type": "ConfigDirectionByAttackTarget",
-                            "IHHIKIACOML": "Vertical",
-                            "INCAGGBCJNF": 30.0
+                            "maxAngleType": "Vertical",
+                            "maxAngle": 30.0
                         },
                         "attachPointName": "Head"
                     }
@@ -390,7 +390,7 @@
                         },
                         {
                             "$type": "HideUIBillBoard",
-                            "COCENMAFJGD": true
+                            "hide": true
                         },
                         {
                             "$type": "ApplyModifier",
@@ -560,7 +560,7 @@
                         },
                         {
                             "$type": "HideUIBillBoard",
-                            "COCENMAFJGD": true
+                            "hide": true
                         },
                         {
                             "$type": "ApplyModifier",
@@ -815,7 +815,7 @@
                                     "compareType": "NoneOrEqual"
                                 }
                             ],
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornByPredicatePoint",
                                 "onGround": true,
@@ -830,7 +830,7 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR30",
                                 "campTargetType": "SelfCamp",
                                 "sizeRatio": 1.0
@@ -848,7 +848,7 @@
                                     "value": 1.0
                                 }
                             ],
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornByTarget",
                                 "offset": {
@@ -873,7 +873,7 @@
                             "$type": "ApplyModifier",
                             "otherTargets": {
                                 "$type": "SelectTargetsByChildren",
-                                "AKMLOIFOBPO": "Reversed",
+                                "sortType": "Reversed",
                                 "configID": 42401007
                             },
                             "modifierName": "KillSelf_Latency"

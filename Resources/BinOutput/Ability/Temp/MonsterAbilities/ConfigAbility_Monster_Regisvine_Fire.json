@@ -28,10 +28,10 @@
                             "successActions": [
                                 {
                                     "$type": "CreateGadget",
-                                    "NJEOPILMKCN": true,
+                                    "lifeByOwnerIsAlive": true,
                                     "gadgetID": 42602017,
                                     "campID": 4001,
-                                    "CEBMHIFOHJM": true
+                                    "byServer": true
                                 },
                                 {
                                     "$type": "AddGlobalValue",
@@ -282,7 +282,7 @@
                                 "$type": "SelectTargetsByChildren",
                                 "configID": 42602017
                             },
-                            "COCENMAFJGD": true
+                            "hide": true
                         }
                     ]
                 }
@@ -397,7 +397,7 @@
                                 "$type": "SelectTargetsByChildren",
                                 "configID": 42602017
                             },
-                            "COCENMAFJGD": true
+                            "hide": true
                         },
                         {
                             "$type": "ApplyModifier",
@@ -434,7 +434,7 @@
                         "$type": "SelectTargetsByChildren",
                         "configID": 42602017
                     },
-                    "COCENMAFJGD": true
+                    "hide": true
                 },
                 {
                     "$type": "ApplyModifier",
@@ -472,10 +472,10 @@
                     "onRemoved": [
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "gadgetID": 42602018,
                             "campID": 4001,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         },
                         {
                             "$type": "AddGlobalValue",
@@ -637,7 +637,7 @@
                                 "$type": "SelectTargetsByChildren",
                                 "configID": 42602018
                             },
-                            "COCENMAFJGD": true
+                            "hide": true
                         }
                     ]
                 }
@@ -676,7 +676,7 @@
                                 "$type": "SelectTargetsByChildren",
                                 "configID": 42602018
                             },
-                            "COCENMAFJGD": true
+                            "hide": true
                         },
                         {
                             "$type": "ApplyModifier",
@@ -709,7 +709,7 @@
                         "$type": "SelectTargetsByChildren",
                         "configID": 42602018
                     },
-                    "COCENMAFJGD": true
+                    "hide": true
                 },
                 {
                     "$type": "ApplyModifier",
@@ -1114,7 +1114,7 @@
                 {
                     "$type": "CreateGadget",
                     "OAKAJFOAANM": true,
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornByTarget",
                         "offset": {
@@ -1143,7 +1143,7 @@
                 {
                     "$type": "CreateGadget",
                     "OAKAJFOAANM": true,
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornByTarget",
                         "offset": {
@@ -1196,7 +1196,7 @@
                 {
                     "$type": "CreateGadget",
                     "OAKAJFOAANM": true,
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornByTarget",
                         "offset": {
@@ -1225,7 +1225,7 @@
                 {
                     "$type": "CreateGadget",
                     "OAKAJFOAANM": true,
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornByTarget",
                         "offset": {
@@ -1278,7 +1278,7 @@
                 {
                     "$type": "CreateGadget",
                     "OAKAJFOAANM": true,
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornByTarget",
                         "offset": {
@@ -1307,7 +1307,7 @@
                 {
                     "$type": "CreateGadget",
                     "OAKAJFOAANM": true,
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornByTarget",
                         "offset": {
@@ -1360,7 +1360,7 @@
                 {
                     "$type": "CreateGadget",
                     "OAKAJFOAANM": true,
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornByTarget",
                         "offset": {
@@ -1389,7 +1389,7 @@
                 {
                     "$type": "CreateGadget",
                     "OAKAJFOAANM": true,
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornByTarget",
                         "offset": {
@@ -1466,8 +1466,8 @@
                                         "z": 0.0
                                     },
                                     "randomAngleHor": 2.5,
-                                    "IOIAHLPJDMH": 2.5,
-                                    "INCAGGBCJNF": 60.0
+                                    "randomAngleVer": 2.5,
+                                    "maxAngle": 60.0
                                 },
                                 "attachPointName": "BulletSourceL"
                             }
@@ -1485,8 +1485,8 @@
                                         "z": 0.0
                                     },
                                     "randomAngleHor": 2.5,
-                                    "IOIAHLPJDMH": 2.5,
-                                    "INCAGGBCJNF": 60.0
+                                    "randomAngleVer": 2.5,
+                                    "maxAngle": 60.0
                                 },
                                 "attachPointName": "BulletSourceR"
                             }
@@ -1522,8 +1522,8 @@
                                         "z": 0.0
                                     },
                                     "randomAngleHor": 2.5,
-                                    "IOIAHLPJDMH": 2.5,
-                                    "INCAGGBCJNF": 30.0
+                                    "randomAngleVer": 2.5,
+                                    "maxAngle": 30.0
                                 },
                                 "attachPointName": "BulletSourceL"
                             }
@@ -1541,8 +1541,8 @@
                                         "z": 0.0
                                     },
                                     "randomAngleHor": 2.5,
-                                    "IOIAHLPJDMH": 2.5,
-                                    "INCAGGBCJNF": 30.0
+                                    "randomAngleVer": 2.5,
+                                    "maxAngle": 30.0
                                 },
                                 "attachPointName": "BulletSourceR"
                             }
@@ -2355,7 +2355,7 @@
                     "otherTargets": {
                         "$type": "SelectTargetsByShape",
                         "DJLKFLJENEG": 1,
-                        "AKMLOIFOBPO": "Nearest",
+                        "sortType": "Nearest",
                         "shapeName": "CircleR50",
                         "campTargetType": "AllExceptSelf",
                         "sizeRatio": 1.0
@@ -2509,7 +2509,7 @@
                                             "forceByCaster": true
                                         }
                                     ],
-                                    "NJEOPILMKCN": true,
+                                    "lifeByOwnerIsAlive": true,
                                     "born": {
                                         "$type": "ConfigBornByPredicatePoint",
                                         "bornRandom": {
@@ -2537,7 +2537,7 @@
                             "actions": [
                                 {
                                     "$type": "CreateGadget",
-                                    "NJEOPILMKCN": true,
+                                    "lifeByOwnerIsAlive": true,
                                     "born": {
                                         "$type": "ConfigBornBySelf",
                                         "bornRandom": {
@@ -2584,7 +2584,7 @@
                                             "forceByCaster": true
                                         }
                                     ],
-                                    "NJEOPILMKCN": true,
+                                    "lifeByOwnerIsAlive": true,
                                     "born": {
                                         "$type": "ConfigBornByPredicatePoint",
                                         "bornRandom": {
@@ -2613,7 +2613,7 @@
                             "actions": [
                                 {
                                     "$type": "CreateGadget",
-                                    "NJEOPILMKCN": true,
+                                    "lifeByOwnerIsAlive": true,
                                     "born": {
                                         "$type": "ConfigBornBySelf",
                                         "bornRandom": {
@@ -2660,7 +2660,7 @@
                                             "forceByCaster": true
                                         }
                                     ],
-                                    "NJEOPILMKCN": true,
+                                    "lifeByOwnerIsAlive": true,
                                     "born": {
                                         "$type": "ConfigBornByPredicatePoint",
                                         "bornRandom": {
@@ -3203,7 +3203,7 @@
             "onAbilityStart": [
                 {
                     "$type": "CreateGadget",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornByGlobalValue",
                         "onGround": true,
@@ -3214,7 +3214,7 @@
                     "gadgetID": 42602024,
                     "campID": 4001,
                     "campTargetType": "Enemy",
-                    "CEBMHIFOHJM": true
+                    "byServer": true
                 }
             ]
         }
@@ -3236,7 +3236,7 @@
                     "gadgetID": 42602025,
                     "campID": 4001,
                     "campTargetType": "Enemy",
-                    "CEBMHIFOHJM": true
+                    "byServer": true
                 }
             ]
         }

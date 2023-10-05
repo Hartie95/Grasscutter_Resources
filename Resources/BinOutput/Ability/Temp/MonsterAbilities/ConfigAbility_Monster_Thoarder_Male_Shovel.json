@@ -116,8 +116,8 @@
                         },
                         "direction": {
                             "$type": "ConfigDirectionByAttackTarget",
-                            "IHHIKIACOML": "Horizontal",
-                            "INCAGGBCJNF": 15.0
+                            "maxAngleType": "Horizontal",
+                            "maxAngle": 15.0
                         },
                         "attachPointName": "WeaponR"
                     }
@@ -300,13 +300,13 @@
                         {
                             "$type": "TriggerAuxWeaponTrans",
                             "setEnable": true,
-                            "EPBOKNDHCPD": "equip01"
+                            "equipPart": "equip01"
                         }
                     ],
                     "onRemoved": [
                         {
                             "$type": "TriggerAuxWeaponTrans",
-                            "EPBOKNDHCPD": "equip01"
+                            "equipPart": "equip01"
                         }
                     ]
                 }

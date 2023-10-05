@@ -20,7 +20,7 @@
                     "modifierName": "",
                     "elementType": "Frozen",
                     "elementDurability": 50.0,
-                    "DDLOLBGNLEF": false,
+                    "isElementDurabilityMutable": false,
                     "onAdded": [
                         {
                             "$type": "AttachAbilityStateResistance",
@@ -66,7 +66,7 @@
                     "modifierName": "",
                     "elementType": "Frozen",
                     "elementDurability": 50.0,
-                    "DDLOLBGNLEF": false
+                    "isElementDurabilityMutable": false
                 },
                 "IceFloor_Trigger": {
                     "modifierName": "",
@@ -129,8 +129,8 @@
                             "shieldAngle": 360.0,
                             "shieldHPRatio": 1.0,
                             "damageRatio": 0.20000000298023224,
-                            "NGOKEFIDFCJ": true,
-                            "HJAIAEACKHM": true
+                            "useMutiPlayerFixData": true,
+                            "updateShieldByMaxHp": true
                         },
                         {
                             "$type": "AttachModifierToElementDurabilityMixin",
@@ -728,7 +728,7 @@
                     "otherTargets": {
                         "$type": "SelectTargetsByChildren",
                         "DJLKFLJENEG": 1,
-                        "AKMLOIFOBPO": "Reversed",
+                        "sortType": "Reversed",
                         "configID": 42001001
                     }
                 },

@@ -677,7 +677,7 @@
                                 {
                                     "$type": "CreateGadget",
                                     "target": "SelfAttackTarget",
-                                    "NJEOPILMKCN": true,
+                                    "lifeByOwnerIsAlive": true,
                                     "born": {
                                         "$type": "ConfigBornByTarget",
                                         "bornRandom": {
@@ -710,7 +710,7 @@
                                     "successActions": [
                                         {
                                             "$type": "CreateGadget",
-                                            "NJEOPILMKCN": true,
+                                            "lifeByOwnerIsAlive": true,
                                             "born": {
                                                 "$type": "ConfigBornByTarget",
                                                 "bornRandom": {
@@ -744,7 +744,7 @@
                                                 {
                                                     "$type": "CreateGadget",
                                                     "target": "SelfAttackTarget",
-                                                    "NJEOPILMKCN": true,
+                                                    "lifeByOwnerIsAlive": true,
                                                     "born": {
                                                         "$type": "ConfigBornByTarget",
                                                         "onGround": true
@@ -761,7 +761,7 @@
                                             "failActions": [
                                                 {
                                                     "$type": "CreateGadget",
-                                                    "NJEOPILMKCN": true,
+                                                    "lifeByOwnerIsAlive": true,
                                                     "born": {
                                                         "$type": "ConfigBornByTarget",
                                                         "bornRandom": {
@@ -789,7 +789,7 @@
                     "onThinkInterval": [
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornByTarget",
                                 "bornRandom": {
@@ -813,7 +813,7 @@
             "onAbilityStart": [
                 {
                     "$type": "CreateGadget",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornByTarget",
                         "offset": {

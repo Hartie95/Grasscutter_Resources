@@ -818,7 +818,7 @@
                             },
                             "gadgetID": 42006406,
                             "campID": 4001,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ],
                     "onRemoved": [
@@ -1093,7 +1093,7 @@
                             },
                             "gadgetID": 42006405,
                             "campID": 4001,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ],
                     "onRemoved": [
@@ -1188,7 +1188,7 @@
                             },
                             "gadgetID": 42006404,
                             "campID": 4001,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ]
                 },

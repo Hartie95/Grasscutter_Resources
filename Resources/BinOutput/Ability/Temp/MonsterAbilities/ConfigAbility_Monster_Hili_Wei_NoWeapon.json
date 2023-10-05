@@ -30,7 +30,7 @@
                     "onAdded": [
                         {
                             "$type": "HideUIBillBoard",
-                            "COCENMAFJGD": true
+                            "hide": true
                         },
                         {
                             "$type": "ShowUICombatBar",
@@ -230,10 +230,10 @@
                         {
                             "$type": "KillSelf",
                             "duration": 2.5,
-                            "BEKKIHBPHGD": true,
-                            "EOIGEKNINFE": true,
-                            "EKINLACJBGF": true,
-                            "PGGBJIDIINM": "Disappear"
+                            "banDrop": true,
+                            "banExp": true,
+                            "banHPPercentageDrop": true,
+                            "killSelfType": "Disappear"
                         }
                     ]
                 },
@@ -526,8 +526,8 @@
                                 },
                                 "direction": {
                                     "$type": "ConfigDirectionByAttackTarget",
-                                    "IHHIKIACOML": "Horizontal",
-                                    "INCAGGBCJNF": 15.0
+                                    "maxAngleType": "Horizontal",
+                                    "maxAngle": 15.0
                                 },
                                 "attachPointName": "WeaponL"
                             }
@@ -546,8 +546,8 @@
                                 },
                                 "direction": {
                                     "$type": "ConfigDirectionByAttackTarget",
-                                    "IHHIKIACOML": "Horizontal",
-                                    "INCAGGBCJNF": 15.0
+                                    "maxAngleType": "Horizontal",
+                                    "maxAngle": 15.0
                                 },
                                 "attachPointName": "WeaponL"
                             }
@@ -904,7 +904,7 @@
                         {
                             "$type": "TriggerCreateGadgetToEquipPart",
                             "gadgetID": 42101023,
-                            "EPBOKNDHCPD": "equip03"
+                            "equipPart": "equip03"
                         },
                         {
                             "$type": "SetPoseBool",
@@ -1093,13 +1093,13 @@
                         },
                         {
                             "$type": "TriggerThrowEquipPart",
-                            "EPBOKNDHCPD": "equip03",
+                            "equipPart": "equip03",
                             "born": {
                                 "$type": "ConfigBornByTarget",
                                 "direction": {
                                     "$type": "ConfigDirectionByAttackTarget",
-                                    "IHHIKIACOML": "Horizontal",
-                                    "INCAGGBCJNF": 30.0
+                                    "maxAngleType": "Horizontal",
+                                    "maxAngle": 30.0
                                 }
                             }
                         },

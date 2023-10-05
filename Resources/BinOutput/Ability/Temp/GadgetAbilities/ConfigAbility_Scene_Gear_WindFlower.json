@@ -1764,7 +1764,7 @@
                             },
                             "gadgetID": 70350148,
                             "campID": 5001,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         },
                         {
                             "$type": "CreateGadget",
@@ -1780,7 +1780,7 @@
                             },
                             "gadgetID": 70350137,
                             "campID": 5001,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         },
                         {
                             "$type": "CreateGadget",
@@ -1796,7 +1796,7 @@
                             },
                             "gadgetID": 70350136,
                             "campID": 5001,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ]
                 }

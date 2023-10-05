@@ -4693,7 +4693,7 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR8",
                                 "centerBasedOn": "Team",
                                 "campTargetType": "Enemy",
@@ -4723,7 +4723,7 @@
                             ]
                         }
                     ],
-                    "NHFJDDBKNCM": true
+                    "onThinkIntervalIsFixedUpdate": true
                 },
                 "UNIQUE_Bow_Kirin_Buff": {
                     "modifierName": "",

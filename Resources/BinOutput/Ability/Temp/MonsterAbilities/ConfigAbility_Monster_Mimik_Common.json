@@ -175,7 +175,7 @@
                     "onAdded": [
                         {
                             "$type": "HideUIBillBoard",
-                            "COCENMAFJGD": true
+                            "hide": true
                         },
                         {
                             "$type": "TriggerSetCastShadow"
@@ -1794,9 +1794,9 @@
                         },
                         {
                             "$type": "KillSelf",
-                            "BEKKIHBPHGD": true,
-                            "EOIGEKNINFE": true,
-                            "EKINLACJBGF": true
+                            "banDrop": true,
+                            "banExp": true,
+                            "banHPPercentageDrop": true
                         }
                     ]
                 }

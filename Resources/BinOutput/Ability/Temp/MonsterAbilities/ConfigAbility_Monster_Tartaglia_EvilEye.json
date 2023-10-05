@@ -131,12 +131,12 @@
                                 {
                                     "$type": "TriggerCreateGadgetToEquipPart",
                                     "gadgetID": 50004033,
-                                    "EPBOKNDHCPD": "equip02"
+                                    "equipPart": "equip02"
                                 },
                                 {
                                     "$type": "TriggerCreateGadgetToEquipPart",
                                     "gadgetID": 50004034,
-                                    "EPBOKNDHCPD": "equip03"
+                                    "equipPart": "equip03"
                                 },
                                 {
                                     "$type": "AddGlobalValue",
@@ -204,7 +204,7 @@
                                 {
                                     "$type": "TriggerCreateGadgetToEquipPart",
                                     "gadgetID": 50004037,
-                                    "EPBOKNDHCPD": "equip04"
+                                    "equipPart": "equip04"
                                 },
                                 {
                                     "$type": "AddGlobalValue",
@@ -686,7 +686,7 @@
                 },
                 {
                     "$type": "CreateGadget",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornByActionPoint",
                         "onGround": true,
@@ -700,7 +700,7 @@
                     "gadgetID": 42903101,
                     "campID": 4001,
                     "campTargetType": "Enemy",
-                    "CEBMHIFOHJM": true
+                    "byServer": true
                 }
             ],
             "onKill": [
@@ -1158,13 +1158,13 @@
                                 "SweepAttack_Flexible",
                                 "ChangePosition_Flexible"
                             ],
-                            "OKFKMBDCDHO": "DefendTrigger",
-                            "OKEAOJGNCNJ": 1.0,
-                            "CLALNDAGFGJ": 0.0,
-                            "LCJAOCJNEJJ": 0.0,
-                            "HFCIHIJGLMA": 0,
+                            "defendTriggerID": "DefendTrigger",
+                            "defendProbability": 1.0,
+                            "defendProbabilityDelta": 0.0,
+                            "defendTimeInterval": 0.0,
+                            "defendCountInterval": 0,
                             "attackType": "Melee",
-                            "GOLCBAPOOLF": [
+                            "onDefendSucceded": [
                                 {
                                     "$type": "SetRandomOverrideMapValue",
                                     "MOCGLDDNLKO": 1.0,
@@ -1401,12 +1401,12 @@
                             "stateIDs": [
                                 "BeHit"
                             ],
-                            "OKFKMBDCDHO": "",
-                            "OKEAOJGNCNJ": 1.0,
-                            "CLALNDAGFGJ": 0.0,
-                            "LCJAOCJNEJJ": "Tartaglia_EvilEye_Recover_RandomTime",
-                            "HFCIHIJGLMA": 0,
-                            "GOLCBAPOOLF": [
+                            "defendTriggerID": "",
+                            "defendProbability": 1.0,
+                            "defendProbabilityDelta": 0.0,
+                            "defendTimeInterval": "Tartaglia_EvilEye_Recover_RandomTime",
+                            "defendCountInterval": 0,
+                            "onDefendSucceded": [
                                 {
                                     "$type": "RemoveModifier",
                                     "modifierName": "Tartaglia_EvilEye_Recover_Timer"
@@ -1914,8 +1914,8 @@
                     "born": {
                         "$type": "ConfigBornBySelf"
                     },
-                    "NJEOPILMKCN": true,
-                    "ENJEPFDLDDF": "Self"
+                    "lifeByOwnerIsAlive": true,
+                    "trackTarget": "Self"
                 },
                 {
                     "$type": "TriggerBullet",
@@ -1923,8 +1923,8 @@
                     "born": {
                         "$type": "ConfigBornBySelf"
                     },
-                    "NJEOPILMKCN": true,
-                    "ENJEPFDLDDF": "Self"
+                    "lifeByOwnerIsAlive": true,
+                    "trackTarget": "Self"
                 },
                 {
                     "$type": "Predicated",

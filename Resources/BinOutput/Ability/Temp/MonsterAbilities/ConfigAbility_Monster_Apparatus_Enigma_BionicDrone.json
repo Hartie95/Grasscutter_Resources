@@ -211,8 +211,8 @@
                         },
                         "direction": {
                             "$type": "ConfigDirectionByAttackTarget",
-                            "IHHIKIACOML": "Vertical",
-                            "INCAGGBCJNF": 15.0
+                            "maxAngleType": "Vertical",
+                            "maxAngle": 15.0
                         },
                         "attachPointName": "CorePoint"
                     }
@@ -364,8 +364,8 @@
                         },
                         "direction": {
                             "$type": "ConfigDirectionByAttackTarget",
-                            "IHHIKIACOML": "Vertical",
-                            "INCAGGBCJNF": 45.0
+                            "maxAngleType": "Vertical",
+                            "maxAngle": 45.0
                         },
                         "attachPointName": "CorePoint"
                     }
@@ -506,7 +506,7 @@
                 {
                     "$type": "CreateGadget",
                     "IBGEDNNBIOF": "Owner",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornBySelf",
                         "offset": {
@@ -685,7 +685,7 @@
                                     "compareType": "NoneOrEqual"
                                 }
                             ],
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornByPredicatePoint",
                                 "onGround": true,
@@ -704,7 +704,7 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR30",
                                 "campTargetType": "SelfCamp",
                                 "sizeRatio": 1.0
@@ -722,7 +722,7 @@
                                     "value": 1.0
                                 }
                             ],
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornByTarget",
                                 "offset": {
@@ -743,7 +743,7 @@
                             "$type": "ApplyModifier",
                             "otherTargets": {
                                 "$type": "SelectTargetsByChildren",
-                                "AKMLOIFOBPO": "Reversed",
+                                "sortType": "Reversed",
                                 "configID": 42401005
                             },
                             "modifierName": "KillSelf_Latency"

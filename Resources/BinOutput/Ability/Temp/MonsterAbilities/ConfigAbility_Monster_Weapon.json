@@ -9,7 +9,7 @@
                 },
                 {
                     "$type": "HideUIBillBoard",
-                    "COCENMAFJGD": true
+                    "hide": true
                 }
             ]
         }
@@ -174,12 +174,12 @@
                                 "Defend",
                                 "Defend_AS"
                             ],
-                            "OKFKMBDCDHO": "DefendTrigger",
-                            "DEHPOLDCMNJ": 90.0,
-                            "OKEAOJGNCNJ": 1.0,
-                            "CLALNDAGFGJ": 0.0,
-                            "LCJAOCJNEJJ": 0.0,
-                            "HFCIHIJGLMA": 0
+                            "defendTriggerID": "DefendTrigger",
+                            "defendAngle": 90.0,
+                            "defendProbability": 1.0,
+                            "defendProbabilityDelta": 0.0,
+                            "defendTimeInterval": 0.0,
+                            "defendCountInterval": 0
                         }
                     ]
                 },
@@ -193,12 +193,12 @@
                                 "BeHit",
                                 "BeHitThrow"
                             ],
-                            "OKFKMBDCDHO": "DefendTrigger",
-                            "OKEAOJGNCNJ": 1.0,
-                            "CLALNDAGFGJ": 0.0,
-                            "LCJAOCJNEJJ": 4.0,
-                            "EAEELLPBGHO": false,
-                            "HFCIHIJGLMA": 0
+                            "defendTriggerID": "DefendTrigger",
+                            "defendProbability": 1.0,
+                            "defendProbabilityDelta": 0.0,
+                            "defendTimeInterval": 4.0,
+                            "alwaysRecover": false,
+                            "defendCountInterval": 0
                         }
                     ]
                 }
@@ -425,13 +425,13 @@
                                 "Defend",
                                 "DefendAttack"
                             ],
-                            "OKFKMBDCDHO": "DefendTrigger",
-                            "DEHPOLDCMNJ": 90.0,
-                            "OKEAOJGNCNJ": 1.0,
-                            "CLALNDAGFGJ": 0.0,
-                            "LCJAOCJNEJJ": 0.0,
-                            "HFCIHIJGLMA": 0,
-                            "GOLCBAPOOLF": [
+                            "defendTriggerID": "DefendTrigger",
+                            "defendAngle": 90.0,
+                            "defendProbability": 1.0,
+                            "defendProbabilityDelta": 0.0,
+                            "defendTimeInterval": 0.0,
+                            "defendCountInterval": 0,
+                            "onDefendSucceded": [
                                 {
                                     "$type": "FireEffect",
                                     "effectPattern": "Eff_Monster_Hili_None_Block"
@@ -471,14 +471,14 @@
                                 "DefendAttack",
                                 "BeHit"
                             ],
-                            "OKFKMBDCDHO": "DefendAttackTrigger",
-                            "DEHPOLDCMNJ": 90.0,
-                            "OKEAOJGNCNJ": 1.0,
-                            "CLALNDAGFGJ": 0.0,
-                            "LCJAOCJNEJJ": 0.0,
-                            "HFCIHIJGLMA": 0,
+                            "defendTriggerID": "DefendAttackTrigger",
+                            "defendAngle": 90.0,
+                            "defendProbability": 1.0,
+                            "defendProbabilityDelta": 0.0,
+                            "defendTimeInterval": 0.0,
+                            "defendCountInterval": 0,
                             "attackType": "Melee",
-                            "GOLCBAPOOLF": [
+                            "onDefendSucceded": [
                                 {
                                     "$type": "FireEffect",
                                     "effectPattern": "Eff_Monster_Hili_None_Block"
@@ -528,13 +528,13 @@
                                 "BeHit",
                                 "BeHitThrow"
                             ],
-                            "OKFKMBDCDHO": "DefendTrigger",
-                            "OKEAOJGNCNJ": 1.0,
-                            "CLALNDAGFGJ": 0.0,
-                            "LCJAOCJNEJJ": 4.0,
-                            "EAEELLPBGHO": false,
-                            "HFCIHIJGLMA": 0,
-                            "GOLCBAPOOLF": [
+                            "defendTriggerID": "DefendTrigger",
+                            "defendProbability": 1.0,
+                            "defendProbabilityDelta": 0.0,
+                            "defendTimeInterval": 4.0,
+                            "alwaysRecover": false,
+                            "defendCountInterval": 0,
+                            "onDefendSucceded": [
                                 {
                                     "$type": "ActCameraShake",
                                     "cameraShake": {
@@ -828,13 +828,13 @@
                                 "Defend",
                                 "DefendAttack"
                             ],
-                            "OKFKMBDCDHO": "DefendTrigger",
-                            "DEHPOLDCMNJ": 90.0,
-                            "OKEAOJGNCNJ": 1.0,
-                            "CLALNDAGFGJ": 0.0,
-                            "LCJAOCJNEJJ": 0.0,
-                            "HFCIHIJGLMA": 0,
-                            "GOLCBAPOOLF": [
+                            "defendTriggerID": "DefendTrigger",
+                            "defendAngle": 90.0,
+                            "defendProbability": 1.0,
+                            "defendProbabilityDelta": 0.0,
+                            "defendTimeInterval": 0.0,
+                            "defendCountInterval": 0,
+                            "onDefendSucceded": [
                                 {
                                     "$type": "FireEffect",
                                     "effectPattern": "Eff_Monster_Hili_Rock_Block"
@@ -856,13 +856,13 @@
                                 "BeHit",
                                 "BeHitThrow"
                             ],
-                            "OKFKMBDCDHO": "DefendTrigger",
-                            "OKEAOJGNCNJ": 1.0,
-                            "CLALNDAGFGJ": 0.0,
-                            "LCJAOCJNEJJ": 4.0,
-                            "EAEELLPBGHO": false,
-                            "HFCIHIJGLMA": 0,
-                            "GOLCBAPOOLF": [
+                            "defendTriggerID": "DefendTrigger",
+                            "defendProbability": 1.0,
+                            "defendProbabilityDelta": 0.0,
+                            "defendTimeInterval": 4.0,
+                            "alwaysRecover": false,
+                            "defendCountInterval": 0,
+                            "onDefendSucceded": [
                                 {
                                     "$type": "FireEffect",
                                     "effectPattern": "Eff_Monster_Hili_Rock_Block"
@@ -1110,13 +1110,13 @@
                                 "Defend",
                                 "DefendAttack"
                             ],
-                            "OKFKMBDCDHO": "DefendTrigger",
-                            "DEHPOLDCMNJ": 90.0,
-                            "OKEAOJGNCNJ": 1.0,
-                            "CLALNDAGFGJ": 0.0,
-                            "LCJAOCJNEJJ": 0.0,
-                            "HFCIHIJGLMA": 0,
-                            "GOLCBAPOOLF": [
+                            "defendTriggerID": "DefendTrigger",
+                            "defendAngle": 90.0,
+                            "defendProbability": 1.0,
+                            "defendProbabilityDelta": 0.0,
+                            "defendTimeInterval": 0.0,
+                            "defendCountInterval": 0,
+                            "onDefendSucceded": [
                                 {
                                     "$type": "FireEffect",
                                     "effectPattern": "Eff_Monster_Hili_Rock_Block"
@@ -1138,13 +1138,13 @@
                                 "BeHit",
                                 "BeHitThrow"
                             ],
-                            "OKFKMBDCDHO": "DefendTrigger",
-                            "OKEAOJGNCNJ": 1.0,
-                            "CLALNDAGFGJ": 0.0,
-                            "LCJAOCJNEJJ": 4.0,
-                            "EAEELLPBGHO": false,
-                            "HFCIHIJGLMA": 0,
-                            "GOLCBAPOOLF": [
+                            "defendTriggerID": "DefendTrigger",
+                            "defendProbability": 1.0,
+                            "defendProbabilityDelta": 0.0,
+                            "defendTimeInterval": 4.0,
+                            "alwaysRecover": false,
+                            "defendCountInterval": 0,
+                            "onDefendSucceded": [
                                 {
                                     "$type": "FireEffect",
                                     "effectPattern": "Eff_Monster_Hili_Rock_Block"

@@ -132,7 +132,7 @@
                             "$type": "Predicated",
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR15",
                                 "campTargetType": "Alliance",
                                 "sizeRatio": 1.0

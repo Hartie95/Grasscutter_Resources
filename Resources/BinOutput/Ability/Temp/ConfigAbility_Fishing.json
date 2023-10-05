@@ -1482,7 +1482,7 @@
                         {
                             "$type": "KillGadget",
                             "doOffStage": true,
-                            "LBGGIBBMCMF": {
+                            "gadgetInfo": {
                                 "configID": 42000002
                             }
                         },
@@ -1501,7 +1501,7 @@
                         {
                             "$type": "KillGadget",
                             "doOffStage": true,
-                            "LBGGIBBMCMF": {
+                            "gadgetInfo": {
                                 "configID": 42000002
                             }
                         },

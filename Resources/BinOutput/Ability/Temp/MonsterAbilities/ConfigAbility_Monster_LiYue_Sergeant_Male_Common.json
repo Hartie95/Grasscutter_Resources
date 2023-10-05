@@ -314,13 +314,13 @@
                         {
                             "$type": "TriggerAuxWeaponTrans",
                             "setEnable": true,
-                            "EPBOKNDHCPD": "equip01"
+                            "equipPart": "equip01"
                         }
                     ],
                     "onRemoved": [
                         {
                             "$type": "TriggerAuxWeaponTrans",
-                            "EPBOKNDHCPD": "equip01"
+                            "equipPart": "equip01"
                         }
                     ]
                 }

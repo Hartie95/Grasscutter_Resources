@@ -272,7 +272,7 @@
                         },
                         {
                             "$type": "HideUIBillBoard",
-                            "COCENMAFJGD": true
+                            "hide": true
                         },
                         {
                             "$type": "TriggerSetVisible"
@@ -770,8 +770,8 @@
                         },
                         "direction": {
                             "$type": "ConfigDirectionByAttackTarget",
-                            "IHHIKIACOML": "Vertical",
-                            "INCAGGBCJNF": 10.0
+                            "maxAngleType": "Vertical",
+                            "maxAngle": 10.0
                         }
                     }
                 }
@@ -871,8 +871,8 @@
                                 "y": 0.0,
                                 "z": 0.0
                             },
-                            "IHHIKIACOML": "Horizontal",
-                            "INCAGGBCJNF": 30.0
+                            "maxAngleType": "Horizontal",
+                            "maxAngle": 30.0
                         }
                     }
                 },
@@ -893,8 +893,8 @@
                                 "y": 20.0,
                                 "z": 0.0
                             },
-                            "IHHIKIACOML": "Horizontal",
-                            "INCAGGBCJNF": 30.0
+                            "maxAngleType": "Horizontal",
+                            "maxAngle": 30.0
                         }
                     }
                 },
@@ -915,8 +915,8 @@
                                 "y": -20.0,
                                 "z": 0.0
                             },
-                            "IHHIKIACOML": "Horizontal",
-                            "INCAGGBCJNF": 30.0
+                            "maxAngleType": "Horizontal",
+                            "maxAngle": 30.0
                         }
                     }
                 }
@@ -1139,7 +1139,7 @@
                     "onAdded": [
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "offset": {
@@ -1151,7 +1151,7 @@
                             "JCAMCEOBIFG": true,
                             "gadgetID": 42301001,
                             "campID": 4001,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         },
                         {
                             "$type": "ApplyModifier",

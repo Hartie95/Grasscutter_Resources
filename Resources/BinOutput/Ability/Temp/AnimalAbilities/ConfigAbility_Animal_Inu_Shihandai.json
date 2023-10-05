@@ -117,7 +117,7 @@
                         },
                         {
                             "$type": "HideUIBillBoard",
-                            "COCENMAFJGD": true
+                            "hide": true
                         },
                         {
                             "$type": "EnablePushColliderName",
@@ -396,7 +396,7 @@
                         },
                         {
                             "$type": "HideUIBillBoard",
-                            "COCENMAFJGD": true
+                            "hide": true
                         },
                         {
                             "$type": "EnablePushColliderName",
@@ -1131,7 +1131,7 @@
                         },
                         {
                             "$type": "HideUIBillBoard",
-                            "COCENMAFJGD": true
+                            "hide": true
                         },
                         {
                             "$type": "TriggerSetVisible"
@@ -1215,7 +1215,7 @@
                         },
                         {
                             "$type": "HideUIBillBoard",
-                            "COCENMAFJGD": true
+                            "hide": true
                         },
                         {
                             "$type": "EnablePushColliderName",
@@ -2099,7 +2099,7 @@
                     "onAdded": [
                         {
                             "$type": "HideUIBillBoard",
-                            "COCENMAFJGD": true
+                            "hide": true
                         },
                         {
                             "$type": "EnablePushColliderName",
@@ -3334,7 +3334,7 @@
                         },
                         {
                             "$type": "HideUIBillBoard",
-                            "COCENMAFJGD": true
+                            "hide": true
                         },
                         {
                             "$type": "EnablePushColliderName",
@@ -4902,7 +4902,7 @@
                         },
                         {
                             "$type": "HideUIBillBoard",
-                            "COCENMAFJGD": true
+                            "hide": true
                         },
                         {
                             "$type": "EnablePushColliderName",
@@ -5020,7 +5020,7 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsBySelfGroup",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Random",
+                                "sortType": "Random",
                                 "KECDOIAINMG": 1,
                                 "compareType": "GreaterOrEqual"
                             },
@@ -5285,7 +5285,7 @@
                                 }
                             ],
                             "bulletID": 42607011,
-                            "ENJEPFDLDDF": "Self"
+                            "trackTarget": "Self"
                         },
                         {
                             "$type": "FixedMonsterRushMove",
@@ -5315,8 +5315,8 @@
                                     "compareType": "NoneOrEqual"
                                 }
                             ],
-                            "LBGGIBBMCMF": {
-                                "AKMLOIFOBPO": "Reversed",
+                            "gadgetInfo": {
+                                "sortType": "Reversed",
                                 "configID": 42607011
                             }
                         }
@@ -5860,12 +5860,12 @@
                                 "NormalMove",
                                 "Block"
                             ],
-                            "OKFKMBDCDHO": "TriggerDefend",
-                            "OKEAOJGNCNJ": 1.0,
-                            "CLALNDAGFGJ": 0.0,
-                            "LCJAOCJNEJJ": 0.0,
-                            "HFCIHIJGLMA": 0,
-                            "GOLCBAPOOLF": [
+                            "defendTriggerID": "TriggerDefend",
+                            "defendProbability": 1.0,
+                            "defendProbabilityDelta": 0.0,
+                            "defendTimeInterval": 0.0,
+                            "defendCountInterval": 0,
+                            "onDefendSucceded": [
                                 {
                                     "$type": "ApplyModifier",
                                     "predicates": [

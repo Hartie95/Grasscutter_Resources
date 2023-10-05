@@ -225,7 +225,7 @@
                         },
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "offset": {
@@ -235,7 +235,7 @@
                                 }
                             },
                             "gadgetID": 42206009,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         },
                         {
                             "$type": "SetGlobalValue",
@@ -664,7 +664,7 @@
                     },
                     "JCAMCEOBIFG": true,
                     "gadgetID": 42206007,
-                    "CEBMHIFOHJM": true
+                    "byServer": true
                 },
                 {
                     "$type": "AttachAbilityStateResistance",
@@ -984,7 +984,7 @@
                     "onAdded": [
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornByGlobalValue",
                                 "offset": {
@@ -1006,11 +1006,11 @@
                             "JCAMCEOBIFG": true,
                             "gadgetID": 42206002,
                             "campID": 4001,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         },
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornByGlobalValue",
                                 "offset": {
@@ -1032,11 +1032,11 @@
                             "JCAMCEOBIFG": true,
                             "gadgetID": 42206002,
                             "campID": 4001,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         },
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornByGlobalValue",
                                 "offset": {
@@ -1058,7 +1058,7 @@
                             "JCAMCEOBIFG": true,
                             "gadgetID": 42206002,
                             "campID": 4001,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ]
                 },
@@ -1206,14 +1206,14 @@
                                         "z": 0.0
                                     },
                                     "randomAngleHor": 15.0,
-                                    "IOIAHLPJDMH": 15.0,
+                                    "randomAngleVer": 15.0,
                                     "attachPointName": "ChestAttachPoint",
                                     "attachPointTargetType": "Self"
                                 },
                                 "attachPointName": "ChestAttachPoint",
                                 "attachPointTargetType": "Self"
                             },
-                            "ENJEPFDLDDF": "Target"
+                            "trackTarget": "Target"
                         }
                     ]
                 },
@@ -1571,14 +1571,14 @@
                                         "z": 0.0
                                     },
                                     "randomAngleHor": 15.0,
-                                    "IOIAHLPJDMH": 5.0,
+                                    "randomAngleVer": 5.0,
                                     "attachPointName": "BulletAttachPoint",
                                     "attachPointTargetType": "Caster"
                                 },
                                 "attachPointName": "BulletAttachPoint",
                                 "attachPointTargetType": "Caster"
                             },
-                            "NJEOPILMKCN": true
+                            "lifeByOwnerIsAlive": true
                         }
                     ]
                 },
@@ -1678,7 +1678,7 @@
                                 "attachPointName": "RootNode",
                                 "attachPointTargetType": "Self"
                             },
-                            "ENJEPFDLDDF": "OriginOwner"
+                            "trackTarget": "OriginOwner"
                         }
                     ]
                 },
@@ -2053,7 +2053,7 @@
                                 "attachPointName": "RootNode",
                                 "attachPointTargetType": "Self"
                             },
-                            "ENJEPFDLDDF": "Self"
+                            "trackTarget": "Self"
                         },
                         {
                             "$type": "AttachEffect",
@@ -4738,7 +4738,7 @@
                             "BOJIBPNEOHP": true
                         }
                     ],
-                    "NHFJDDBKNCM": true,
+                    "onThinkIntervalIsFixedUpdate": true,
                     "HFBALDBFOOH": [
                         "Corruption"
                     ]

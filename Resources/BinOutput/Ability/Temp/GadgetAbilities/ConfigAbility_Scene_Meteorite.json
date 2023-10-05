@@ -288,7 +288,7 @@
                     "$type": "ApplyModifier",
                     "otherTargets": {
                         "$type": "SelectTargetsByShape",
-                        "AKMLOIFOBPO": "Nearest",
+                        "sortType": "Nearest",
                         "shapeName": "CircleR5",
                         "campTargetType": "Enemy",
                         "sizeRatio": 1.0
@@ -742,7 +742,7 @@
                             },
                             "gadgetID": 70900360,
                             "campID": 5001,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ]
                 },
@@ -772,7 +772,7 @@
                                 "shapeName": "CircleR5",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -799,7 +799,7 @@
                                 "shapeName": "CircleR5",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -867,7 +867,7 @@
                                 "shapeName": "CircleR5",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -894,7 +894,7 @@
                                 "shapeName": "CircleR5",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -977,7 +977,7 @@
                                 "shapeName": "CircleR5",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -1004,7 +1004,7 @@
                                 "shapeName": "CircleR5",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -1152,7 +1152,7 @@
                                 "shapeName": "CircleR50",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "AllExceptSelf",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -1179,7 +1179,7 @@
                                 "shapeName": "CircleR50",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "AllExceptSelf",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -1295,7 +1295,7 @@
                                 "shapeName": "CircleR50",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "AllExceptSelf",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -1620,7 +1620,7 @@
                             },
                             "gadgetID": 70900360,
                             "campID": 5001,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ]
                 },
@@ -1650,7 +1650,7 @@
                                 "shapeName": "CircleR5",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -1677,7 +1677,7 @@
                                 "shapeName": "CircleR5",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -1744,7 +1744,7 @@
                                 "shapeName": "CircleR5",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -1770,7 +1770,7 @@
                                 "shapeName": "CircleR5",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -1853,7 +1853,7 @@
                                 "shapeName": "CircleR5",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -1880,7 +1880,7 @@
                                 "shapeName": "CircleR5",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -2028,7 +2028,7 @@
                                 "shapeName": "CircleR50",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "AllExceptSelf",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -2055,7 +2055,7 @@
                                 "shapeName": "CircleR50",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "AllExceptSelf",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -2171,7 +2171,7 @@
                                 "shapeName": "CircleR50",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "AllExceptSelf",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -2496,7 +2496,7 @@
                             },
                             "gadgetID": 70900360,
                             "campID": 5001,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ]
                 },
@@ -2526,7 +2526,7 @@
                                 "shapeName": "CircleR5",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -2553,7 +2553,7 @@
                                 "shapeName": "CircleR5",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -2620,7 +2620,7 @@
                                 "shapeName": "CircleR5",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -2646,7 +2646,7 @@
                                 "shapeName": "CircleR5",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -2729,7 +2729,7 @@
                                 "shapeName": "CircleR5",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -2756,7 +2756,7 @@
                                 "shapeName": "CircleR5",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -2904,7 +2904,7 @@
                                 "shapeName": "CircleR50",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "AllExceptSelf",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -2931,7 +2931,7 @@
                                 "shapeName": "CircleR50",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "AllExceptSelf",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -3030,7 +3030,7 @@
                                 "shapeName": "CircleR50",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "AllExceptSelf",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -3355,7 +3355,7 @@
                             },
                             "gadgetID": 70900360,
                             "campID": 5001,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ]
                 },
@@ -3385,7 +3385,7 @@
                                 "shapeName": "CircleR5",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -3412,7 +3412,7 @@
                                 "shapeName": "CircleR5",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -3479,7 +3479,7 @@
                                 "shapeName": "CircleR5",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -3505,7 +3505,7 @@
                                 "shapeName": "CircleR5",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -3588,7 +3588,7 @@
                                 "shapeName": "CircleR5",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -3615,7 +3615,7 @@
                                 "shapeName": "CircleR5",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -3763,7 +3763,7 @@
                                 "shapeName": "CircleR50",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "AllExceptSelf",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -3790,7 +3790,7 @@
                                 "shapeName": "CircleR50",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "AllExceptSelf",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -3906,7 +3906,7 @@
                                 "shapeName": "CircleR50",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "AllExceptSelf",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [

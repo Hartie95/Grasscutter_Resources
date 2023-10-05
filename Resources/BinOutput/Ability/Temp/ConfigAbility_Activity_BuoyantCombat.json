@@ -1083,7 +1083,7 @@
                                             "value": 0.0,
                                             "key": "_ActivityAbility_BuoyantCombat_WindBase_Type",
                                             "useLimitRange": true,
-                                            "FACHGOPKJKE": true,
+                                            "randomInRange": true,
                                             "maxValue": 4.0,
                                             "minValue": 0.0
                                         },
@@ -1618,9 +1618,9 @@
                     "onRemoved": [
                         {
                             "$type": "KillSelf",
-                            "BEKKIHBPHGD": true,
-                            "EOIGEKNINFE": true,
-                            "PGGBJIDIINM": "Disappear"
+                            "banDrop": true,
+                            "banExp": true,
+                            "killSelfType": "Disappear"
                         }
                     ],
                     "onThinkInterval": [
@@ -1991,7 +1991,7 @@
                                     "value": 0.0,
                                     "key": "_ActivityAbility_BuoyantCombat_GatherLv3_Type",
                                     "useLimitRange": true,
-                                    "FACHGOPKJKE": true,
+                                    "randomInRange": true,
                                     "maxValue": 4.0,
                                     "minValue": 0.0
                                 },
@@ -3129,11 +3129,11 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Random",
+                                "sortType": "Random",
                                 "shapeName": "CircleR5",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "Enemy",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "targetPredicates": [
@@ -3177,11 +3177,11 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Random",
+                                "sortType": "Random",
                                 "shapeName": "CircleR5",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "Enemy",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "targetPredicates": [

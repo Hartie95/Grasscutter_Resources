@@ -83,7 +83,7 @@
                         },
                         {
                             "$type": "HideUIBillBoard",
-                            "COCENMAFJGD": true
+                            "hide": true
                         },
                         {
                             "$type": "EnablePushColliderName",
@@ -865,7 +865,7 @@
                         "MICIJLHMIIH": ""
                     },
                     "IBGEDNNBIOF": "Owner",
-                    "ENJEPFDLDDF": "Self",
+                    "trackTarget": "Self",
                     "JCAMCEOBIFG": true
                 }
             ]
@@ -937,7 +937,7 @@
                                 },
                                 {
                                     "$type": "CreateGadget",
-                                    "NJEOPILMKCN": true,
+                                    "lifeByOwnerIsAlive": true,
                                     "born": {
                                         "$type": "ConfigBornByGlobalValue",
                                         "offset": {
@@ -973,7 +973,7 @@
                                 },
                                 {
                                     "$type": "CreateGadget",
-                                    "NJEOPILMKCN": true,
+                                    "lifeByOwnerIsAlive": true,
                                     "born": {
                                         "$type": "ConfigBornByGlobalValue",
                                         "offset": {
@@ -1082,7 +1082,7 @@
                             "gadgetID": 42005015,
                             "campID": 1001,
                             "campTargetType": "Enemy",
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ]
                 },
@@ -1986,7 +1986,7 @@
                             "value": 0.0,
                             "key": "_MONSTER_OCEANID_02_RUSHADD",
                             "useLimitRange": true,
-                            "FACHGOPKJKE": true,
+                            "randomInRange": true,
                             "maxValue": 3.0,
                             "minValue": 1.0
                         },
@@ -3064,7 +3064,7 @@
                                     "successActions": [
                                         {
                                             "$type": "CreateGadget",
-                                            "NJEOPILMKCN": true,
+                                            "lifeByOwnerIsAlive": true,
                                             "born": {
                                                 "$type": "ConfigBornByGlobalValue",
                                                 "GDENJEFPMGC": "_OCEANID_MUSTKILL_POSONE",
@@ -3076,7 +3076,7 @@
                                         },
                                         {
                                             "$type": "CreateGadget",
-                                            "NJEOPILMKCN": true,
+                                            "lifeByOwnerIsAlive": true,
                                             "born": {
                                                 "$type": "ConfigBornByGlobalValue",
                                                 "GDENJEFPMGC": "_OCEANID_MUSTKILL_POSTHREE",
@@ -3094,7 +3094,7 @@
                                             "successActions": [
                                                 {
                                                     "$type": "CreateGadget",
-                                                    "NJEOPILMKCN": true,
+                                                    "lifeByOwnerIsAlive": true,
                                                     "born": {
                                                         "$type": "ConfigBornByGlobalValue",
                                                         "GDENJEFPMGC": "_OCEANID_MUSTKILL_POSTWO",
@@ -3106,7 +3106,7 @@
                                                 },
                                                 {
                                                     "$type": "CreateGadget",
-                                                    "NJEOPILMKCN": true,
+                                                    "lifeByOwnerIsAlive": true,
                                                     "born": {
                                                         "$type": "ConfigBornByGlobalValue",
                                                         "GDENJEFPMGC": "_OCEANID_MUSTKILL_POSFOUR",
@@ -3120,7 +3120,7 @@
                                             "failActions": [
                                                 {
                                                     "$type": "CreateGadget",
-                                                    "NJEOPILMKCN": true,
+                                                    "lifeByOwnerIsAlive": true,
                                                     "born": {
                                                         "$type": "ConfigBornByGlobalValue",
                                                         "GDENJEFPMGC": "_OCEANID_MUSTKILL_POSONE",
@@ -3132,7 +3132,7 @@
                                                 },
                                                 {
                                                     "$type": "CreateGadget",
-                                                    "NJEOPILMKCN": true,
+                                                    "lifeByOwnerIsAlive": true,
                                                     "born": {
                                                         "$type": "ConfigBornByGlobalValue",
                                                         "GDENJEFPMGC": "_OCEANID_MUSTKILL_POSFOUR",
@@ -3150,7 +3150,7 @@
                             "failActions": [
                                 {
                                     "$type": "CreateGadget",
-                                    "NJEOPILMKCN": true,
+                                    "lifeByOwnerIsAlive": true,
                                     "born": {
                                         "$type": "ConfigBornByGlobalValue",
                                         "GDENJEFPMGC": "_OCEANID_MUSTKILL_POSONE",
@@ -3162,7 +3162,7 @@
                                 },
                                 {
                                     "$type": "CreateGadget",
-                                    "NJEOPILMKCN": true,
+                                    "lifeByOwnerIsAlive": true,
                                     "born": {
                                         "$type": "ConfigBornByGlobalValue",
                                         "GDENJEFPMGC": "_OCEANID_MUSTKILL_POSTWO",
@@ -3174,7 +3174,7 @@
                                 },
                                 {
                                     "$type": "CreateGadget",
-                                    "NJEOPILMKCN": true,
+                                    "lifeByOwnerIsAlive": true,
                                     "born": {
                                         "$type": "ConfigBornByGlobalValue",
                                         "GDENJEFPMGC": "_OCEANID_MUSTKILL_POSTHREE",
@@ -3186,7 +3186,7 @@
                                 },
                                 {
                                     "$type": "CreateGadget",
-                                    "NJEOPILMKCN": true,
+                                    "lifeByOwnerIsAlive": true,
                                     "born": {
                                         "$type": "ConfigBornByGlobalValue",
                                         "GDENJEFPMGC": "_OCEANID_MUSTKILL_POSFOUR",
@@ -3586,7 +3586,7 @@
                             "JCAMCEOBIFG": true,
                             "gadgetID": 42005019,
                             "campID": 4001,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ]
                 }
@@ -4048,7 +4048,7 @@
                     "isUnique": true,
                     "elementType": "Water",
                     "elementDurability": 100.0,
-                    "DDLOLBGNLEF": false,
+                    "isElementDurabilityMutable": false,
                     "properties": {
                         "Actor_EndureDelta": 0.0
                     }

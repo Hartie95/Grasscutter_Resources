@@ -478,7 +478,7 @@
                                 }
                             ],
                             "showDamageText": "",
-                            "NGOKEFIDFCJ": true
+                            "useMutiPlayerFixData": true
                         },
                         {
                             "$type": "DoActionBySelfModifierElementDurabilityRatioMixin",
@@ -737,13 +737,13 @@
                         },
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
+                            "gadgetInfo": {
                                 "configID": 42601020
                             }
                         },
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
+                            "gadgetInfo": {
                                 "configID": 42601018
                             }
                         },
@@ -757,7 +757,7 @@
                         },
                         {
                             "$type": "KillServerGadget",
-                            "LBGGIBBMCMF": {
+                            "gadgetInfo": {
                                 "configID": 42601017
                             }
                         },
@@ -1662,7 +1662,7 @@
             "onAdded": [
                 {
                     "$type": "CreateGadget",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornBySelf",
                         "offset": {
@@ -1672,7 +1672,7 @@
                         }
                     },
                     "gadgetID": 42004006,
-                    "CEBMHIFOHJM": true
+                    "byServer": true
                 }
             ]
         }
@@ -1712,7 +1712,7 @@
                                     "value": 0.0
                                 }
                             ],
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornByPredicatePoint",
                                 "bornRandom": {
@@ -1727,7 +1727,7 @@
                             "JCAMCEOBIFG": true,
                             "gadgetID": 42601019,
                             "campID": 4001,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         },
                         {
                             "$type": "ServerLuaCall",
@@ -1825,7 +1825,7 @@
                                 {
                                     "$type": "CreateGadget",
                                     "target": "SelfAttackTarget",
-                                    "NJEOPILMKCN": true,
+                                    "lifeByOwnerIsAlive": true,
                                     "born": {
                                         "$type": "ConfigBornByPredicatePoint",
                                         "bornRandom": {
@@ -1840,7 +1840,7 @@
                                     "JCAMCEOBIFG": true,
                                     "gadgetID": 42601019,
                                     "campID": 4001,
-                                    "CEBMHIFOHJM": true
+                                    "byServer": true
                                 },
                                 {
                                     "$type": "ServerLuaCall",
@@ -1875,7 +1875,7 @@
                                 {
                                     "$type": "CreateGadget",
                                     "target": "SelfAttackTarget",
-                                    "NJEOPILMKCN": true,
+                                    "lifeByOwnerIsAlive": true,
                                     "born": {
                                         "$type": "ConfigBornByPredicatePoint",
                                         "bornRandom": {
@@ -1890,7 +1890,7 @@
                                     "JCAMCEOBIFG": true,
                                     "gadgetID": 42601019,
                                     "campID": 4001,
-                                    "CEBMHIFOHJM": true
+                                    "byServer": true
                                 }
                             ]
                         },
@@ -1983,7 +1983,7 @@
                         {
                             "$type": "CreateGadget",
                             "target": "SelfAttackTarget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornByPredicatePoint",
                                 "bornRandom": {
@@ -1998,7 +1998,7 @@
                             "JCAMCEOBIFG": true,
                             "gadgetID": 42601019,
                             "campID": 4001,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         },
                         {
                             "$type": "ServerLuaCall",
@@ -2107,7 +2107,7 @@
                                     "otherTargets": {
                                         "$type": "SelectTargetsByShape",
                                         "DJLKFLJENEG": 1,
-                                        "AKMLOIFOBPO": "Nearest",
+                                        "sortType": "Nearest",
                                         "shapeName": "CircleR50",
                                         "campTargetType": "AllExceptSelf",
                                         "sizeRatio": 1.0
@@ -2343,7 +2343,7 @@
                     "otherTargets": {
                         "$type": "SelectTargetsByShape",
                         "DJLKFLJENEG": 1,
-                        "AKMLOIFOBPO": "Nearest",
+                        "sortType": "Nearest",
                         "shapeName": "CircleR20H10",
                         "campTargetType": "AllExceptSelf",
                         "sizeRatio": 1.0
@@ -2389,7 +2389,7 @@
                     "otherTargets": {
                         "$type": "SelectTargetsByShape",
                         "DJLKFLJENEG": 1,
-                        "AKMLOIFOBPO": "Nearest",
+                        "sortType": "Nearest",
                         "shapeName": "CircleR50",
                         "campTargetType": "AllExceptSelf",
                         "sizeRatio": 1.0
@@ -2428,7 +2428,7 @@
                                     "otherTargets": {
                                         "$type": "SelectTargetsByShape",
                                         "DJLKFLJENEG": 1,
-                                        "AKMLOIFOBPO": "Nearest",
+                                        "sortType": "Nearest",
                                         "shapeName": "CircleR50",
                                         "campTargetType": "AllExceptSelf",
                                         "sizeRatio": 1.0
@@ -2652,7 +2652,7 @@
                     "otherTargets": {
                         "$type": "SelectTargetsByShape",
                         "DJLKFLJENEG": 1,
-                        "AKMLOIFOBPO": "Nearest",
+                        "sortType": "Nearest",
                         "shapeName": "CircleR20H10",
                         "campTargetType": "AllExceptSelf",
                         "sizeRatio": 1.0
@@ -2698,7 +2698,7 @@
                     "otherTargets": {
                         "$type": "SelectTargetsByShape",
                         "DJLKFLJENEG": 1,
-                        "AKMLOIFOBPO": "Nearest",
+                        "sortType": "Nearest",
                         "shapeName": "CircleR50",
                         "campTargetType": "AllExceptSelf",
                         "sizeRatio": 1.0
@@ -2732,7 +2732,7 @@
                     "otherTargets": {
                         "$type": "SelectTargetsByShape",
                         "DJLKFLJENEG": 1,
-                        "AKMLOIFOBPO": "Nearest",
+                        "sortType": "Nearest",
                         "shapeName": "CircleR50",
                         "campTargetType": "AllExceptSelf",
                         "sizeRatio": 1.0
@@ -3036,7 +3036,7 @@
                     "otherTargets": {
                         "$type": "SelectTargetsByShape",
                         "DJLKFLJENEG": 1,
-                        "AKMLOIFOBPO": "Nearest",
+                        "sortType": "Nearest",
                         "shapeName": "CircleR50",
                         "campTargetType": "AllExceptSelf",
                         "sizeRatio": 1.0
@@ -3478,7 +3478,7 @@
                     "otherTargets": {
                         "$type": "SelectTargetsByShape",
                         "DJLKFLJENEG": 1,
-                        "AKMLOIFOBPO": "Nearest",
+                        "sortType": "Nearest",
                         "shapeName": "CircleR50",
                         "campTargetType": "AllExceptSelf",
                         "sizeRatio": 1.0
@@ -3898,7 +3898,7 @@
                     "$type": "CreateGadget",
                     "target": "Owner",
                     "OAKAJFOAANM": true,
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornBySelf",
                         "offset": {
@@ -3912,7 +3912,7 @@
                     "JCAMCEOBIFG": true,
                     "gadgetID": 42601017,
                     "campID": 4001,
-                    "CEBMHIFOHJM": true
+                    "byServer": true
                 },
                 {
                     "$type": "RemoveModifier",
@@ -4017,7 +4017,7 @@
                             "BOJIBPNEOHP": true
                         }
                     ],
-                    "NHFJDDBKNCM": true
+                    "onThinkIntervalIsFixedUpdate": true
                 },
                 "Mimik_Fel_EnergyChit_Debuff_EffectHandler": {
                     "modifierName": "",
@@ -4067,7 +4067,7 @@
                             }
                         }
                     },
-                    "ENJEPFDLDDF": "OriginOwner"
+                    "trackTarget": "OriginOwner"
                 },
                 {
                     "$type": "SetGlobalValue",

@@ -1442,7 +1442,7 @@
                                     "z": 0.0
                                 }
                             },
-                            "ENJEPFDLDDF": "Caster",
+                            "trackTarget": "Caster",
                             "MLHHDMOKLBG": true
                         },
                         {
@@ -1467,7 +1467,7 @@
                         },
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
+                            "gadgetInfo": {
                                 "configID": 42604017
                             }
                         },
@@ -1772,7 +1772,7 @@
                     "isUnique": true,
                     "elementType": "Fire",
                     "elementDurability": 100.0,
-                    "DDLOLBGNLEF": false,
+                    "isElementDurabilityMutable": false,
                     "modifierMixins": [
                         {
                             "$type": "ReplaceEventPatternMixin",
@@ -2087,7 +2087,7 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByChildren",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Reversed",
+                                "sortType": "Reversed",
                                 "configID": 42604021
                             },
                             "abilityName": "Monster_Drake_Rock_FireEnhance_LatencyGadget_JumpAtk"
@@ -2149,7 +2149,7 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByChildren",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Reversed",
+                                "sortType": "Reversed",
                                 "configID": 42604021
                             },
                             "abilityName": "Monster_Drake_Rock_FireEnhance_LatencyGadget_JumpAtkFinal"
@@ -2379,7 +2379,7 @@
                     "isUnique": true,
                     "elementType": "Frozen",
                     "elementDurability": 100.0,
-                    "DDLOLBGNLEF": false,
+                    "isElementDurabilityMutable": false,
                     "modifierMixins": [
                         {
                             "$type": "ReplaceEventPatternMixin",
@@ -2558,7 +2558,7 @@
                 },
                 {
                     "$type": "CreateGadget",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornByTarget",
                         "offset": {
@@ -2583,7 +2583,7 @@
                 },
                 {
                     "$type": "CreateGadget",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornByTarget",
                         "offset": {
@@ -2608,7 +2608,7 @@
                 },
                 {
                     "$type": "CreateGadget",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornByTarget",
                         "offset": {
@@ -2664,7 +2664,7 @@
                 },
                 {
                     "$type": "CreateGadget",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornByTarget",
                         "offset": {
@@ -2689,7 +2689,7 @@
                 },
                 {
                     "$type": "CreateGadget",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornByTarget",
                         "offset": {
@@ -2714,7 +2714,7 @@
                 },
                 {
                     "$type": "CreateGadget",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornByTarget",
                         "offset": {
@@ -2770,7 +2770,7 @@
                 },
                 {
                     "$type": "CreateGadget",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornByTarget",
                         "offset": {
@@ -2795,7 +2795,7 @@
                 },
                 {
                     "$type": "CreateGadget",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornByTarget",
                         "offset": {
@@ -2820,7 +2820,7 @@
                 },
                 {
                     "$type": "CreateGadget",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornByTarget",
                         "offset": {
@@ -2898,7 +2898,7 @@
                 },
                 {
                     "$type": "CreateGadget",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornByTarget",
                         "offset": {
@@ -2923,7 +2923,7 @@
                 },
                 {
                     "$type": "CreateGadget",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornByTarget",
                         "offset": {
@@ -2948,7 +2948,7 @@
                 },
                 {
                     "$type": "CreateGadget",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornByTarget",
                         "offset": {
@@ -3004,7 +3004,7 @@
                 },
                 {
                     "$type": "CreateGadget",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornByTarget",
                         "offset": {
@@ -3029,7 +3029,7 @@
                 },
                 {
                     "$type": "CreateGadget",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornByTarget",
                         "offset": {
@@ -3054,7 +3054,7 @@
                 },
                 {
                     "$type": "CreateGadget",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornByTarget",
                         "offset": {
@@ -3110,7 +3110,7 @@
                 },
                 {
                     "$type": "CreateGadget",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornByTarget",
                         "offset": {
@@ -3135,7 +3135,7 @@
                 },
                 {
                     "$type": "CreateGadget",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornByTarget",
                         "offset": {
@@ -3160,7 +3160,7 @@
                 },
                 {
                     "$type": "CreateGadget",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornByTarget",
                         "offset": {
@@ -3365,7 +3365,7 @@
                     "isUnique": true,
                     "elementType": "Water",
                     "elementDurability": 100.0,
-                    "DDLOLBGNLEF": false,
+                    "isElementDurabilityMutable": false,
                     "modifierMixins": [
                         {
                             "$type": "ReplaceEventPatternMixin",
@@ -3820,7 +3820,7 @@
                                     "HPRatio": 0.0
                                 }
                             ],
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornByTarget",
                                 "offset": {
@@ -3861,7 +3861,7 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR30",
                                 "campTargetType": "AllExceptSelf",
                                 "sizeRatio": 1.0
@@ -4064,7 +4064,7 @@
                     "isUnique": true,
                     "elementType": "Electric",
                     "elementDurability": 100.0,
-                    "DDLOLBGNLEF": false,
+                    "isElementDurabilityMutable": false,
                     "modifierMixins": [
                         {
                             "$type": "ReplaceEventPatternMixin",
@@ -4852,7 +4852,7 @@
                         },
                         "alongGround": true
                     },
-                    "ENJEPFDLDDF": "Self"
+                    "trackTarget": "Self"
                 }
             ]
         }

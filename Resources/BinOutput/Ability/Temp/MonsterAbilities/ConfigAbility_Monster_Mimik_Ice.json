@@ -360,7 +360,7 @@
                     "onRemoved": [
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
+                            "gadgetInfo": {
                                 "configID": 42601005
                             }
                         },
@@ -458,7 +458,7 @@
                     "onRemoved": [
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
+                            "gadgetInfo": {
                                 "configID": 42601005
                             }
                         }
@@ -500,8 +500,8 @@
                         },
                         "direction": {
                             "$type": "ConfigDirectionByAttackTarget",
-                            "IHHIKIACOML": "Horizontal",
-                            "INCAGGBCJNF": 15.0
+                            "maxAngleType": "Horizontal",
+                            "maxAngle": 15.0
                         },
                         "attachPointName": "BulletSource"
                     }
@@ -548,8 +548,8 @@
                         },
                         "direction": {
                             "$type": "ConfigDirectionByAttackTarget",
-                            "IHHIKIACOML": "Horizontal",
-                            "INCAGGBCJNF": 15.0
+                            "maxAngleType": "Horizontal",
+                            "maxAngle": 15.0
                         },
                         "attachPointName": "BulletSource"
                     }

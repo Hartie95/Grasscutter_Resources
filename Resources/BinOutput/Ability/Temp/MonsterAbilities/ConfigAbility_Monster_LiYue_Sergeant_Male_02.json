@@ -159,12 +159,12 @@
                                 "BeHit",
                                 "BeHitThrow"
                             ],
-                            "OKFKMBDCDHO": "DodgeTrigger",
-                            "OKEAOJGNCNJ": 0.8999999761581421,
-                            "CLALNDAGFGJ": 0.15000000596046448,
-                            "LCJAOCJNEJJ": 3.0,
-                            "HFCIHIJGLMA": 0,
-                            "GOLCBAPOOLF": [
+                            "defendTriggerID": "DodgeTrigger",
+                            "defendProbability": 0.8999999761581421,
+                            "defendProbabilityDelta": 0.15000000596046448,
+                            "defendTimeInterval": 3.0,
+                            "defendCountInterval": 0,
+                            "onDefendSucceded": [
                                 {
                                     "$type": "IssueCommand",
                                     "otherTargets": {
@@ -203,7 +203,7 @@
                                     "duration": 1.0
                                 }
                             ],
-                            "FLNFDMFPBCD": true
+                            "randomDirection": true
                         }
                     ]
                 }

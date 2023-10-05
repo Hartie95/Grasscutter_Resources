@@ -134,7 +134,7 @@
                         {
                             "$type": "TriggerCreateGadgetToEquipPart",
                             "gadgetID": 42101019,
-                            "EPBOKNDHCPD": "equip03"
+                            "equipPart": "equip03"
                         },
                         {
                             "$type": "SetPoseInt",
@@ -146,7 +146,7 @@
                             "value": 0.0,
                             "key": "_HILI_ICE_BOMB_HOLDTIME",
                             "useLimitRange": true,
-                            "FACHGOPKJKE": true,
+                            "randomInRange": true,
                             "maxValue": 4.0,
                             "minValue": 2.0
                         },
@@ -281,7 +281,7 @@
                     "duration": 9.0,
                     "elementType": "Ice",
                     "elementDurability": 30.0,
-                    "DDLOLBGNLEF": false
+                    "isElementDurabilityMutable": false
                 }
             },
             "onAdded": [
@@ -361,7 +361,7 @@
                         },
                         {
                             "$type": "TriggerDropEquipParts",
-                            "CNECKEJLJOE": [
+                            "equipParts": [
                                 "equip03"
                             ]
                         },
@@ -467,13 +467,13 @@
             "onAbilityStart": [
                 {
                     "$type": "TriggerThrowEquipPart",
-                    "EPBOKNDHCPD": "equip03",
+                    "equipPart": "equip03",
                     "born": {
                         "$type": "ConfigBornByTarget",
                         "direction": {
                             "$type": "ConfigDirectionByAttackTarget",
-                            "IHHIKIACOML": "Horizontal",
-                            "INCAGGBCJNF": 50.0
+                            "maxAngleType": "Horizontal",
+                            "maxAngle": 50.0
                         }
                     }
                 },
@@ -590,8 +590,8 @@
                 {
                     "$type": "KillSelf",
                     "duration": 0.30000001192092896,
-                    "BEKKIHBPHGD": true,
-                    "EOIGEKNINFE": true
+                    "banDrop": true,
+                    "banExp": true
                 },
                 {
                     "$type": "TriggerSetVisible"
@@ -660,8 +660,8 @@
                         "direction": {
                             "$type": "ConfigDirectionByAttackTarget",
                             "randomAngleHor": 0.30000001192092896,
-                            "IOIAHLPJDMH": 0.5,
-                            "INCAGGBCJNF": 60.0
+                            "randomAngleVer": 0.5,
+                            "maxAngle": 60.0
                         },
                         "attachPointName": "WeaponR"
                     }
@@ -690,7 +690,7 @@
                                 "y": 0.0,
                                 "z": 0.0
                             },
-                            "INCAGGBCJNF": 60.0,
+                            "maxAngle": 60.0,
                             "ACCCPLDEJNB": 30.0
                         },
                         "attachPointName": "WeaponR"
@@ -720,7 +720,7 @@
                                 "y": 5.0,
                                 "z": 0.0
                             },
-                            "INCAGGBCJNF": 60.0,
+                            "maxAngle": 60.0,
                             "ACCCPLDEJNB": 30.0
                         },
                         "attachPointName": "WeaponR"
@@ -750,7 +750,7 @@
                                 "y": 10.0,
                                 "z": 0.0
                             },
-                            "INCAGGBCJNF": 60.0,
+                            "maxAngle": 60.0,
                             "ACCCPLDEJNB": 30.0
                         },
                         "attachPointName": "WeaponR"
@@ -780,7 +780,7 @@
                                 "y": -5.0,
                                 "z": 0.0
                             },
-                            "INCAGGBCJNF": 60.0,
+                            "maxAngle": 60.0,
                             "ACCCPLDEJNB": 30.0
                         },
                         "attachPointName": "WeaponR"
@@ -810,7 +810,7 @@
                                 "y": -10.0,
                                 "z": 0.0
                             },
-                            "INCAGGBCJNF": 60.0,
+                            "maxAngle": 60.0,
                             "ACCCPLDEJNB": 30.0
                         },
                         "attachPointName": "WeaponR"

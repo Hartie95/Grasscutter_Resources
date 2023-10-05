@@ -405,7 +405,7 @@
                             "minValue": 0.0
                         }
                     ],
-                    "NHFJDDBKNCM": true,
+                    "onThinkIntervalIsFixedUpdate": true,
                     "onReconnect": [
                         {
                             "$type": "SetAnimatorTrigger",
@@ -1018,7 +1018,7 @@
                             "minValue": 0.0
                         }
                     ],
-                    "NHFJDDBKNCM": true,
+                    "onThinkIntervalIsFixedUpdate": true,
                     "onReconnect": [
                         {
                             "$type": "SetAnimatorTrigger",

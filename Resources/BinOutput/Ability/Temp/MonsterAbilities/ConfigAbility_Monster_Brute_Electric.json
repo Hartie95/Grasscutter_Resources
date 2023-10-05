@@ -599,7 +599,7 @@
                     "onAdded": [
                         {
                             "$type": "HideUIBillBoard",
-                            "COCENMAFJGD": true
+                            "hide": true
                         },
                         {
                             "$type": "EnableHitBoxByName",
@@ -722,7 +722,7 @@
             "onAbilityStart": [
                 {
                     "$type": "CreateGadget",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornBySelf",
                         "offset": {
@@ -740,7 +740,7 @@
                     },
                     "gadgetID": 42102019,
                     "campID": 5005,
-                    "CEBMHIFOHJM": true
+                    "byServer": true
                 },
                 {
                     "$type": "Randomed",
@@ -748,7 +748,7 @@
                     "successActions": [
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "offset": {
@@ -766,7 +766,7 @@
                             },
                             "gadgetID": 42102019,
                             "campID": 5005,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ]
                 },
@@ -1115,7 +1115,7 @@
                             "$type": "CreateGadget",
                             "target": "Owner",
                             "OAKAJFOAANM": true,
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "offset": {
@@ -1128,7 +1128,7 @@
                             },
                             "gadgetID": 42102019,
                             "campID": 5005,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         },
                         {
                             "$type": "ApplyModifier",
@@ -1346,7 +1346,7 @@
                 },
                 {
                     "$type": "CreateGadget",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornBySelf",
                         "offset": {
@@ -1364,11 +1364,11 @@
                     },
                     "gadgetID": 42102019,
                     "campID": 5005,
-                    "CEBMHIFOHJM": true
+                    "byServer": true
                 },
                 {
                     "$type": "CreateGadget",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornBySelf",
                         "offset": {
@@ -1386,7 +1386,7 @@
                     },
                     "gadgetID": 42102019,
                     "campID": 5005,
-                    "CEBMHIFOHJM": true
+                    "byServer": true
                 },
                 {
                     "$type": "Randomed",
@@ -1394,7 +1394,7 @@
                     "successActions": [
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "offset": {
@@ -1412,7 +1412,7 @@
                             },
                             "gadgetID": 42102019,
                             "campID": 5005,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ]
                 }
@@ -1977,7 +1977,7 @@
                     },
                     "gadgetID": 42102026,
                     "campID": 4001,
-                    "CEBMHIFOHJM": true
+                    "byServer": true
                 },
                 {
                     "$type": "TriggerAttackEvent",

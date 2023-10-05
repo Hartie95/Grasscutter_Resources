@@ -423,7 +423,7 @@
                         },
                         {
                             "$type": "HideUIBillBoard",
-                            "COCENMAFJGD": true
+                            "hide": true
                         },
                         {
                             "$type": "EnableHitBoxByName",
@@ -793,7 +793,7 @@
                     "$type": "Predicated",
                     "otherTargets": {
                         "$type": "SelectTargetsByShape",
-                        "AKMLOIFOBPO": "Nearest",
+                        "sortType": "Nearest",
                         "shapeName": "CircleR30",
                         "campTargetType": "Alliance",
                         "sizeRatio": 1.0
@@ -902,7 +902,7 @@
                                 },
                                 "attachPointName": "Body"
                             },
-                            "ENJEPFDLDDF": "Self",
+                            "trackTarget": "Self",
                             "MLHHDMOKLBG": true
                         },
                         {

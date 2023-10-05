@@ -153,7 +153,7 @@
                                 {
                                     "$type": "TriggerCreateGadgetToEquipPart",
                                     "gadgetID": 50004050,
-                                    "EPBOKNDHCPD": "equip01"
+                                    "equipPart": "equip01"
                                 },
                                 {
                                     "$type": "AddGlobalValue",
@@ -206,7 +206,7 @@
                                 {
                                     "$type": "TriggerCreateGadgetToEquipPart",
                                     "gadgetID": 50004052,
-                                    "EPBOKNDHCPD": "equip03"
+                                    "equipPart": "equip03"
                                 },
                                 {
                                     "$type": "AddGlobalValue",
@@ -259,7 +259,7 @@
                                 {
                                     "$type": "TriggerCreateGadgetToEquipPart",
                                     "gadgetID": 50004051,
-                                    "EPBOKNDHCPD": "equip02"
+                                    "equipPart": "equip02"
                                 },
                                 {
                                     "$type": "AddGlobalValue",
@@ -312,7 +312,7 @@
                                 {
                                     "$type": "TriggerCreateGadgetToEquipPart",
                                     "gadgetID": 50004056,
-                                    "EPBOKNDHCPD": "equip05"
+                                    "equipPart": "equip05"
                                 },
                                 {
                                     "$type": "AddGlobalValue",
@@ -898,7 +898,7 @@
                 },
                 {
                     "$type": "CreateGadget",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornByActionPoint",
                         "onGround": true,
@@ -912,7 +912,7 @@
                     "gadgetID": 42903210,
                     "campID": 4001,
                     "campTargetType": "Enemy",
-                    "CEBMHIFOHJM": true
+                    "byServer": true
                 }
             ],
             "onKill": [
@@ -1609,7 +1609,7 @@
                 },
                 {
                     "$type": "CreateGadget",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornByActionPoint",
                         "onGround": true,
@@ -1623,7 +1623,7 @@
                     "gadgetID": 42903211,
                     "campID": 4001,
                     "campTargetType": "Enemy",
-                    "CEBMHIFOHJM": true
+                    "byServer": true
                 }
             ],
             "onKill": [
@@ -2085,8 +2085,8 @@
                         "$type": "ConfigBornByAttachPoint",
                         "direction": {
                             "$type": "ConfigDirectionByAttackTarget",
-                            "IHHIKIACOML": "Vertical",
-                            "INCAGGBCJNF": 30.0
+                            "maxAngleType": "Vertical",
+                            "maxAngle": 30.0
                         },
                         "attachPointName": "WeaponL"
                     }
@@ -2543,7 +2543,7 @@
                     "born": {
                         "$type": "ConfigBornBySelf"
                     },
-                    "ENJEPFDLDDF": "Self",
+                    "trackTarget": "Self",
                     "MLHHDMOKLBG": true
                 },
                 {
@@ -2552,7 +2552,7 @@
                     "born": {
                         "$type": "ConfigBornBySelf"
                     },
-                    "ENJEPFDLDDF": "Self",
+                    "trackTarget": "Self",
                     "MLHHDMOKLBG": true
                 },
                 {
@@ -3362,7 +3362,7 @@
             "onAdded": [
                 {
                     "$type": "CreateGadget",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornBySelf",
                         "offset": {
@@ -3391,7 +3391,7 @@
                 },
                 {
                     "$type": "CreateGadget",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornBySelf",
                         "offset": {
@@ -3429,7 +3429,7 @@
             "onAbilityStart": [
                 {
                     "$type": "CreateGadget",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornByActionPoint",
                         "onGround": true,
@@ -3448,7 +3448,7 @@
                 },
                 {
                     "$type": "CreateGadget",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornByActionPoint",
                         "onGround": true,
@@ -3472,7 +3472,7 @@
                 },
                 {
                     "$type": "CreateGadget",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornByActionPoint",
                         "onGround": true,
@@ -3496,7 +3496,7 @@
                 },
                 {
                     "$type": "CreateGadget",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornByActionPoint",
                         "onGround": true,
@@ -3528,7 +3528,7 @@
             "onAdded": [
                 {
                     "$type": "CreateGadget",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornBySelf",
                         "offset": {
@@ -3658,7 +3658,7 @@
                                 }
                             ],
                             "HBMNAKPIDCM": "Caster",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornByTarget",
                                 "onGround": true
@@ -4194,7 +4194,7 @@
                     "born": {
                         "$type": "ConfigBornBySelf"
                     },
-                    "ENJEPFDLDDF": "Self",
+                    "trackTarget": "Self",
                     "MLHHDMOKLBG": true
                 }
             ],

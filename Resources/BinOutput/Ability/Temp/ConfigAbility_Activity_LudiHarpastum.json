@@ -1567,9 +1567,9 @@
                         },
                         {
                             "$type": "KillSelf",
-                            "BEKKIHBPHGD": true,
-                            "EOIGEKNINFE": true,
-                            "PGGBJIDIINM": "Disappear"
+                            "banDrop": true,
+                            "banExp": true,
+                            "killSelfType": "Disappear"
                         }
                     ]
                 },
@@ -1770,7 +1770,7 @@
                                         "z": 0.0
                                     },
                                     "randomAngleHor": 3.0,
-                                    "IOIAHLPJDMH": 3.0
+                                    "randomAngleVer": 3.0
                                 },
                                 "GDENJEFPMGC": "BallPos",
                                 "MICIJLHMIIH": ""

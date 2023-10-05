@@ -216,7 +216,7 @@
                                 "shapeName": "CircleR40",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "Enemy",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "value": 0.0,
@@ -239,7 +239,7 @@
                                 "shapeName": "CircleR40",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "Enemy",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "value": 1.0,
@@ -1673,7 +1673,7 @@
                                 "OOOFAPPEOJK": [
                                     "Monster"
                                 ],
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR12",
                                 "campTargetType": "Enemy",
                                 "sizeRatio": 1.0

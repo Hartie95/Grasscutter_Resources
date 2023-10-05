@@ -187,9 +187,9 @@
                 },
                 {
                     "$type": "KillSelf",
-                    "BEKKIHBPHGD": true,
-                    "EOIGEKNINFE": true,
-                    "EKINLACJBGF": true
+                    "banDrop": true,
+                    "banExp": true,
+                    "banHPPercentageDrop": true
                 }
             ]
         }
@@ -499,8 +499,8 @@
                                     "effectPattern": "Eff_Monster_Abyss_Fire_ElementShield_BS"
                                 }
                             ],
-                            "NGOKEFIDFCJ": true,
-                            "HJAIAEACKHM": true
+                            "useMutiPlayerFixData": true,
+                            "updateShieldByMaxHp": true
                         },
                         {
                             "$type": "VelocityForceMixin",
@@ -1598,7 +1598,7 @@
                         },
                         {
                             "$type": "HideUIBillBoard",
-                            "COCENMAFJGD": true
+                            "hide": true
                         },
                         {
                             "$type": "EnableHitBoxByName",
@@ -1816,13 +1816,13 @@
                                 "BeHit",
                                 "BeHitThrow"
                             ],
-                            "OKFKMBDCDHO": "DefendTrigger",
-                            "OKEAOJGNCNJ": 0.20000000298023224,
-                            "CLALNDAGFGJ": 0.0,
-                            "LCJAOCJNEJJ": 8.0,
-                            "EAEELLPBGHO": false,
-                            "HFCIHIJGLMA": 0,
-                            "GOLCBAPOOLF": [
+                            "defendTriggerID": "DefendTrigger",
+                            "defendProbability": 0.20000000298023224,
+                            "defendProbabilityDelta": 0.0,
+                            "defendTimeInterval": 8.0,
+                            "alwaysRecover": false,
+                            "defendCountInterval": 0,
+                            "onDefendSucceded": [
                                 {
                                     "$type": "TriggerAbility",
                                     "abilityName": "Abyss_Fire_ForceBlink"
@@ -1886,7 +1886,7 @@
                         },
                         {
                             "$type": "HideUIBillBoard",
-                            "COCENMAFJGD": true
+                            "hide": true
                         },
                         {
                             "$type": "EnableHitBoxByName",
@@ -2138,7 +2138,7 @@
                         },
                         {
                             "$type": "HideUIBillBoard",
-                            "COCENMAFJGD": true
+                            "hide": true
                         },
                         {
                             "$type": "EnableHitBoxByName",

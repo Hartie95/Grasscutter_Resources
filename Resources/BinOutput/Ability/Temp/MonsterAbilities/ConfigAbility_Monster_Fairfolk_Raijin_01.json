@@ -24,7 +24,7 @@
                     "isUnique": true,
                     "elementType": "Electric",
                     "elementDurability": 100.0,
-                    "DDLOLBGNLEF": false,
+                    "isElementDurabilityMutable": false,
                     "onAdded": [
                         {
                             "$type": "AttachAbilityStateResistance",
@@ -50,9 +50,9 @@
                     "onAdded": [
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "gadgetID": 42007010,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ]
                 }
@@ -130,7 +130,7 @@
                             "onAdded": [
                                 {
                                     "$type": "HideUIBillBoard",
-                                    "COCENMAFJGD": true
+                                    "hide": true
                                 },
                                 {
                                     "$type": "EnablePushColliderName",
@@ -251,7 +251,7 @@
                             "onAdded": [
                                 {
                                     "$type": "HideUIBillBoard",
-                                    "COCENMAFJGD": true
+                                    "hide": true
                                 },
                                 {
                                     "$type": "EnablePushColliderName",
@@ -347,7 +347,7 @@
                             "onAdded": [
                                 {
                                     "$type": "HideUIBillBoard",
-                                    "COCENMAFJGD": true
+                                    "hide": true
                                 },
                                 {
                                     "$type": "EnablePushColliderName",
@@ -443,7 +443,7 @@
                             "onAdded": [
                                 {
                                     "$type": "HideUIBillBoard",
-                                    "COCENMAFJGD": true
+                                    "hide": true
                                 },
                                 {
                                     "$type": "EnablePushColliderName",
@@ -539,7 +539,7 @@
                             "onAdded": [
                                 {
                                     "$type": "HideUIBillBoard",
-                                    "COCENMAFJGD": true
+                                    "hide": true
                                 },
                                 {
                                     "$type": "EnablePushColliderName",
@@ -816,7 +816,7 @@
                         },
                         {
                             "$type": "HideUIBillBoard",
-                            "COCENMAFJGD": true
+                            "hide": true
                         },
                         {
                             "$type": "ApplyModifier",
@@ -1660,7 +1660,7 @@
                         },
                         {
                             "$type": "HideUIBillBoard",
-                            "COCENMAFJGD": true
+                            "hide": true
                         }
                     ]
                 },
@@ -3589,7 +3589,7 @@
                                 "MICIJLHMIIH": ""
                             },
                             "gadgetID": 42007002,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ]
                 }
@@ -5095,7 +5095,7 @@
                                         "y": 0.0,
                                         "z": 0.0
                                     },
-                                    "INCAGGBCJNF": 45.0
+                                    "maxAngle": 45.0
                                 }
                             }
                         }
@@ -5123,7 +5123,7 @@
                                         "y": 0.0,
                                         "z": 0.0
                                     },
-                                    "INCAGGBCJNF": 45.0
+                                    "maxAngle": 45.0
                                 }
                             }
                         }
@@ -5151,7 +5151,7 @@
                                         "y": 0.0,
                                         "z": 0.0
                                     },
-                                    "INCAGGBCJNF": 45.0
+                                    "maxAngle": 45.0
                                 }
                             }
                         }
@@ -5179,7 +5179,7 @@
                                         "y": 0.0,
                                         "z": 0.0
                                     },
-                                    "INCAGGBCJNF": 45.0
+                                    "maxAngle": 45.0
                                 }
                             }
                         }
@@ -5204,7 +5204,7 @@
                                 "y": 0.0,
                                 "z": 0.0
                             },
-                            "INCAGGBCJNF": 45.0
+                            "maxAngle": 45.0
                         }
                     }
                 },
@@ -5323,8 +5323,8 @@
                                 "GDENJEFPMGC": "_THUNDER_PUNISH_BORN_POS",
                                 "MICIJLHMIIH": ""
                             },
-                            "NJEOPILMKCN": true,
-                            "ENJEPFDLDDF": "Applier"
+                            "lifeByOwnerIsAlive": true,
+                            "trackTarget": "Applier"
                         }
                     ]
                 },

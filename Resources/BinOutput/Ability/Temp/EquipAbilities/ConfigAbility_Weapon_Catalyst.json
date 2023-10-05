@@ -1841,7 +1841,7 @@
                     "$type": "SetSelfAttackTarget",
                     "otherTargets": {
                         "$type": "SelectTargetsByShape",
-                        "AKMLOIFOBPO": "Nearest",
+                        "sortType": "Nearest",
                         "shapeName": "CircleR8",
                         "campTargetType": "Enemy",
                         "sizeRatio": 1.0
@@ -1914,7 +1914,7 @@
                         },
                         "direction": {
                             "$type": "ConfigDirectionByAttackTarget",
-                            "INCAGGBCJNF": 360.0
+                            "maxAngle": 360.0
                         }
                     }
                 }
@@ -2839,7 +2839,7 @@
             "onRemoved": [
                 {
                     "$type": "KillGadget",
-                    "LBGGIBBMCMF": {
+                    "gadgetInfo": {
                         "configID": 40010003
                     }
                 }
@@ -2862,7 +2862,7 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR15",
                                 "campTargetType": "Enemy",
                                 "sizeRatio": 1.0

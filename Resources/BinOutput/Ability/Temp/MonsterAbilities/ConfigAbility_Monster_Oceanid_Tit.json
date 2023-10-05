@@ -151,7 +151,7 @@
                     "isUnique": true,
                     "elementType": "Water",
                     "elementDurability": 100.0,
-                    "DDLOLBGNLEF": false
+                    "isElementDurabilityMutable": false
                 },
                 "Monster_Oceanid_Tit_CommonEffect": {
                     "modifierName": "",

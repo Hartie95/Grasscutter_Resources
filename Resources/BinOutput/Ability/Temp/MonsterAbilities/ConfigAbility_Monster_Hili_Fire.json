@@ -310,8 +310,8 @@
                         "direction": {
                             "$type": "ConfigDirectionByAttackTarget",
                             "randomAngleHor": 0.30000001192092896,
-                            "IOIAHLPJDMH": 0.5,
-                            "INCAGGBCJNF": 60.0
+                            "randomAngleVer": 0.5,
+                            "maxAngle": 60.0
                         },
                         "attachPointName": "WeaponR"
                     }
@@ -340,7 +340,7 @@
                                 "y": 0.0,
                                 "z": 0.0
                             },
-                            "INCAGGBCJNF": 60.0,
+                            "maxAngle": 60.0,
                             "ACCCPLDEJNB": 30.0
                         },
                         "attachPointName": "WeaponR"
@@ -370,7 +370,7 @@
                                 "y": 5.0,
                                 "z": 0.0
                             },
-                            "INCAGGBCJNF": 60.0,
+                            "maxAngle": 60.0,
                             "ACCCPLDEJNB": 30.0
                         },
                         "attachPointName": "WeaponR"
@@ -400,7 +400,7 @@
                                 "y": 10.0,
                                 "z": 0.0
                             },
-                            "INCAGGBCJNF": 60.0,
+                            "maxAngle": 60.0,
                             "ACCCPLDEJNB": 30.0
                         },
                         "attachPointName": "WeaponR"
@@ -430,7 +430,7 @@
                                 "y": -5.0,
                                 "z": 0.0
                             },
-                            "INCAGGBCJNF": 60.0,
+                            "maxAngle": 60.0,
                             "ACCCPLDEJNB": 30.0
                         },
                         "attachPointName": "WeaponR"
@@ -460,7 +460,7 @@
                                 "y": -10.0,
                                 "z": 0.0
                             },
-                            "INCAGGBCJNF": 60.0,
+                            "maxAngle": 60.0,
                             "ACCCPLDEJNB": 30.0
                         },
                         "attachPointName": "WeaponR"
@@ -842,7 +842,7 @@
                         {
                             "$type": "TriggerCreateGadgetToEquipPart",
                             "gadgetID": 42101012,
-                            "EPBOKNDHCPD": "equip03"
+                            "equipPart": "equip03"
                         },
                         {
                             "$type": "TriggerHideWeapon",
@@ -944,7 +944,7 @@
                             "value": 0.0,
                             "key": "_ABILITY_RANDOM_HOLDTIME",
                             "useLimitRange": true,
-                            "FACHGOPKJKE": true,
+                            "randomInRange": true,
                             "maxValue": 4.0,
                             "minValue": 3.0
                         },
@@ -1028,7 +1028,7 @@
                     "value": 0.0,
                     "key": "_ABILITY_RANDOM_HOLDTIME",
                     "useLimitRange": true,
-                    "FACHGOPKJKE": true,
+                    "randomInRange": true,
                     "maxValue": 3.0,
                     "minValue": 3.0
                 }
@@ -1135,13 +1135,13 @@
             "onAbilityStart": [
                 {
                     "$type": "TriggerThrowEquipPart",
-                    "EPBOKNDHCPD": "equip03",
+                    "equipPart": "equip03",
                     "born": {
                         "$type": "ConfigBornByTarget",
                         "direction": {
                             "$type": "ConfigDirectionByAttackTarget",
-                            "IHHIKIACOML": "Horizontal",
-                            "INCAGGBCJNF": 30.0
+                            "maxAngleType": "Horizontal",
+                            "maxAngle": 30.0
                         }
                     }
                 },
@@ -1233,7 +1233,7 @@
                                     "value": 0.0
                                 }
                             ],
-                            "CNECKEJLJOE": [
+                            "equipParts": [
                                 "equip03"
                             ]
                         },

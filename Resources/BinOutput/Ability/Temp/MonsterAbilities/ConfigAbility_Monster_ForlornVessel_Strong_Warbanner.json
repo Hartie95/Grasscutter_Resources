@@ -51,7 +51,7 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR5",
                                 "campTargetType": "Enemy",
                                 "sizeRatio": 1.0
@@ -240,8 +240,8 @@
                             "shieldAngle": 360.0,
                             "shieldHPRatio": 1.0,
                             "damageRatio": 0.20000000298023224,
-                            "NGOKEFIDFCJ": true,
-                            "HJAIAEACKHM": true
+                            "useMutiPlayerFixData": true,
+                            "updateShieldByMaxHp": true
                         }
                     ],
                     "properties": {
@@ -421,7 +421,7 @@
                         },
                         "direction": {
                             "$type": "ConfigDirectionByAttackTarget",
-                            "INCAGGBCJNF": 45.0
+                            "maxAngle": 45.0
                         }
                     }
                 }

@@ -328,7 +328,7 @@
                             "modifierName": "Avatar_Yae_ExtraAttack_Damage_5"
                         }
                     ],
-                    "NHFJDDBKNCM": true
+                    "onThinkIntervalIsFixedUpdate": true
                 },
                 "Avatar_Yae_ExtraAttack_Damage_1": {
                     "modifierName": "",
@@ -745,7 +745,7 @@
                             "modifierName": "Avatar_Yae_Attack01_Damage"
                         }
                     ],
-                    "NHFJDDBKNCM": true
+                    "onThinkIntervalIsFixedUpdate": true
                 },
                 "NormalAttack_Bullet_Fx": {
                     "modifierName": "",
@@ -871,7 +871,7 @@
                             "modifierName": "Avatar_Yae_Attack02_Damage"
                         }
                     ],
-                    "NHFJDDBKNCM": true
+                    "onThinkIntervalIsFixedUpdate": true
                 },
                 "NormalAttack_Bullet_Fx": {
                     "modifierName": "",
@@ -997,7 +997,7 @@
                             "modifierName": "Avatar_Yae_Attack03_Damage"
                         }
                     ],
-                    "NHFJDDBKNCM": true
+                    "onThinkIntervalIsFixedUpdate": true
                 },
                 "NormalAttack_Bullet_Fx": {
                     "modifierName": "",
@@ -2595,7 +2595,7 @@
                             "campTargetType": "Enemy"
                         }
                     ],
-                    "NHFJDDBKNCM": true
+                    "onThinkIntervalIsFixedUpdate": true
                 }
             },
             "onAdded": [
@@ -3444,7 +3444,7 @@
                             "modifierName": "Yae_ModifySKill_03"
                         }
                     ],
-                    "NHFJDDBKNCM": true
+                    "onThinkIntervalIsFixedUpdate": true
                 },
                 "Yae_ModifySKill_01": {
                     "modifierName": "",
@@ -3794,7 +3794,7 @@
                             "modifierName": "TowerExplosion_Damage_03"
                         }
                     ],
-                    "NHFJDDBKNCM": true
+                    "onThinkIntervalIsFixedUpdate": true
                 },
                 "TowerExplosion_Damage_01": {
                     "modifierName": "",

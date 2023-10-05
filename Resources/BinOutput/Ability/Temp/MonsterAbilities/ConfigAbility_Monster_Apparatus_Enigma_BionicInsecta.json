@@ -176,7 +176,7 @@
                     "otherTargets": {
                         "$type": "SelectTargetsByShape",
                         "DJLKFLJENEG": 1,
-                        "AKMLOIFOBPO": "Nearest",
+                        "sortType": "Nearest",
                         "shapeName": "CircleR30",
                         "campTargetType": "SelfCamp",
                         "sizeRatio": 1.0
@@ -339,8 +339,8 @@
                         },
                         "direction": {
                             "$type": "ConfigDirectionByAttackTarget",
-                            "IHHIKIACOML": "Vertical",
-                            "INCAGGBCJNF": 30.0
+                            "maxAngleType": "Vertical",
+                            "maxAngle": 30.0
                         },
                         "attachPointName": "CorePoint"
                     }
@@ -438,19 +438,19 @@
                                 "NormalIdle",
                                 "Turn"
                             ],
-                            "OKFKMBDCDHO": "",
-                            "DEHPOLDCMNJ": 120.0,
-                            "OKEAOJGNCNJ": 1.0,
-                            "CLALNDAGFGJ": 0.0,
-                            "LCJAOCJNEJJ": 0.0,
-                            "HFCIHIJGLMA": 0,
-                            "GOLCBAPOOLF": [
+                            "defendTriggerID": "",
+                            "defendAngle": 120.0,
+                            "defendProbability": 1.0,
+                            "defendProbabilityDelta": 0.0,
+                            "defendTimeInterval": 0.0,
+                            "defendCountInterval": 0,
+                            "onDefendSucceded": [
                                 {
                                     "$type": "SetGlobalValue",
                                     "value": 0.0,
                                     "key": "_HITEFFECT_POSITION",
                                     "useLimitRange": true,
-                                    "FACHGOPKJKE": true,
+                                    "randomInRange": true,
                                     "maxValue": 2.0,
                                     "minValue": 0.0
                                 },

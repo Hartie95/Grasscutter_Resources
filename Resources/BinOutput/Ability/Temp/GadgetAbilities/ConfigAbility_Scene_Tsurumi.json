@@ -971,7 +971,7 @@
                         },
                         {
                             "$type": "HideUIBillBoard",
-                            "COCENMAFJGD": true
+                            "hide": true
                         },
                         {
                             "$type": "ShowUICombatBar",
@@ -1037,7 +1037,7 @@
                         },
                         {
                             "$type": "HideUIBillBoard",
-                            "COCENMAFJGD": true
+                            "hide": true
                         },
                         {
                             "$type": "ShowUICombatBar",
@@ -1073,7 +1073,7 @@
                     "onAdded": [
                         {
                             "$type": "HideUIBillBoard",
-                            "COCENMAFJGD": true
+                            "hide": true
                         },
                         {
                             "$type": "ShowUICombatBar",
@@ -1121,7 +1121,7 @@
                         },
                         {
                             "$type": "HideUIBillBoard",
-                            "COCENMAFJGD": true
+                            "hide": true
                         },
                         {
                             "$type": "ShowUICombatBar",
@@ -1146,7 +1146,7 @@
                     "onAdded": [
                         {
                             "$type": "HideUIBillBoard",
-                            "COCENMAFJGD": true
+                            "hide": true
                         },
                         {
                             "$type": "ShowUICombatBar",
@@ -1165,7 +1165,7 @@
                     "onAdded": [
                         {
                             "$type": "HideUIBillBoard",
-                            "COCENMAFJGD": true
+                            "hide": true
                         },
                         {
                             "$type": "ShowUICombatBar",
@@ -1218,7 +1218,7 @@
                         },
                         {
                             "$type": "HideUIBillBoard",
-                            "COCENMAFJGD": true
+                            "hide": true
                         },
                         {
                             "$type": "ShowUICombatBar",
@@ -1700,7 +1700,7 @@
                     "modifierName": "",
                     "elementType": "Electric",
                     "elementDurability": 15.0,
-                    "DDLOLBGNLEF": false,
+                    "isElementDurabilityMutable": false,
                     "state": "Limbo"
                 },
                 "StateController": {
@@ -1995,7 +1995,7 @@
                             "JKJMJMKEBBD": "isTerminal",
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR6H5",
                                 "campTargetType": "AllExceptSelf",
                                 "sizeRatio": 1.0
@@ -2076,7 +2076,7 @@
                             "JKJMJMKEBBD": "isTerminal",
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR6H5",
                                 "campTargetType": "AllExceptSelf",
                                 "sizeRatio": 1.0
@@ -2157,7 +2157,7 @@
                             "JKJMJMKEBBD": "isTerminal",
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR6H5",
                                 "campTargetType": "AllExceptSelf",
                                 "sizeRatio": 1.0

@@ -62,7 +62,7 @@
                                 {
                                     "$type": "HideUIBillBoard",
                                     "CFIPAGENGPE": true,
-                                    "COCENMAFJGD": true
+                                    "hide": true
                                 }
                             ],
                             "onRemoved": [
@@ -254,7 +254,7 @@
                                 {
                                     "$type": "HideUIBillBoard",
                                     "CFIPAGENGPE": true,
-                                    "COCENMAFJGD": true
+                                    "hide": true
                                 }
                             ],
                             "onRemoved": [
@@ -3829,15 +3829,15 @@
                         {
                             "$type": "TriggerBullet",
                             "bulletID": 42802001,
-                            "ENJEPFDLDDF": "Self",
+                            "trackTarget": "Self",
                             "MLHHDMOKLBG": true
                         }
                     ],
                     "onRemoved": [
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
-                                "AKMLOIFOBPO": "Reversed",
+                            "gadgetInfo": {
+                                "sortType": "Reversed",
                                 "configID": 42802001
                             }
                         }
@@ -4221,15 +4221,15 @@
                     "onRemoved": [
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
-                                "AKMLOIFOBPO": "Reversed",
+                            "gadgetInfo": {
+                                "sortType": "Reversed",
                                 "configID": 42605035
                             }
                         },
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
-                                "AKMLOIFOBPO": "Reversed",
+                            "gadgetInfo": {
+                                "sortType": "Reversed",
                                 "configID": 42605049
                             }
                         }
@@ -4251,13 +4251,13 @@
                 {
                     "$type": "TriggerBullet",
                     "bulletID": 42605035,
-                    "ENJEPFDLDDF": "Self",
+                    "trackTarget": "Self",
                     "MLHHDMOKLBG": true
                 },
                 {
                     "$type": "TriggerBullet",
                     "bulletID": 42605049,
-                    "ENJEPFDLDDF": "Self",
+                    "trackTarget": "Self",
                     "MLHHDMOKLBG": true
                 }
             ]
@@ -4283,15 +4283,15 @@
                     "onRemoved": [
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
-                                "AKMLOIFOBPO": "Reversed",
+                            "gadgetInfo": {
+                                "sortType": "Reversed",
                                 "configID": 42605036
                             }
                         },
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
-                                "AKMLOIFOBPO": "Reversed",
+                            "gadgetInfo": {
+                                "sortType": "Reversed",
                                 "configID": 42605049
                             }
                         }
@@ -4313,13 +4313,13 @@
                 {
                     "$type": "TriggerBullet",
                     "bulletID": 42605036,
-                    "ENJEPFDLDDF": "Self",
+                    "trackTarget": "Self",
                     "MLHHDMOKLBG": true
                 },
                 {
                     "$type": "TriggerBullet",
                     "bulletID": 42605049,
-                    "ENJEPFDLDDF": "Self",
+                    "trackTarget": "Self",
                     "MLHHDMOKLBG": true
                 }
             ]
@@ -4733,7 +4733,7 @@
                         "$type": "ConfigBornByAttachPoint",
                         "direction": {
                             "$type": "ConfigDirectionByAttackTarget",
-                            "INCAGGBCJNF": 30.0
+                            "maxAngle": 30.0
                         },
                         "attachPointName": "MouthFirePoint"
                     }
@@ -4930,7 +4930,7 @@
                         "$type": "ConfigBornByAttachPoint",
                         "direction": {
                             "$type": "ConfigDirectionByAttackTarget",
-                            "INCAGGBCJNF": 30.0
+                            "maxAngle": 30.0
                         },
                         "attachPointName": "MouthFirePoint"
                     }
@@ -6580,7 +6580,7 @@
                         {
                             "$type": "TriggerBullet",
                             "bulletID": 42605034,
-                            "ENJEPFDLDDF": "Self",
+                            "trackTarget": "Self",
                             "MLHHDMOKLBG": true
                         },
                         {
@@ -6609,7 +6609,7 @@
                         {
                             "$type": "TriggerBullet",
                             "bulletID": 42605034,
-                            "ENJEPFDLDDF": "Self",
+                            "trackTarget": "Self",
                             "MLHHDMOKLBG": true
                         }
                     ]

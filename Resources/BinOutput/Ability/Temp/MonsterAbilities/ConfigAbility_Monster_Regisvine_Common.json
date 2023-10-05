@@ -342,7 +342,7 @@
                         },
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
+                            "gadgetInfo": {
                                 "configID": 42602015
                             }
                         }
@@ -482,7 +482,7 @@
                         },
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
+                            "gadgetInfo": {
                                 "configID": 42602015
                             }
                         }
@@ -794,7 +794,7 @@
             "onAdded": [
                 {
                     "$type": "CreateGadget",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornByAttachPoint",
                         "offset": {
@@ -817,7 +817,7 @@
                     "gadgetID": 42602001,
                     "campID": 4001,
                     "campTargetType": "Enemy",
-                    "CEBMHIFOHJM": true
+                    "byServer": true
                 },
                 {
                     "$type": "Predicated",
@@ -1230,21 +1230,21 @@
                                     "successActions": [
                                         {
                                             "$type": "CreateGadget",
-                                            "NJEOPILMKCN": true,
+                                            "lifeByOwnerIsAlive": true,
                                             "JCAMCEOBIFG": true,
                                             "gadgetID": 42602030,
                                             "campID": 4001,
-                                            "CEBMHIFOHJM": true
+                                            "byServer": true
                                         }
                                     ],
                                     "failActions": [
                                         {
                                             "$type": "CreateGadget",
-                                            "NJEOPILMKCN": true,
+                                            "lifeByOwnerIsAlive": true,
                                             "JCAMCEOBIFG": true,
                                             "gadgetID": 42602002,
                                             "campID": 4001,
-                                            "CEBMHIFOHJM": true
+                                            "byServer": true
                                         },
                                         {
                                             "$type": "ShowReminder",
@@ -1550,7 +1550,7 @@
                                 "$type": "SelectTargetsByChildren",
                                 "configID": 42602002
                             },
-                            "COCENMAFJGD": true
+                            "hide": true
                         },
                         {
                             "$type": "HideUIBillBoard",
@@ -1558,7 +1558,7 @@
                                 "$type": "SelectTargetsByChildren",
                                 "configID": 42602030
                             },
-                            "COCENMAFJGD": true
+                            "hide": true
                         }
                     ]
                 }
@@ -1673,7 +1673,7 @@
                                 "$type": "SelectTargetsByChildren",
                                 "configID": 42602002
                             },
-                            "COCENMAFJGD": true
+                            "hide": true
                         },
                         {
                             "$type": "HideUIBillBoard",
@@ -1681,7 +1681,7 @@
                                 "$type": "SelectTargetsByChildren",
                                 "configID": 42602030
                             },
-                            "COCENMAFJGD": true
+                            "hide": true
                         },
                         {
                             "$type": "ApplyModifier",
@@ -1726,7 +1726,7 @@
                         "$type": "SelectTargetsByChildren",
                         "configID": 42602002
                     },
-                    "COCENMAFJGD": true
+                    "hide": true
                 },
                 {
                     "$type": "HideUIBillBoard",
@@ -1734,7 +1734,7 @@
                         "$type": "SelectTargetsByChildren",
                         "configID": 42602030
                     },
-                    "COCENMAFJGD": true
+                    "hide": true
                 },
                 {
                     "$type": "ApplyModifier",
@@ -1821,21 +1821,21 @@
                             "successActions": [
                                 {
                                     "$type": "CreateGadget",
-                                    "NJEOPILMKCN": true,
+                                    "lifeByOwnerIsAlive": true,
                                     "JCAMCEOBIFG": true,
                                     "gadgetID": 42602031,
                                     "campID": 4001,
-                                    "CEBMHIFOHJM": true
+                                    "byServer": true
                                 }
                             ],
                             "failActions": [
                                 {
                                     "$type": "CreateGadget",
-                                    "NJEOPILMKCN": true,
+                                    "lifeByOwnerIsAlive": true,
                                     "JCAMCEOBIFG": true,
                                     "gadgetID": 42602003,
                                     "campID": 4001,
-                                    "CEBMHIFOHJM": true
+                                    "byServer": true
                                 },
                                 {
                                     "$type": "ShowReminder",
@@ -1962,7 +1962,7 @@
                                 "$type": "SelectTargetsByChildren",
                                 "configID": 42602003
                             },
-                            "COCENMAFJGD": true
+                            "hide": true
                         },
                         {
                             "$type": "HideUIBillBoard",
@@ -1970,7 +1970,7 @@
                                 "$type": "SelectTargetsByChildren",
                                 "configID": 42602031
                             },
-                            "COCENMAFJGD": true
+                            "hide": true
                         }
                     ]
                 }
@@ -2009,7 +2009,7 @@
                                 "$type": "SelectTargetsByChildren",
                                 "configID": 42602003
                             },
-                            "COCENMAFJGD": true
+                            "hide": true
                         },
                         {
                             "$type": "HideUIBillBoard",
@@ -2017,7 +2017,7 @@
                                 "$type": "SelectTargetsByChildren",
                                 "configID": 42602031
                             },
-                            "COCENMAFJGD": true
+                            "hide": true
                         },
                         {
                             "$type": "ApplyModifier",
@@ -2058,7 +2058,7 @@
                         "$type": "SelectTargetsByChildren",
                         "configID": 42602003
                     },
-                    "COCENMAFJGD": true
+                    "hide": true
                 },
                 {
                     "$type": "HideUIBillBoard",
@@ -2066,7 +2066,7 @@
                         "$type": "SelectTargetsByChildren",
                         "configID": 42602031
                     },
-                    "COCENMAFJGD": true
+                    "hide": true
                 },
                 {
                     "$type": "ApplyModifier",
@@ -2313,8 +2313,8 @@
                                 "y": 1.5,
                                 "z": 0.0
                             },
-                            "IHHIKIACOML": "Horizontal",
-                            "INCAGGBCJNF": 360.0
+                            "maxAngleType": "Horizontal",
+                            "maxAngle": 360.0
                         },
                         "alongGround": true,
                         "GDENJEFPMGC": "_MONSTER_REGISVINE_RANGEDATTACK01_TARGET_POS",
@@ -2339,8 +2339,8 @@
                                 "y": -1.5,
                                 "z": 0.0
                             },
-                            "IHHIKIACOML": "Horizontal",
-                            "INCAGGBCJNF": 360.0
+                            "maxAngleType": "Horizontal",
+                            "maxAngle": 360.0
                         },
                         "alongGround": true,
                         "GDENJEFPMGC": "_MONSTER_REGISVINE_RANGEDATTACK01_TARGET_POS",
@@ -2373,8 +2373,8 @@
                                 "y": 1.5,
                                 "z": 0.0
                             },
-                            "IHHIKIACOML": "Horizontal",
-                            "INCAGGBCJNF": 360.0
+                            "maxAngleType": "Horizontal",
+                            "maxAngle": 360.0
                         },
                         "alongGround": true,
                         "GDENJEFPMGC": "_MONSTER_REGISVINE_RANGEDATTACK01_TARGET_POS",
@@ -2399,8 +2399,8 @@
                                 "y": -1.5,
                                 "z": 0.0
                             },
-                            "IHHIKIACOML": "Horizontal",
-                            "INCAGGBCJNF": 360.0
+                            "maxAngleType": "Horizontal",
+                            "maxAngle": 360.0
                         },
                         "alongGround": true,
                         "GDENJEFPMGC": "_MONSTER_REGISVINE_RANGEDATTACK01_TARGET_POS",
@@ -2433,8 +2433,8 @@
                                 "y": 1.5,
                                 "z": 0.0
                             },
-                            "IHHIKIACOML": "Horizontal",
-                            "INCAGGBCJNF": 360.0
+                            "maxAngleType": "Horizontal",
+                            "maxAngle": 360.0
                         },
                         "alongGround": true,
                         "GDENJEFPMGC": "_MONSTER_REGISVINE_RANGEDATTACK01_TARGET_POS",
@@ -2459,8 +2459,8 @@
                                 "y": -1.5,
                                 "z": 0.0
                             },
-                            "IHHIKIACOML": "Horizontal",
-                            "INCAGGBCJNF": 360.0
+                            "maxAngleType": "Horizontal",
+                            "maxAngle": 360.0
                         },
                         "alongGround": true,
                         "GDENJEFPMGC": "_MONSTER_REGISVINE_RANGEDATTACK01_TARGET_POS",
@@ -2477,13 +2477,13 @@
             "onAbilityStart": [
                 {
                     "$type": "KillGadget",
-                    "LBGGIBBMCMF": {
+                    "gadgetInfo": {
                         "configID": 42602013
                     }
                 },
                 {
                     "$type": "KillGadget",
-                    "LBGGIBBMCMF": {
+                    "gadgetInfo": {
                         "configID": 42602014
                     }
                 }
@@ -3319,7 +3319,7 @@
                         },
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
+                            "gadgetInfo": {
                                 "configID": 42602015
                             }
                         },
@@ -3508,7 +3508,7 @@
                         },
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
+                            "gadgetInfo": {
                                 "configID": 42602015
                             }
                         },
@@ -4780,7 +4780,7 @@
                                 }
                             ],
                             "showDamageText": "",
-                            "NGOKEFIDFCJ": true
+                            "useMutiPlayerFixData": true
                         }
                     ],
                     "onAdded": [
@@ -5491,7 +5491,7 @@
                                 }
                             ],
                             "showDamageText": "",
-                            "NGOKEFIDFCJ": true
+                            "useMutiPlayerFixData": true
                         }
                     ],
                     "onAdded": [
@@ -5763,7 +5763,7 @@
                             "actions": [
                                 {
                                     "$type": "CreateGadget",
-                                    "NJEOPILMKCN": true,
+                                    "lifeByOwnerIsAlive": true,
                                     "born": {
                                         "$type": "ConfigBornBySelf",
                                         "bornRandom": {
@@ -5812,7 +5812,7 @@
                                             "compareType": "NoneOrEqual"
                                         }
                                     ],
-                                    "NJEOPILMKCN": true,
+                                    "lifeByOwnerIsAlive": true,
                                     "born": {
                                         "$type": "ConfigBornByPredicatePoint",
                                         "bornRandom": {

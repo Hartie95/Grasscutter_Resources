@@ -21,7 +21,7 @@
                                 },
                                 "direction": {
                                     "$type": "ConfigDirectionByAttackTarget",
-                                    "INCAGGBCJNF": 60.0
+                                    "maxAngle": 60.0
                                 }
                             }
                         }
@@ -186,7 +186,7 @@
                     "isUnique": true,
                     "elementType": "Water",
                     "elementDurability": 100.0,
-                    "DDLOLBGNLEF": false
+                    "isElementDurabilityMutable": false
                 },
                 "Monster_Oceanid_Crane_CommonEffect": {
                     "modifierName": "",

@@ -494,7 +494,7 @@
                 },
                 {
                     "$type": "CreateGadget",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornByGlobalValue",
                         "GDENJEFPMGC": "_MONSTER_LASIGNORA_CENTER_POS",
@@ -504,7 +504,7 @@
                     "gadgetID": 42905013,
                     "campID": 4001,
                     "campTargetType": "Enemy",
-                    "CEBMHIFOHJM": true
+                    "byServer": true
                 },
                 {
                     "$type": "ApplyModifier",
@@ -1649,7 +1649,7 @@
                     "onAdded": [
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornByGlobalValue",
                                 "GDENJEFPMGC": "_MONSTER_LASIGNORA_ROUND_POS_01",
@@ -1659,11 +1659,11 @@
                             "gadgetID": 42905018,
                             "campID": 4001,
                             "campTargetType": "Enemy",
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         },
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornByGlobalValue",
                                 "GDENJEFPMGC": "_MONSTER_LASIGNORA_ROUND_POS_02",
@@ -1673,11 +1673,11 @@
                             "gadgetID": 42905019,
                             "campID": 4001,
                             "campTargetType": "Enemy",
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         },
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornByGlobalValue",
                                 "GDENJEFPMGC": "_MONSTER_LASIGNORA_ROUND_POS_03",
@@ -1687,11 +1687,11 @@
                             "gadgetID": 42905020,
                             "campID": 4001,
                             "campTargetType": "Enemy",
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         },
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornByGlobalValue",
                                 "GDENJEFPMGC": "_MONSTER_LASIGNORA_ROUND_POS_04",
@@ -1701,7 +1701,7 @@
                             "gadgetID": 42905021,
                             "campID": 4001,
                             "campTargetType": "Enemy",
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ]
                 },
@@ -1746,7 +1746,7 @@
                                 },
                                 {
                                     "$type": "CreateGadget",
-                                    "NJEOPILMKCN": true,
+                                    "lifeByOwnerIsAlive": true,
                                     "born": {
                                         "$type": "ConfigBornByGlobalValue",
                                         "GDENJEFPMGC": "_MONSTER_LASIGNORA_ROUND_POS_04",
@@ -1756,7 +1756,7 @@
                                     "gadgetID": 42905021,
                                     "campID": 4001,
                                     "campTargetType": "Enemy",
-                                    "CEBMHIFOHJM": true
+                                    "byServer": true
                                 }
                             ]
                         },
@@ -1785,7 +1785,7 @@
                                 },
                                 {
                                     "$type": "CreateGadget",
-                                    "NJEOPILMKCN": true,
+                                    "lifeByOwnerIsAlive": true,
                                     "born": {
                                         "$type": "ConfigBornByGlobalValue",
                                         "GDENJEFPMGC": "_MONSTER_LASIGNORA_ROUND_POS_01",
@@ -1795,7 +1795,7 @@
                                     "gadgetID": 42905018,
                                     "campID": 4001,
                                     "campTargetType": "Enemy",
-                                    "CEBMHIFOHJM": true
+                                    "byServer": true
                                 }
                             ]
                         },
@@ -1824,7 +1824,7 @@
                                 },
                                 {
                                     "$type": "CreateGadget",
-                                    "NJEOPILMKCN": true,
+                                    "lifeByOwnerIsAlive": true,
                                     "born": {
                                         "$type": "ConfigBornByGlobalValue",
                                         "GDENJEFPMGC": "_MONSTER_LASIGNORA_ROUND_POS_02",
@@ -1834,7 +1834,7 @@
                                     "gadgetID": 42905019,
                                     "campID": 4001,
                                     "campTargetType": "Enemy",
-                                    "CEBMHIFOHJM": true
+                                    "byServer": true
                                 }
                             ]
                         },
@@ -1863,7 +1863,7 @@
                                 },
                                 {
                                     "$type": "CreateGadget",
-                                    "NJEOPILMKCN": true,
+                                    "lifeByOwnerIsAlive": true,
                                     "born": {
                                         "$type": "ConfigBornByGlobalValue",
                                         "GDENJEFPMGC": "_MONSTER_LASIGNORA_ROUND_POS_03",
@@ -1873,7 +1873,7 @@
                                     "gadgetID": 42905020,
                                     "campID": 4001,
                                     "campTargetType": "Enemy",
-                                    "CEBMHIFOHJM": true
+                                    "byServer": true
                                 }
                             ]
                         }
@@ -2659,7 +2659,7 @@
                     "$type": "CreateGadget",
                     "target": "Owner",
                     "OAKAJFOAANM": true,
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornByCollisionPoint",
                         "onGround": true,
@@ -2669,7 +2669,7 @@
                     "gadgetID": 42905005,
                     "campID": 4001,
                     "campTargetType": "Enemy",
-                    "CEBMHIFOHJM": true
+                    "byServer": true
                 }
             ]
         }
@@ -3525,8 +3525,8 @@
                             "$type": "ConfigDirectionByLookAtEntity"
                         }
                     },
-                    "NJEOPILMKCN": true,
-                    "ENJEPFDLDDF": "Target"
+                    "lifeByOwnerIsAlive": true,
+                    "trackTarget": "Target"
                 }
             ]
         }
@@ -3716,7 +3716,7 @@
                             "$type": "CreateGadget",
                             "target": "OriginOwner",
                             "OAKAJFOAANM": true,
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornByCollisionPoint",
                                 "onGround": true,
@@ -3726,7 +3726,7 @@
                             "gadgetID": 42905016,
                             "campID": 4001,
                             "campTargetType": "Enemy",
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ],
                     "failActions": [
@@ -4276,7 +4276,7 @@
                                     "minValue": 0.0
                                 }
                             ],
-                            "NGOKEFIDFCJ": true
+                            "useMutiPlayerFixData": true
                         },
                         {
                             "$type": "AttachModifierToElementDurabilityMixin",
@@ -4643,7 +4643,7 @@
                         },
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "offset": {
@@ -4661,7 +4661,7 @@
                             "gadgetID": 42905101,
                             "campID": 4001,
                             "campTargetType": "Enemy",
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ]
                 },
@@ -4672,7 +4672,7 @@
                     "onThinkInterval": [
                         {
                             "$type": "CreateGadget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "bornRandom": {
@@ -4687,7 +4687,7 @@
                             "gadgetID": 42905104,
                             "campID": 4001,
                             "campTargetType": "Enemy",
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ]
                 },
@@ -4699,7 +4699,7 @@
                         {
                             "$type": "CreateGadget",
                             "target": "SelfAttackTarget",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornByTarget",
                                 "bornRandom": {
@@ -4714,7 +4714,7 @@
                             "gadgetID": 42905104,
                             "campID": 4001,
                             "campTargetType": "Enemy",
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ]
                 },
@@ -4957,7 +4957,7 @@
                     "$type": "CreateGadget",
                     "target": "OriginOwner",
                     "OAKAJFOAANM": true,
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornByCollisionPoint",
                         "onGround": true,
@@ -4970,7 +4970,7 @@
                     "gadgetID": 42905106,
                     "campID": 4001,
                     "campTargetType": "Enemy",
-                    "CEBMHIFOHJM": true
+                    "byServer": true
                 }
             ]
         }

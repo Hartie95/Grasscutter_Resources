@@ -60,7 +60,7 @@
                             "$type": "Predicated",
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR4",
                                 "campTargetType": "All",
                                 "sizeRatio": 1.0

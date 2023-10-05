@@ -224,7 +224,7 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Random",
+                                "sortType": "Random",
                                 "shapeName": "CircleR10",
                                 "campTargetType": "Enemy",
                                 "sizeRatio": 1.0
@@ -1945,8 +1945,8 @@
                         },
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
-                                "AKMLOIFOBPO": "Reversed",
+                            "gadgetInfo": {
+                                "sortType": "Reversed",
                                 "configID": 49001001
                             }
                         }
@@ -2200,8 +2200,8 @@
                         },
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
-                                "AKMLOIFOBPO": "Reversed",
+                            "gadgetInfo": {
+                                "sortType": "Reversed",
                                 "configID": 49001002
                             }
                         }
@@ -2550,8 +2550,8 @@
                         },
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
-                                "AKMLOIFOBPO": "Reversed",
+                            "gadgetInfo": {
+                                "sortType": "Reversed",
                                 "configID": 49001003
                             }
                         }
@@ -2656,7 +2656,7 @@
                             "$type": "AddGlobalValue",
                             "value": 0.0,
                             "key": "_OFFSET_RANDOM_Z",
-                            "FACHGOPKJKE": true,
+                            "randomInRange": true,
                             "maxValue": 0.5,
                             "minValue": -0.5
                         },
@@ -2688,7 +2688,7 @@
                             "$type": "AddGlobalValue",
                             "value": 0.0,
                             "key": "_OFFSET_RANDOM_Z",
-                            "FACHGOPKJKE": true,
+                            "randomInRange": true,
                             "maxValue": 0.5,
                             "minValue": -0.5
                         },
@@ -2720,7 +2720,7 @@
                             "$type": "AddGlobalValue",
                             "value": 0.0,
                             "key": "_OFFSET_RANDOM_Z",
-                            "FACHGOPKJKE": true,
+                            "randomInRange": true,
                             "maxValue": 0.5,
                             "minValue": -0.5
                         },
@@ -2752,7 +2752,7 @@
                             "$type": "AddGlobalValue",
                             "value": 0.0,
                             "key": "_OFFSET_RANDOM_Z",
-                            "FACHGOPKJKE": true,
+                            "randomInRange": true,
                             "maxValue": 0.5,
                             "minValue": -0.5
                         },
@@ -2784,7 +2784,7 @@
                             "$type": "AddGlobalValue",
                             "value": 0.0,
                             "key": "_OFFSET_RANDOM_Z",
-                            "FACHGOPKJKE": true,
+                            "randomInRange": true,
                             "maxValue": 0.5,
                             "minValue": -0.5
                         },
@@ -3018,15 +3018,15 @@
                     "onRemoved": [
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
-                                "AKMLOIFOBPO": "Reversed",
+                            "gadgetInfo": {
+                                "sortType": "Reversed",
                                 "configID": 49001005
                             }
                         },
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
-                                "AKMLOIFOBPO": "Reversed",
+                            "gadgetInfo": {
+                                "sortType": "Reversed",
                                 "configID": 49001012
                             }
                         }
@@ -3369,7 +3369,7 @@
                                 "alongGround": true
                             },
                             "IBGEDNNBIOF": "Caster",
-                            "NJEOPILMKCN": true
+                            "lifeByOwnerIsAlive": true
                         }
                     ],
                     "onRemoved": [
@@ -3462,7 +3462,7 @@
                         }
                     ],
                     "IBGEDNNBIOF": "OriginOwner",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornBySelf",
                         "offset": {
@@ -3659,7 +3659,7 @@
                         "OOOFAPPEOJK": [
                             "Avatar"
                         ],
-                        "AKMLOIFOBPO": "Nearest",
+                        "sortType": "Nearest",
                         "shapeName": "CircleR15",
                         "campTargetType": "Enemy",
                         "sizeRatio": 1.0
@@ -3690,7 +3690,7 @@
                         "alongGround": true
                     },
                     "IBGEDNNBIOF": "OriginOwner",
-                    "NJEOPILMKCN": true
+                    "lifeByOwnerIsAlive": true
                 }
             ]
         }
@@ -3708,7 +3708,7 @@
                         "OOOFAPPEOJK": [
                             "Avatar"
                         ],
-                        "AKMLOIFOBPO": "Nearest",
+                        "sortType": "Nearest",
                         "shapeName": "CircleR15",
                         "campTargetType": "Enemy",
                         "sizeRatio": 1.0
@@ -3739,7 +3739,7 @@
                         "alongGround": true
                     },
                     "IBGEDNNBIOF": "OriginOwner",
-                    "NJEOPILMKCN": true
+                    "lifeByOwnerIsAlive": true
                 }
             ]
         }
@@ -3815,7 +3815,7 @@
                         {
                             "$type": "CreateGadget",
                             "target": "Applier",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornByTarget",
                                 "offset": {
@@ -3830,7 +3830,7 @@
                         {
                             "$type": "CreateGadget",
                             "target": "Applier",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornByTarget",
                                 "offset": {
@@ -3845,7 +3845,7 @@
                         {
                             "$type": "CreateGadget",
                             "target": "Applier",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornByTarget",
                                 "offset": {
@@ -3860,7 +3860,7 @@
                         {
                             "$type": "CreateGadget",
                             "target": "Applier",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornByTarget",
                                 "offset": {
@@ -3875,7 +3875,7 @@
                         {
                             "$type": "CreateGadget",
                             "target": "Applier",
-                            "NJEOPILMKCN": true,
+                            "lifeByOwnerIsAlive": true,
                             "born": {
                                 "$type": "ConfigBornByTarget",
                                 "offset": {
@@ -3961,7 +3961,7 @@
                 {
                     "$type": "CreateGadget",
                     "IBGEDNNBIOF": "OriginOwner",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornBySelf",
                         "offset": {
@@ -3977,7 +3977,7 @@
                 {
                     "$type": "CreateGadget",
                     "IBGEDNNBIOF": "OriginOwner",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornBySelf",
                         "offset": {
@@ -3993,7 +3993,7 @@
                 {
                     "$type": "CreateGadget",
                     "IBGEDNNBIOF": "OriginOwner",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornBySelf",
                         "offset": {
@@ -4009,7 +4009,7 @@
                 {
                     "$type": "CreateGadget",
                     "IBGEDNNBIOF": "OriginOwner",
-                    "NJEOPILMKCN": true,
+                    "lifeByOwnerIsAlive": true,
                     "born": {
                         "$type": "ConfigBornBySelf",
                         "offset": {
@@ -5213,7 +5213,7 @@
                             "$type": "Predicated",
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR60",
                                 "campTargetType": "Alliance",
                                 "sizeRatio": 1.0
@@ -5266,7 +5266,7 @@
                             "$type": "AttachModifier",
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR60",
                                 "campTargetType": "Alliance",
                                 "sizeRatio": 1.0
@@ -5289,7 +5289,7 @@
                             "$type": "AttachModifier",
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR60",
                                 "campTargetType": "Alliance",
                                 "sizeRatio": 1.0
@@ -5327,7 +5327,7 @@
                             "$type": "Predicated",
                             "otherTargets": {
                                 "$type": "SelectTargetsByShape",
-                                "AKMLOIFOBPO": "Nearest",
+                                "sortType": "Nearest",
                                 "shapeName": "CircleR60",
                                 "campTargetType": "Alliance",
                                 "sizeRatio": 1.0
@@ -5787,7 +5787,7 @@
                                 "shapeName": "CircleR20",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "Alliance",
-                                "AFLAEMMPLPN": "Caster",
+                                "campBasedOn": "Caster",
                                 "sizeRatio": 1.0
                             },
                             "targetPredicates": [
@@ -5891,7 +5891,7 @@
                                 "shapeName": "CircleR20",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "Alliance",
-                                "AFLAEMMPLPN": "Caster",
+                                "campBasedOn": "Caster",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [

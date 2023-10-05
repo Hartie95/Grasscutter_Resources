@@ -539,7 +539,7 @@
                             "otherTargets": {
                                 "$type": "SelectTargetsBySelfGroup",
                                 "DJLKFLJENEG": 1,
-                                "AKMLOIFOBPO": "Random",
+                                "sortType": "Random",
                                 "weight": 127,
                                 "compareType": "Greater"
                             },
@@ -1466,7 +1466,7 @@
                                     }
                                 }
                             },
-                            "ENJEPFDLDDF": "Applier"
+                            "trackTarget": "Applier"
                         }
                     ],
                     "onRemoved": [
@@ -1518,7 +1518,7 @@
                                     "$type": "ConfigDirectionByAttackTarget"
                                 }
                             },
-                            "ENJEPFDLDDF": "Applier"
+                            "trackTarget": "Applier"
                         }
                     ]
                 }

@@ -226,7 +226,7 @@
                             },
                             "gadgetID": 70900360,
                             "campID": 5001,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         }
                     ]
                 },
@@ -251,7 +251,7 @@
                                 "shapeName": "CircleR5",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [
@@ -314,7 +314,7 @@
                                 "shapeName": "CircleR5",
                                 "centerBasedOn": "CurLocalAvatar",
                                 "campTargetType": "All",
-                                "AFLAEMMPLPN": "CurLocalAvatar",
+                                "campBasedOn": "CurLocalAvatar",
                                 "sizeRatio": 1.0
                             },
                             "predicates": [

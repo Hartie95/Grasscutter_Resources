@@ -5479,7 +5479,7 @@
                             "modifierName": "UNIQUE_Relic_AttackWithExtraDamage_Trigger"
                         }
                     ],
-                    "NHFJDDBKNCM": true
+                    "onThinkIntervalIsFixedUpdate": true
                 },
                 "UNIQUE_Relic_AttackWithExtraDamage": {
                     "modifierName": "",
@@ -5589,7 +5589,7 @@
                             "modifierName": "UNIQUE_Relic_AttackWithExtraDamage_CountDown"
                         }
                     ],
-                    "NHFJDDBKNCM": true
+                    "onThinkIntervalIsFixedUpdate": true
                 },
                 "UNIQUE_Relic_AttackWithExtraDamage_CD": {
                     "LAFGKJBLBGP": "Level",
@@ -5645,7 +5645,7 @@
                             "modifierName": "UNIQUE_Relic_AttackWithExtraDamage_CD"
                         }
                     ],
-                    "NHFJDDBKNCM": true
+                    "onThinkIntervalIsFixedUpdate": true
                 }
             },
             "onAdded": [

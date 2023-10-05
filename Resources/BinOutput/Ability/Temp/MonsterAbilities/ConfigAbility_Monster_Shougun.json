@@ -1325,8 +1325,8 @@
                     "born": {
                         "$type": "ConfigBornBySelf"
                     },
-                    "NJEOPILMKCN": true,
-                    "ENJEPFDLDDF": "Self"
+                    "lifeByOwnerIsAlive": true,
+                    "trackTarget": "Self"
                 }
             ]
         }
@@ -1925,7 +1925,7 @@
                         },
                         {
                             "$type": "HideUIBillBoard",
-                            "COCENMAFJGD": true
+                            "hide": true
                         },
                         {
                             "$type": "EnableHitBoxByName",
@@ -2406,8 +2406,8 @@
                     "born": {
                         "$type": "ConfigBornBySelf"
                     },
-                    "NJEOPILMKCN": true,
-                    "ENJEPFDLDDF": "Self"
+                    "lifeByOwnerIsAlive": true,
+                    "trackTarget": "Self"
                 }
             ]
         }
@@ -3781,8 +3781,8 @@
                             "born": {
                                 "$type": "ConfigBornBySelf"
                             },
-                            "NJEOPILMKCN": true,
-                            "ENJEPFDLDDF": "Self"
+                            "lifeByOwnerIsAlive": true,
+                            "trackTarget": "Self"
                         }
                     ],
                     "failActions": [
@@ -4172,8 +4172,8 @@
                             "born": {
                                 "$type": "ConfigBornBySelf"
                             },
-                            "NJEOPILMKCN": true,
-                            "ENJEPFDLDDF": "Self"
+                            "lifeByOwnerIsAlive": true,
+                            "trackTarget": "Self"
                         }
                     ],
                     "failActions": [

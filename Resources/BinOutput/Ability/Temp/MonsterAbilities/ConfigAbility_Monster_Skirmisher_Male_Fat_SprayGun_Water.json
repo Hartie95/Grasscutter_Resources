@@ -416,7 +416,7 @@
                         },
                         "direction": {
                             "$type": "ConfigDirectionByAttackTarget",
-                            "INCAGGBCJNF": 60.0
+                            "maxAngle": 60.0
                         },
                         "attachPointName": "WeaponEffect"
                     }
@@ -820,7 +820,7 @@
                                         "z": 0.0
                                     },
                                     "randomAngleHor": 60.0,
-                                    "IOIAHLPJDMH": 20.0,
+                                    "randomAngleVer": 20.0,
                                     "attachPointName": "WeaponEffect"
                                 },
                                 "attachPointName": "WeaponEffect"

@@ -46,8 +46,8 @@
                         "direction": {
                             "$type": "ConfigDirectionByAttackTarget",
                             "randomAngleHor": 0.30000001192092896,
-                            "IOIAHLPJDMH": 0.5,
-                            "INCAGGBCJNF": 20.0
+                            "randomAngleVer": 0.5,
+                            "maxAngle": 20.0
                         },
                         "attachPointName": "WeaponR"
                     }
@@ -138,8 +138,8 @@
                         "direction": {
                             "$type": "ConfigDirectionByAttackTarget",
                             "randomAngleHor": 0.30000001192092896,
-                            "IOIAHLPJDMH": 0.5,
-                            "INCAGGBCJNF": 60.0
+                            "randomAngleVer": 0.5,
+                            "maxAngle": 60.0
                         },
                         "attachPointName": "WeaponR"
                     }
@@ -239,18 +239,18 @@
                                 "BeHit",
                                 "BeHitThrow"
                             ],
-                            "OKFKMBDCDHO": "DodgeTrigger",
-                            "OKEAOJGNCNJ": 0.8999999761581421,
-                            "CLALNDAGFGJ": 0.15000000596046448,
-                            "LCJAOCJNEJJ": 25.0,
-                            "HFCIHIJGLMA": 0,
-                            "GOLCBAPOOLF": [
+                            "defendTriggerID": "DodgeTrigger",
+                            "defendProbability": 0.8999999761581421,
+                            "defendProbabilityDelta": 0.15000000596046448,
+                            "defendTimeInterval": 25.0,
+                            "defendCountInterval": 0,
+                            "onDefendSucceded": [
                                 {
                                     "$type": "ApplyModifier",
                                     "modifierName": "Dodge"
                                 }
                             ],
-                            "FLNFDMFPBCD": true
+                            "randomDirection": true
                         }
                     ]
                 },
@@ -309,7 +309,7 @@
                                 "y": 0.0,
                                 "z": 0.0
                             },
-                            "INCAGGBCJNF": 0.0
+                            "maxAngle": 0.0
                         },
                         "attachPointName": "WeaponL"
                     }
@@ -535,7 +535,7 @@
                                 "y": 0.0,
                                 "z": 0.0
                             },
-                            "INCAGGBCJNF": 60.0,
+                            "maxAngle": 60.0,
                             "ACCCPLDEJNB": 30.0
                         },
                         "attachPointName": "WeaponR"
@@ -558,7 +558,7 @@
                                 "y": 0.0,
                                 "z": 0.0
                             },
-                            "INCAGGBCJNF": 60.0,
+                            "maxAngle": 60.0,
                             "ACCCPLDEJNB": 30.0
                         },
                         "attachPointName": "WeaponR"
@@ -581,7 +581,7 @@
                                 "y": 5.0,
                                 "z": 0.0
                             },
-                            "INCAGGBCJNF": 60.0,
+                            "maxAngle": 60.0,
                             "ACCCPLDEJNB": 30.0
                         },
                         "attachPointName": "WeaponR"
@@ -604,7 +604,7 @@
                                 "y": 10.0,
                                 "z": 0.0
                             },
-                            "INCAGGBCJNF": 60.0,
+                            "maxAngle": 60.0,
                             "ACCCPLDEJNB": 30.0
                         },
                         "attachPointName": "WeaponR"
@@ -627,7 +627,7 @@
                                 "y": -5.0,
                                 "z": 0.0
                             },
-                            "INCAGGBCJNF": 60.0,
+                            "maxAngle": 60.0,
                             "ACCCPLDEJNB": 30.0
                         },
                         "attachPointName": "WeaponR"
@@ -650,7 +650,7 @@
                                 "y": -10.0,
                                 "z": 0.0
                             },
-                            "INCAGGBCJNF": 60.0,
+                            "maxAngle": 60.0,
                             "ACCCPLDEJNB": 30.0
                         },
                         "attachPointName": "WeaponR"

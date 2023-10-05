@@ -28,7 +28,7 @@
                         },
                         {
                             "$type": "HideUIBillBoard",
-                            "COCENMAFJGD": true
+                            "hide": true
                         },
                         {
                             "$type": "SetPoseBool",
@@ -621,7 +621,7 @@
                             "born": {
                                 "$type": "ConfigBornBySelf"
                             },
-                            "ENJEPFDLDDF": "Self",
+                            "trackTarget": "Self",
                             "MLHHDMOKLBG": true
                         },
                         {
@@ -635,8 +635,8 @@
                     "onRemoved": [
                         {
                             "$type": "KillGadget",
-                            "LBGGIBBMCMF": {
-                                "AKMLOIFOBPO": "Reversed",
+                            "gadgetInfo": {
+                                "sortType": "Reversed",
                                 "configID": 42304010
                             }
                         },
@@ -1057,7 +1057,7 @@
                         "direction": {
                             "$type": "ConfigDirectionByAttackTarget",
                             "randomAngleHor": 0.800000011920929,
-                            "IOIAHLPJDMH": 0.5
+                            "randomAngleVer": 0.5
                         },
                         "attachPointName": "RightDown_Cannon"
                     }
@@ -1210,7 +1210,7 @@
                         "direction": {
                             "$type": "ConfigDirectionByAttackTarget",
                             "randomAngleHor": 1.5,
-                            "IOIAHLPJDMH": 1.0
+                            "randomAngleVer": 1.0
                         },
                         "attachPointName": "RightUp_Cannon"
                     }
@@ -1363,7 +1363,7 @@
                         "direction": {
                             "$type": "ConfigDirectionByAttackTarget",
                             "randomAngleHor": 1.5,
-                            "IOIAHLPJDMH": 1.0
+                            "randomAngleVer": 1.0
                         },
                         "attachPointName": "LeftDown_Cannon"
                     }
@@ -1516,7 +1516,7 @@
                         "direction": {
                             "$type": "ConfigDirectionByAttackTarget",
                             "randomAngleHor": 1.5,
-                            "IOIAHLPJDMH": 1.0
+                            "randomAngleVer": 1.0
                         },
                         "attachPointName": "LeftUp_Cannon"
                     }
@@ -1855,7 +1855,7 @@
                         "$type": "ConfigBornByAttachPoint",
                         "direction": {
                             "$type": "ConfigDirectionByAttackTarget",
-                            "IHHIKIACOML": "Horizontal"
+                            "maxAngleType": "Horizontal"
                         },
                         "attachPointName": "LaserNode"
                     }
@@ -2755,7 +2755,7 @@
                     "value": 0.0,
                     "key": "_FORMATHR_NONE_RANGEATK2_MISSPOINT",
                     "useLimitRange": true,
-                    "FACHGOPKJKE": true,
+                    "randomInRange": true,
                     "maxValue": 10.0,
                     "minValue": 1.0
                 },

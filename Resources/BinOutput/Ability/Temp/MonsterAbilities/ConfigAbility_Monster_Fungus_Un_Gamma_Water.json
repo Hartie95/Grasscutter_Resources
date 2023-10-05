@@ -156,7 +156,7 @@
                                     "z": 1.5
                                 }
                             },
-                            "NJEOPILMKCN": true
+                            "lifeByOwnerIsAlive": true
                         }
                     ],
                     "failActions": [
@@ -171,7 +171,7 @@
                                     "z": 0.0
                                 }
                             },
-                            "NJEOPILMKCN": true
+                            "lifeByOwnerIsAlive": true
                         }
                     ]
                 }
@@ -469,7 +469,7 @@
                     "onAdded": [
                         {
                             "$type": "HideUIBillBoard",
-                            "COCENMAFJGD": true
+                            "hide": true
                         },
                         {
                             "$type": "TriggerSetCastShadow"

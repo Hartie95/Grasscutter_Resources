@@ -825,7 +825,7 @@
                                     "otherTargets": {
                                         "$type": "SelectTargetsByShape",
                                         "DJLKFLJENEG": 4,
-                                        "AKMLOIFOBPO": "Nearest",
+                                        "sortType": "Nearest",
                                         "shapeName": "CircleR50",
                                         "campTargetType": "Enemy",
                                         "sizeRatio": 1.0
@@ -1100,7 +1100,7 @@
                             "shieldAngle": 90.0,
                             "shieldHPRatio": 1.0,
                             "damageRatio": 0.20000000298023224,
-                            "NGOKEFIDFCJ": true
+                            "useMutiPlayerFixData": true
                         }
                     ]
                 },

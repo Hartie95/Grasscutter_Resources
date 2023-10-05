@@ -527,7 +527,7 @@
                         },
                         "onGround": true
                     },
-                    "ENJEPFDLDDF": "Target"
+                    "trackTarget": "Target"
                 },
                 {
                     "$type": "TriggerBullet",
@@ -557,7 +557,7 @@
                         },
                         "onGround": true
                     },
-                    "ENJEPFDLDDF": "Target"
+                    "trackTarget": "Target"
                 },
                 {
                     "$type": "TriggerBullet",
@@ -587,7 +587,7 @@
                         },
                         "onGround": true
                     },
-                    "ENJEPFDLDDF": "Target"
+                    "trackTarget": "Target"
                 },
                 {
                     "$type": "TriggerBullet",
@@ -616,7 +616,7 @@
                         },
                         "onGround": true
                     },
-                    "ENJEPFDLDDF": "Target",
+                    "trackTarget": "Target",
                     "ACHALMGBBMK": true,
                     "MLHHDMOKLBG": true
                 },
@@ -647,7 +647,7 @@
                         },
                         "onGround": true
                     },
-                    "ENJEPFDLDDF": "Target",
+                    "trackTarget": "Target",
                     "ACHALMGBBMK": true,
                     "MLHHDMOKLBG": true
                 },
@@ -678,7 +678,7 @@
                         },
                         "onGround": true
                     },
-                    "ENJEPFDLDDF": "Target",
+                    "trackTarget": "Target",
                     "ACHALMGBBMK": true,
                     "MLHHDMOKLBG": true
                 }
@@ -803,7 +803,7 @@
                                 "onGround": true,
                                 "alongGround": true
                             },
-                            "ENJEPFDLDDF": "Target"
+                            "trackTarget": "Target"
                         }
                     ]
                 }
@@ -1056,7 +1056,7 @@
                             },
                             "gadgetID": 42103009,
                             "campID": 4001,
-                            "CEBMHIFOHJM": true
+                            "byServer": true
                         },
                         {
                             "$type": "CreateGadget",

@@ -666,7 +666,7 @@
                                 "y": 0.0,
                                 "z": 0.0
                             },
-                            "INCAGGBCJNF": 360.0
+                            "maxAngle": 360.0
                         }
                     },
                     "gadgetID": 70690022,
