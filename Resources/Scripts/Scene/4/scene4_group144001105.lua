@@ -713,6 +713,4 @@ L2_1[2] = L4_1
 L2_1[3] = L5_1
 L2_1[4] = L6_1
 suites = L2_1
-L2_1 = require
-L3_1 = "V1_6/VehicleBattle"
-L2_1(L3_1)
+require "V1_6/VehicleBattle"

@@ -665,9 +665,5 @@ L9_1[5] = L14_1
 L9_1[6] = L15_1
 L9_1[7] = L16_1
 suites = L9_1
-L9_1 = require
-L10_1 = "WindFlora_Boss_RandomList"
-L9_1(L10_1)
-L9_1 = require
-L10_1 = "WindFlora_ReTrans"
-L9_1(L10_1)
+require "WindFlora_Boss_RandomList"
+require "WindFlora_ReTrans"

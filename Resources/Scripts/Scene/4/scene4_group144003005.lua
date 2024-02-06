@@ -989,6 +989,4 @@ function L17_1(A0_2, A1_2)
   return L2_2
 end
 action_EVENT_GALLERY_START_5041 = L17_1
-L17_1 = require
-L18_1 = "V1_6/Multi_Badminton"
-L17_1(L18_1)
+require "V1_6/Multi_Badminton"

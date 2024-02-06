@@ -374,6 +374,4 @@ L1_1[1] = L2_1
 L1_1[2] = L3_1
 L1_1[3] = L4_1
 suites = L1_1
-L1_1 = require
-L2_1 = "V2_3/MistTrialV2_BuffLog"
-L1_1(L2_1)
+require "V2_3/MistTrialV2_BuffLog"

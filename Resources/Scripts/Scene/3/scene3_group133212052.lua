@@ -543,6 +543,4 @@ function L2_1(A0_2, A1_2)
   end
 end
 action_EVENT_VARIABLE_CHANGE_52013 = L2_1
-L2_1 = require
-L3_1 = "BlackBoxPlay/EnergyAmplifier"
-L2_1(L3_1)
+require "BlackBoxPlay/EnergyAmplifier"

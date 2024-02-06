@@ -431,6 +431,4 @@ L1_1[11] = L12_1
 L1_1[12] = L13_1
 L1_1[13] = L14_1
 suites = L1_1
-L1_1 = require
-L2_1 = "V2_6/BW_RandomLoadSuite"
-L1_1(L2_1)
+require "V2_6/BW_RandomLoadSuite"

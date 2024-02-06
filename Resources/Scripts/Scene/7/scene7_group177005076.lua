@@ -1628,6 +1628,4 @@ function L18_1(A0_2, A1_2)
   return L2_2
 end
 action_EVENT_QUEST_START_76031 = L18_1
-L18_1 = require
-L19_1 = "V2_5/Huarongdao"
-L18_1(L19_1)
+require "V2_5/Huarongdao"

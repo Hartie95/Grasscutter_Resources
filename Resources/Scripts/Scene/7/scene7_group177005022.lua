@@ -711,6 +711,4 @@ L15_1.rand_weight = 100
 L13_1[1] = L14_1
 L13_1[2] = L15_1
 suites = L13_1
-L13_1 = require
-L14_1 = "V2_5/GiliGiliI_Quest"
-L13_1(L14_1)
+require "V2_5/GiliGiliI_Quest"

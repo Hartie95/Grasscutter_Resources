@@ -179,6 +179,4 @@ function L1_1(A0_2, A1_2)
   return L2_2
 end
 action_EVENT_SELECT_OPTION_228003 = L1_1
-L1_1 = require
-L2_1 = "TreasureMapEvent"
-L1_1(L2_1)
+require "TreasureMapEvent"

@@ -1199,6 +1199,4 @@ function L2_1(A0_2, A1_2)
   return L2_2
 end
 action_EVENT_GADGET_CREATE_1048 = L2_1
-L2_1 = require
-L3_1 = "V2_1/Boss_LaSignora"
-L2_1(L3_1)
+require "V2_1/Boss_LaSignora"

@@ -1600,6 +1600,4 @@ function L2_1(A0_2, A1_2)
   return L2_2
 end
 action_EVENT_ENTER_REGION_10007 = L2_1
-L2_1 = require
-L3_1 = "TowerDefense_Challenge"
-L2_1(L3_1)
+require "TowerDefense_Challenge"

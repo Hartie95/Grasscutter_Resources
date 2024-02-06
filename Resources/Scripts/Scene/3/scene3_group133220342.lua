@@ -380,6 +380,4 @@ function L2_1(A0_2, A1_2)
   return L4_2
 end
 action_EVENT_VARIABLE_CHANGE_342007 = L2_1
-L2_1 = require
-L3_1 = "BlackBoxPlay/LightSquare"
-L2_1(L3_1)
+require "BlackBoxPlay/LightSquare"

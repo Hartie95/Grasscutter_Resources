@@ -350,6 +350,4 @@ L3_1[4] = L7_1
 L3_1[5] = L8_1
 L3_1[6] = L9_1
 suites = L3_1
-L3_1 = require
-L4_1 = "AsterBig"
-L3_1(L4_1)
+require "AsterBig"

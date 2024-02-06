@@ -4,9 +4,7 @@ L0_1.group_id = 245011018
 L1_1 = {}
 L1_1.group_id = 245011018
 L1_1.gear_group_id = 245011001
-L2_1 = require
-L3_1 = "V2_0/TowerDefense_MonsterWaveConfig_V2.0"
-L2_1(L3_1)
+require "V2_0/TowerDefense_MonsterWaveConfig_V2.0"
 L2_1 = {}
 L3_1 = {}
 L4_1 = {}
@@ -510,6 +508,4 @@ L7_1.triggers = L8_1
 L7_1.rand_weight = 100
 L6_1[1] = L7_1
 suites = L6_1
-L6_1 = require
-L7_1 = "V2_0/TowerDefense_Monster_V2.0"
-L6_1(L7_1)
+require "V2_0/TowerDefense_Monster_V2.0"

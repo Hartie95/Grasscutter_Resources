@@ -407,6 +407,4 @@ function L2_1(A0_2, A1_2)
   return L2_2
 end
 action_EVENT_GADGET_STATE_CHANGE_441009 = L2_1
-L2_1 = require
-L3_1 = "TreasureMapEvent"
-L2_1(L3_1)
+require "TreasureMapEvent"

@@ -1154,6 +1154,4 @@ L28_1.rand_weight = 100
 L26_1[1] = L27_1
 L26_1[2] = L28_1
 suites = L26_1
-L26_1 = require
-L27_1 = "V2_2/RogueDungeon_BOSS"
-L26_1(L27_1)
+require "V2_2/RogueDungeon_BOSS"

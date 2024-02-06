@@ -319,6 +319,4 @@ L12_1[1] = L13_1
 L12_1[2] = L14_1
 L12_1[3] = L15_1
 suites = L12_1
-L12_1 = require
-L13_1 = "V2_5/HM_BalloonGallery"
-L12_1(L13_1)
+require "V2_5/HM_BalloonGallery"

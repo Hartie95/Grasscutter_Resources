@@ -856,6 +856,4 @@ function L10_1(A0_2, A1_2)
   return L3_2
 end
 action_EVENT_GADGET_CREATE_59024 = L10_1
-L10_1 = require
-L11_1 = "V2_4/EnvState"
-L10_1(L11_1)
+require "V2_4/EnvState"

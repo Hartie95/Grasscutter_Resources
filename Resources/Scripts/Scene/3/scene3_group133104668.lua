@@ -507,6 +507,4 @@ function L2_1(A0_2, A1_2)
   return L2_2
 end
 action_EVENT_ENTER_REGION_668015 = L2_1
-L2_1 = require
-L3_1 = "V2_3/EnergyDisk"
-L2_1(L3_1)
+require "V2_3/EnergyDisk"

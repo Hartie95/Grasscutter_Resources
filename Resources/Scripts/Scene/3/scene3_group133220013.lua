@@ -883,6 +883,4 @@ function L1_1(A0_2, A1_2)
   return L4_2
 end
 action_EVENT_SPECIFIC_GADGET_HP_CHANGE_13017 = L1_1
-L1_1 = require
-L2_1 = "V2_0/ElectricCore"
-L1_1(L2_1)
+require "V2_0/ElectricCore"

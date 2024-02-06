@@ -1099,9 +1099,5 @@ function L5_1(A0_2, A1_2)
   return L2_2
 end
 action_EVENT_VARIABLE_CHANGE_239026 = L5_1
-L5_1 = require
-L6_1 = "V2_4/WallMaze"
-L5_1(L6_1)
-L5_1 = require
-L6_1 = "V2_4/EnvState"
-L5_1(L6_1)
+require "V2_4/WallMaze"
+require "V2_4/EnvState"

@@ -292,6 +292,4 @@ function L2_1(A0_2, A1_2)
   return L2_2
 end
 action_EVENT_VARIABLE_CHANGE_4011 = L2_1
-L2_1 = require
-L3_1 = "V2_7/rogue_rotate_whitebox"
-L2_1(L3_1)
+require "V2_7/rogue_rotate_whitebox"

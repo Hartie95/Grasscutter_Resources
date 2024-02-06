@@ -762,9 +762,5 @@ function L11_1(A0_2, A1_2)
   return L2_2
 end
 action_EVENT_GADGET_STATE_CHANGE_277015 = L11_1
-L11_1 = require
-L12_1 = "V2_4/EnvState"
-L11_1(L12_1)
-L11_1 = require
-L12_1 = "V2_4/EnvStateWorktop"
-L11_1(L12_1)
+require "V2_4/EnvState"
+require "V2_4/EnvStateWorktop"

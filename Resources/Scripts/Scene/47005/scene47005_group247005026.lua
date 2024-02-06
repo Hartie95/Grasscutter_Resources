@@ -889,6 +889,4 @@ function L5_1(A0_2, A1_2)
   return L2_2
 end
 action_EVENT_ENTER_REGION_26031 = L5_1
-L5_1 = require
-L6_1 = "V2_2/RogueDungeon_ChestRoom"
-L5_1(L6_1)
+require "V2_2/RogueDungeon_ChestRoom"

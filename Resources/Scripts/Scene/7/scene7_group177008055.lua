@@ -247,6 +247,4 @@ L2_1.triggers = L3_1
 L2_1.rand_weight = 100
 L1_1[1] = L2_1
 suites = L1_1
-L1_1 = require
-L2_1 = "V2_5/Watcher_Energy"
-L1_1(L2_1)
+require "V2_5/Watcher_Energy"

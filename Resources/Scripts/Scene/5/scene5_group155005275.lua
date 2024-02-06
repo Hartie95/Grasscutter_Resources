@@ -322,6 +322,4 @@ function L7_1(A0_2, A1_2)
   return L2_2
 end
 action_EVENT_GADGET_STATE_CHANGE_275006 = L7_1
-L7_1 = require
-L8_1 = "V2_4/EnvState"
-L7_1(L8_1)
+require "V2_4/EnvState"

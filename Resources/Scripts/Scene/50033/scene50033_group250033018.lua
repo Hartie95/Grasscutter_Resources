@@ -914,6 +914,4 @@ L2_1[3] = L5_1
 L2_1[4] = L6_1
 L2_1[5] = L7_1
 suites = L2_1
-L2_1 = require
-L3_1 = "TowerDefense_Monster02"
-L2_1(L3_1)
+require "TowerDefense_Monster02"

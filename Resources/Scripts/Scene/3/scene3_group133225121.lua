@@ -266,6 +266,4 @@ function L1_1(A0_2, A1_2)
   return L4_2
 end
 action_EVENT_VARIABLE_CHANGE_121004 = L1_1
-L1_1 = require
-L2_1 = "V2_2/TsurumiBirdFather"
-L1_1(L2_1)
+require "V2_2/TsurumiBirdFather"

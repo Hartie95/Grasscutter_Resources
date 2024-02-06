@@ -298,6 +298,4 @@ L1_1[2] = L3_1
 L1_1[3] = L4_1
 L1_1[4] = L5_1
 suites = L1_1
-L1_1 = require
-L2_1 = "V2_0/ElectricCore"
-L1_1(L2_1)
+require "V2_0/ElectricCore"

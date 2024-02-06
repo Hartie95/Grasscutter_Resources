@@ -512,9 +512,5 @@ L2_1[4] = L6_1
 L2_1[5] = L7_1
 L2_1[6] = L8_1
 suites = L2_1
-L2_1 = require
-L3_1 = "V2_0/TemariChallenge"
-L2_1(L3_1)
-L2_1 = require
-L3_1 = "V2_0/ElectricCore"
-L2_1(L3_1)
+require "V2_0/TemariChallenge"
+require "V2_0/ElectricCore"

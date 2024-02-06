@@ -176,6 +176,4 @@ L2_1[8] = L10_1
 L2_1[9] = L11_1
 L2_1[10] = L12_1
 suites = L2_1
-L2_1 = require
-L3_1 = "V2_4/QunyugeDebris"
-L2_1(L3_1)
+require "V2_4/QunyugeDebris"

@@ -333,6 +333,4 @@ L4_1[1] = L5_1
 L4_1[2] = L6_1
 L4_1[3] = L7_1
 suites = L4_1
-L4_1 = require
-L5_1 = "V2_6/BW_LightRoadTrack"
-L4_1(L5_1)
+require "V2_6/BW_LightRoadTrack"

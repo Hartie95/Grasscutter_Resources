@@ -625,9 +625,5 @@ L18_1[2] = L20_1
 L18_1[3] = L21_1
 L18_1[4] = L22_1
 suites = L18_1
-L18_1 = require
-L19_1 = "BulletGame"
-L18_1(L19_1)
-L18_1 = require
-L19_1 = "WindFlora_ReTrans"
-L18_1(L19_1)
+require "BulletGame"
+require "WindFlora_ReTrans"

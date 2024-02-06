@@ -851,6 +851,4 @@ function L3_1(A0_2, A1_2)
   return L2_2
 end
 action_EVENT_TIME_AXIS_PASS_228020 = L3_1
-L3_1 = require
-L4_1 = "V2_6/CalculateBulletForward"
-L3_1(L4_1)
+require "V2_6/CalculateBulletForward"

@@ -1415,6 +1415,4 @@ function L24_1(A0_2, A1_2)
   return L2_2
 end
 action_EVENT_ENTER_REGION_17045 = L24_1
-L24_1 = require
-L25_1 = "V2_2/RogueDungeon_BOSS"
-L24_1(L25_1)
+require "V2_2/RogueDungeon_BOSS"

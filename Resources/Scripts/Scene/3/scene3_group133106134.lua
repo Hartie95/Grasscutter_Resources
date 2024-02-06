@@ -791,6 +791,4 @@ function L4_1(A0_2, A1_2)
   return L2_2
 end
 action_EVENT_GADGET_STATE_CHANGE_134022 = L4_1
-L4_1 = require
-L5_1 = "V2_6/CalculateBulletForward"
-L4_1(L5_1)
+require "V2_6/CalculateBulletForward"

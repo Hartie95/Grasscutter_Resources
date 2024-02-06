@@ -150,6 +150,4 @@ L3_1.ban_refresh = true
 L1_1[1] = L2_1
 L1_1[2] = L3_1
 suites = L1_1
-L1_1 = require
-L2_1 = "AsterMiddle"
-L1_1(L2_1)
+require "AsterMiddle"

@@ -215,6 +215,4 @@ L9_1.rand_weight = 100
 L7_1[1] = L8_1
 L7_1[2] = L9_1
 suites = L7_1
-L7_1 = require
-L8_1 = "V2_4/EnvState"
-L7_1(L8_1)
+require "V2_4/EnvState"

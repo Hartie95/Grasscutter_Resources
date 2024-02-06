@@ -700,6 +700,4 @@ L6_1.triggers = L7_1
 L6_1.rand_weight = 100
 L5_1[1] = L6_1
 suites = L5_1
-L5_1 = require
-L6_1 = "V2_2/RogueDungeon_ChestRoom"
-L5_1(L6_1)
+require "V2_2/RogueDungeon_ChestRoom"

@@ -1412,6 +1412,4 @@ L7_1[6] = L13_1
 L7_1[7] = L14_1
 L7_1[8] = L15_1
 suites = L7_1
-L7_1 = require
-L8_1 = "V2_5/FightingStage_ByNum"
-L7_1(L8_1)
+require "V2_5/FightingStage_ByNum"

@@ -213,6 +213,4 @@ L2_1[1] = L3_1
 L2_1[2] = L4_1
 L2_1[3] = L5_1
 suites = L2_1
-L2_1 = require
-L3_1 = "V1_5/HilichurlLevel"
-L2_1(L3_1)
+require "V1_5/HilichurlLevel"

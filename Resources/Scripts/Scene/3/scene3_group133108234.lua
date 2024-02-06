@@ -885,9 +885,5 @@ function L2_1(A0_2, A1_2)
   return L2_2
 end
 action_EVENT_GROUP_LOAD_234017 = L2_1
-L2_1 = require
-L3_1 = "V2_4/SeaLamp_Challenge_Manager"
-L2_1(L3_1)
-L2_1 = require
-L3_1 = "V2_4/Firecracker"
-L2_1(L3_1)
+require "V2_4/SeaLamp_Challenge_Manager"
+require "V2_4/Firecracker"

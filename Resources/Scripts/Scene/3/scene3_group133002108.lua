@@ -622,6 +622,4 @@ function L2_1(A0_2, A1_2)
   return L2_2
 end
 action_EVENT_ANY_MONSTER_DIE_108007 = L2_1
-L2_1 = require
-L3_1 = "V2_3/WinterCampMimik_Quest"
-L2_1(L3_1)
+require "V2_3/WinterCampMimik_Quest"

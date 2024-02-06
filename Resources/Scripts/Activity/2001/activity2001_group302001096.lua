@@ -428,6 +428,4 @@ function L2_1(A0_2, A1_2)
   return L2_2
 end
 action_EVENT_GENERAL_REWARD_DIE_96006 = L2_1
-L2_1 = require
-L3_1 = "AsterMiddle"
-L2_1(L3_1)
+require "AsterMiddle"

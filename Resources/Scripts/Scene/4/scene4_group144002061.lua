@@ -379,6 +379,4 @@ function L2_1(A0_2, A1_2)
   return L2_2
 end
 action_EVENT_ANY_MONSTER_LIVE_61008 = L2_1
-L2_1 = require
-L3_1 = "V1_6/General_Watcher"
-L2_1(L3_1)
+require "V1_6/General_Watcher"

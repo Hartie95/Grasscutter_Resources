@@ -333,6 +333,4 @@ function L2_1(A0_2, A1_2)
   return L2_2
 end
 action_EVENT_ANY_GADGET_DIE_448011 = L2_1
-L2_1 = require
-L3_1 = "BlackBoxPlay/ChargingPort"
-L2_1(L3_1)
+require "BlackBoxPlay/ChargingPort"

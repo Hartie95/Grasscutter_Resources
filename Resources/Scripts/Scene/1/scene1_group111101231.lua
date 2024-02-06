@@ -337,6 +337,4 @@ function L4_1(A0_2, A1_2)
   return L5_2
 end
 action_EVENT_GROUP_LOAD_231007 = L4_1
-L4_1 = require
-L5_1 = "V2_4/EnvState"
-L4_1(L5_1)
+require "V2_4/EnvState"

@@ -1264,6 +1264,4 @@ L4_1.rand_weight = 100
 L2_1[1] = L3_1
 L2_1[2] = L4_1
 suites = L2_1
-L2_1 = require
-L3_1 = "V2_0/TowerDefense_Gear_V2.0"
-L2_1(L3_1)
+require "V2_0/TowerDefense_Gear_V2.0"

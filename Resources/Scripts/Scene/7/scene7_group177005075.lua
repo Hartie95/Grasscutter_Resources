@@ -936,6 +936,4 @@ L15_1[2] = L17_1
 L15_1[3] = L18_1
 L15_1[4] = L19_1
 suites = L15_1
-L15_1 = require
-L16_1 = "V2_5/GiliGiliI_Boss"
-L15_1(L16_1)
+require "V2_5/GiliGiliI_Boss"

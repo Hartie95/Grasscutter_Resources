@@ -314,6 +314,4 @@ function L4_1(A0_2, A1_2)
   return L2_2
 end
 action_EVENT_TIMER_EVENT_13006 = L4_1
-L4_1 = require
-L5_1 = "TowerDefense_Trap"
-L4_1(L5_1)
+require "TowerDefense_Trap"

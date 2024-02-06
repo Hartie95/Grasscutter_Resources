@@ -1011,6 +1011,4 @@ function L5_1(A0_2, A1_2)
   return L3_2
 end
 action_EVENT_ENTER_REGION_4018 = L5_1
-L5_1 = require
-L6_1 = "V2_4/BoxPusher"
-L5_1(L6_1)
+require "V2_4/BoxPusher"

@@ -1197,6 +1197,4 @@ L3_1.triggers = L4_1
 L3_1.rand_weight = 100
 L2_1[1] = L3_1
 suites = L2_1
-L2_1 = require
-L3_1 = "TowerDefense_Gear"
-L2_1(L3_1)
+require "TowerDefense_Gear"

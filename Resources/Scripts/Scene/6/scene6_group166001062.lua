@@ -613,6 +613,4 @@ function L2_1(A0_2, A1_2)
   return L2_2
 end
 action_EVENT_LUA_NOTIFY_62018 = L2_1
-L2_1 = require
-L3_1 = "V2_7/BW_NearBossAuthorityChange"
-L2_1(L3_1)
+require "V2_7/BW_NearBossAuthorityChange"

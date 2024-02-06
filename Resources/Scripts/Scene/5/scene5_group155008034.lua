@@ -42,6 +42,4 @@ L7_1.triggers = L8_1
 L7_1.rand_weight = 100
 L6_1[1] = L7_1
 suites = L6_1
-L6_1 = require
-L7_1 = "V2_4/EnvState"
-L6_1(L7_1)
+require "V2_4/EnvState"

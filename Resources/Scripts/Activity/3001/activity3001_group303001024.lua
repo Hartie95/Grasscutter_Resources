@@ -1450,6 +1450,4 @@ function L1_1(A0_2, A1_2)
   return L2_2
 end
 condition_EVENT_ANY_MONSTER_DIE_24037 = L1_1
-L1_1 = require
-L2_1 = "IceFlowerBossBattle"
-L1_1(L2_1)
+require "IceFlowerBossBattle"

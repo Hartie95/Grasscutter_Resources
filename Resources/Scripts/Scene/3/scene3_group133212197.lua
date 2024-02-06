@@ -296,9 +296,5 @@ function L2_1(A0_2, A1_2)
   return L2_2
 end
 condition_EVENT_VARIABLE_CHANGE_197012 = L2_1
-L2_1 = require
-L3_1 = "V2_0/DrawOneLine_TreasureMap"
-L2_1(L3_1)
-L2_1 = require
-L3_1 = "V2_0/TreasureMapEventV2"
-L2_1(L3_1)
+require "V2_0/DrawOneLine_TreasureMap"
+require "V2_0/TreasureMapEventV2"

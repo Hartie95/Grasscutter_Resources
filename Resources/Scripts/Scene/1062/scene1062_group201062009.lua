@@ -252,6 +252,4 @@ function L6_1(A0_2, A1_2)
   return L2_2
 end
 condition_EVENT_ENTER_REGION_9010 = L6_1
-L6_1 = require
-L7_1 = "V2_0/ThunderFloor"
-L6_1(L7_1)
+require "V2_0/ThunderFloor"

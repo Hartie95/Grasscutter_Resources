@@ -335,6 +335,4 @@ L1_1[4] = L5_1
 L1_1[5] = L6_1
 L1_1[6] = L7_1
 suites = L1_1
-L1_1 = require
-L2_1 = "V2_2/TsurumiBirdFather"
-L1_1(L2_1)
+require "V2_2/TsurumiBirdFather"

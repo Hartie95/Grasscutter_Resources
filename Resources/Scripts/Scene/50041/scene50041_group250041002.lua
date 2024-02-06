@@ -1662,6 +1662,4 @@ function L1_1(A0_2, A1_2)
   return L2_2
 end
 action_EVENT_TIMER_EVENT_2034 = L1_1
-L1_1 = require
-L2_1 = "BubbleGame"
-L1_1(L2_1)
+require "BubbleGame"

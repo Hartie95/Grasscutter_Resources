@@ -767,6 +767,4 @@ L16_1.triggers = L17_1
 L16_1.rand_weight = 100
 L15_1[1] = L16_1
 suites = L15_1
-L15_1 = require
-L16_1 = "WindFlora_Main"
-L15_1(L16_1)
+require "WindFlora_Main"

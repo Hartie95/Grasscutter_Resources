@@ -280,6 +280,4 @@ L12_1.rand_weight = 100
 L10_1[1] = L11_1
 L10_1[2] = L12_1
 suites = L10_1
-L10_1 = require
-L11_1 = "V2_5/ReviveBoss"
-L10_1(L11_1)
+require "V2_5/ReviveBoss"

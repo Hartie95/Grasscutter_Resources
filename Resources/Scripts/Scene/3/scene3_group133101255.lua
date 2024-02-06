@@ -172,6 +172,4 @@ function L2_1(A0_2, A1_2)
   return L2_2
 end
 action_EVENT_ANY_MONSTER_DIE_255005 = L2_1
-L2_1 = require
-L3_1 = "Activity_Endora"
-L2_1(L3_1)
+require "Activity_Endora"

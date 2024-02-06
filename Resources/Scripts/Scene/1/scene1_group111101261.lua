@@ -131,6 +131,4 @@ L7_1.rand_weight = 100
 L5_1[1] = L6_1
 L5_1[2] = L7_1
 suites = L5_1
-L5_1 = require
-L6_1 = "V2_5/HM_BalloonGallery"
-L5_1(L6_1)
+require "V2_5/HM_BalloonGallery"

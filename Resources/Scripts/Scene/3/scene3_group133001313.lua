@@ -528,6 +528,4 @@ function L1_1(A0_2, A1_2)
   return L2_2
 end
 action_EVENT_LEAVE_REGION_313010 = L1_1
-L1_1 = require
-L2_1 = "TD_Lib"
-L1_1(L2_1)
+require "TD_Lib"

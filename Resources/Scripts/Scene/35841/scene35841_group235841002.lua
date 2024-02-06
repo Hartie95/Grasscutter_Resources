@@ -607,9 +607,5 @@ L9_1[2] = L11_1
 L9_1[3] = L12_1
 L9_1[4] = L13_1
 suites = L9_1
-L9_1 = require
-L10_1 = "V2_6/CrystalLink"
-L9_1(L10_1)
-L9_1 = require
-L10_1 = "MonsterQuickDeath"
-L9_1(L10_1)
+require "V2_6/CrystalLink"
+require "MonsterQuickDeath"

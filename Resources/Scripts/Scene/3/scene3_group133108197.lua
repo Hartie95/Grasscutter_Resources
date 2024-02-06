@@ -720,6 +720,4 @@ function L1_1(A0_2, A1_2)
   return L2_2
 end
 action_EVENT_QUEST_FINISH_197022 = L1_1
-L1_1 = require
-L2_1 = "V2_4/Firecracker"
-L1_1(L2_1)
+require "V2_4/Firecracker"

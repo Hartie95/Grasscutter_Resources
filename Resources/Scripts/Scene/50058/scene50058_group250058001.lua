@@ -97,6 +97,4 @@ function L2_1(A0_2, A1_2)
   return L2_2
 end
 action_EVENT_SPECIFIC_MONSTER_HP_CHANGE_1002 = L2_1
-L2_1 = require
-L3_1 = "V2_1/Boss_Shougun_Beta"
-L2_1(L3_1)
+require "V2_1/Boss_Shougun_Beta"

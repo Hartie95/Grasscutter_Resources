@@ -214,6 +214,4 @@ L4_1.triggers = L5_1
 L4_1.rand_weight = 100
 L3_1[1] = L4_1
 suites = L3_1
-L3_1 = require
-L4_1 = "V2_2/Dig"
-L3_1(L4_1)
+require "V2_2/Dig"

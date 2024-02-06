@@ -173,6 +173,4 @@ L6_1.rand_weight = 100
 L4_1[1] = L5_1
 L4_1[2] = L6_1
 suites = L4_1
-L4_1 = require
-L5_1 = "TowerDefense_Trap"
-L4_1(L5_1)
+require "TowerDefense_Trap"

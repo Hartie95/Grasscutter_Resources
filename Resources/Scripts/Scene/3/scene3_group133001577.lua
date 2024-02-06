@@ -1629,9 +1629,5 @@ function L2_1(A0_2, A1_2)
   return L2_2
 end
 action_EVENT_CHALLENGE_FAIL_577028 = L2_1
-L2_1 = require
-L3_1 = "Activity_ArenaChallengeSub"
-L2_1(L3_1)
-L2_1 = require
-L3_1 = "WindFlora_Arenashake"
-L2_1(L3_1)
+require "Activity_ArenaChallengeSub"
+require "WindFlora_Arenashake"

@@ -705,9 +705,5 @@ L7_1[4] = L11_1
 L7_1[5] = L12_1
 L7_1[6] = L13_1
 suites = L7_1
-L7_1 = require
-L8_1 = "WindFlora"
-L7_1(L8_1)
-L7_1 = require
-L8_1 = "WindFlora_ReTrans"
-L7_1(L8_1)
+require "WindFlora"
+require "WindFlora_ReTrans"
