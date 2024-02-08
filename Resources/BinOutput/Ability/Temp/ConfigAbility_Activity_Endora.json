@@ -155,11 +155,11 @@
                         {
                             "$type": "AddAvatarSkillInfo",
                             "doOffStage": true,
-                            "overtime": 20020
+                            "skillID": 20020
                         },
                         {
                             "$type": "AvatarSkillStart",
-                            "overtime": 20020,
+                            "skillID": 20020,
                             "cdRatio": 0.05000000074505806,
                             "JFIJFCKLFCF": 1.0
                         },
@@ -193,7 +193,7 @@
                         {
                             "$type": "RemoveAvatarSkillInfo",
                             "doOffStage": true,
-                            "overtime": 20020
+                            "skillID": 20020
                         }
                     ]
                 },
@@ -205,7 +205,7 @@
                             "$type": "SwitchSkillIDMixin",
                             "priority": "Playmode",
                             "GIELLBOFOCE": 1,
-                            "overtime": 20020
+                            "skillID": 20020
                         }
                     ],
                     "onAdded": [
@@ -266,7 +266,7 @@
                 },
                 {
                     "$type": "ButtonHoldChargeMixin",
-                    "overtime": 20020,
+                    "skillID": 20020,
                     "BLOPHAGIDDP": 0.11999999731779099,
                     "NFPDHLMEPGB": [
                         {
@@ -343,7 +343,7 @@
                     "onAdded": [
                         {
                             "$type": "AvatarSkillStart",
-                            "overtime": 20020,
+                            "skillID": 20020,
                             "cdRatio": 1.0,
                             "JFIJFCKLFCF": 1.0
                         },
@@ -397,7 +397,7 @@
                     "onAdded": [
                         {
                             "$type": "AvatarSkillStart",
-                            "overtime": 20020,
+                            "skillID": 20020,
                             "cdRatio": 1.0,
                             "JFIJFCKLFCF": 1.0
                         },

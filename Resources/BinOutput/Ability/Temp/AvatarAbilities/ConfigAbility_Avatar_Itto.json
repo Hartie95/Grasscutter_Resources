@@ -6,7 +6,7 @@
             "abilityMixins": [
                 {
                     "$type": "ButtonHoldChargeMixin",
-                    "overtime": 10571,
+                    "skillID": 10571,
                     "chargeTime": 0.11999999731779099,
                     "secondChargeTime": 0.07999999821186066,
                     "OnBeginUncharged": [
@@ -670,7 +670,7 @@
                     "onAdded": [
                         {
                             "$type": "AvatarSkillStart",
-                            "overtime": 10004,
+                            "skillID": 10004,
                             "cdRatio": 1.0,
                             "costStaminaRatio": "ExtraAttack_Claymore_Stamina_Cost"
                         }
@@ -2708,7 +2708,7 @@
             "abilityMixins": [
                 {
                     "$type": "SkillButtonHoldChargeMixin",
-                    "overtime": 10572,
+                    "skillID": 10572,
                     "nextLoopTriggerID": "NextLoopTrigger",
                     "endHoldTrigger": "EndHoldTrigger",
                     "beforeStateIDs": [
@@ -3151,7 +3151,7 @@
             "onAbilityStart": [
                 {
                     "$type": "AvatarSkillStart",
-                    "overtime": 10572,
+                    "skillID": 10572,
                     "cdRatio": 1.0,
                     "costStaminaRatio": 1.0
                 },
@@ -3956,10 +3956,10 @@
                             "predicates": [
                                 {
                                     "$type": "BySkillReady",
-                                    "overtime": 10575
+                                    "skillID": 10575
                                 }
                             ],
-                            "overtime": 10575,
+                            "skillID": 10575,
                             "cdRatio": 1.0,
                             "costStaminaRatio": 1.0
                         },

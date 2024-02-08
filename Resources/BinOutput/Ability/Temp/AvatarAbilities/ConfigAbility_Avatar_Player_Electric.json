@@ -6,7 +6,7 @@
             "abilityMixins": [
                 {
                     "$type": "ButtonHoldChargeMixin",
-                    "overtime": 100546,
+                    "skillID": 100546,
                     "chargeTime": 0.11999999731779099,
                     "secondChargeTime": 0.20000000298023224,
                     "OnBeginUncharged": [
@@ -132,7 +132,7 @@
                     "onAdded": [
                         {
                             "$type": "AvatarSkillStart",
-                            "overtime": 10001,
+                            "skillID": 10001,
                             "cdRatio": 1.0,
                             "costStaminaRatio": "ExtraAttack_Sword_Stamina_Cost"
                         }
@@ -148,7 +148,7 @@
             "abilityMixins": [
                 {
                     "$type": "ButtonHoldChargeMixin",
-                    "overtime": 100556,
+                    "skillID": 100556,
                     "chargeTime": 0.11999999731779099,
                     "secondChargeTime": 0.20000000298023224,
                     "OnBeginUncharged": [
@@ -274,7 +274,7 @@
                     "onAdded": [
                         {
                             "$type": "AvatarSkillStart",
-                            "overtime": 10001,
+                            "skillID": 10001,
                             "cdRatio": 1.0,
                             "costStaminaRatio": "ExtraAttack_Sword_Stamina_Cost"
                         }
@@ -489,7 +489,7 @@
                 },
                 {
                     "$type": "AvatarSkillStart",
-                    "overtime": 10605,
+                    "skillID": 10605,
                     "cdRatio": 1.0,
                     "costStaminaRatio": 1.0
                 },
@@ -1190,7 +1190,7 @@
             "onAbilityStart": [
                 {
                     "$type": "AvatarSkillStart",
-                    "overtime": 10602,
+                    "skillID": 10602,
                     "cdRatio": 1.0,
                     "costStaminaRatio": 1.0
                 },

@@ -634,13 +634,13 @@
             "onAbilityStart": [
                 {
                     "$type": "AvatarSkillStart",
-                    "overtime": 10016,
+                    "skillID": 10016,
                     "cdRatio": 1.0,
                     "JFIJFCKLFCF": 1.0
                 },
                 {
                     "$type": "AvatarSkillStart",
-                    "overtime": 10017,
+                    "skillID": 10017,
                     "cdRatio": 1.0,
                     "JFIJFCKLFCF": 1.0
                 }
@@ -654,7 +654,7 @@
             "abilityMixins": [
                 {
                     "$type": "ButtonHoldChargeMixin",
-                    "overtime": 10033,
+                    "skillID": 10033,
                     "DBKLMBJJHDP": 1.0,
                     "BLOPHAGIDDP": 999999.0,
                     "CGFPHLEJDMJ": [
@@ -1214,7 +1214,7 @@
             "abilityMixins": [
                 {
                     "$type": "SkillButtonHoldChargeMixin",
-                    "overtime": 10012,
+                    "skillID": 10012,
                     "FBKEKCDNBGA": "",
                     "FPOECNCOANG": "EndHoldTrigger",
                     "DALGCIDCLHM": [
@@ -1226,7 +1226,7 @@
                 },
                 {
                     "$type": "SkillButtonHoldChargeMixin",
-                    "overtime": 10011,
+                    "skillID": 10011,
                     "FBKEKCDNBGA": "NextLoopTrigger",
                     "FPOECNCOANG": "EndHoldTrigger",
                     "DALGCIDCLHM": [
@@ -1289,7 +1289,7 @@
             "onAbilityStart": [
                 {
                     "$type": "AvatarSkillStart",
-                    "overtime": 10012,
+                    "skillID": 10012,
                     "cdRatio": 1.0,
                     "JFIJFCKLFCF": 1.0
                 }
@@ -1371,7 +1371,7 @@
                     "onAdded": [
                         {
                             "$type": "AvatarSkillStart",
-                            "overtime": 10013,
+                            "skillID": 10013,
                             "cdRatio": 1.0,
                             "JFIJFCKLFCF": 1.0
                         },
@@ -1462,13 +1462,13 @@
                     "onAdded": [
                         {
                             "$type": "AvatarSkillStart",
-                            "overtime": 10014,
+                            "skillID": 10014,
                             "cdRatio": 1.0,
                             "JFIJFCKLFCF": 1.0
                         },
                         {
                             "$type": "AvatarSkillStart",
-                            "overtime": 10015,
+                            "skillID": 10015,
                             "cdRatio": 1.0,
                             "JFIJFCKLFCF": 1.0
                         },
@@ -1586,7 +1586,7 @@
             "onAbilityStart": [
                 {
                     "$type": "AvatarSkillStart",
-                    "overtime": 10013,
+                    "skillID": 10013,
                     "cdRatio": 1.0,
                     "JFIJFCKLFCF": 1.0
                 }

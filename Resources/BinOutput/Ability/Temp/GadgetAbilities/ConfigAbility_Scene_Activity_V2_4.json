@@ -356,7 +356,7 @@
                     "onAdded": [
                         {
                             "$type": "ShowExtraAbility",
-                            "overtime": 20011
+                            "skillID": 20011
                         }
                     ],
                     "onRemoved": [

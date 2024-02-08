@@ -6,7 +6,7 @@
             "abilityMixins": [
                 {
                     "$type": "ButtonHoldChargeMixin",
-                    "overtime": 20320,
+                    "skillID": 20320,
                     "DBKLMBJJHDP": 5.0,
                     "BLOPHAGIDDP": 999999.0,
                     "CBGHBGNKMPO": [
@@ -152,14 +152,14 @@
                         {
                             "$type": "AddAvatarSkillInfo",
                             "doOffStage": true,
-                            "overtime": 20320
+                            "skillID": 20320
                         }
                     ],
                     "onRemoved": [
                         {
                             "$type": "RemoveAvatarSkillInfo",
                             "doOffStage": true,
-                            "overtime": 20320
+                            "skillID": 20320
                         }
                     ]
                 },
@@ -171,7 +171,7 @@
                             "$type": "SwitchSkillIDMixin",
                             "priority": "Playmode",
                             "GIELLBOFOCE": 1,
-                            "overtime": 20320
+                            "skillID": 20320
                         }
                     ],
                     "onAdded": [
@@ -723,7 +723,7 @@
                                     "value": 0.0
                                 }
                             ],
-                            "overtime": 20320,
+                            "skillID": 20320,
                             "cdRatio": 1.0,
                             "JFIJFCKLFCF": 1.0
                         }

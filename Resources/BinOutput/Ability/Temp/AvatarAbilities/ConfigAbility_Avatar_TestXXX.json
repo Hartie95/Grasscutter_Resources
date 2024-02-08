@@ -6,7 +6,7 @@
             "abilityMixins": [
                 {
                     "$type": "ButtonHoldChargeMixin",
-                    "overtime": 10461,
+                    "skillID": 10461,
                     "chargeTime": 0.11999999731779099,
                     "secondChargeTime": 0.20000000298023224,
                     "OnBeginUncharged": [
@@ -138,7 +138,7 @@
                     "onAdded": [
                         {
                             "$type": "AvatarSkillStart",
-                            "overtime": 10001,
+                            "skillID": 10001,
                             "cdRatio": 1.0,
                             "costStaminaRatio": "ExtraAttack_Sword_Stamina_Cost"
                         }
@@ -538,7 +538,7 @@
             "onAbilityStart": [
                 {
                     "$type": "AvatarSkillStart",
-                    "overtime": 10462,
+                    "skillID": 10462,
                     "cdRatio": 1.0,
                     "costStaminaRatio": 1.0
                 },

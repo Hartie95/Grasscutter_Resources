@@ -6,7 +6,7 @@
             "abilityMixins": [
                 {
                     "$type": "ButtonHoldChargeMixin",
-                    "overtime": 10581,
+                    "skillID": 10581,
                     "chargeTime": 0.10000000149011612,
                     "secondChargeTime": 0.10000000149011612,
                     "OnBeginUncharged": [
@@ -144,7 +144,7 @@
                     "onAdded": [
                         {
                             "$type": "AvatarSkillStart",
-                            "overtime": 10003,
+                            "skillID": 10003,
                             "cdRatio": 1.0,
                             "costStaminaRatio": "ExtraAttack_Catalyst_Stamina_Cost"
                         }
@@ -1341,7 +1341,7 @@
             "onAbilityStart": [
                 {
                     "$type": "AvatarSkillStart",
-                    "overtime": 10582,
+                    "skillID": 10582,
                     "cdRatio": 1.0,
                     "costStaminaRatio": 1.0
                 },
@@ -1568,7 +1568,7 @@
             "onAbilityStart": [
                 {
                     "$type": "AvatarSkillStart",
-                    "overtime": 10582,
+                    "skillID": 10582,
                     "cdRatio": 1.0,
                     "costStaminaRatio": 1.0
                 },
@@ -3454,7 +3454,7 @@
                         {
                             "$type": "ModifyAvatarSkillCD",
                             "doOffStage": true,
-                            "overtime": 10582,
+                            "skillID": 10582,
                             "cdRatio": -1.0
                         }
                     ]
@@ -3467,7 +3467,7 @@
                         {
                             "$type": "ModifyAvatarSkillCD",
                             "doOffStage": true,
-                            "overtime": 10582,
+                            "skillID": 10582,
                             "cdRatio": -1.0
                         }
                     ]
@@ -3480,7 +3480,7 @@
                         {
                             "$type": "ModifyAvatarSkillCD",
                             "doOffStage": true,
-                            "overtime": 10582,
+                            "skillID": 10582,
                             "cdRatio": -1.0
                         }
                     ]
@@ -3507,10 +3507,10 @@
                     "predicates": [
                         {
                             "$type": "BySkillReady",
-                            "overtime": 10585
+                            "skillID": 10585
                         }
                     ],
-                    "overtime": 10585,
+                    "skillID": 10585,
                     "cdRatio": 1.0,
                     "costStaminaRatio": 1.0
                 },
@@ -4158,7 +4158,7 @@
                                                 {
                                                     "$type": "BySkillReady",
                                                     "target": "Caster",
-                                                    "overtime": 10582
+                                                    "skillID": 10582
                                                 }
                                             ]
                                         }
@@ -4208,7 +4208,7 @@
                                                 {
                                                     "$type": "BySkillReady",
                                                     "target": "Caster",
-                                                    "overtime": 10582
+                                                    "skillID": 10582
                                                 }
                                             ]
                                         }
@@ -4229,7 +4229,7 @@
                         {
                             "$type": "ModifyAvatarSkillCD",
                             "doOffStage": true,
-                            "overtime": 10582,
+                            "skillID": 10582,
                             "cdDelta": "cdDelta_1"
                         }
                     ]
@@ -4244,7 +4244,7 @@
                         {
                             "$type": "ModifyAvatarSkillCD",
                             "doOffStage": true,
-                            "overtime": 10582,
+                            "skillID": 10582,
                             "cdDelta": "cdDelta_2"
                         }
                     ]

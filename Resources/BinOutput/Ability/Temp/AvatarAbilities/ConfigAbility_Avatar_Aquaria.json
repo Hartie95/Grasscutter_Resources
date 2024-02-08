@@ -34,7 +34,7 @@
             "abilityMixins": [
                 {
                     "$type": "ButtonHoldChargeMixin",
-                    "overtime": 10251,
+                    "skillID": 10251,
                     "chargeTime": 0.4000000059604645,
                     "secondChargeTime": 999999.0,
                     "OnBeginUncharged": [
@@ -55,7 +55,7 @@
                         },
                         {
                             "$type": "EntityDoSkill",
-                            "overtime": 10253,
+                            "skillID": 10253,
                             "isHold": true
                         }
                     ],
@@ -73,19 +73,19 @@
                     "OnReleaseCharged": [
                         {
                             "$type": "AvatarSkillStart",
-                            "overtime": 10251,
+                            "skillID": 10251,
                             "cdRatio": 1.0,
                             "costStaminaRatio": 1.0
                         },
                         {
                             "$type": "AvatarSkillStart",
-                            "overtime": 10252,
+                            "skillID": 10252,
                             "cdRatio": 1.0,
                             "costStaminaRatio": 1.0
                         },
                         {
                             "$type": "EntityDoSkill",
-                            "overtime": 10253,
+                            "skillID": 10253,
                             "isHold": true
                         },
                         {
@@ -158,24 +158,24 @@
             "abilityMixins": [
                 {
                     "$type": "ButtonHoldChargeMixin",
-                    "overtime": 10252,
+                    "skillID": 10252,
                     "secondChargeTime": 999999.0,
                     "OnReleaseCharged": [
                         {
                             "$type": "AvatarSkillStart",
-                            "overtime": 10251,
+                            "skillID": 10251,
                             "cdRatio": 1.0,
                             "costStaminaRatio": 1.0
                         },
                         {
                             "$type": "AvatarSkillStart",
-                            "overtime": 10252,
+                            "skillID": 10252,
                             "cdRatio": 1.0,
                             "costStaminaRatio": 1.0
                         },
                         {
                             "$type": "EntityDoSkill",
-                            "overtime": 10253,
+                            "skillID": 10253,
                             "isHold": true
                         }
                     ],
@@ -557,14 +557,14 @@
                     "$type": "ModifySkillCDByModifierCountMixin",
                     "targetType": "Self",
                     "modifierName": "Hurricane_Counter",
-                    "overtime": 10251,
+                    "skillID": 10251,
                     "cdDelta": "cdDelta"
                 },
                 {
                     "$type": "ModifySkillCDByModifierCountMixin",
                     "targetType": "Self",
                     "modifierName": "Hurricane_Counter",
-                    "overtime": 10252,
+                    "skillID": 10252,
                     "cdDelta": "cdDelta"
                 }
             ],
@@ -1349,7 +1349,7 @@
             "onAbilityStart": [
                 {
                     "$type": "AvatarSkillStart",
-                    "overtime": 10254,
+                    "skillID": 10254,
                     "cdRatio": 1.0,
                     "costStaminaRatio": 1.0
                 },

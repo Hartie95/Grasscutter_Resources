@@ -27,7 +27,7 @@
                 },
                 {
                     "$type": "ButtonHoldChargeMixin",
-                    "overtime": 10461,
+                    "skillID": 10461,
                     "chargeTime": 0.11999999731779099,
                     "secondChargeTime": 0.11999999731779099,
                     "OnBeginUncharged": [
@@ -230,7 +230,7 @@
                                     "compareType": "NoneOrEqual"
                                 }
                             ],
-                            "overtime": 10002,
+                            "skillID": 10002,
                             "cdRatio": 1.0,
                             "costStaminaRatio": "ExtraAttack_Pole_Stamina_Cost"
                         },
@@ -244,7 +244,7 @@
                                     "forceByCaster": true
                                 }
                             ],
-                            "overtime": 10002,
+                            "skillID": 10002,
                             "cdRatio": 1.0,
                             "costStaminaRatio": [
                                 "ExtraAttack_Pole_Stamina_Cost",
@@ -1254,7 +1254,7 @@
                 },
                 {
                     "$type": "AvatarSkillStart",
-                    "overtime": 10462,
+                    "skillID": 10462,
                     "cdRatio": 1.0,
                     "costStaminaRatio": 1.0
                 }
@@ -1833,7 +1833,7 @@
                 },
                 {
                     "$type": "AvatarSkillStart",
-                    "overtime": 10463,
+                    "skillID": 10463,
                     "cdRatio": 1.0,
                     "costStaminaRatio": 1.0
                 }
@@ -2011,7 +2011,7 @@
                                 },
                                 {
                                     "$type": "BySkillReady",
-                                    "overtime": 10464
+                                    "skillID": 10464
                                 }
                             ],
                             "actions": [
@@ -2031,7 +2031,7 @@
                             "predicates": [
                                 {
                                     "$type": "BySkillReady",
-                                    "overtime": 10464
+                                    "skillID": 10464
                                 }
                             ],
                             "modifierName": "UNIQUE_Hutao_Constellation_Limbo_Untriggered_Limbo"
@@ -2048,7 +2048,7 @@
                                 },
                                 {
                                     "$type": "BySkillReady",
-                                    "overtime": 10464
+                                    "skillID": 10464
                                 }
                             ],
                             "abilityName": "Avatar_Hutao_Constellation_Limbo_Trigger"
@@ -2072,7 +2072,7 @@
                 {
                     "$type": "UnlockSkill",
                     "doOffStage": true,
-                    "overtime": 10464
+                    "skillID": 10464
                 }
             ],
             "isDynamicAbility": true
@@ -2133,7 +2133,7 @@
                 {
                     "$type": "AvatarSkillStart",
                     "doOffStage": true,
-                    "overtime": 10464,
+                    "skillID": 10464,
                     "cdRatio": 1.0,
                     "costStaminaRatio": 1.0
                 }

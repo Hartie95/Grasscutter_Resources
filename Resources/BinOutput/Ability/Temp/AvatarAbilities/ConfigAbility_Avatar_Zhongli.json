@@ -6,7 +6,7 @@
             "abilityMixins": [
                 {
                     "$type": "ButtonHoldChargeMixin",
-                    "overtime": 10301,
+                    "skillID": 10301,
                     "chargeTime": 0.11999999731779099,
                     "secondChargeTime": 0.3499999940395355,
                     "OnBeginUncharged": [
@@ -133,7 +133,7 @@
                     "onAdded": [
                         {
                             "$type": "AvatarSkillStart",
-                            "overtime": 10002,
+                            "skillID": 10002,
                             "cdRatio": 1.0,
                             "costStaminaRatio": "ExtraAttack_Pole_Stamina_Cost"
                         }
@@ -149,7 +149,7 @@
             "abilityMixins": [
                 {
                     "$type": "SkillButtonHoldChargeMixin",
-                    "overtime": 10302,
+                    "skillID": 10302,
                     "nextLoopTriggerID": "NextLoopTrigger",
                     "endHoldTrigger": "EndHoldTrigger",
                     "beforeStateIDs": [
@@ -413,7 +413,7 @@
                 },
                 {
                     "$type": "AvatarSkillStart",
-                    "overtime": 10302,
+                    "skillID": 10302,
                     "cdRatio": 0.3330000042915344,
                     "costStaminaRatio": 1.0
                 }
@@ -1056,7 +1056,7 @@
                     "onAdded": [
                         {
                             "$type": "AvatarSkillStart",
-                            "overtime": 10302,
+                            "skillID": 10302,
                             "cdRatio": 1.0,
                             "costStaminaRatio": 1.0
                         },
@@ -2882,7 +2882,7 @@
             "onAbilityStart": [
                 {
                     "$type": "AvatarSkillStart",
-                    "overtime": 10303,
+                    "skillID": 10303,
                     "cdRatio": 1.0,
                     "costStaminaRatio": 1.0
                 },

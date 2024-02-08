@@ -27,7 +27,7 @@
                 },
                 {
                     "$type": "ButtonHoldChargeMixin",
-                    "overtime": 10501,
+                    "skillID": 10501,
                     "chargeTime": 0.11999999731779099,
                     "secondChargeTime": 0.20000000298023224,
                     "OnBeginUncharged": [
@@ -152,7 +152,7 @@
                     "onAdded": [
                         {
                             "$type": "AvatarSkillStart",
-                            "overtime": 10002,
+                            "skillID": 10002,
                             "cdRatio": 1.0,
                             "costStaminaRatio": "ExtraAttack_Pole_Stamina_Cost"
                         }
@@ -595,7 +595,7 @@
                         {
                             "$type": "ModifyAvatarSkillCD",
                             "doOffStage": true,
-                            "overtime": 10502,
+                            "skillID": 10502,
                             "cdDelta": [
                                 0.0,
                                 "Art_CD",
@@ -605,7 +605,7 @@
                         {
                             "$type": "ModifyAvatarSkillCD",
                             "doOffStage": true,
-                            "overtime": 10505,
+                            "skillID": 10505,
                             "cdDelta": [
                                 0.0,
                                 "Burst_CD",
@@ -1014,7 +1014,7 @@
             "onAbilityStart": [
                 {
                     "$type": "AvatarSkillStart",
-                    "overtime": 10502,
+                    "skillID": 10502,
                     "cdRatio": 1.0,
                     "costStaminaRatio": 1.0
                 },
@@ -1114,7 +1114,7 @@
                     "onAdded": [
                         {
                             "$type": "AvatarSkillStart",
-                            "overtime": 10505,
+                            "skillID": 10505,
                             "cdRatio": 1.0,
                             "costStaminaRatio": 1.0
                         },

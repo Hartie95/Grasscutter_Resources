@@ -6,7 +6,7 @@
             "abilityMixins": [
                 {
                     "$type": "ButtonHoldChargeMixin",
-                    "overtime": 10531,
+                    "skillID": 10531,
                     "chargeTime": 0.25,
                     "secondChargeTime": "ExtraAttack_Claymore_MaxTime",
                     "OnBeginUncharged": [
@@ -180,7 +180,7 @@
             "abilityMixins": [
                 {
                     "$type": "SkillButtonHoldChargeMixin",
-                    "overtime": 10532,
+                    "skillID": 10532,
                     "nextLoopTriggerID": "NextLoopTrigger",
                     "endHoldTrigger": "EndHoldTrigger",
                     "beforeStateIDs": [
@@ -370,10 +370,10 @@
                             "predicates": [
                                 {
                                     "$type": "BySkillReady",
-                                    "overtime": 10532
+                                    "skillID": 10532
                                 }
                             ],
-                            "overtime": 10532,
+                            "skillID": 10532,
                             "cdRatio": 1.0,
                             "costStaminaRatio": 1.0
                         }
@@ -623,10 +623,10 @@
                             "predicates": [
                                 {
                                     "$type": "BySkillReady",
-                                    "overtime": 10532
+                                    "skillID": 10532
                                 }
                             ],
-                            "overtime": 10532,
+                            "skillID": 10532,
                             "cdRatio": [
                                 1.0,
                                 "CD_Count",
@@ -661,10 +661,10 @@
                             "predicates": [
                                 {
                                     "$type": "BySkillReady",
-                                    "overtime": 10532
+                                    "skillID": 10532
                                 }
                             ],
-                            "overtime": 10532,
+                            "skillID": 10532,
                             "cdRatio": [
                                 1.0,
                                 "CD_Count",
@@ -686,7 +686,7 @@
                             "$type": "SwitchSkillIDMixin",
                             "priority": "AvatarSpecial",
                             "skillIndex": 1,
-                            "overtime": 10533
+                            "skillID": 10533
                         },
                         {
                             "$type": "CostStaminaMixin",
@@ -1835,10 +1835,10 @@
                             "predicates": [
                                 {
                                     "$type": "BySkillReady",
-                                    "overtime": 10535
+                                    "skillID": 10535
                                 }
                             ],
-                            "overtime": 10535,
+                            "skillID": 10535,
                             "cdRatio": 1.0,
                             "costStaminaRatio": 1.0
                         },

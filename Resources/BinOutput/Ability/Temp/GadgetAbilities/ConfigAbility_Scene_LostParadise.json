@@ -1055,7 +1055,7 @@
                     "onAdded": [
                         {
                             "$type": "ModifyVehicleSkillCD",
-                            "overtime": 10012,
+                            "skillID": 10012,
                             "KHBEPNBNHOI": -10.0
                         },
                         {

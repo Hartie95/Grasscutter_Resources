@@ -550,7 +550,7 @@
                     "onAdded": [
                         {
                             "$type": "ShowExtraAbility",
-                            "overtime": 20003
+                            "skillID": 20003
                         },
                         {
                             "$type": "SetExtraAbilityEnable"
@@ -1428,7 +1428,7 @@
                     "onAdded": [
                         {
                             "$type": "ShowExtraAbility",
-                            "overtime": 20004
+                            "skillID": 20004
                         },
                         {
                             "$type": "SetExtraAbilityEnable"
@@ -2304,7 +2304,7 @@
                     "onAdded": [
                         {
                             "$type": "ShowExtraAbility",
-                            "overtime": 20005
+                            "skillID": 20005
                         },
                         {
                             "$type": "SetExtraAbilityEnable"
@@ -3163,7 +3163,7 @@
                     "onAdded": [
                         {
                             "$type": "ShowExtraAbility",
-                            "overtime": 20006
+                            "skillID": 20006
                         },
                         {
                             "$type": "SetExtraAbilityEnable"

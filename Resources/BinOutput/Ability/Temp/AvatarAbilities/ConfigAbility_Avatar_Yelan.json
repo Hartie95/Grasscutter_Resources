@@ -6,7 +6,7 @@
             "abilityMixins": [
                 {
                     "$type": "ButtonHoldChargeMixin",
-                    "overtime": 10606,
+                    "skillID": 10606,
                     "chargeTime": 0.20000000298023224,
                     "secondChargeTime": 999999.0,
                     "OnBeginUncharged": [
@@ -198,7 +198,7 @@
             "abilityMixins": [
                 {
                     "$type": "ButtonHoldChargeMixin",
-                    "overtime": 10608,
+                    "skillID": 10608,
                     "secondChargeTime": 999999.0,
                     "OnReleaseCharged": [
                         {
@@ -2018,7 +2018,7 @@
             "abilityMixins": [
                 {
                     "$type": "SkillButtonHoldChargeMixin",
-                    "overtime": 10607,
+                    "skillID": 10607,
                     "nextLoopTriggerID": "NextLoopTrigger",
                     "endHoldTrigger": "EndHoldTrigger",
                     "beforeStateIDs": [
@@ -2411,13 +2411,13 @@
                         {
                             "$type": "SwitchSkillIDMixin",
                             "priority": "AvatarSpecial",
-                            "overtime": 10609
+                            "skillID": 10609
                         },
                         {
                             "$type": "SwitchSkillIDMixin",
                             "priority": "AvatarSpecial",
                             "skillIndex": 1,
-                            "overtime": 10609
+                            "skillID": 10609
                         },
                         {
                             "$type": "AttachModifierToSelfGlobalValueMixin",
@@ -2467,13 +2467,13 @@
                             "$type": "SwitchSkillIDMixin",
                             "priority": "AvatarSpecial",
                             "skillIndex": 2,
-                            "overtime": 10609
+                            "skillID": 10609
                         },
                         {
                             "$type": "SwitchSkillIDMixin",
                             "priority": "AvatarSpecial",
                             "skillIndex": 3,
-                            "overtime": 10609
+                            "skillID": 10609
                         }
                     ]
                 },
@@ -2693,7 +2693,7 @@
                         {
                             "$type": "AvatarSkillStart",
                             "doOffStage": true,
-                            "overtime": 10607,
+                            "skillID": 10607,
                             "cdRatio": 1.0,
                             "costStaminaRatio": 1.0
                         },
@@ -3008,10 +3008,10 @@
                             "predicates": [
                                 {
                                     "$type": "BySkillReady",
-                                    "overtime": 10610
+                                    "skillID": 10610
                                 }
                             ],
-                            "overtime": 10610,
+                            "skillID": 10610,
                             "cdRatio": 1.0,
                             "costStaminaRatio": 1.0
                         }

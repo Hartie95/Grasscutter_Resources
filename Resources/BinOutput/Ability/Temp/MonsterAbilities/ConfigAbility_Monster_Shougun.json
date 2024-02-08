@@ -1119,13 +1119,13 @@
                             "$type": "SwitchSkillIDMixin",
                             "priority": "Playmode",
                             "GIELLBOFOCE": 1,
-                            "overtime": 20030
+                            "skillID": 20030
                         },
                         {
                             "$type": "SwitchSkillIDMixin",
                             "priority": "Playmode",
                             "GIELLBOFOCE": 4,
-                            "overtime": 20031
+                            "skillID": 20031
                         }
                     ],
                     "onAdded": [
@@ -7077,7 +7077,7 @@
                             ]
                         }
                     ],
-                    "overtime": 20030
+                    "skillID": 20030
                 },
                 {
                     "$type": "AddAvatarSkillInfo",
@@ -7096,7 +7096,7 @@
                             ]
                         }
                     ],
-                    "overtime": 20031
+                    "skillID": 20031
                 }
             ],
             "isDynamicAbility": true

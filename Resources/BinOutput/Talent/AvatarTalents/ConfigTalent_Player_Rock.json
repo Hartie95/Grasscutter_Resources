@@ -67,7 +67,7 @@
     "Player_Rock_PermanentSkill_1": [
         {
             "$type": "ModifySkillCD",
-            "overtime": 10077,
+            "skillID": 10077,
             "PONHICKAGKO": -2.0
         }
     ],

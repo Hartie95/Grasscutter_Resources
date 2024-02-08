@@ -927,7 +927,7 @@
                     "onAdded": [
                         {
                             "$type": "ShowExtraAbility",
-                            "overtime": 20007
+                            "skillID": 20007
                         },
                         {
                             "$type": "DoWatcherSystemAction",
@@ -1013,7 +1013,7 @@
                         {
                             "$type": "ShowExtraAbility",
                             "doOffStage": true,
-                            "overtime": 20008
+                            "skillID": 20008
                         }
                     ],
                     "onRemoved": [
@@ -1026,7 +1026,7 @@
                         {
                             "$type": "ShowExtraAbility",
                             "doOffStage": true,
-                            "overtime": 20008
+                            "skillID": 20008
                         }
                     ]
                 }
@@ -1362,11 +1362,11 @@
                     "onAdded": [
                         {
                             "$type": "EntityDoSkill",
-                            "overtime": 20033
+                            "skillID": 20033
                         },
                         {
                             "$type": "EntityDoSkill",
-                            "overtime": 20034
+                            "skillID": 20034
                         }
                     ]
                 },
@@ -1422,12 +1422,12 @@
                 {
                     "$type": "AddAvatarSkillInfo",
                     "doOffStage": true,
-                    "overtime": 20033
+                    "skillID": 20033
                 },
                 {
                     "$type": "AddAvatarSkillInfo",
                     "doOffStage": true,
-                    "overtime": 20034
+                    "skillID": 20034
                 },
                 {
                     "$type": "AttachModifier",
@@ -1439,12 +1439,12 @@
                 {
                     "$type": "RemoveAvatarSkillInfo",
                     "doOffStage": true,
-                    "overtime": 20033
+                    "skillID": 20033
                 },
                 {
                     "$type": "RemoveAvatarSkillInfo",
                     "doOffStage": true,
-                    "overtime": 20034
+                    "skillID": 20034
                 }
             ],
             "onAbilityStart": [
@@ -1585,7 +1585,7 @@
                         {
                             "$type": "ShowExtraAbility",
                             "doOffStage": true,
-                            "overtime": 20010
+                            "skillID": 20010
                         }
                     ],
                     "onRemoved": [
@@ -1598,7 +1598,7 @@
                         {
                             "$type": "ShowExtraAbility",
                             "doOffStage": true,
-                            "overtime": 20010
+                            "skillID": 20010
                         }
                     ]
                 }
@@ -1940,11 +1940,11 @@
                     "onAdded": [
                         {
                             "$type": "EntityDoSkill",
-                            "overtime": 20033
+                            "skillID": 20033
                         },
                         {
                             "$type": "EntityDoSkill",
-                            "overtime": 20034
+                            "skillID": 20034
                         }
                     ]
                 },
@@ -2013,12 +2013,12 @@
                 {
                     "$type": "AddAvatarSkillInfo",
                     "doOffStage": true,
-                    "overtime": 20033
+                    "skillID": 20033
                 },
                 {
                     "$type": "AddAvatarSkillInfo",
                     "doOffStage": true,
-                    "overtime": 20034
+                    "skillID": 20034
                 },
                 {
                     "$type": "AttachModifier",
@@ -2030,12 +2030,12 @@
                 {
                     "$type": "RemoveAvatarSkillInfo",
                     "doOffStage": true,
-                    "overtime": 20033
+                    "skillID": 20033
                 },
                 {
                     "$type": "RemoveAvatarSkillInfo",
                     "doOffStage": true,
-                    "overtime": 20034
+                    "skillID": 20034
                 }
             ],
             "onAbilityStart": [
@@ -2164,7 +2164,7 @@
                             "$type": "SwitchSkillIDMixin",
                             "priority": "Playmode",
                             "GIELLBOFOCE": 1,
-                            "overtime": 20032
+                            "skillID": 20032
                         }
                     ]
                 }
@@ -2174,12 +2174,12 @@
                     "$type": "AddAvatarSkillInfo",
                     "target": "CurTeamAvatars",
                     "doOffStage": true,
-                    "overtime": 20032
+                    "skillID": 20032
                 },
                 {
                     "$type": "AvatarSkillStart",
                     "target": "CurTeamAvatars",
-                    "overtime": 20032,
+                    "skillID": 20032,
                     "cdRatio": 0.05000000074505806,
                     "JFIJFCKLFCF": 1.0
                 },
@@ -2205,7 +2205,7 @@
                     "$type": "RemoveAvatarSkillInfo",
                     "target": "CurTeamAvatars",
                     "doOffStage": true,
-                    "overtime": 20032
+                    "skillID": 20032
                 }
             ],
             "NDHIFGEGBAC": [
@@ -2213,12 +2213,12 @@
                     "$type": "AddAvatarSkillInfo",
                     "target": "CurTeamAvatars",
                     "doOffStage": true,
-                    "overtime": 20032
+                    "skillID": 20032
                 },
                 {
                     "$type": "AvatarSkillStart",
                     "target": "CurTeamAvatars",
-                    "overtime": 20032,
+                    "skillID": 20032,
                     "cdRatio": 0.05000000074505806,
                     "JFIJFCKLFCF": 1.0
                 },
@@ -3374,11 +3374,11 @@
                     "onAdded": [
                         {
                             "$type": "EntityDoSkill",
-                            "overtime": 20033
+                            "skillID": 20033
                         },
                         {
                             "$type": "EntityDoSkill",
-                            "overtime": 20034
+                            "skillID": 20034
                         }
                     ]
                 },
@@ -3434,12 +3434,12 @@
                 {
                     "$type": "AddAvatarSkillInfo",
                     "doOffStage": true,
-                    "overtime": 20033
+                    "skillID": 20033
                 },
                 {
                     "$type": "AddAvatarSkillInfo",
                     "doOffStage": true,
-                    "overtime": 20034
+                    "skillID": 20034
                 },
                 {
                     "$type": "AttachModifier",
@@ -3451,12 +3451,12 @@
                 {
                     "$type": "RemoveAvatarSkillInfo",
                     "doOffStage": true,
-                    "overtime": 20033
+                    "skillID": 20033
                 },
                 {
                     "$type": "RemoveAvatarSkillInfo",
                     "doOffStage": true,
-                    "overtime": 20034
+                    "skillID": 20034
                 },
                 {
                     "$type": "ChangePlayMode",
@@ -3767,7 +3767,7 @@
                     "onAdded": [
                         {
                             "$type": "ShowExtraAbility",
-                            "overtime": 20012
+                            "skillID": 20012
                         }
                     ],
                     "onRemoved": [
@@ -3796,7 +3796,7 @@
                     "onAdded": [
                         {
                             "$type": "ShowExtraAbility",
-                            "overtime": 20013
+                            "skillID": 20013
                         }
                     ],
                     "onRemoved": [

@@ -103,7 +103,7 @@
                     "onAdded": [
                         {
                             "$type": "AddAvatarSkillInfo",
-                            "overtime": 10035
+                            "skillID": 10035
                         },
                         {
                             "$type": "ApplyModifier",
@@ -117,7 +117,7 @@
                         },
                         {
                             "$type": "RemoveAvatarSkillInfo",
-                            "overtime": 10035
+                            "skillID": 10035
                         }
                     ]
                 },
@@ -129,7 +129,7 @@
                             "$type": "SwitchSkillIDMixin",
                             "priority": "Quest",
                             "GIELLBOFOCE": 1,
-                            "overtime": 10035
+                            "skillID": 10035
                         }
                     ]
                 }
@@ -249,7 +249,7 @@
                         {
                             "$type": "AddAvatarSkillInfo",
                             "doOffStage": true,
-                            "overtime": 10037
+                            "skillID": 10037
                         },
                         {
                             "$type": "ApplyModifier",
@@ -264,7 +264,7 @@
                         },
                         {
                             "$type": "RemoveAvatarSkillInfo",
-                            "overtime": 10037
+                            "skillID": 10037
                         }
                     ]
                 },
@@ -340,7 +340,7 @@
                     "onAdded": [
                         {
                             "$type": "AddAvatarSkillInfo",
-                            "overtime": 10384
+                            "skillID": 10384
                         },
                         {
                             "$type": "ApplyModifier",
@@ -354,7 +354,7 @@
                         },
                         {
                             "$type": "RemoveAvatarSkillInfo",
-                            "overtime": 10384
+                            "skillID": 10384
                         }
                     ]
                 },
@@ -366,7 +366,7 @@
                             "$type": "SwitchSkillIDMixin",
                             "priority": "Quest",
                             "GIELLBOFOCE": 1,
-                            "overtime": 10384
+                            "skillID": 10384
                         }
                     ]
                 }
@@ -1597,7 +1597,7 @@
                             "$type": "ShowExtraAbility",
                             "target": "CurTeamAvatars",
                             "doOffStage": true,
-                            "overtime": 20008
+                            "skillID": 20008
                         }
                     ],
                     "onRemoved": [

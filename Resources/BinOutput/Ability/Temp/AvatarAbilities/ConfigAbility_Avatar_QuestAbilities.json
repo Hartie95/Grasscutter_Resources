@@ -6,7 +6,7 @@
             "abilityMixins": [
                 {
                     "$type": "SkillButtonHoldChargeMixin",
-                    "overtime": 10035,
+                    "skillID": 10035,
                     "nextLoopTriggerID": "NextLoopTrigger",
                     "endHoldTrigger": "EndHoldTrigger",
                     "beforeStateIDs": [
@@ -240,7 +240,7 @@
             "onAbilityStart": [
                 {
                     "$type": "AvatarSkillStart",
-                    "overtime": 10384,
+                    "skillID": 10384,
                     "cdRatio": 1.0,
                     "costStaminaRatio": 1.0
                 },
@@ -319,7 +319,7 @@
             "abilityMixins": [
                 {
                     "$type": "SkillButtonHoldChargeMixin",
-                    "overtime": 10384,
+                    "skillID": 10384,
                     "nextLoopTriggerID": "NextLoopTrigger",
                     "endHoldTrigger": "EndHoldTrigger",
                     "beforeStateIDs": [
@@ -563,7 +563,7 @@
                     "successActions": [
                         {
                             "$type": "AvatarSkillStart",
-                            "overtime": 10384,
+                            "skillID": 10384,
                             "cdRatio": 1.0,
                             "costStaminaRatio": 1.0
                         },
@@ -750,13 +750,13 @@
                     "modifierMixins": [
                         {
                             "$type": "ButtonHoldChargeMixin",
-                            "overtime": 10037,
+                            "skillID": 10037,
                             "chargeTime": 0.10000000149011612,
                             "secondChargeTime": 999999.0,
                             "OnReleaseUncharged": [
                                 {
                                     "$type": "AvatarSkillStart",
-                                    "overtime": 10037,
+                                    "skillID": 10037,
                                     "cdRatio": 1.0,
                                     "costStaminaRatio": 1.0
                                 },
@@ -768,7 +768,7 @@
                             "OnReleaseCharged": [
                                 {
                                     "$type": "AvatarSkillStart",
-                                    "overtime": 10037,
+                                    "skillID": 10037,
                                     "cdRatio": 1.0,
                                     "costStaminaRatio": 1.0
                                 },
@@ -984,7 +984,7 @@
                 {
                     "$type": "AvatarSkillStart",
                     "doOffStage": true,
-                    "overtime": 20011,
+                    "skillID": 20011,
                     "cdRatio": 0.10000000149011612,
                     "costStaminaRatio": 1.0
                 }
@@ -1000,7 +1000,7 @@
                 {
                     "$type": "AvatarSkillStart",
                     "doOffStage": true,
-                    "overtime": 20012,
+                    "skillID": 20012,
                     "cdRatio": 1.0,
                     "costStaminaRatio": 1.0
                 }
@@ -1019,11 +1019,11 @@
                     "onAdded": [
                         {
                             "$type": "AddAvatarSkillInfo",
-                            "overtime": 20011
+                            "skillID": 20011
                         },
                         {
                             "$type": "AddAvatarSkillInfo",
-                            "overtime": 20012
+                            "skillID": 20012
                         },
                         {
                             "$type": "AttachModifier",
@@ -1049,11 +1049,11 @@
                         },
                         {
                             "$type": "RemoveAvatarSkillInfo",
-                            "overtime": 20011
+                            "skillID": 20011
                         },
                         {
                             "$type": "RemoveAvatarSkillInfo",
-                            "overtime": 20012
+                            "skillID": 20012
                         }
                     ]
                 },
@@ -1411,7 +1411,7 @@
                         {
                             "$type": "AddAvatarSkillInfo",
                             "doOffStage": true,
-                            "overtime": 20035
+                            "skillID": 20035
                         },
                         {
                             "$type": "AttachModifier",
@@ -1435,7 +1435,7 @@
                         {
                             "$type": "RemoveAvatarSkillInfo",
                             "doOffStage": true,
-                            "overtime": 20035
+                            "skillID": 20035
                         }
                     ]
                 },
@@ -1448,7 +1448,7 @@
                             "$type": "SwitchSkillIDMixin",
                             "priority": "Playmode",
                             "skillIndex": 1,
-                            "overtime": 20035
+                            "skillID": 20035
                         }
                     ]
                 }
@@ -1497,7 +1497,7 @@
                 },
                 {
                     "$type": "SkillButtonHoldChargeMixin",
-                    "overtime": 10038,
+                    "skillID": 10038,
                     "nextLoopTriggerID": "NextLoopTrigger",
                     "endHoldTrigger": "EndHoldTrigger",
                     "beforeStateIDs": [
@@ -1523,13 +1523,13 @@
                     "onAdded": [
                         {
                             "$type": "AddAvatarSkillInfo",
-                            "overtime": 10038
+                            "skillID": 10038
                         }
                     ],
                     "onRemoved": [
                         {
                             "$type": "RemoveAvatarSkillInfo",
-                            "overtime": 10038
+                            "skillID": 10038
                         }
                     ]
                 },
@@ -1541,7 +1541,7 @@
                             "$type": "SwitchSkillIDMixin",
                             "priority": "Quest",
                             "skillIndex": 1,
-                            "overtime": 10038
+                            "skillID": 10038
                         }
                     ]
                 },
@@ -1724,7 +1724,7 @@
                     "onAdded": [
                         {
                             "$type": "AvatarSkillStart",
-                            "overtime": 10038,
+                            "skillID": 10038,
                             "cdRatio": 1.0,
                             "costStaminaRatio": 1.0
                         },

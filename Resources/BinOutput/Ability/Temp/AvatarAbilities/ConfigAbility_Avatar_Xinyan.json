@@ -6,7 +6,7 @@
             "abilityMixins": [
                 {
                     "$type": "ButtonHoldChargeMixin",
-                    "overtime": 10441,
+                    "skillID": 10441,
                     "chargeTime": 0.25,
                     "secondChargeTime": "ExtraAttack_Claymore_MaxTime",
                     "OnBeginUncharged": [
@@ -315,7 +315,7 @@
                 },
                 {
                     "$type": "AvatarSkillStart",
-                    "overtime": 10442,
+                    "skillID": 10442,
                     "cdRatio": 1.0,
                     "costStaminaRatio": 1.0
                 },
@@ -1200,7 +1200,7 @@
                 },
                 {
                     "$type": "AvatarSkillStart",
-                    "overtime": 10443,
+                    "skillID": 10443,
                     "cdRatio": 1.0,
                     "costStaminaRatio": 1.0
                 }

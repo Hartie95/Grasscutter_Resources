@@ -110,7 +110,7 @@
             "abilityMixins": [
                 {
                     "$type": "ButtonHoldChargeMixin",
-                    "overtime": 10271,
+                    "skillID": 10271,
                     "chargeTime": 0.05000000074505806,
                     "secondChargeTime": 0.15000000596046448,
                     "OnBeginUncharged": [
@@ -368,7 +368,7 @@
                                     "compareType": "NoneOrEqual"
                                 }
                             ],
-                            "overtime": 10003,
+                            "skillID": 10003,
                             "cdRatio": 1.0,
                             "costStaminaRatio": [
                                 "Ningguang_ExtraAttack_StaminaCost",
@@ -386,7 +386,7 @@
                                     "value": 1.0
                                 }
                             ],
-                            "overtime": 10003,
+                            "skillID": 10003,
                             "cdRatio": 1.0,
                             "costStaminaRatio": 0.0
                         }
@@ -2247,7 +2247,7 @@
                     "onAdded": [
                         {
                             "$type": "AvatarSkillStart",
-                            "overtime": 10272,
+                            "skillID": 10272,
                             "cdRatio": 1.0,
                             "costStaminaRatio": 1.0
                         },
@@ -2423,7 +2423,7 @@
                         },
                         {
                             "$type": "AvatarSkillStart",
-                            "overtime": 10273,
+                            "skillID": 10273,
                             "cdRatio": 1.0,
                             "costStaminaRatio": 1.0
                         }
@@ -2662,14 +2662,14 @@
                             "$type": "SwitchSkillIDMixin",
                             "priority": "AvatarSpecial",
                             "skillIndex": 1,
-                            "overtime": 10273
+                            "skillID": 10273
                         }
                     ],
                     "onRemoved": [
                         {
                             "$type": "EntityDoSkill",
                             "doOffStage": true,
-                            "overtime": 10275
+                            "skillID": 10275
                         }
                     ]
                 },
@@ -3039,7 +3039,7 @@
                 },
                 {
                     "$type": "AvatarSkillStart",
-                    "overtime": 10274,
+                    "skillID": 10274,
                     "cdRatio": 1.0,
                     "costStaminaRatio": 1.0
                 },
@@ -4625,7 +4625,7 @@
                                     "talentParam": "Ningguang_Constellation_2"
                                 }
                             ],
-                            "overtime": 10272,
+                            "skillID": 10272,
                             "cdRatio": -1.0
                         }
                     ]

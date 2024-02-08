@@ -1352,7 +1352,7 @@
                         },
                         {
                             "$type": "ButtonHoldChargeMixin",
-                            "overtime": 20002,
+                            "skillID": 20002,
                             "DBKLMBJJHDP": 9999.0,
                             "BLOPHAGIDDP": 999999.0,
                             "CBGHBGNKMPO": [
@@ -1483,11 +1483,11 @@
             "onAdded": [
                 {
                     "$type": "AddAvatarSkillInfo",
-                    "overtime": 20001
+                    "skillID": 20001
                 },
                 {
                     "$type": "AddAvatarSkillInfo",
-                    "overtime": 20002
+                    "skillID": 20002
                 },
                 {
                     "$type": "ApplyModifier",

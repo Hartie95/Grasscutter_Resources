@@ -78,11 +78,11 @@
                         {
                             "$type": "AddAvatarSkillInfo",
                             "doOffStage": true,
-                            "overtime": 20021
+                            "skillID": 20021
                         },
                         {
                             "$type": "AvatarSkillStart",
-                            "overtime": 20021,
+                            "skillID": 20021,
                             "cdRatio": 0.05000000074505806,
                             "JFIJFCKLFCF": 1.0
                         },
@@ -116,7 +116,7 @@
                         {
                             "$type": "RemoveAvatarSkillInfo",
                             "doOffStage": true,
-                            "overtime": 20021
+                            "skillID": 20021
                         }
                     ]
                 },
@@ -128,7 +128,7 @@
                             "$type": "SwitchSkillIDMixin",
                             "priority": "Playmode",
                             "GIELLBOFOCE": 1,
-                            "overtime": 20021
+                            "skillID": 20021
                         }
                     ]
                 }
@@ -167,7 +167,7 @@
                 },
                 {
                     "$type": "ButtonHoldChargeMixin",
-                    "overtime": 20021,
+                    "skillID": 20021,
                     "BLOPHAGIDDP": 0.11999999731779099,
                     "PKNMLLHNOLA": [
                         {
@@ -297,7 +297,7 @@
                     "onAdded": [
                         {
                             "$type": "AvatarSkillStart",
-                            "overtime": 20021,
+                            "skillID": 20021,
                             "cdRatio": 1.0,
                             "JFIJFCKLFCF": 1.0
                         },
@@ -348,7 +348,7 @@
                     "onAdded": [
                         {
                             "$type": "AvatarSkillStart",
-                            "overtime": 20021,
+                            "skillID": 20021,
                             "cdRatio": 1.0,
                             "JFIJFCKLFCF": 1.0
                         },
@@ -634,7 +634,7 @@
                         {
                             "$type": "AddAvatarSkillInfo",
                             "doOffStage": true,
-                            "overtime": 20029
+                            "skillID": 20029
                         },
                         {
                             "$type": "ApplyModifier",
@@ -651,7 +651,7 @@
                         {
                             "$type": "RemoveAvatarSkillInfo",
                             "doOffStage": true,
-                            "overtime": 20029
+                            "skillID": 20029
                         }
                     ]
                 },
@@ -686,7 +686,7 @@
                         {
                             "$type": "SwitchSkillIDMixin",
                             "priority": "Playmode",
-                            "overtime": 20029
+                            "skillID": 20029
                         }
                     ],
                     "onAdded": [
@@ -796,7 +796,7 @@
             "onAbilityStart": [
                 {
                     "$type": "AvatarSkillStart",
-                    "overtime": 20029,
+                    "skillID": 20029,
                     "cdRatio": 1.0,
                     "JFIJFCKLFCF": 1.0
                 },
@@ -1109,7 +1109,7 @@
                         {
                             "$type": "AddAvatarSkillInfo",
                             "doOffStage": true,
-                            "overtime": 20022
+                            "skillID": 20022
                         },
                         {
                             "$type": "ApplyModifier",
@@ -1126,7 +1126,7 @@
                         {
                             "$type": "RemoveAvatarSkillInfo",
                             "doOffStage": true,
-                            "overtime": 20022
+                            "skillID": 20022
                         }
                     ]
                 },
@@ -1137,7 +1137,7 @@
                         {
                             "$type": "SwitchSkillIDMixin",
                             "priority": "Playmode",
-                            "overtime": 20022
+                            "skillID": 20022
                         }
                     ],
                     "onAdded": [
@@ -1803,7 +1803,7 @@
             "onAbilityStart": [
                 {
                     "$type": "AvatarSkillStart",
-                    "overtime": 20022,
+                    "skillID": 20022,
                     "cdRatio": 1.0,
                     "JFIJFCKLFCF": 1.0
                 },
@@ -2109,12 +2109,12 @@
                         {
                             "$type": "AddAvatarSkillInfo",
                             "doOffStage": true,
-                            "overtime": 20023
+                            "skillID": 20023
                         },
                         {
                             "$type": "AddAvatarSkillInfo",
                             "doOffStage": true,
-                            "overtime": 20026
+                            "skillID": 20026
                         },
                         {
                             "$type": "ApplyModifier",
@@ -2131,12 +2131,12 @@
                         {
                             "$type": "RemoveAvatarSkillInfo",
                             "doOffStage": true,
-                            "overtime": 20023
+                            "skillID": 20023
                         },
                         {
                             "$type": "RemoveAvatarSkillInfo",
                             "doOffStage": true,
-                            "overtime": 20026
+                            "skillID": 20026
                         }
                     ]
                 },
@@ -2168,7 +2168,7 @@
                             "$type": "SwitchSkillIDMixin",
                             "priority": "Playmode",
                             "GIELLBOFOCE": 1,
-                            "overtime": 20023
+                            "skillID": 20023
                         }
                     ]
                 },
@@ -2180,7 +2180,7 @@
                             "$type": "SwitchSkillIDMixin",
                             "priority": "Playmode",
                             "GIELLBOFOCE": 1,
-                            "overtime": 20026
+                            "skillID": 20026
                         }
                     ]
                 }
@@ -2216,12 +2216,12 @@
                         {
                             "$type": "AddAvatarSkillInfo",
                             "doOffStage": true,
-                            "overtime": 20024
+                            "skillID": 20024
                         },
                         {
                             "$type": "AddAvatarSkillInfo",
                             "doOffStage": true,
-                            "overtime": 20027
+                            "skillID": 20027
                         },
                         {
                             "$type": "ApplyModifier",
@@ -2238,12 +2238,12 @@
                         {
                             "$type": "RemoveAvatarSkillInfo",
                             "doOffStage": true,
-                            "overtime": 20024
+                            "skillID": 20024
                         },
                         {
                             "$type": "RemoveAvatarSkillInfo",
                             "doOffStage": true,
-                            "overtime": 20027
+                            "skillID": 20027
                         }
                     ]
                 },
@@ -2275,7 +2275,7 @@
                             "$type": "SwitchSkillIDMixin",
                             "priority": "Playmode",
                             "GIELLBOFOCE": 1,
-                            "overtime": 20024
+                            "skillID": 20024
                         }
                     ]
                 },
@@ -2287,7 +2287,7 @@
                             "$type": "SwitchSkillIDMixin",
                             "priority": "Playmode",
                             "GIELLBOFOCE": 1,
-                            "overtime": 20027
+                            "skillID": 20027
                         }
                     ]
                 }
@@ -2323,12 +2323,12 @@
                         {
                             "$type": "AddAvatarSkillInfo",
                             "doOffStage": true,
-                            "overtime": 20025
+                            "skillID": 20025
                         },
                         {
                             "$type": "AddAvatarSkillInfo",
                             "doOffStage": true,
-                            "overtime": 20028
+                            "skillID": 20028
                         },
                         {
                             "$type": "ApplyModifier",
@@ -2345,12 +2345,12 @@
                         {
                             "$type": "RemoveAvatarSkillInfo",
                             "doOffStage": true,
-                            "overtime": 20025
+                            "skillID": 20025
                         },
                         {
                             "$type": "RemoveAvatarSkillInfo",
                             "doOffStage": true,
-                            "overtime": 20028
+                            "skillID": 20028
                         }
                     ]
                 },
@@ -2382,7 +2382,7 @@
                             "$type": "SwitchSkillIDMixin",
                             "priority": "Playmode",
                             "GIELLBOFOCE": 1,
-                            "overtime": 20025
+                            "skillID": 20025
                         }
                     ]
                 },
@@ -2394,7 +2394,7 @@
                             "$type": "SwitchSkillIDMixin",
                             "priority": "Playmode",
                             "GIELLBOFOCE": 1,
-                            "overtime": 20028
+                            "skillID": 20028
                         }
                     ]
                 }
@@ -2628,14 +2628,14 @@
                                 {
                                     "$type": "AvatarSkillStart",
                                     "doOffStage": true,
-                                    "overtime": 20023,
+                                    "skillID": 20023,
                                     "cdRatio": 1.0,
                                     "JFIJFCKLFCF": 1.0
                                 },
                                 {
                                     "$type": "AvatarSkillStart",
                                     "doOffStage": true,
-                                    "overtime": 20026,
+                                    "skillID": 20026,
                                     "cdRatio": 1.0,
                                     "JFIJFCKLFCF": 1.0
                                 }
@@ -2659,14 +2659,14 @@
                                 {
                                     "$type": "AvatarSkillStart",
                                     "doOffStage": true,
-                                    "overtime": 20024,
+                                    "skillID": 20024,
                                     "cdRatio": 1.0,
                                     "JFIJFCKLFCF": 1.0
                                 },
                                 {
                                     "$type": "AvatarSkillStart",
                                     "doOffStage": true,
-                                    "overtime": 20027,
+                                    "skillID": 20027,
                                     "cdRatio": 1.0,
                                     "JFIJFCKLFCF": 1.0
                                 }
@@ -2690,14 +2690,14 @@
                                 {
                                     "$type": "AvatarSkillStart",
                                     "doOffStage": true,
-                                    "overtime": 20025,
+                                    "skillID": 20025,
                                     "cdRatio": 1.0,
                                     "JFIJFCKLFCF": 1.0
                                 },
                                 {
                                     "$type": "AvatarSkillStart",
                                     "doOffStage": true,
-                                    "overtime": 20028,
+                                    "skillID": 20028,
                                     "cdRatio": 1.0,
                                     "JFIJFCKLFCF": 1.0
                                 }
@@ -2842,7 +2842,7 @@
                     "modifierMixins": [
                         {
                             "$type": "ButtonHoldChargeMixin",
-                            "overtime": 20023,
+                            "skillID": 20023,
                             "BLOPHAGIDDP": 0.11999999731779099,
                             "PKNMLLHNOLA": [
                                 {
@@ -2916,7 +2916,7 @@
                         },
                         {
                             "$type": "ButtonHoldChargeMixin",
-                            "overtime": 20024,
+                            "skillID": 20024,
                             "BLOPHAGIDDP": 0.11999999731779099,
                             "PKNMLLHNOLA": [
                                 {
@@ -2990,7 +2990,7 @@
                         },
                         {
                             "$type": "ButtonHoldChargeMixin",
-                            "overtime": 20025,
+                            "skillID": 20025,
                             "BLOPHAGIDDP": 0.11999999731779099,
                             "PKNMLLHNOLA": [
                                 {

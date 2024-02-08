@@ -310,7 +310,7 @@
             "abilityMixins": [
                 {
                     "$type": "ButtonHoldChargeMixin",
-                    "overtime": 10391,
+                    "skillID": 10391,
                     "chargeTime": 0.20000000298023224,
                     "secondChargeTime": 999999.0,
                     "OnBeginUncharged": [
@@ -331,7 +331,7 @@
                         },
                         {
                             "$type": "EntityDoSkill",
-                            "overtime": 10394,
+                            "skillID": 10394,
                             "isHold": true
                         }
                     ],
@@ -349,19 +349,19 @@
                     "OnReleaseCharged": [
                         {
                             "$type": "AvatarSkillStart",
-                            "overtime": 10391,
+                            "skillID": 10391,
                             "cdRatio": 1.0,
                             "costStaminaRatio": 1.0
                         },
                         {
                             "$type": "AvatarSkillStart",
-                            "overtime": 10393,
+                            "skillID": 10393,
                             "cdRatio": 1.0,
                             "costStaminaRatio": 1.0
                         },
                         {
                             "$type": "EntityDoSkill",
-                            "overtime": 10394,
+                            "skillID": 10394,
                             "isHold": true
                         }
                     ],
@@ -712,24 +712,24 @@
             "abilityMixins": [
                 {
                     "$type": "ButtonHoldChargeMixin",
-                    "overtime": 10393,
+                    "skillID": 10393,
                     "secondChargeTime": 999999.0,
                     "OnReleaseCharged": [
                         {
                             "$type": "AvatarSkillStart",
-                            "overtime": 10391,
+                            "skillID": 10391,
                             "cdRatio": 1.0,
                             "costStaminaRatio": 1.0
                         },
                         {
                             "$type": "AvatarSkillStart",
-                            "overtime": 10393,
+                            "skillID": 10393,
                             "cdRatio": 1.0,
                             "costStaminaRatio": 1.0
                         },
                         {
                             "$type": "EntityDoSkill",
-                            "overtime": 10394,
+                            "skillID": 10394,
                             "isHold": true
                         }
                     ],
@@ -1270,7 +1270,7 @@
             "abilityMixins": [
                 {
                     "$type": "SkillButtonHoldChargeMixin",
-                    "overtime": 10392,
+                    "skillID": 10392,
                     "nextLoopTriggerID": "NextLoopTrigger",
                     "endHoldTrigger": "EndHoldTrigger",
                     "beforeStateIDs": [
@@ -1388,7 +1388,7 @@
             "onAbilityStart": [
                 {
                     "$type": "AvatarSkillStart",
-                    "overtime": 10392,
+                    "skillID": 10392,
                     "cdRatio": 1.0,
                     "costStaminaRatio": 1.0
                 },
@@ -1483,7 +1483,7 @@
             "onAbilityStart": [
                 {
                     "$type": "AvatarSkillStart",
-                    "overtime": 10392,
+                    "skillID": 10392,
                     "cdRatio": 2.5,
                     "costStaminaRatio": 1.0
                 },
@@ -2491,7 +2491,7 @@
             "onAbilityStart": [
                 {
                     "$type": "AvatarSkillStart",
-                    "overtime": 10395,
+                    "skillID": 10395,
                     "cdRatio": 1.0,
                     "costStaminaRatio": 1.0
                 },

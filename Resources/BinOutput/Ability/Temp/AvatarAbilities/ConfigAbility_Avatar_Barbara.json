@@ -6,7 +6,7 @@
             "abilityMixins": [
                 {
                     "$type": "ButtonHoldChargeMixin",
-                    "overtime": 10070,
+                    "skillID": 10070,
                     "chargeTime": 0.10000000149011612,
                     "secondChargeTime": 0.10000000149011612,
                     "OnBeginUncharged": [
@@ -149,7 +149,7 @@
                     "onAdded": [
                         {
                             "$type": "AvatarSkillStart",
-                            "overtime": 10003,
+                            "skillID": 10003,
                             "cdRatio": 1.0,
                             "costStaminaRatio": [
                                 "Barbara_ExtraAttack_StaminaCost",
@@ -956,7 +956,7 @@
             "onAbilityStart": [
                 {
                     "$type": "AvatarSkillStart",
-                    "overtime": 10071,
+                    "skillID": 10071,
                     "cdRatio": 1.0,
                     "costStaminaRatio": 1.0
                 },
@@ -1731,7 +1731,7 @@
                 },
                 {
                     "$type": "AvatarSkillStart",
-                    "overtime": 10072,
+                    "skillID": 10072,
                     "cdRatio": 1.0,
                     "costStaminaRatio": 1.0
                 },
@@ -1917,19 +1917,19 @@
                         {
                             "$type": "EntityDoSkill",
                             "doOffStage": true,
-                            "overtime": 10076
+                            "skillID": 10076
                         }
                     ],
                     "onReviveActions": [
                         {
                             "$type": "EntityDoSkill",
                             "doOffStage": true,
-                            "overtime": 10079
+                            "skillID": 10079
                         },
                         {
                             "$type": "EntityDoSkill",
                             "doOffStage": true,
-                            "overtime": 10080
+                            "skillID": 10080
                         },
                         {
                             "$type": "DebugLog",
@@ -1942,7 +1942,7 @@
             "onAdded": [
                 {
                     "$type": "UnlockSkill",
-                    "overtime": 10076
+                    "skillID": 10076
                 }
             ],
             "isDynamicAbility": true
@@ -1959,7 +1959,7 @@
                 {
                     "$type": "AvatarSkillStart",
                     "doOffStage": true,
-                    "overtime": 10076,
+                    "skillID": 10076,
                     "cdRatio": 1.0,
                     "costStaminaRatio": 1.0
                 },
@@ -1986,7 +1986,7 @@
                 {
                     "$type": "AvatarSkillStart",
                     "doOffStage": true,
-                    "overtime": 10079,
+                    "skillID": 10079,
                     "cdRatio": 1.0,
                     "costStaminaRatio": 1.0
                 },
@@ -2013,7 +2013,7 @@
                 {
                     "$type": "AvatarSkillStart",
                     "doOffStage": true,
-                    "overtime": 10080,
+                    "skillID": 10080,
                     "cdRatio": 1.0,
                     "costStaminaRatio": 1.0
                 },

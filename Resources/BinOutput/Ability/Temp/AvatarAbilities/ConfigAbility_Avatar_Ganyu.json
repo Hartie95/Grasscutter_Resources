@@ -6,7 +6,7 @@
             "abilityMixins": [
                 {
                     "$type": "ButtonHoldChargeMixin",
-                    "overtime": 10371,
+                    "skillID": 10371,
                     "chargeTime": 0.20000000298023224,
                     "secondChargeTime": 999999.0,
                     "OnBeginUncharged": [
@@ -196,7 +196,7 @@
             "abilityMixins": [
                 {
                     "$type": "ButtonHoldChargeMixin",
-                    "overtime": 10374,
+                    "skillID": 10374,
                     "secondChargeTime": 999999.0,
                     "OnReleaseCharged": [
                         {
@@ -2193,7 +2193,7 @@
                 },
                 {
                     "$type": "AvatarSkillStart",
-                    "overtime": 10372,
+                    "skillID": 10372,
                     "cdRatio": 1.0,
                     "costStaminaRatio": 1.0
                 }
@@ -2673,7 +2673,7 @@
                         },
                         {
                             "$type": "AvatarSkillStart",
-                            "overtime": 10373,
+                            "skillID": 10373,
                             "cdRatio": 1.0,
                             "costStaminaRatio": 1.0
                         }

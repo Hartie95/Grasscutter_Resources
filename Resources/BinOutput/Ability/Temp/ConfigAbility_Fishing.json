@@ -88,13 +88,13 @@
                         {
                             "$type": "SwitchSkillIDMixin",
                             "priority": "Playmode",
-                            "overtime": 20311
+                            "skillID": 20311
                         },
                         {
                             "$type": "SwitchSkillIDMixin",
                             "priority": "Playmode",
                             "GIELLBOFOCE": 2,
-                            "overtime": 20316
+                            "skillID": 20316
                         }
                     ]
                 },
@@ -106,7 +106,7 @@
                         {
                             "$type": "SwitchSkillIDMixin",
                             "priority": "Playmode",
-                            "overtime": 20314
+                            "skillID": 20314
                         }
                     ]
                 },
@@ -118,7 +118,7 @@
                             "$type": "SwitchSkillIDMixin",
                             "priority": "Playmode",
                             "GIELLBOFOCE": 3,
-                            "overtime": 20315
+                            "skillID": 20315
                         }
                     ]
                 },
@@ -128,45 +128,45 @@
                     "onAdded": [
                         {
                             "$type": "AddAvatarSkillInfo",
-                            "overtime": 20310
+                            "skillID": 20310
                         },
                         {
                             "$type": "AddAvatarSkillInfo",
-                            "overtime": 20311
+                            "skillID": 20311
                         },
                         {
                             "$type": "AddAvatarSkillInfo",
-                            "overtime": 20314
+                            "skillID": 20314
                         },
                         {
                             "$type": "AddAvatarSkillInfo",
-                            "overtime": 20315
+                            "skillID": 20315
                         },
                         {
                             "$type": "AddAvatarSkillInfo",
-                            "overtime": 20316
+                            "skillID": 20316
                         }
                     ],
                     "onRemoved": [
                         {
                             "$type": "RemoveAvatarSkillInfo",
-                            "overtime": 20310
+                            "skillID": 20310
                         },
                         {
                             "$type": "RemoveAvatarSkillInfo",
-                            "overtime": 20311
+                            "skillID": 20311
                         },
                         {
                             "$type": "RemoveAvatarSkillInfo",
-                            "overtime": 20314
+                            "skillID": 20314
                         },
                         {
                             "$type": "RemoveAvatarSkillInfo",
-                            "overtime": 20315
+                            "skillID": 20315
                         },
                         {
                             "$type": "RemoveAvatarSkillInfo",
-                            "overtime": 20316
+                            "skillID": 20316
                         }
                     ]
                 },
@@ -317,7 +317,7 @@
                 },
                 {
                     "$type": "ButtonHoldChargeMixin",
-                    "overtime": 20311,
+                    "skillID": 20311,
                     "DBKLMBJJHDP": 99999.0,
                     "BLOPHAGIDDP": 999999.0,
                     "CBGHBGNKMPO": [
@@ -815,13 +815,13 @@
                     "onAdded": [
                         {
                             "$type": "AddAvatarSkillInfo",
-                            "overtime": 20313
+                            "skillID": 20313
                         }
                     ],
                     "onRemoved": [
                         {
                             "$type": "RemoveAvatarSkillInfo",
-                            "overtime": 20313
+                            "skillID": 20313
                         }
                     ]
                 },
@@ -832,7 +832,7 @@
                         {
                             "$type": "SwitchSkillIDMixin",
                             "priority": "Playmode",
-                            "overtime": 20313
+                            "skillID": 20313
                         }
                     ],
                     "onAdded": [
@@ -970,7 +970,7 @@
                 },
                 {
                     "$type": "ButtonHoldChargeMixin",
-                    "overtime": 20313,
+                    "skillID": 20313,
                     "DBKLMBJJHDP": 999999.0,
                     "BLOPHAGIDDP": 999999.0,
                     "CBGHBGNKMPO": [

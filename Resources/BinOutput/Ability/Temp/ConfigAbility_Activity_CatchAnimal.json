@@ -11,11 +11,11 @@
                         {
                             "$type": "AddAvatarSkillInfo",
                             "doOffStage": true,
-                            "overtime": 20040
+                            "skillID": 20040
                         },
                         {
                             "$type": "AvatarSkillStart",
-                            "overtime": 20040,
+                            "skillID": 20040,
                             "cdRatio": 0.10000000149011612,
                             "JFIJFCKLFCF": 1.0
                         }
@@ -24,7 +24,7 @@
                         {
                             "$type": "RemoveAvatarSkillInfo",
                             "doOffStage": true,
-                            "overtime": 20040,
+                            "skillID": 20040,
                             "LBMDBJFLHCC": true
                         }
                     ]
@@ -37,7 +37,7 @@
                             "$type": "SwitchSkillIDMixin",
                             "priority": "Playmode",
                             "GIELLBOFOCE": 1,
-                            "overtime": 20040
+                            "skillID": 20040
                         },
                         {
                             "$type": "WidgetCDSyncMixin",
@@ -64,7 +64,7 @@
                         },
                         {
                             "$type": "ButtonHoldChargeMixin",
-                            "overtime": 20040,
+                            "skillID": 20040,
                             "BLOPHAGIDDP": 0.11999999731779099,
                             "PKNMLLHNOLA": [
                                 {
@@ -259,7 +259,7 @@
                     "onAdded": [
                         {
                             "$type": "AvatarSkillStart",
-                            "overtime": 20040,
+                            "skillID": 20040,
                             "cdRatio": 1.0,
                             "JFIJFCKLFCF": 1.0
                         },
@@ -314,7 +314,7 @@
                     "onAdded": [
                         {
                             "$type": "AvatarSkillStart",
-                            "overtime": 20040,
+                            "skillID": 20040,
                             "cdRatio": 1.0,
                             "JFIJFCKLFCF": 1.0
                         },
@@ -562,11 +562,11 @@
                         {
                             "$type": "AddAvatarSkillInfo",
                             "doOffStage": true,
-                            "overtime": 20041
+                            "skillID": 20041
                         },
                         {
                             "$type": "AvatarSkillStart",
-                            "overtime": 20041,
+                            "skillID": 20041,
                             "cdRatio": 0.10000000149011612,
                             "JFIJFCKLFCF": 1.0
                         }
@@ -575,7 +575,7 @@
                         {
                             "$type": "RemoveAvatarSkillInfo",
                             "doOffStage": true,
-                            "overtime": 20041,
+                            "skillID": 20041,
                             "LBMDBJFLHCC": true
                         }
                     ]
@@ -588,7 +588,7 @@
                             "$type": "SwitchSkillIDMixin",
                             "priority": "Playmode",
                             "GIELLBOFOCE": 1,
-                            "overtime": 20041
+                            "skillID": 20041
                         },
                         {
                             "$type": "WidgetCDSyncMixin",
@@ -615,7 +615,7 @@
                         },
                         {
                             "$type": "ButtonHoldChargeMixin",
-                            "overtime": 20041,
+                            "skillID": 20041,
                             "BLOPHAGIDDP": 0.11999999731779099,
                             "PKNMLLHNOLA": [
                                 {
@@ -810,7 +810,7 @@
                     "onAdded": [
                         {
                             "$type": "AvatarSkillStart",
-                            "overtime": 20041,
+                            "skillID": 20041,
                             "cdRatio": 1.0,
                             "JFIJFCKLFCF": 1.0
                         },
@@ -865,7 +865,7 @@
                     "onAdded": [
                         {
                             "$type": "AvatarSkillStart",
-                            "overtime": 20041,
+                            "skillID": 20041,
                             "cdRatio": 1.0,
                             "JFIJFCKLFCF": 1.0
                         },
@@ -1151,14 +1151,14 @@
                         {
                             "$type": "AddAvatarSkillInfo",
                             "doOffStage": true,
-                            "overtime": 20042
+                            "skillID": 20042
                         }
                     ],
                     "onRemoved": [
                         {
                             "$type": "RemoveAvatarSkillInfo",
                             "doOffStage": true,
-                            "overtime": 20042,
+                            "skillID": 20042,
                             "LBMDBJFLHCC": true
                         }
                     ]
@@ -1171,7 +1171,7 @@
                             "$type": "SwitchSkillIDMixin",
                             "priority": "Playmode",
                             "GIELLBOFOCE": 1,
-                            "overtime": 20042
+                            "skillID": 20042
                         }
                     ]
                 },
@@ -1181,7 +1181,7 @@
                     "modifierMixins": [
                         {
                             "$type": "ButtonHoldChargeMixin",
-                            "overtime": 20042,
+                            "skillID": 20042,
                             "BLOPHAGIDDP": 0.11999999731779099,
                             "NFPDHLMEPGB": [
                                 {
@@ -1332,7 +1332,7 @@
                     "onAdded": [
                         {
                             "$type": "AvatarShareCDSkillStart",
-                            "overtime": 20042,
+                            "skillID": 20042,
                             "KJPLHEHCLFM": 1
                         },
                         {
@@ -1382,7 +1382,7 @@
                     "onAdded": [
                         {
                             "$type": "AvatarShareCDSkillStart",
-                            "overtime": 20042
+                            "skillID": 20042
                         },
                         {
                             "$type": "FireEffect",

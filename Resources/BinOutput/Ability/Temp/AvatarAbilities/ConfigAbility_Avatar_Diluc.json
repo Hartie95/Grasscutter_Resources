@@ -6,7 +6,7 @@
             "abilityMixins": [
                 {
                     "$type": "ButtonHoldChargeMixin",
-                    "overtime": 10160,
+                    "skillID": 10160,
                     "chargeTime": 0.25,
                     "secondChargeTime": "Max_Dura",
                     "OnBeginUncharged": [
@@ -322,13 +322,13 @@
                             "$type": "SwitchSkillIDMixin",
                             "priority": "AvatarSpecial",
                             "skillIndex": 1,
-                            "overtime": 10162
+                            "skillID": 10162
                         }
                     ],
                     "onAdded": [
                         {
                             "$type": "AvatarSkillStart",
-                            "overtime": 10161,
+                            "skillID": 10161,
                             "cdRatio": 1.0,
                             "costStaminaRatio": 1.0
                         }
@@ -354,7 +354,7 @@
                             "$type": "SwitchSkillIDMixin",
                             "priority": "AvatarSpecial",
                             "skillIndex": 1,
-                            "overtime": 10163
+                            "skillID": 10163
                         }
                     ],
                     "onAdded": [
@@ -364,7 +364,7 @@
                         },
                         {
                             "$type": "AvatarSkillStart",
-                            "overtime": 10162,
+                            "skillID": 10162,
                             "cdRatio": 1.0,
                             "costStaminaRatio": 1.0
                         }
@@ -392,7 +392,7 @@
                         },
                         {
                             "$type": "AvatarSkillStart",
-                            "overtime": 10163,
+                            "skillID": 10163,
                             "cdRatio": 1.0,
                             "costStaminaRatio": 1.0
                         },
@@ -850,7 +850,7 @@
                 },
                 {
                     "$type": "AvatarSkillStart",
-                    "overtime": 10165,
+                    "skillID": 10165,
                     "cdRatio": 1.0,
                     "costStaminaRatio": 1.0
                 }

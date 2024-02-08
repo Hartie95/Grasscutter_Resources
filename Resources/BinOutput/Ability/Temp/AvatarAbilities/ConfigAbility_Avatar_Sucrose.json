@@ -6,7 +6,7 @@
             "abilityMixins": [
                 {
                     "$type": "ButtonHoldChargeMixin",
-                    "overtime": 10431,
+                    "skillID": 10431,
                     "chargeTime": 0.11999999731779099,
                     "secondChargeTime": 0.11999999731779099,
                     "OnBeginUncharged": [
@@ -149,7 +149,7 @@
                     "onAdded": [
                         {
                             "$type": "AvatarSkillStart",
-                            "overtime": 10003,
+                            "skillID": 10003,
                             "cdRatio": 1.0,
                             "costStaminaRatio": [
                                 "Sucrose_ExtraAttack_StaminaCost",
@@ -738,7 +738,7 @@
                 {
                     "$type": "AvatarSkillStart",
                     "doOffStage": true,
-                    "overtime": 10432,
+                    "skillID": 10432,
                     "cdRatio": 1.0,
                     "costStaminaRatio": 1.0
                 },
@@ -1024,7 +1024,7 @@
                 {
                     "$type": "AvatarSkillStart",
                     "doOffStage": true,
-                    "overtime": 10435,
+                    "skillID": 10435,
                     "cdRatio": 1.0,
                     "costStaminaRatio": 1.0
                 },
@@ -3440,7 +3440,7 @@
                         },
                         {
                             "$type": "ModifyAvatarSkillCD",
-                            "overtime": 10432,
+                            "skillID": 10432,
                             "cdDelta": "Sucrose_Paranoid_ReduceColdDown"
                         }
                     ]

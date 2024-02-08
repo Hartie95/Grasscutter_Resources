@@ -6,7 +6,7 @@
             "abilityMixins": [
                 {
                     "$type": "ButtonHoldChargeMixin",
-                    "overtime": 10651,
+                    "skillID": 10651,
                     "chargeTime": 0.11999999731779099,
                     "secondChargeTime": 0.20000000298023224,
                     "OnBeginUncharged": [
@@ -132,7 +132,7 @@
                     "onAdded": [
                         {
                             "$type": "AvatarSkillStart",
-                            "overtime": 10001,
+                            "skillID": 10001,
                             "cdRatio": 1.0,
                             "costStaminaRatio": "ExtraAttack_Sword_Stamina_Cost"
                         }
@@ -312,7 +312,7 @@
             "onAbilityStart": [
                 {
                     "$type": "AvatarSkillStart",
-                    "overtime": 10652,
+                    "skillID": 10652,
                     "cdRatio": 1.0,
                     "costStaminaRatio": 1.0
                 },
@@ -1305,7 +1305,7 @@
                 },
                 {
                     "$type": "AvatarSkillStart",
-                    "overtime": 10655,
+                    "skillID": 10655,
                     "cdRatio": 1.0,
                     "costStaminaRatio": 1.0
                 },
@@ -2720,7 +2720,7 @@
                                 },
                                 {
                                     "$type": "BySkillReady",
-                                    "overtime": 10656
+                                    "skillID": 10656
                                 }
                             ],
                             "actions": [
@@ -2740,7 +2740,7 @@
                             "predicates": [
                                 {
                                     "$type": "BySkillReady",
-                                    "overtime": 10656
+                                    "skillID": 10656
                                 }
                             ],
                             "modifierName": "UNIQUE_Shinobu_Constellation6_Limbo_Untriggered_Limbo"
@@ -2757,7 +2757,7 @@
                                 },
                                 {
                                     "$type": "BySkillReady",
-                                    "overtime": 10656
+                                    "skillID": 10656
                                 }
                             ],
                             "abilityName": "Avatar_Shinobu_Constellation6_Limbo_Trigger_Protect"
@@ -2780,7 +2780,7 @@
                                 },
                                 {
                                     "$type": "BySkillReady",
-                                    "overtime": 10657
+                                    "skillID": 10657
                                 }
                             ],
                             "actions": [
@@ -2816,12 +2816,12 @@
                 {
                     "$type": "UnlockSkill",
                     "doOffStage": true,
-                    "overtime": 10656
+                    "skillID": 10656
                 },
                 {
                     "$type": "UnlockSkill",
                     "doOffStage": true,
-                    "overtime": 10657
+                    "skillID": 10657
                 }
             ],
             "isDynamicAbility": true
@@ -2863,7 +2863,7 @@
                 {
                     "$type": "AvatarSkillStart",
                     "doOffStage": true,
-                    "overtime": 10657,
+                    "skillID": 10657,
                     "cdRatio": 1.0,
                     "costStaminaRatio": 1.0
                 }
@@ -2907,7 +2907,7 @@
                 {
                     "$type": "AvatarSkillStart",
                     "doOffStage": true,
-                    "overtime": 10656,
+                    "skillID": 10656,
                     "cdRatio": 1.0,
                     "costStaminaRatio": 1.0
                 }

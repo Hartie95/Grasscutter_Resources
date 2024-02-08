@@ -6,7 +6,7 @@
             "abilityMixins": [
                 {
                     "$type": "ButtonHoldChargeMixin",
-                    "overtime": 10351,
+                    "skillID": 10351,
                     "chargeTime": 0.11999999731779099,
                     "secondChargeTime": 0.20000000298023224,
                     "OnBeginUncharged": [
@@ -132,7 +132,7 @@
                     "onAdded": [
                         {
                             "$type": "AvatarSkillStart",
-                            "overtime": 10001,
+                            "skillID": 10001,
                             "cdRatio": 1.0,
                             "costStaminaRatio": "ExtraAttack_Sword_Stamina_Cost"
                         }
@@ -196,7 +196,7 @@
                 },
                 {
                     "$type": "AvatarSkillStart",
-                    "overtime": 10352,
+                    "skillID": 10352,
                     "cdRatio": 1.0,
                     "costStaminaRatio": 1.0
                 }
@@ -210,7 +210,7 @@
             "onAbilityStart": [
                 {
                     "$type": "AvatarSkillStart",
-                    "overtime": 10352,
+                    "skillID": 10352,
                     "cdRatio": 1.0,
                     "costStaminaRatio": 1.0
                 }
@@ -745,7 +745,7 @@
                 },
                 {
                     "$type": "UnlockSkill",
-                    "overtime": 10355
+                    "skillID": 10355
                 }
             ],
             "onAbilityStart": [
@@ -803,7 +803,7 @@
                 },
                 {
                     "$type": "AvatarSkillStart",
-                    "overtime": 10353,
+                    "skillID": 10353,
                     "cdRatio": 1.0,
                     "costStaminaRatio": 1.0
                 },
@@ -816,12 +816,12 @@
                         },
                         {
                             "$type": "BySkillReady",
-                            "overtime": 10355
+                            "skillID": 10355
                         }
                     ],
                     "amountByTargetMaxHPRatio": 0.5,
                     "isReviveOtherPlayerAvatar": true,
-                    "overtime": 10355,
+                    "skillID": 10355,
                     "cdRatio": 1.0,
                     "rayCount": 40.0
                 }
@@ -865,7 +865,7 @@
                 {
                     "$type": "AvatarSkillStart",
                     "doOffStage": true,
-                    "overtime": 10355,
+                    "skillID": 10355,
                     "cdRatio": 1.0,
                     "costStaminaRatio": 1.0
                 },

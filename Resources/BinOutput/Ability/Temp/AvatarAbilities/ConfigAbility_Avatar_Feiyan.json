@@ -421,7 +421,7 @@
             "abilityMixins": [
                 {
                     "$type": "ButtonHoldChargeMixin",
-                    "overtime": 10481,
+                    "skillID": 10481,
                     "chargeTime": 0.11999999731779099,
                     "secondChargeTime": 0.11999999731779099,
                     "OnBeginUncharged": [
@@ -786,7 +786,7 @@
                         },
                         {
                             "$type": "AvatarSkillStart",
-                            "overtime": 10003,
+                            "skillID": 10003,
                             "cdRatio": 1.0,
                             "costStaminaRatio": [
                                 "Feiyan_ExtraAttack_StaminaCost",
@@ -2657,7 +2657,7 @@
             "onAbilityStart": [
                 {
                     "$type": "AvatarSkillStart",
-                    "overtime": 10482,
+                    "skillID": 10482,
                     "cdRatio": 1.0,
                     "costStaminaRatio": 1.0
                 },
@@ -2857,7 +2857,7 @@
             "onAbilityStart": [
                 {
                     "$type": "AvatarSkillStart",
-                    "overtime": 10485,
+                    "skillID": 10485,
                     "cdRatio": 1.0,
                     "costStaminaRatio": 1.0
                 },

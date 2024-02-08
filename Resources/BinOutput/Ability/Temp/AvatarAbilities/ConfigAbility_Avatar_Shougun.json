@@ -6,7 +6,7 @@
             "abilityMixins": [
                 {
                     "$type": "ButtonHoldChargeMixin",
-                    "overtime": 10521,
+                    "skillID": 10521,
                     "chargeTime": 0.11999999731779099,
                     "secondChargeTime": 0.20000000298023224,
                     "OnBeginUncharged": [
@@ -188,7 +188,7 @@
                     "onAdded": [
                         {
                             "$type": "AvatarSkillStart",
-                            "overtime": 10002,
+                            "skillID": 10002,
                             "cdRatio": 1.0,
                             "costStaminaRatio": "ExtraAttack_Pole_Stamina_Cost"
                         }
@@ -200,7 +200,7 @@
                     "onAdded": [
                         {
                             "$type": "AvatarSkillStart",
-                            "overtime": 10001,
+                            "skillID": 10001,
                             "cdRatio": 1.0,
                             "costStaminaRatio": "ExtraAttack_Katana_Stamina_Cost"
                         }
@@ -216,7 +216,7 @@
             "onAbilityStart": [
                 {
                     "$type": "AvatarSkillStart",
-                    "overtime": 10522,
+                    "skillID": 10522,
                     "cdRatio": 1.0,
                     "costStaminaRatio": 1.0
                 },
@@ -2389,7 +2389,7 @@
                     "onAdded": [
                         {
                             "$type": "AvatarSkillStart",
-                            "overtime": 10525,
+                            "skillID": 10525,
                             "cdRatio": 1.0,
                             "costStaminaRatio": 1.0
                         },

@@ -74,7 +74,7 @@
     "Bennett_PermanentSkill_1": [
         {
             "$type": "ModifySkillCD",
-            "overtime": 10322,
+            "skillID": 10322,
             "PONHICKAGKO": -1.0
         }
     ],

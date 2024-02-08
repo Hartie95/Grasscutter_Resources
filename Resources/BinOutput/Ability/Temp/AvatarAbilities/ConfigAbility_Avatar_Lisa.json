@@ -6,7 +6,7 @@
             "abilityMixins": [
                 {
                     "$type": "ButtonHoldChargeMixin",
-                    "overtime": 10060,
+                    "skillID": 10060,
                     "chargeTime": 0.10000000149011612,
                     "secondChargeTime": 0.10000000149011612,
                     "OnBeginUncharged": [
@@ -144,7 +144,7 @@
                     "onAdded": [
                         {
                             "$type": "AvatarSkillStart",
-                            "overtime": 10003,
+                            "skillID": 10003,
                             "cdRatio": 1.0,
                             "costStaminaRatio": "ExtraAttack_Catalyst_Stamina_Cost"
                         }
@@ -391,7 +391,7 @@
             "abilityMixins": [
                 {
                     "$type": "SkillButtonHoldChargeMixin",
-                    "overtime": 10061,
+                    "skillID": 10061,
                     "nextLoopTriggerID": "NextLoopTrigger",
                     "endHoldTrigger": "EndHoldTrigger",
                     "beforeStateIDs": [
@@ -1399,10 +1399,10 @@
                     "predicates": [
                         {
                             "$type": "BySkillReady",
-                            "overtime": 10061
+                            "skillID": 10061
                         }
                     ],
-                    "overtime": 10061,
+                    "skillID": 10061,
                     "cdRatio": 0.06750000268220901,
                     "costStaminaRatio": 1.0
                 },
@@ -2916,10 +2916,10 @@
                     "predicates": [
                         {
                             "$type": "BySkillReady",
-                            "overtime": 10061
+                            "skillID": 10061
                         }
                     ],
-                    "overtime": 10061,
+                    "skillID": 10061,
                     "cdRatio": 1.0,
                     "costStaminaRatio": 1.0
                 },
@@ -3200,7 +3200,7 @@
                 },
                 {
                     "$type": "AvatarSkillStart",
-                    "overtime": 10062,
+                    "skillID": 10062,
                     "cdRatio": 1.0,
                     "costStaminaRatio": 1.0
                 },

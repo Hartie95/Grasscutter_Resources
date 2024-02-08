@@ -6,7 +6,7 @@
             "abilityMixins": [
                 {
                     "$type": "ButtonHoldChargeMixin",
-                    "overtime": 100545,
+                    "skillID": 100545,
                     "chargeTime": 0.11999999731779099,
                     "secondChargeTime": 0.20000000298023224,
                     "OnBeginUncharged": [
@@ -132,7 +132,7 @@
                     "onAdded": [
                         {
                             "$type": "AvatarSkillStart",
-                            "overtime": 10001,
+                            "skillID": 10001,
                             "cdRatio": 1.0,
                             "costStaminaRatio": "ExtraAttack_Sword_Stamina_Cost"
                         }
@@ -149,7 +149,7 @@
             "abilityMixins": [
                 {
                     "$type": "ButtonHoldChargeMixin",
-                    "overtime": 100555,
+                    "skillID": 100555,
                     "chargeTime": 0.11999999731779099,
                     "secondChargeTime": 0.20000000298023224,
                     "OnBeginUncharged": [
@@ -275,7 +275,7 @@
                     "onAdded": [
                         {
                             "$type": "AvatarSkillStart",
-                            "overtime": 10001,
+                            "skillID": 10001,
                             "cdRatio": 1.0,
                             "costStaminaRatio": "ExtraAttack_Sword_Stamina_Cost"
                         }
@@ -309,7 +309,7 @@
                 },
                 {
                     "$type": "AvatarSkillStart",
-                    "overtime": 10077,
+                    "skillID": 10077,
                     "cdRatio": 1.0,
                     "costStaminaRatio": 1.0
                 }
@@ -324,7 +324,7 @@
             "abilityMixins": [
                 {
                     "$type": "SkillButtonHoldChargeMixin",
-                    "overtime": 10077,
+                    "skillID": 10077,
                     "nextLoopTriggerID": "NextLoopTrigger",
                     "endHoldTrigger": "EndHoldTrigger",
                     "beforeStateIDs": [
@@ -412,7 +412,7 @@
             "onAbilityStart": [
                 {
                     "$type": "AvatarSkillStart",
-                    "overtime": 10077,
+                    "skillID": 10077,
                     "cdRatio": 1.0,
                     "costStaminaRatio": 1.0
                 },
@@ -1029,7 +1029,7 @@
                 },
                 {
                     "$type": "AvatarSkillStart",
-                    "overtime": 10078,
+                    "skillID": 10078,
                     "cdRatio": 1.0,
                     "costStaminaRatio": 1.0
                 }

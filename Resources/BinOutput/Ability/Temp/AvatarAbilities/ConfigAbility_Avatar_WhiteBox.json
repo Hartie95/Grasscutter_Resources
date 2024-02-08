@@ -255,7 +255,7 @@
             "abilityMixins": [
                 {
                     "$type": "ButtonHoldChargeMixin",
-                    "overtime": 10391,
+                    "skillID": 10391,
                     "chargeTime": 999999.0,
                     "secondChargeTime": 999999.0,
                     "OnBeginUncharged": [

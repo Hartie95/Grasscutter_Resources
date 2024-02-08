@@ -6,7 +6,7 @@
             "abilityMixins": [
                 {
                     "$type": "ButtonHoldChargeMixin",
-                    "overtime": 10341,
+                    "skillID": 10341,
                     "chargeTime": 0.25,
                     "secondChargeTime": "ExtraAttack_Claymore_MaxTime",
                     "OnBeginUncharged": [
@@ -563,7 +563,7 @@
             "onAbilityStart": [
                 {
                     "$type": "AvatarSkillStart",
-                    "overtime": 10342,
+                    "skillID": 10342,
                     "cdRatio": 1.0,
                     "costStaminaRatio": 1.0
                 },
@@ -1143,7 +1143,7 @@
             "onAbilityStart": [
                 {
                     "$type": "AvatarSkillStart",
-                    "overtime": 10343,
+                    "skillID": 10343,
                     "cdRatio": 1.0,
                     "costStaminaRatio": 1.0
                 },
@@ -1390,7 +1390,7 @@
                                                 {
                                                     "$type": "BySkillReady",
                                                     "target": "Caster",
-                                                    "overtime": 10344
+                                                    "skillID": 10344
                                                 }
                                             ],
                                             "abilityName": "Avatar_Noel_ProudSkill_21_Shield"
@@ -1539,7 +1539,7 @@
                 {
                     "$type": "AvatarSkillStart",
                     "doOffStage": true,
-                    "overtime": 10344,
+                    "skillID": 10344,
                     "cdRatio": "AS_ProudSkill_21_CD_PS21_P4",
                     "costStaminaRatio": 1.0
                 }
@@ -1556,7 +1556,7 @@
                     "$type": "ModifySkillCDByModifierCountMixin",
                     "targetType": "Self",
                     "modifierName": "ChangeCD",
-                    "overtime": 10342,
+                    "skillID": 10342,
                     "cdDelta": "AS_ProudSkill_22_CD_PS22_P1"
                 }
             ],

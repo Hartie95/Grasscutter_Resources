@@ -6,7 +6,7 @@
             "abilityMixins": [
                 {
                     "$type": "ButtonHoldChargeMixin",
-                    "overtime": 10321,
+                    "skillID": 10321,
                     "chargeTime": 0.11999999731779099,
                     "secondChargeTime": 0.20000000298023224,
                     "OnBeginUncharged": [
@@ -113,7 +113,7 @@
                     "onAdded": [
                         {
                             "$type": "AvatarSkillStart",
-                            "overtime": 10001,
+                            "skillID": 10001,
                             "cdRatio": 1.0,
                             "costStaminaRatio": "ExtraAttack_Sword_Stamina_Cost"
                         }
@@ -181,7 +181,7 @@
                 },
                 {
                     "$type": "SkillButtonHoldChargeMixin",
-                    "overtime": 10322,
+                    "skillID": 10322,
                     "nextLoopTriggerID": "NextLoopTrigger",
                     "endHoldTrigger": "EndHoldTrigger",
                     "beforeStateIDs": [
@@ -425,10 +425,10 @@
                             "predicates": [
                                 {
                                     "$type": "BySkillReady",
-                                    "overtime": 10322
+                                    "skillID": 10322
                                 }
                             ],
-                            "overtime": 10322,
+                            "skillID": 10322,
                             "cdRatio": 0.5,
                             "costStaminaRatio": 1.0
                         }
@@ -439,10 +439,10 @@
                             "predicates": [
                                 {
                                     "$type": "BySkillReady",
-                                    "overtime": 10322
+                                    "skillID": 10322
                                 }
                             ],
-                            "overtime": 10322,
+                            "skillID": 10322,
                             "cdRatio": 1.0,
                             "costStaminaRatio": 1.0
                         }
@@ -528,10 +528,10 @@
                             "predicates": [
                                 {
                                     "$type": "BySkillReady",
-                                    "overtime": 10322
+                                    "skillID": 10322
                                 }
                             ],
-                            "overtime": 10322,
+                            "skillID": 10322,
                             "cdRatio": 0.75,
                             "costStaminaRatio": 1.0
                         }
@@ -542,10 +542,10 @@
                             "predicates": [
                                 {
                                     "$type": "BySkillReady",
-                                    "overtime": 10322
+                                    "skillID": 10322
                                 }
                             ],
-                            "overtime": 10322,
+                            "skillID": 10322,
                             "cdRatio": 1.5,
                             "costStaminaRatio": 1.0
                         }
@@ -771,10 +771,10 @@
                             "predicates": [
                                 {
                                     "$type": "BySkillReady",
-                                    "overtime": 10322
+                                    "skillID": 10322
                                 }
                             ],
-                            "overtime": 10322,
+                            "skillID": 10322,
                             "cdRatio": 1.0,
                             "costStaminaRatio": 1.0
                         }
@@ -785,10 +785,10 @@
                             "predicates": [
                                 {
                                     "$type": "BySkillReady",
-                                    "overtime": 10322
+                                    "skillID": 10322
                                 }
                             ],
-                            "overtime": 10322,
+                            "skillID": 10322,
                             "cdRatio": 2.0,
                             "costStaminaRatio": 1.0
                         }
@@ -1042,7 +1042,7 @@
             "onAbilityStart": [
                 {
                     "$type": "AvatarSkillStart",
-                    "overtime": 10323,
+                    "skillID": 10323,
                     "cdRatio": 1.0,
                     "costStaminaRatio": 1.0
                 },

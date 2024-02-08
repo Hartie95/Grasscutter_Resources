@@ -6,7 +6,7 @@
             "abilityMixins": [
                 {
                     "$type": "ButtonHoldChargeMixin",
-                    "overtime": 10511,
+                    "skillID": 10511,
                     "chargeTime": 0.25,
                     "secondChargeTime": "Max_Dura",
                     "OnBeginUncharged": [
@@ -804,7 +804,7 @@
             "abilityMixins": [
                 {
                     "$type": "SkillButtonHoldChargeMixin",
-                    "overtime": 10512,
+                    "skillID": 10512,
                     "nextLoopTriggerID": "NextLoopTrigger",
                     "endHoldTrigger": "EndHoldTrigger",
                     "beforeStateIDs": [
@@ -1565,7 +1565,7 @@
             "onAbilityStart": [
                 {
                     "$type": "AvatarSkillStart",
-                    "overtime": 10512,
+                    "skillID": 10512,
                     "cdRatio": 1.0,
                     "costStaminaRatio": 1.0
                 },
@@ -1724,7 +1724,7 @@
             "onAbilityStart": [
                 {
                     "$type": "AvatarSkillStart",
-                    "overtime": 10512,
+                    "skillID": 10512,
                     "cdRatio": "SkillStart_Ratio",
                     "costStaminaRatio": 1.0
                 },
@@ -2221,7 +2221,7 @@
                             "talentParam": "Eula_PermanentSkill_2"
                         }
                     ],
-                    "overtime": 10512,
+                    "skillID": 10512,
                     "cdRatio": -1.0
                 },
                 {
@@ -2307,7 +2307,7 @@
                 },
                 {
                     "$type": "AvatarSkillStart",
-                    "overtime": 10515,
+                    "skillID": 10515,
                     "cdRatio": 1.0,
                     "costStaminaRatio": 1.0
                 },

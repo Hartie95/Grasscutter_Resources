@@ -27,7 +27,7 @@
                 },
                 {
                     "$type": "ButtonHoldChargeMixin",
-                    "overtime": 10451,
+                    "skillID": 10451,
                     "chargeTime": 0.11999999731779099,
                     "secondChargeTime": 0.20000000298023224,
                     "OnBeginUncharged": [
@@ -153,7 +153,7 @@
                     "onAdded": [
                         {
                             "$type": "AvatarSkillStart",
-                            "overtime": 10002,
+                            "skillID": 10002,
                             "cdRatio": 1.0,
                             "costStaminaRatio": "ExtraAttack_Pole_Stamina_Cost"
                         }
@@ -659,7 +659,7 @@
             "onAbilityStart": [
                 {
                     "$type": "AvatarSkillStart",
-                    "overtime": 10452,
+                    "skillID": 10452,
                     "cdRatio": 1.0,
                     "costStaminaRatio": 1.0
                 },
@@ -931,7 +931,7 @@
             "onAbilityStart": [
                 {
                     "$type": "AvatarSkillStart",
-                    "overtime": 10453,
+                    "skillID": 10453,
                     "cdRatio": 1.0,
                     "costStaminaRatio": 1.0
                 }
