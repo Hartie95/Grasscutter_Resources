@@ -100,3 +100,7 @@ INCAMOJDMID,changeCd
 AFDBBNDNAPA,LevelTagId
 BAFMFCJCCEH,MapAreaId
 IOFEHFBDMDA,seriesIdList
+NDBGNMDDLNN,levelLimit
+JJAMFGHGBFO,isContinuousLevelUp
+GJNFPAGHCCF,maxLevelLimitType
+KKMCMGHCDGA,isAllowHostInMpMode
