@@ -3,7 +3,7 @@
         "interactId": 1,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -45,13 +45,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 2,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -93,13 +93,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 3,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -141,13 +141,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 4,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 901,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -189,13 +189,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 5,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -237,13 +237,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 6,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -285,13 +285,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 7,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -333,13 +333,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 8,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -381,13 +381,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 9,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -429,13 +429,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 10,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -477,13 +477,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 11,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -525,13 +525,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 12,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -573,13 +573,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 13,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -621,13 +621,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 14,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -675,13 +675,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 15,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -723,13 +723,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 16,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -771,13 +771,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 17,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -819,13 +819,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 18,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -867,13 +867,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 19,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -915,13 +915,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 20,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -963,13 +963,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 21,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -1011,13 +1011,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 22,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -1059,13 +1059,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 23,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -1107,13 +1107,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 24,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -1155,13 +1155,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 25,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -1203,13 +1203,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 26,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -1251,13 +1251,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 27,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -1299,13 +1299,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 28,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -1347,13 +1347,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 29,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -1395,13 +1395,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 30,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -1443,13 +1443,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 31,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -1491,13 +1491,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 32,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -1545,13 +1545,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 33,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -1593,13 +1593,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 34,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -1641,13 +1641,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 35,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -1663,7 +1663,7 @@
                 ]
             }
         ],
-        "consumeItemId": true,
+        "isGuestInteract": true,
         "costItems": [
             {},
             {},
@@ -1688,13 +1688,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 36,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -1736,13 +1736,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 37,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -1784,13 +1784,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 38,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -1832,13 +1832,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 39,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -1880,13 +1880,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 40,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -1928,13 +1928,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 41,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -1976,13 +1976,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 42,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -2024,13 +2024,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 43,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -2069,13 +2069,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 44,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -2123,13 +2123,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 45,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -2171,13 +2171,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 46,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -2219,13 +2219,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 47,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -2267,13 +2267,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 48,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -2315,13 +2315,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 49,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -2363,13 +2363,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 50,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -2411,13 +2411,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 51,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -2459,13 +2459,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 52,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -2507,13 +2507,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 53,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -2555,13 +2555,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 54,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -2603,13 +2603,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 55,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -2651,13 +2651,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 56,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -2699,13 +2699,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 57,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -2747,13 +2747,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 58,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -2795,13 +2795,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 59,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -2843,13 +2843,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 60,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -2891,13 +2891,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 61,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -2939,13 +2939,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 62,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -2987,13 +2987,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 63,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -3035,13 +3035,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 64,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -3080,13 +3080,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 65,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -3125,13 +3125,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 66,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -3173,13 +3173,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 67,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -3221,13 +3221,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 68,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -3269,13 +3269,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 69,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -3317,13 +3317,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 70,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -3365,13 +3365,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 71,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -3413,13 +3413,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 72,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -3464,13 +3464,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 73,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -3512,13 +3512,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 74,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -3560,13 +3560,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 75,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -3608,13 +3608,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 76,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -3656,13 +3656,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 77,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -3716,13 +3716,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 78,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -3767,13 +3767,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 79,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -3815,13 +3815,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 80,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -3863,13 +3863,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 81,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -3911,13 +3911,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 82,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -3959,13 +3959,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 83,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -4022,13 +4022,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 84,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -4070,13 +4070,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 85,
         "actionType": "INTERACT_ACTION_UNLOCK_SPECIAL_TRANSPORT_POINT",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_UNLOCK_SPECIAL_TRANSPORT_POINT",
                 "param": [
@@ -4123,13 +4123,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 86,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -4171,11 +4171,11 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 87,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_CONSUME_REGIONAL_PLAY_VAR",
                 "param": [
@@ -4217,11 +4217,11 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 88,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_CONSUME_REGIONAL_PLAY_VAR",
                 "param": [
@@ -4263,11 +4263,11 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 89,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_CONSUME_REGIONAL_PLAY_VAR",
                 "param": [
@@ -4309,13 +4309,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 90,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -4357,13 +4357,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 91,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -4405,13 +4405,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 92,
         "actionType": "INTERACT_ACTION_UNLOCK_SPECIAL_TRANSPORT_POINT",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_UNLOCK_SPECIAL_TRANSPORT_POINT",
                 "param": [
@@ -4458,13 +4458,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 93,
         "actionType": "INTERACT_ACTION_UNLOCK_SPECIAL_TRANSPORT_POINT",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_UNLOCK_SPECIAL_TRANSPORT_POINT",
                 "param": [
@@ -4511,13 +4511,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 94,
         "actionType": "INTERACT_ACTION_UNLOCK_SPECIAL_TRANSPORT_POINT",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_UNLOCK_SPECIAL_TRANSPORT_POINT",
                 "param": [
@@ -4564,13 +4564,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 95,
         "actionType": "INTERACT_ACTION_UNLOCK_SPECIAL_TRANSPORT_POINT",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_UNLOCK_SPECIAL_TRANSPORT_POINT",
                 "param": [
@@ -4617,13 +4617,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 96,
         "actionType": "INTERACT_ACTION_UNLOCK_SPECIAL_TRANSPORT_POINT",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_UNLOCK_SPECIAL_TRANSPORT_POINT",
                 "param": [
@@ -4670,13 +4670,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 97,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -4719,13 +4719,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 98,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -4768,13 +4768,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 99,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -4817,13 +4817,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 100,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -4865,13 +4865,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 101,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -4910,13 +4910,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 102,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -4955,13 +4955,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 103,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -5004,13 +5004,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 104,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -5053,13 +5053,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 105,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -5102,13 +5102,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 106,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -5151,13 +5151,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 107,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -5200,13 +5200,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 108,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -5249,13 +5249,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 109,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -5302,7 +5302,7 @@
         "interactId": 110,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -5349,7 +5349,7 @@
         "interactId": 111,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -5391,13 +5391,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 112,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -5439,13 +5439,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 113,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -5490,7 +5490,7 @@
     },
     {
         "interactId": 114,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_CONSUME_REGIONAL_PLAY_VAR",
                 "param": [
@@ -5532,11 +5532,11 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 115,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_CONSUME_REGIONAL_PLAY_VAR",
                 "param": [
@@ -5578,11 +5578,11 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 116,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_CONSUME_REGIONAL_PLAY_VAR",
                 "param": [
@@ -5624,13 +5624,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 117,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -5672,13 +5672,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 118,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -5726,13 +5726,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 119,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -5779,7 +5779,7 @@
         "interactId": 120,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -5829,7 +5829,7 @@
         "interactId": 121,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -5879,7 +5879,7 @@
         "interactId": 122,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -5926,7 +5926,7 @@
         "interactId": 123,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -5968,13 +5968,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 125,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -6027,7 +6027,7 @@
         "interactId": 126,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -6074,7 +6074,7 @@
         "interactId": 127,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -6121,7 +6121,7 @@
         "interactId": 128,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -6168,7 +6168,7 @@
         "interactId": 129,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -6210,13 +6210,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 130,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -6263,7 +6263,7 @@
         "interactId": 131,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -6305,13 +6305,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 132,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -6358,7 +6358,7 @@
         "interactId": 133,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -6400,13 +6400,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 134,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -6460,13 +6460,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 135,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -6520,13 +6520,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 136,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -6580,13 +6580,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 137,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -6637,13 +6637,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 138,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -6700,13 +6700,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 139,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -6760,13 +6760,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 140,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -6820,13 +6820,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 141,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -6880,13 +6880,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 142,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -6940,13 +6940,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 143,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -7000,13 +7000,13 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     },
     {
         "interactId": 144,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -7053,7 +7053,7 @@
         "interactId": 145,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -7100,7 +7100,7 @@
         "interactId": 147,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -7147,7 +7147,7 @@
         "interactId": 148,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -7194,7 +7194,7 @@
         "interactId": 168,
         "actionType": "INTERACT_ACTION_STATE",
         "param1": 201,
-        "OGNLPEPBDOK": [
+        "actionList": [
             {
                 "actionType": "INTERACT_ACTION_STATE",
                 "param": [
@@ -7248,6 +7248,6 @@
                 ]
             }
         ],
-        "consumeItemNum": true
+        "isMpModeInteract": true
     }
 ]
