@@ -1,109 +1,109 @@
 [
     {
-        "AFDBBNDNAPA": 5,
-        "BAFMFCJCCEH": 30
+        "LevelTagId": 5,
+        "MapAreaId": 30
     },
     {
-        "AFDBBNDNAPA": 6,
-        "BAFMFCJCCEH": 30,
+        "LevelTagId": 6,
+        "MapAreaId": 30,
         "index": 1
     },
     {
-        "AFDBBNDNAPA": 7,
-        "BAFMFCJCCEH": 30,
+        "LevelTagId": 7,
+        "MapAreaId": 30,
         "index": 2
     },
     {
-        "AFDBBNDNAPA": 8,
-        "BAFMFCJCCEH": 30,
+        "LevelTagId": 8,
+        "MapAreaId": 30,
         "index": 3
     },
     {
-        "AFDBBNDNAPA": 9,
-        "BAFMFCJCCEH": 30,
+        "LevelTagId": 9,
+        "MapAreaId": 30,
         "index": 4
     },
     {
-        "AFDBBNDNAPA": 10,
-        "BAFMFCJCCEH": 30,
+        "LevelTagId": 10,
+        "MapAreaId": 30,
         "index": 5
     },
     {
-        "AFDBBNDNAPA": 11,
-        "BAFMFCJCCEH": 30,
+        "LevelTagId": 11,
+        "MapAreaId": 30,
         "index": 6
     },
     {
-        "AFDBBNDNAPA": 12,
-        "BAFMFCJCCEH": 30,
+        "LevelTagId": 12,
+        "MapAreaId": 30,
         "index": 7
     },
     {
-        "AFDBBNDNAPA": 13,
-        "BAFMFCJCCEH": 30,
+        "LevelTagId": 13,
+        "MapAreaId": 30,
         "index": 8
     },
     {
-        "AFDBBNDNAPA": 14,
-        "BAFMFCJCCEH": 30,
+        "LevelTagId": 14,
+        "MapAreaId": 30,
         "index": 9
     },
     {
-        "AFDBBNDNAPA": 15,
-        "BAFMFCJCCEH": 32
+        "LevelTagId": 15,
+        "MapAreaId": 32
     },
     {
-        "AFDBBNDNAPA": 16,
-        "BAFMFCJCCEH": 32,
+        "LevelTagId": 16,
+        "MapAreaId": 32,
         "index": 1
     },
     {
-        "AFDBBNDNAPA": 17,
-        "BAFMFCJCCEH": 32,
+        "LevelTagId": 17,
+        "MapAreaId": 32,
         "index": 2
     },
     {
-        "AFDBBNDNAPA": 18,
-        "BAFMFCJCCEH": 31
+        "LevelTagId": 18,
+        "MapAreaId": 31
     },
     {
-        "AFDBBNDNAPA": 19,
-        "BAFMFCJCCEH": 31,
+        "LevelTagId": 19,
+        "MapAreaId": 31,
         "index": 1
     },
     {
-        "AFDBBNDNAPA": 20,
-        "BAFMFCJCCEH": 31,
+        "LevelTagId": 20,
+        "MapAreaId": 31,
         "index": 2
     },
     {
-        "AFDBBNDNAPA": 21,
-        "BAFMFCJCCEH": 33
+        "LevelTagId": 21,
+        "MapAreaId": 33
     },
     {
-        "AFDBBNDNAPA": 22,
-        "BAFMFCJCCEH": 33,
+        "LevelTagId": 22,
+        "MapAreaId": 33,
         "index": 1
     },
     {
-        "AFDBBNDNAPA": 33,
-        "BAFMFCJCCEH": 31,
+        "LevelTagId": 33,
+        "MapAreaId": 31,
         "index": 3
     },
     {
-        "AFDBBNDNAPA": 62,
-        "BAFMFCJCCEH": 36
+        "LevelTagId": 62,
+        "MapAreaId": 36
     },
     {
-        "AFDBBNDNAPA": 63,
-        "BAFMFCJCCEH": 37
+        "LevelTagId": 63,
+        "MapAreaId": 37
     },
     {
-        "AFDBBNDNAPA": 64,
-        "BAFMFCJCCEH": 38
+        "LevelTagId": 64,
+        "MapAreaId": 38
     },
     {
-        "AFDBBNDNAPA": 69,
-        "BAFMFCJCCEH": 39
+        "LevelTagId": 69,
+        "MapAreaId": 39
     }
 ]

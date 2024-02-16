@@ -1,51 +1,51 @@
 [
     {
         "ID": 1,
-        "KNNOHFPCKPC": [
+        "levelTagGroupList": [
             {
-                "FDGGLFOGLHO": [
+                "levelTagIdList": [
                     1,
                     2
                 ]
             },
             {
-                "FDGGLFOGLHO": []
+                "levelTagIdList": []
             },
             {
-                "FDGGLFOGLHO": []
+                "levelTagIdList": []
             }
         ],
-        "MNEBOFKBMCJ": [
+        "initialLevelTagIdList": [
             1
         ],
-        "INCAMOJDMID": 5
+        "changeCd": 5
     },
     {
         "ID": 2,
-        "KNNOHFPCKPC": [
+        "levelTagGroupList": [
             {
-                "FDGGLFOGLHO": [
+                "levelTagIdList": [
                     3,
                     4
                 ]
             },
             {
-                "FDGGLFOGLHO": []
+                "levelTagIdList": []
             },
             {
-                "FDGGLFOGLHO": []
+                "levelTagIdList": []
             }
         ],
-        "MNEBOFKBMCJ": [
+        "initialLevelTagIdList": [
             4
         ],
-        "INCAMOJDMID": 5
+        "changeCd": 5
     },
     {
         "ID": 3,
-        "KNNOHFPCKPC": [
+        "levelTagGroupList": [
             {
-                "FDGGLFOGLHO": [
+                "levelTagIdList": [
                     5,
                     6,
                     7,
@@ -59,44 +59,44 @@
                 ]
             },
             {
-                "FDGGLFOGLHO": []
+                "levelTagIdList": []
             },
             {
-                "FDGGLFOGLHO": []
+                "levelTagIdList": []
             }
         ],
-        "MNEBOFKBMCJ": [
+        "initialLevelTagIdList": [
             14
         ],
-        "INCAMOJDMID": 5
+        "changeCd": 5
     },
     {
         "ID": 4,
-        "KNNOHFPCKPC": [
+        "levelTagGroupList": [
             {
-                "FDGGLFOGLHO": [
+                "levelTagIdList": [
                     15,
                     16,
                     17
                 ]
             },
             {
-                "FDGGLFOGLHO": []
+                "levelTagIdList": []
             },
             {
-                "FDGGLFOGLHO": []
+                "levelTagIdList": []
             }
         ],
-        "MNEBOFKBMCJ": [
+        "initialLevelTagIdList": [
             15
         ],
-        "INCAMOJDMID": 5
+        "changeCd": 5
     },
     {
         "ID": 5,
-        "KNNOHFPCKPC": [
+        "levelTagGroupList": [
             {
-                "FDGGLFOGLHO": [
+                "levelTagIdList": [
                     18,
                     19,
                     20,
@@ -104,43 +104,43 @@
                 ]
             },
             {
-                "FDGGLFOGLHO": []
+                "levelTagIdList": []
             },
             {
-                "FDGGLFOGLHO": []
+                "levelTagIdList": []
             }
         ],
-        "MNEBOFKBMCJ": [
+        "initialLevelTagIdList": [
             18
         ],
-        "INCAMOJDMID": 5
+        "changeCd": 5
     },
     {
         "ID": 6,
-        "KNNOHFPCKPC": [
+        "levelTagGroupList": [
             {
-                "FDGGLFOGLHO": [
+                "levelTagIdList": [
                     21,
                     22
                 ]
             },
             {
-                "FDGGLFOGLHO": []
+                "levelTagIdList": []
             },
             {
-                "FDGGLFOGLHO": []
+                "levelTagIdList": []
             }
         ],
-        "MNEBOFKBMCJ": [
+        "initialLevelTagIdList": [
             21
         ],
-        "INCAMOJDMID": 5
+        "changeCd": 5
     },
     {
         "ID": 7,
-        "KNNOHFPCKPC": [
+        "levelTagGroupList": [
             {
-                "FDGGLFOGLHO": [
+                "levelTagIdList": [
                     23,
                     24,
                     25,
@@ -151,22 +151,22 @@
                 ]
             },
             {
-                "FDGGLFOGLHO": []
+                "levelTagIdList": []
             },
             {
-                "FDGGLFOGLHO": []
+                "levelTagIdList": []
             }
         ],
-        "MNEBOFKBMCJ": [
+        "initialLevelTagIdList": [
             23
         ],
-        "INCAMOJDMID": 5
+        "changeCd": 5
     },
     {
         "ID": 8,
-        "KNNOHFPCKPC": [
+        "levelTagGroupList": [
             {
-                "FDGGLFOGLHO": [
+                "levelTagIdList": [
                     100000,
                     100001,
                     100002,
@@ -234,22 +234,22 @@
                 ]
             },
             {
-                "FDGGLFOGLHO": []
+                "levelTagIdList": []
             },
             {
-                "FDGGLFOGLHO": []
+                "levelTagIdList": []
             }
         ],
-        "MNEBOFKBMCJ": [
+        "initialLevelTagIdList": [
             100000
         ],
-        "INCAMOJDMID": 5
+        "changeCd": 5
     },
     {
         "ID": 9,
-        "KNNOHFPCKPC": [
+        "levelTagGroupList": [
             {
-                "FDGGLFOGLHO": [
+                "levelTagIdList": [
                     200000,
                     200001,
                     200002,
@@ -317,22 +317,22 @@
                 ]
             },
             {
-                "FDGGLFOGLHO": []
+                "levelTagIdList": []
             },
             {
-                "FDGGLFOGLHO": []
+                "levelTagIdList": []
             }
         ],
-        "MNEBOFKBMCJ": [
+        "initialLevelTagIdList": [
             200000
         ],
-        "INCAMOJDMID": 5
+        "changeCd": 5
     },
     {
         "ID": 10,
-        "KNNOHFPCKPC": [
+        "levelTagGroupList": [
             {
-                "FDGGLFOGLHO": [
+                "levelTagIdList": [
                     30,
                     31,
                     32,
@@ -340,22 +340,22 @@
                 ]
             },
             {
-                "FDGGLFOGLHO": []
+                "levelTagIdList": []
             },
             {
-                "FDGGLFOGLHO": []
+                "levelTagIdList": []
             }
         ],
-        "MNEBOFKBMCJ": [
+        "initialLevelTagIdList": [
             30
         ],
-        "INCAMOJDMID": 5
+        "changeCd": 5
     },
     {
         "ID": 11,
-        "KNNOHFPCKPC": [
+        "levelTagGroupList": [
             {
-                "FDGGLFOGLHO": [
+                "levelTagIdList": [
                     34,
                     35,
                     36,
@@ -363,43 +363,43 @@
                 ]
             },
             {
-                "FDGGLFOGLHO": []
+                "levelTagIdList": []
             },
             {
-                "FDGGLFOGLHO": []
+                "levelTagIdList": []
             }
         ],
-        "MNEBOFKBMCJ": [
+        "initialLevelTagIdList": [
             34
         ],
-        "INCAMOJDMID": 5
+        "changeCd": 5
     },
     {
         "ID": 12,
-        "KNNOHFPCKPC": [
+        "levelTagGroupList": [
             {
-                "FDGGLFOGLHO": [
+                "levelTagIdList": [
                     38,
                     39
                 ]
             },
             {
-                "FDGGLFOGLHO": []
+                "levelTagIdList": []
             },
             {
-                "FDGGLFOGLHO": []
+                "levelTagIdList": []
             }
         ],
-        "MNEBOFKBMCJ": [
+        "initialLevelTagIdList": [
             38
         ],
-        "INCAMOJDMID": 5
+        "changeCd": 5
     },
     {
         "ID": 13,
-        "KNNOHFPCKPC": [
+        "levelTagGroupList": [
             {
-                "FDGGLFOGLHO": [
+                "levelTagIdList": [
                     204000,
                     204001,
                     204002,
@@ -411,22 +411,22 @@
                 ]
             },
             {
-                "FDGGLFOGLHO": []
+                "levelTagIdList": []
             },
             {
-                "FDGGLFOGLHO": []
+                "levelTagIdList": []
             }
         ],
-        "MNEBOFKBMCJ": [
+        "initialLevelTagIdList": [
             204000
         ],
-        "INCAMOJDMID": 3
+        "changeCd": 3
     },
     {
         "ID": 14,
-        "KNNOHFPCKPC": [
+        "levelTagGroupList": [
             {
-                "FDGGLFOGLHO": [
+                "levelTagIdList": [
                     204100,
                     204101,
                     204102,
@@ -438,22 +438,22 @@
                 ]
             },
             {
-                "FDGGLFOGLHO": []
+                "levelTagIdList": []
             },
             {
-                "FDGGLFOGLHO": []
+                "levelTagIdList": []
             }
         ],
-        "MNEBOFKBMCJ": [
+        "initialLevelTagIdList": [
             204100
         ],
-        "INCAMOJDMID": 3
+        "changeCd": 3
     },
     {
         "ID": 15,
-        "KNNOHFPCKPC": [
+        "levelTagGroupList": [
             {
-                "FDGGLFOGLHO": [
+                "levelTagIdList": [
                     204200,
                     204201,
                     204202,
@@ -465,22 +465,22 @@
                 ]
             },
             {
-                "FDGGLFOGLHO": []
+                "levelTagIdList": []
             },
             {
-                "FDGGLFOGLHO": []
+                "levelTagIdList": []
             }
         ],
-        "MNEBOFKBMCJ": [
+        "initialLevelTagIdList": [
             204200
         ],
-        "INCAMOJDMID": 3
+        "changeCd": 3
     },
     {
         "ID": 16,
-        "KNNOHFPCKPC": [
+        "levelTagGroupList": [
             {
-                "FDGGLFOGLHO": [
+                "levelTagIdList": [
                     204300,
                     204301,
                     204302,
@@ -492,43 +492,43 @@
                 ]
             },
             {
-                "FDGGLFOGLHO": []
+                "levelTagIdList": []
             },
             {
-                "FDGGLFOGLHO": []
+                "levelTagIdList": []
             }
         ],
-        "MNEBOFKBMCJ": [
+        "initialLevelTagIdList": [
             204300
         ],
-        "INCAMOJDMID": 3
+        "changeCd": 3
     },
     {
         "ID": 17,
-        "KNNOHFPCKPC": [
+        "levelTagGroupList": [
             {
-                "FDGGLFOGLHO": [
+                "levelTagIdList": [
                     41,
                     47
                 ]
             },
             {
-                "FDGGLFOGLHO": []
+                "levelTagIdList": []
             },
             {
-                "FDGGLFOGLHO": []
+                "levelTagIdList": []
             }
         ],
-        "MNEBOFKBMCJ": [
+        "initialLevelTagIdList": [
             47
         ],
-        "INCAMOJDMID": 3
+        "changeCd": 3
     },
     {
         "ID": 18,
-        "KNNOHFPCKPC": [
+        "levelTagGroupList": [
             {
-                "FDGGLFOGLHO": [
+                "levelTagIdList": [
                     42,
                     43,
                     44,
@@ -537,205 +537,205 @@
                 ]
             },
             {
-                "FDGGLFOGLHO": []
+                "levelTagIdList": []
             },
             {
-                "FDGGLFOGLHO": []
+                "levelTagIdList": []
             }
         ],
-        "MNEBOFKBMCJ": [
+        "initialLevelTagIdList": [
             42
         ],
-        "INCAMOJDMID": 3
+        "changeCd": 3
     },
     {
         "ID": 19,
-        "KNNOHFPCKPC": [
+        "levelTagGroupList": [
             {
-                "FDGGLFOGLHO": [
+                "levelTagIdList": [
                     55,
                     56
                 ]
             },
             {
-                "FDGGLFOGLHO": []
+                "levelTagIdList": []
             },
             {
-                "FDGGLFOGLHO": []
+                "levelTagIdList": []
             }
         ],
-        "MNEBOFKBMCJ": [
+        "initialLevelTagIdList": [
             56
         ],
-        "INCAMOJDMID": 5
+        "changeCd": 5
     },
     {
         "ID": 20,
-        "KNNOHFPCKPC": [
+        "levelTagGroupList": [
             {
-                "FDGGLFOGLHO": [
+                "levelTagIdList": [
                     57,
                     58
                 ]
             },
             {
-                "FDGGLFOGLHO": []
+                "levelTagIdList": []
             },
             {
-                "FDGGLFOGLHO": []
+                "levelTagIdList": []
             }
         ],
-        "MNEBOFKBMCJ": [
+        "initialLevelTagIdList": [
             57
         ],
-        "INCAMOJDMID": 5
+        "changeCd": 5
     },
     {
         "ID": 22,
-        "KNNOHFPCKPC": [
+        "levelTagGroupList": [
             {
-                "FDGGLFOGLHO": [
+                "levelTagIdList": [
                     62,
                     65
                 ]
             },
             {
-                "FDGGLFOGLHO": []
+                "levelTagIdList": []
             },
             {
-                "FDGGLFOGLHO": []
+                "levelTagIdList": []
             }
         ],
-        "MNEBOFKBMCJ": [
+        "initialLevelTagIdList": [
             65
         ],
-        "INCAMOJDMID": 5
+        "changeCd": 5
     },
     {
         "ID": 23,
-        "KNNOHFPCKPC": [
+        "levelTagGroupList": [
             {
-                "FDGGLFOGLHO": [
+                "levelTagIdList": [
                     63,
                     66
                 ]
             },
             {
-                "FDGGLFOGLHO": []
+                "levelTagIdList": []
             },
             {
-                "FDGGLFOGLHO": []
+                "levelTagIdList": []
             }
         ],
-        "MNEBOFKBMCJ": [
+        "initialLevelTagIdList": [
             66
         ],
-        "INCAMOJDMID": 5
+        "changeCd": 5
     },
     {
         "ID": 24,
-        "KNNOHFPCKPC": [
+        "levelTagGroupList": [
             {
-                "FDGGLFOGLHO": [
+                "levelTagIdList": [
                     64,
                     67
                 ]
             },
             {
-                "FDGGLFOGLHO": []
+                "levelTagIdList": []
             },
             {
-                "FDGGLFOGLHO": []
+                "levelTagIdList": []
             }
         ],
-        "MNEBOFKBMCJ": [
+        "initialLevelTagIdList": [
             67
         ],
-        "INCAMOJDMID": 5
+        "changeCd": 5
     },
     {
         "ID": 25,
-        "KNNOHFPCKPC": [
+        "levelTagGroupList": [
             {
-                "FDGGLFOGLHO": [
+                "levelTagIdList": [
                     68,
                     69
                 ]
             },
             {
-                "FDGGLFOGLHO": []
+                "levelTagIdList": []
             },
             {
-                "FDGGLFOGLHO": []
+                "levelTagIdList": []
             }
         ],
-        "MNEBOFKBMCJ": [
+        "initialLevelTagIdList": [
             68
         ],
-        "INCAMOJDMID": 5
+        "changeCd": 5
     },
     {
         "ID": 26,
-        "KNNOHFPCKPC": [
+        "levelTagGroupList": [
             {
-                "FDGGLFOGLHO": [
+                "levelTagIdList": [
                     48,
                     49
                 ]
             },
             {
-                "FDGGLFOGLHO": []
+                "levelTagIdList": []
             },
             {
-                "FDGGLFOGLHO": []
+                "levelTagIdList": []
             }
         ],
-        "MNEBOFKBMCJ": [
+        "initialLevelTagIdList": [
             48
         ],
-        "INCAMOJDMID": 3
+        "changeCd": 3
     },
     {
         "ID": 27,
-        "KNNOHFPCKPC": [
+        "levelTagGroupList": [
             {
-                "FDGGLFOGLHO": [
+                "levelTagIdList": [
                     50,
                     51
                 ]
             },
             {
-                "FDGGLFOGLHO": []
+                "levelTagIdList": []
             },
             {
-                "FDGGLFOGLHO": []
+                "levelTagIdList": []
             }
         ],
-        "MNEBOFKBMCJ": [
+        "initialLevelTagIdList": [
             50
         ],
-        "INCAMOJDMID": 3
+        "changeCd": 3
     },
     {
         "ID": 28,
-        "KNNOHFPCKPC": [
+        "levelTagGroupList": [
             {
-                "FDGGLFOGLHO": [
+                "levelTagIdList": [
                     52,
                     53,
                     54
                 ]
             },
             {
-                "FDGGLFOGLHO": []
+                "levelTagIdList": []
             },
             {
-                "FDGGLFOGLHO": []
+                "levelTagIdList": []
             }
         ],
-        "MNEBOFKBMCJ": [
+        "initialLevelTagIdList": [
             52
         ],
-        "INCAMOJDMID": 3
+        "changeCd": 3
     }
 ]
