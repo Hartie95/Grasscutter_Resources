@@ -1577,12 +1577,12 @@
                                     "equip01"
                                 ]
                             },
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "effectPattern": "Eff_Monster_Weapon_Disappear"
                         },
                         {
                             "$type": "TriggerHideWeapon",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "partNames": [
                                 "equip01"
                             ]
@@ -1595,7 +1595,7 @@
                                     "equip01"
                                 ]
                             },
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "hitBoxNames": [
                                 "HitBox"
                             ]
@@ -1657,12 +1657,12 @@
                                     "equip02"
                                 ]
                             },
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "effectPattern": "Eff_Monster_Weapon_Disappear"
                         },
                         {
                             "$type": "TriggerHideWeapon",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "partNames": [
                                 "equip02"
                             ]
@@ -1675,7 +1675,7 @@
                                     "equip02"
                                 ]
                             },
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "hitBoxNames": [
                                 "HitBox"
                             ]
@@ -1737,12 +1737,12 @@
                                     "equip01"
                                 ]
                             },
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "effectPattern": "Eff_Monster_Weapon_Disappear"
                         },
                         {
                             "$type": "TriggerHideWeapon",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "partNames": [
                                 "equip01"
                             ]
@@ -1755,7 +1755,7 @@
                                     "equip01"
                                 ]
                             },
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "hitBoxNames": [
                                 "HitBox"
                             ]

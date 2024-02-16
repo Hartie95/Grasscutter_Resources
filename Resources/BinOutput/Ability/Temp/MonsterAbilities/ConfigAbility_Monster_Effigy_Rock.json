@@ -179,7 +179,7 @@
                                 "$type": "SelectTargetsByChildren",
                                 "configID": 42004201
                             },
-                            "CFIPAGENGPE": true
+                            "canBeHandledOnRecover": true
                         },
                         {
                             "$type": "AddGlobalValue",
@@ -250,7 +250,7 @@
                                 "$type": "SelectTargetsByChildren",
                                 "configID": 42004201
                             },
-                            "CFIPAGENGPE": true
+                            "canBeHandledOnRecover": true
                         },
                         {
                             "$type": "AddGlobalValue",
@@ -1706,7 +1706,7 @@
                                 "$type": "SelectTargetsByChildren",
                                 "configID": 42004212
                             },
-                            "CFIPAGENGPE": true
+                            "canBeHandledOnRecover": true
                         }
                     ],
                     "onReconnect": [

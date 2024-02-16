@@ -1433,7 +1433,7 @@
                         },
                         {
                             "$type": "EnableRocketJump",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "type": "DungeonJump",
                             "enable": true,
                             "MJIDJNMCKCP": {

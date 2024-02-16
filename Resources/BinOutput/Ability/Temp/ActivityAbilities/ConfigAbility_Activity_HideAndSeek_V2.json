@@ -93,7 +93,7 @@
                         {
                             "$type": "ChangePlayMode",
                             "doOffStage": true,
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "POKMJEIDNJF": true,
                             "KDNEFEJINAA": "HideAndSeek"
                         }
@@ -1277,7 +1277,7 @@
                         {
                             "$type": "ChangePlayMode",
                             "doOffStage": true,
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "POKMJEIDNJF": true,
                             "KDNEFEJINAA": "HideAndSeek"
                         }
@@ -1611,7 +1611,7 @@
                     "onAdded": [
                         {
                             "$type": "CreateGadget",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "onGround": true
@@ -1642,7 +1642,7 @@
                     "onAdded": [
                         {
                             "$type": "CreateGadget",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "onGround": true
@@ -1673,7 +1673,7 @@
                     "onAdded": [
                         {
                             "$type": "CreateGadget",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "onGround": true
@@ -1704,7 +1704,7 @@
                     "onAdded": [
                         {
                             "$type": "CreateGadget",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "onGround": true
@@ -1740,7 +1740,7 @@
                     "onAdded": [
                         {
                             "$type": "CreateGadget",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "onGround": true
@@ -1771,7 +1771,7 @@
                     "onAdded": [
                         {
                             "$type": "CreateGadget",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "onGround": true
@@ -1802,7 +1802,7 @@
                     "onAdded": [
                         {
                             "$type": "CreateGadget",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "onGround": true
@@ -1833,7 +1833,7 @@
                     "onAdded": [
                         {
                             "$type": "CreateGadget",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "onGround": true
@@ -1864,7 +1864,7 @@
                     "onAdded": [
                         {
                             "$type": "CreateGadget",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "onGround": true
@@ -1895,7 +1895,7 @@
                     "onAdded": [
                         {
                             "$type": "CreateGadget",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "onGround": true
@@ -1926,7 +1926,7 @@
                     "onAdded": [
                         {
                             "$type": "CreateGadget",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "onGround": true
@@ -1957,7 +1957,7 @@
                     "onAdded": [
                         {
                             "$type": "CreateGadget",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "onGround": true
@@ -1988,7 +1988,7 @@
                     "onAdded": [
                         {
                             "$type": "CreateGadget",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "onGround": true
@@ -2019,7 +2019,7 @@
                     "onAdded": [
                         {
                             "$type": "CreateGadget",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "onGround": true
@@ -2055,7 +2055,7 @@
                     "onAdded": [
                         {
                             "$type": "CreateGadget",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "onGround": true
@@ -2086,7 +2086,7 @@
                     "onAdded": [
                         {
                             "$type": "CreateGadget",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "onGround": true
@@ -2117,7 +2117,7 @@
                     "onAdded": [
                         {
                             "$type": "CreateGadget",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "onGround": true
@@ -2148,7 +2148,7 @@
                     "onAdded": [
                         {
                             "$type": "CreateGadget",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "onGround": true
@@ -2179,7 +2179,7 @@
                     "onAdded": [
                         {
                             "$type": "CreateGadget",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "onGround": true
@@ -2210,7 +2210,7 @@
                     "onAdded": [
                         {
                             "$type": "CreateGadget",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "onGround": true
@@ -2241,7 +2241,7 @@
                     "onAdded": [
                         {
                             "$type": "CreateGadget",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "onGround": true
@@ -2272,7 +2272,7 @@
                     "onAdded": [
                         {
                             "$type": "CreateGadget",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "onGround": true
@@ -2303,7 +2303,7 @@
                     "onAdded": [
                         {
                             "$type": "CreateGadget",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "born": {
                                 "$type": "ConfigBornBySelf",
                                 "onGround": true
@@ -3257,7 +3257,7 @@
                         {
                             "$type": "ChangePlayMode",
                             "doOffStage": true,
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "POKMJEIDNJF": true,
                             "KDNEFEJINAA": "HideAndSeek_Ghost"
                         }
@@ -3383,7 +3383,7 @@
                         {
                             "$type": "TriggerSetPassThrough",
                             "doOffStage": true,
-                            "CFIPAGENGPE": true
+                            "canBeHandledOnRecover": true
                         }
                     ]
                 }

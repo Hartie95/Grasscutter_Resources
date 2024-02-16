@@ -269,7 +269,7 @@
                         },
                         {
                             "$type": "SetAnimatorTrigger",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "predicates": [
                                 {
                                     "$type": "ByTargetGlobalValue",
@@ -1144,7 +1144,7 @@
                     "onAdded": [
                         {
                             "$type": "ShowUICombatBar",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "JFJHBPNMMHH": true,
                             "FAPKJBBCHKA": true
                         }
@@ -2701,7 +2701,7 @@
                         },
                         {
                             "$type": "SetEntityScale",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "scale": 1.399999976158142
                         },
                         {
@@ -4459,7 +4459,7 @@
                         },
                         {
                             "$type": "SendEffectTrigger",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "predicates": [
                                 {
                                     "$type": "ByTargetGlobalValue",

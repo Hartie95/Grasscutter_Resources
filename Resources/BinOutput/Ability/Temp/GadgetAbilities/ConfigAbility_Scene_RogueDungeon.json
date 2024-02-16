@@ -4101,7 +4101,7 @@
                     "onAdded": [
                         {
                             "$type": "EnableRocketJump",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "type": "DungeonJump",
                             "enable": true,
                             "MJIDJNMCKCP": {
@@ -4114,7 +4114,7 @@
                         {
                             "$type": "EnableRocketJump",
                             "doOffStage": true,
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "type": "DungeonJump"
                         }
                     ]
@@ -4689,7 +4689,7 @@
                         },
                         {
                             "$type": "ChangeGadgetUIInteractHint",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "ECDFFNCEAOF": "UI_RogueLike_Dungeon_BattleRoom"
                         }
                     ]
@@ -4734,7 +4734,7 @@
                         },
                         {
                             "$type": "ChangeGadgetUIInteractHint",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "ECDFFNCEAOF": "UI_RogueLike_Dungeon_Card"
                         },
                         {
@@ -4786,7 +4786,7 @@
                         },
                         {
                             "$type": "ChangeGadgetUIInteractHint",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "ECDFFNCEAOF": "UI_RogueLike_Dungeon_HardBattleRoom"
                         }
                     ]
@@ -4831,7 +4831,7 @@
                         },
                         {
                             "$type": "ChangeGadgetUIInteractHint",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "ECDFFNCEAOF": "UI_RogueLike_Dungeon_Card"
                         },
                         {

@@ -57,11 +57,11 @@
                             "onAdded": [
                                 {
                                     "$type": "TriggerSetVisible",
-                                    "CFIPAGENGPE": true
+                                    "canBeHandledOnRecover": true
                                 },
                                 {
                                     "$type": "HideUIBillBoard",
-                                    "CFIPAGENGPE": true,
+                                    "canBeHandledOnRecover": true,
                                     "hide": true
                                 }
                             ],
@@ -249,11 +249,11 @@
                             "onAdded": [
                                 {
                                     "$type": "TriggerSetVisible",
-                                    "CFIPAGENGPE": true
+                                    "canBeHandledOnRecover": true
                                 },
                                 {
                                     "$type": "HideUIBillBoard",
-                                    "CFIPAGENGPE": true,
+                                    "canBeHandledOnRecover": true,
                                     "hide": true
                                 }
                             ],
@@ -6854,7 +6854,7 @@
                     "onAdded": [
                         {
                             "$type": "SetSurroundAnchor",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "FJHFIALOBFM": "DrakeDeepSeaSwimPoint",
                             "FEFAIFDFKME": 500500001
                         }
@@ -7013,7 +7013,7 @@
                     "onAdded": [
                         {
                             "$type": "SetSurroundAnchor",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "FJHFIALOBFM": "DrakeDeepSeaSwimPoint",
                             "FEFAIFDFKME": 500500001
                         }

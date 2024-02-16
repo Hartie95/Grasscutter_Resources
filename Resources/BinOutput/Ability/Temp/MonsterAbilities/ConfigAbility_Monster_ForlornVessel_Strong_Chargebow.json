@@ -151,7 +151,7 @@
                                     "equip02"
                                 ]
                             },
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "parameter": "ShieldDie",
                             "weight": 1,
                             "effectPattern": "Eff_Monster_ForlornVessel_Strong_Chargebow_Shield"
@@ -363,7 +363,7 @@
                     "onAdded": [
                         {
                             "$type": "SendEffectTrigger",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "parameter": "ShieldTag",
                             "type": "Bool",
                             "effectPattern": "Eff_Monster_ForlornVessel_Strong_Chargebow_Shield"
@@ -372,7 +372,7 @@
                     "HNOLIHHLCOO": [
                         {
                             "$type": "SendEffectTrigger",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "parameter": "ShieldTag",
                             "type": "Bool",
                             "effectPattern": "Eff_Monster_ForlornVessel_Strong_Chargebow_Shield"
@@ -385,7 +385,7 @@
                     "onAdded": [
                         {
                             "$type": "SendEffectTrigger",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "parameter": "ShieldTag",
                             "type": "Bool",
                             "weight": 1,
@@ -395,7 +395,7 @@
                     "HNOLIHHLCOO": [
                         {
                             "$type": "SendEffectTrigger",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "parameter": "ShieldTag",
                             "type": "Bool",
                             "weight": 1,
@@ -1259,7 +1259,7 @@
                     "onAdded": [
                         {
                             "$type": "SendEffectTrigger",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "parameter": "ShieldFreeze",
                             "type": "Bool",
                             "weight": 1,
@@ -1269,7 +1269,7 @@
                     "onRemoved": [
                         {
                             "$type": "SendEffectTrigger",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "parameter": "ShieldFreeze",
                             "type": "Bool",
                             "effectPattern": "Eff_Monster_ForlornVessel_Strong_Chargebow_Shield"
@@ -1283,7 +1283,7 @@
                     "onAdded": [
                         {
                             "$type": "SendEffectTrigger",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "parameter": "ShieldPetrifaction",
                             "type": "Bool",
                             "weight": 1,
@@ -1293,7 +1293,7 @@
                     "onRemoved": [
                         {
                             "$type": "SendEffectTrigger",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "parameter": "ShieldPetrifaction",
                             "type": "Bool",
                             "effectPattern": "Eff_Monster_ForlornVessel_Strong_Chargebow_Shield"

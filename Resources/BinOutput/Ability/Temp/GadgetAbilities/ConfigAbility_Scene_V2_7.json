@@ -531,7 +531,7 @@
                     "onAdded": [
                         {
                             "$type": "EnableSceneTransformByName",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "transformNames": [
                                 "col"
                             ]
@@ -544,7 +544,7 @@
                     "onAdded": [
                         {
                             "$type": "SetMaterialParamFloatByTransform",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "JEODFLCKCJO": "mat",
                             "OBDOJDJDNHC": "_DissolveValue",
                             "value": 1.0,
@@ -731,7 +731,7 @@
                     "onAdded": [
                         {
                             "$type": "SetMaterialParamFloatByTransform",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "JEODFLCKCJO": "matName",
                             "OBDOJDJDNHC": "_EmissionIntensity",
                             "value": 1.0
@@ -749,7 +749,7 @@
                         },
                         {
                             "$type": "SetMaterialParamFloatByTransform",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "JEODFLCKCJO": "matName",
                             "OBDOJDJDNHC": "_EmissionIntensity",
                             "value": 8.0
@@ -842,7 +842,7 @@
                     "onAdded": [
                         {
                             "$type": "SetMaterialParamFloatByTransform",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "JEODFLCKCJO": "matName",
                             "OBDOJDJDNHC": "_EmissionIntensity",
                             "value": 8.0
@@ -1137,12 +1137,12 @@
                         },
                         {
                             "$type": "ApplyModifier",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "modifierName": "Active_Handler"
                         },
                         {
                             "$type": "EnableGadgetIntee",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "enable": true
                         }
                     ]
@@ -1161,7 +1161,7 @@
                         },
                         {
                             "$type": "SetGlobalValue",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "value": 1.0,
                             "key": "Light_On",
                             "maxValue": 0.0,
@@ -1571,7 +1571,7 @@
                         },
                         {
                             "$type": "SetMaterialParamFloatByTransform",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "JEODFLCKCJO": "matName",
                             "OBDOJDJDNHC": "_EmissionIntensity",
                             "value": 8.0
@@ -1697,7 +1697,7 @@
                 },
                 {
                     "$type": "SetMaterialParamFloatByTransform",
-                    "CFIPAGENGPE": true,
+                    "canBeHandledOnRecover": true,
                     "JEODFLCKCJO": "matName",
                     "OBDOJDJDNHC": "_EmissionIntensity",
                     "value": 1.5
@@ -2080,7 +2080,7 @@
                     "onAdded": [
                         {
                             "$type": "SetMaterialParamFloatByTransform",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "JEODFLCKCJO": "mat",
                             "OBDOJDJDNHC": "_EmissionStrength",
                             "value": 0.0
@@ -2093,7 +2093,7 @@
                     "onAdded": [
                         {
                             "$type": "SetMaterialParamFloatByTransform",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "JEODFLCKCJO": "mat",
                             "OBDOJDJDNHC": "_EmissionStrength",
                             "value": 4.0,
@@ -2101,7 +2101,7 @@
                         },
                         {
                             "$type": "ApplyModifier",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "modifierName": "UNIQUE_State_Interactable"
                         },
                         {
@@ -2599,12 +2599,12 @@
                     "onAdded": [
                         {
                             "$type": "AttachEffect",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "effectPattern": "Eff_SceneObj_CYCenterPlat_01_Complete"
                         },
                         {
                             "$type": "EnableSceneTransformByName",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "transformNames": [
                                 "Col"
                             ],
@@ -2659,7 +2659,7 @@
                     "onAdded": [
                         {
                             "$type": "AttachEffect",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "effectPattern": "Eff_SceneObj_CYCenterPlat_01_Active",
                             "born": {
                                 "$type": "ConfigBornByAttachPoint",
@@ -2670,7 +2670,7 @@
                         },
                         {
                             "$type": "SetMaterialParamFloatByTransform",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "JEODFLCKCJO": "201",
                             "OBDOJDJDNHC": "_EmissionIntensity",
                             "value": 6.0
@@ -2691,7 +2691,7 @@
                     "onAdded": [
                         {
                             "$type": "AttachEffect",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "effectPattern": "Eff_SceneObj_CYCenterPlat_01_Active_02",
                             "born": {
                                 "$type": "ConfigBornByAttachPoint",
@@ -2702,7 +2702,7 @@
                         },
                         {
                             "$type": "SetMaterialParamFloatByTransform",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "JEODFLCKCJO": "202",
                             "OBDOJDJDNHC": "_EmissionIntensity",
                             "value": 6.0
@@ -2723,7 +2723,7 @@
                     "onAdded": [
                         {
                             "$type": "AttachEffect",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "effectPattern": "Eff_SceneObj_CYCenterPlat_01_Active_03",
                             "born": {
                                 "$type": "ConfigBornByAttachPoint",
@@ -2734,7 +2734,7 @@
                         },
                         {
                             "$type": "SetMaterialParamFloatByTransform",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "JEODFLCKCJO": "203",
                             "OBDOJDJDNHC": "_EmissionIntensity",
                             "value": 6.0
@@ -2755,7 +2755,7 @@
                     "onAdded": [
                         {
                             "$type": "AttachEffect",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "effectPattern": "Eff_SceneObj_CYCenterPlat_01_Active_04",
                             "born": {
                                 "$type": "ConfigBornByAttachPoint",
@@ -2766,7 +2766,7 @@
                         },
                         {
                             "$type": "SetMaterialParamFloatByTransform",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "JEODFLCKCJO": "204",
                             "OBDOJDJDNHC": "_EmissionIntensity",
                             "value": 6.0
@@ -2784,28 +2784,28 @@
             "onAdded": [
                 {
                     "$type": "SetMaterialParamFloatByTransform",
-                    "CFIPAGENGPE": true,
+                    "canBeHandledOnRecover": true,
                     "JEODFLCKCJO": "201",
                     "OBDOJDJDNHC": "_EmissionIntensity",
                     "value": 1.5
                 },
                 {
                     "$type": "SetMaterialParamFloatByTransform",
-                    "CFIPAGENGPE": true,
+                    "canBeHandledOnRecover": true,
                     "JEODFLCKCJO": "202",
                     "OBDOJDJDNHC": "_EmissionIntensity",
                     "value": 1.5
                 },
                 {
                     "$type": "SetMaterialParamFloatByTransform",
-                    "CFIPAGENGPE": true,
+                    "canBeHandledOnRecover": true,
                     "JEODFLCKCJO": "203",
                     "OBDOJDJDNHC": "_EmissionIntensity",
                     "value": 1.5
                 },
                 {
                     "$type": "SetMaterialParamFloatByTransform",
-                    "CFIPAGENGPE": true,
+                    "canBeHandledOnRecover": true,
                     "JEODFLCKCJO": "204",
                     "OBDOJDJDNHC": "_EmissionIntensity",
                     "value": 1.5
@@ -3347,7 +3347,7 @@
                     "onAdded": [
                         {
                             "$type": "AttachEffect",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "effectPattern": "Eff_SceneObj_PlatformAirwall_01"
                         }
                     ]
@@ -3358,7 +3358,7 @@
                     "onAdded": [
                         {
                             "$type": "AttachEffect",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "effectPattern": "Eff_SceneObj_PlatformAirwall_02"
                         }
                     ]
@@ -3369,7 +3369,7 @@
                     "onAdded": [
                         {
                             "$type": "AttachEffect",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "effectPattern": "Eff_SceneObj_PlatformAirwall_03"
                         }
                     ]
@@ -3380,7 +3380,7 @@
                     "onAdded": [
                         {
                             "$type": "Predicated",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "targetPredicates": [
                                 {
                                     "$type": "ByTargetGlobalValue",
@@ -3400,7 +3400,7 @@
                                 },
                                 {
                                     "$type": "AttachEffect",
-                                    "CFIPAGENGPE": true,
+                                    "canBeHandledOnRecover": true,
                                     "effectPattern": "Eff_SceneObj_PlatformAirwall_Door_01_01",
                                     "born": {
                                         "$type": "ConfigBornByAttachPoint",
@@ -3409,7 +3409,7 @@
                                 },
                                 {
                                     "$type": "EnableSceneTransformByName",
-                                    "CFIPAGENGPE": true,
+                                    "canBeHandledOnRecover": true,
                                     "transformNames": [
                                         "Door_1"
                                     ],
@@ -3425,7 +3425,7 @@
                     "onAdded": [
                         {
                             "$type": "Predicated",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "targetPredicates": [
                                 {
                                     "$type": "ByTargetGlobalValue",
@@ -3445,7 +3445,7 @@
                                 },
                                 {
                                     "$type": "AttachEffect",
-                                    "CFIPAGENGPE": true,
+                                    "canBeHandledOnRecover": true,
                                     "effectPattern": "Eff_SceneObj_PlatformAirwall_Door_01_02",
                                     "born": {
                                         "$type": "ConfigBornByAttachPoint",
@@ -3454,7 +3454,7 @@
                                 },
                                 {
                                     "$type": "EnableSceneTransformByName",
-                                    "CFIPAGENGPE": true,
+                                    "canBeHandledOnRecover": true,
                                     "transformNames": [
                                         "Door_2"
                                     ],
@@ -3470,7 +3470,7 @@
                     "onAdded": [
                         {
                             "$type": "Predicated",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "targetPredicates": [
                                 {
                                     "$type": "ByTargetGlobalValue",
@@ -3490,7 +3490,7 @@
                                 },
                                 {
                                     "$type": "AttachEffect",
-                                    "CFIPAGENGPE": true,
+                                    "canBeHandledOnRecover": true,
                                     "effectPattern": "Eff_SceneObj_PlatformAirwall_Door_01_03",
                                     "born": {
                                         "$type": "ConfigBornByAttachPoint",
@@ -3499,7 +3499,7 @@
                                 },
                                 {
                                     "$type": "EnableSceneTransformByName",
-                                    "CFIPAGENGPE": true,
+                                    "canBeHandledOnRecover": true,
                                     "transformNames": [
                                         "Door_3"
                                     ],
@@ -3515,7 +3515,7 @@
                     "onAdded": [
                         {
                             "$type": "Predicated",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "targetPredicates": [
                                 {
                                     "$type": "ByTargetGlobalValue",
@@ -3535,7 +3535,7 @@
                                 },
                                 {
                                     "$type": "EnableSceneTransformByName",
-                                    "CFIPAGENGPE": true,
+                                    "canBeHandledOnRecover": true,
                                     "transformNames": [
                                         "Door_1"
                                     ]
@@ -3550,7 +3550,7 @@
                     "onAdded": [
                         {
                             "$type": "Predicated",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "targetPredicates": [
                                 {
                                     "$type": "ByTargetGlobalValue",
@@ -3570,7 +3570,7 @@
                                 },
                                 {
                                     "$type": "EnableSceneTransformByName",
-                                    "CFIPAGENGPE": true,
+                                    "canBeHandledOnRecover": true,
                                     "transformNames": [
                                         "Door_2"
                                     ]
@@ -3585,7 +3585,7 @@
                     "onAdded": [
                         {
                             "$type": "Predicated",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "targetPredicates": [
                                 {
                                     "$type": "ByTargetGlobalValue",
@@ -3605,7 +3605,7 @@
                                 },
                                 {
                                     "$type": "EnableSceneTransformByName",
-                                    "CFIPAGENGPE": true,
+                                    "canBeHandledOnRecover": true,
                                     "transformNames": [
                                         "Door_3"
                                     ]
@@ -4015,7 +4015,7 @@
                         },
                         {
                             "$type": "ApplyModifier",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "modifierName": "CountDown_AttachLoop"
                         }
                     ]
@@ -4086,7 +4086,7 @@
                         },
                         {
                             "$type": "ApplyModifier",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "modifierName": "CountDown_AttachLoop"
                         }
                     ]
@@ -4359,7 +4359,7 @@
                         },
                         {
                             "$type": "EnableSceneTransformByName",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "transformNames": [
                                 "Col_1",
                                 "Col_2",
@@ -4378,7 +4378,7 @@
                         },
                         {
                             "$type": "EnableSceneTransformByName",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "transformNames": [
                                 "Col_1",
                                 "Col_2",
@@ -4841,7 +4841,7 @@
                     "onAdded": [
                         {
                             "$type": "AttachEffect",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "effectPattern": "Eff_SceneObj_RougeBattle_01",
                             "born": {
                                 "$type": "ConfigBornType",
@@ -4905,7 +4905,7 @@
                     "onAdded": [
                         {
                             "$type": "AttachEffect",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "effectPattern": "Eff_SceneObj_RougeShop_01",
                             "born": {
                                 "$type": "ConfigBornType",
@@ -4969,7 +4969,7 @@
                     "onAdded": [
                         {
                             "$type": "AttachEffect",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "effectPattern": "Eff_SceneObj_RougeBossBattle_01",
                             "born": {
                                 "$type": "ConfigBornType",
@@ -5033,7 +5033,7 @@
                     "onAdded": [
                         {
                             "$type": "AttachEffect",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "effectPattern": "Eff_SceneObj_RougeCure_01",
                             "born": {
                                 "$type": "ConfigBornType",
@@ -5251,7 +5251,7 @@
                     "onAdded": [
                         {
                             "$type": "SetAnimatorInt",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "intID": "State",
                             "value": 0.0
                         }
@@ -5267,7 +5267,7 @@
                         },
                         {
                             "$type": "SetAnimatorInt",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "intID": "State",
                             "value": 201.0
                         }
@@ -5283,7 +5283,7 @@
                         },
                         {
                             "$type": "SetAnimatorInt",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "intID": "State",
                             "value": 202.0
                         }
@@ -5299,7 +5299,7 @@
                         },
                         {
                             "$type": "SetAnimatorInt",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "intID": "State",
                             "value": 203.0
                         }
@@ -5315,7 +5315,7 @@
             "onAdded": [
                 {
                     "$type": "SetGlobalValue",
-                    "CFIPAGENGPE": true,
+                    "canBeHandledOnRecover": true,
                     "value": 201.0,
                     "key": "GV_Anim_Type",
                     "maxValue": 0.0,
@@ -5331,7 +5331,7 @@
             "onAdded": [
                 {
                     "$type": "SetGlobalValue",
-                    "CFIPAGENGPE": true,
+                    "canBeHandledOnRecover": true,
                     "value": 202.0,
                     "key": "GV_Anim_Type",
                     "maxValue": 0.0,
@@ -5347,7 +5347,7 @@
             "onAdded": [
                 {
                     "$type": "SetGlobalValue",
-                    "CFIPAGENGPE": true,
+                    "canBeHandledOnRecover": true,
                     "value": 203.0,
                     "key": "GV_Anim_Type",
                     "maxValue": 0.0,
@@ -5363,7 +5363,7 @@
             "onAdded": [
                 {
                     "$type": "SetGlobalValue",
-                    "CFIPAGENGPE": true,
+                    "canBeHandledOnRecover": true,
                     "value": 204.0,
                     "key": "GV_Anim_Type",
                     "maxValue": 0.0,
@@ -5403,7 +5403,7 @@
                     "onAdded": [
                         {
                             "$type": "SetAnimatorInt",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "intID": "GadgetState",
                             "value": 201.0
                         }
@@ -5422,7 +5422,7 @@
                     "onAdded": [
                         {
                             "$type": "SetAnimatorInt",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "intID": "GadgetState",
                             "value": 202.0
                         }
@@ -5441,7 +5441,7 @@
                     "onAdded": [
                         {
                             "$type": "SetAnimatorInt",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "intID": "GadgetState",
                             "value": 203.0
                         }
@@ -5460,7 +5460,7 @@
                     "onAdded": [
                         {
                             "$type": "SetAnimatorInt",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "intID": "GadgetState",
                             "value": 204.0
                         }

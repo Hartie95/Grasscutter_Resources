@@ -2042,7 +2042,7 @@
                     "onAdded": [
                         {
                             "$type": "ResetAIResistTauntLevel",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "resistTauntLevel": "Monster_TauntLevel_3"
                         }
                     ]

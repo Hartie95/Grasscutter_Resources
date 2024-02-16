@@ -6,12 +6,12 @@
             "onAdded": [
                 {
                     "$type": "ResetAIThreatBroadcastRange",
-                    "CFIPAGENGPE": true,
+                    "canBeHandledOnRecover": true,
                     "EJDGOICAAHB": 0.0
                 },
                 {
                     "$type": "ResetAIResistTauntLevel",
-                    "CFIPAGENGPE": true,
+                    "canBeHandledOnRecover": true,
                     "resistTauntLevel": "Monster_TauntLevel_6"
                 },
                 {
@@ -4303,7 +4303,7 @@
                         },
                         {
                             "$type": "ResetAIThreatBroadcastRange",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "EJDGOICAAHB": 0.0
                         }
                     ]

@@ -146,12 +146,12 @@
                         },
                         {
                             "$type": "SetPoseBool",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "boolID": "ImprovedState"
                         },
                         {
                             "$type": "AddGlobalValue",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "value": 0.0,
                             "key": "_MONSTER_SKIRMISHER_IMPROVED_",
                             "useLimitRange": true,
@@ -160,7 +160,7 @@
                         },
                         {
                             "$type": "SetAISkillGCD",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "weight": 4.0
                         },
                         {
@@ -192,7 +192,7 @@
                     "onRemoved": [
                         {
                             "$type": "SetAnimatorBool",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "boolID": "Improved"
                         }
                     ]
@@ -310,7 +310,7 @@
                     "onAdded": [
                         {
                             "$type": "SetPoseBool",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "predicates": [
                                 {
                                     "$type": "ByTargetGlobalValue",
@@ -479,7 +479,7 @@
                     "onRemoved": [
                         {
                             "$type": "SetPoseBool",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "boolID": "WeakState"
                         },
                         {
@@ -818,7 +818,7 @@
                     "onRemoved": [
                         {
                             "$type": "TriggerHideWeapon",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "visible": true,
                             "partNames": [
                                 "equip01"

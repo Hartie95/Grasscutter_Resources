@@ -113,7 +113,7 @@
                     "onAdded": [
                         {
                             "$type": "ChangePlayMode",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "KDNEFEJINAA": "DvalinS01FlyState"
                         }
                     ],
@@ -199,7 +199,7 @@
             "onAdded": [
                 {
                     "$type": "AvatarEnterCameraShot",
-                    "CFIPAGENGPE": true,
+                    "canBeHandledOnRecover": true,
                     "predicates": [
                         {
                             "$type": "ByStageIsReadyTemp"
@@ -271,7 +271,7 @@
                     "onAdded": [
                         {
                             "$type": "PushDvalinS01Process",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "EKAIBDFAODH": 1.0,
                             "ANNKJPLKOIP": 20.0,
                             "JHMOODPGJLJ": {
@@ -287,7 +287,7 @@
                     "onAdded": [
                         {
                             "$type": "PushDvalinS01Process",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "EKAIBDFAODH": 1.0,
                             "JHMOODPGJLJ": {
                                 "_z": 50.0
@@ -302,7 +302,7 @@
                     "onAdded": [
                         {
                             "$type": "PushDvalinS01Process",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "EKAIBDFAODH": 3.0,
                             "ANNKJPLKOIP": 100.0,
                             "JHMOODPGJLJ": {
@@ -318,7 +318,7 @@
                     "onAdded": [
                         {
                             "$type": "ShowUICombatBar",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "FAPKJBBCHKA": true
                         }
                     ]
@@ -345,7 +345,7 @@
                         },
                         {
                             "$type": "ShowUICombatBar",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "predicates": [
                                 {
                                     "$type": "ByStageIsReadyTemp"
@@ -374,7 +374,7 @@
                     "onAdded": [
                         {
                             "$type": "ShowUICombatBar",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "predicates": [
                                 {
                                     "$type": "ByStageIsReadyTemp"
@@ -391,13 +391,13 @@
                     "onAdded": [
                         {
                             "$type": "SetAnimatorBool",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "boolID": "isDFM",
                             "value": true
                         },
                         {
                             "$type": "SetDvalinS01FlyState",
-                            "CFIPAGENGPE": true
+                            "canBeHandledOnRecover": true
                         }
                     ]
                 },
@@ -407,13 +407,13 @@
                     "onAdded": [
                         {
                             "$type": "SetAnimatorBool",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "boolID": "isDFM",
                             "value": true
                         },
                         {
                             "$type": "SetDvalinS01FlyState",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "KGKMCCHJJCF": 1
                         }
                     ]
@@ -424,12 +424,12 @@
                     "onAdded": [
                         {
                             "$type": "SetAnimatorBool",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "boolID": "isDFM"
                         },
                         {
                             "$type": "SetDvalinS01FlyState",
-                            "CFIPAGENGPE": true
+                            "canBeHandledOnRecover": true
                         }
                     ]
                 }
@@ -971,7 +971,7 @@
                     "onAdded": [
                         {
                             "$type": "PushDvalinS01Process",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "EKAIBDFAODH": 1.0,
                             "ANNKJPLKOIP": 20.0,
                             "JHMOODPGJLJ": {
@@ -1000,7 +1000,7 @@
                     "onAdded": [
                         {
                             "$type": "PushDvalinS01Process",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "EKAIBDFAODH": 1.0,
                             "ANNKJPLKOIP": 40.0,
                             "JHMOODPGJLJ": {
@@ -1029,7 +1029,7 @@
                     "onAdded": [
                         {
                             "$type": "PushDvalinS01Process",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "EKAIBDFAODH": 1.0,
                             "ANNKJPLKOIP": 60.0,
                             "JHMOODPGJLJ": {
@@ -1058,7 +1058,7 @@
                     "onAdded": [
                         {
                             "$type": "PushDvalinS01Process",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "EKAIBDFAODH": 1.0,
                             "ANNKJPLKOIP": 80.0,
                             "JHMOODPGJLJ": {
@@ -1376,7 +1376,7 @@
                         },
                         {
                             "$type": "AvatarEnterFocus",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "predicates": [
                                 {
                                     "$type": "ByStageIsReadyTemp"

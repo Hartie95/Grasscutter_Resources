@@ -12,7 +12,7 @@
                         {
                             "$type": "ChangePlayMode",
                             "doOffStage": true,
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "POKMJEIDNJF": true,
                             "KDNEFEJINAA": "Bartender"
                         }

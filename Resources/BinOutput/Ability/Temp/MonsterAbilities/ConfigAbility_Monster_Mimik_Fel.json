@@ -434,7 +434,7 @@
                         },
                         {
                             "$type": "SetEntityScale",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "scale": 6.25
                         },
                         {
@@ -690,7 +690,7 @@
                     "onAdded": [
                         {
                             "$type": "SetEntityScale",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "scale": 2.0
                         },
                         {

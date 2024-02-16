@@ -34,7 +34,7 @@
                     "onAdded": [
                         {
                             "$type": "UseSkillEliteSet",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "skillEliteSetID": 1
                         }
                     ],

@@ -6911,7 +6911,7 @@
                         },
                         {
                             "$type": "SendEffectTrigger",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "parameter": "Activate",
                             "type": "Bool",
                             "effectPattern": "Eff_Monster_Effigy_Electric_Elite_Pile"
@@ -6995,7 +6995,7 @@
                         },
                         {
                             "$type": "SendEffectTrigger",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "parameter": "Activate",
                             "type": "Bool",
                             "weight": 1,

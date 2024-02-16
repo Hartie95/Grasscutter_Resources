@@ -68,7 +68,7 @@
                         },
                         {
                             "$type": "SetGlobalPos",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "key": "_MONSTER_Eldritch_Minor_CenterPosition",
                             "born": {
                                 "$type": "ConfigBornByActionPoint",
@@ -179,7 +179,7 @@
                         },
                         {
                             "$type": "SetGlobalPos",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "key": "_MONSTER_Eldritch_Minor_CenterPosition",
                             "born": {
                                 "$type": "ConfigBornByActionPoint",
@@ -296,7 +296,7 @@
                         },
                         {
                             "$type": "SetGlobalPos",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "key": "_MONSTER_Eldritch_Minor_CenterPosition",
                             "born": {
                                 "$type": "ConfigBornByActionPoint",
@@ -632,7 +632,7 @@
                     "onAdded": [
                         {
                             "$type": "ShowUICombatBar",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "predicates": [
                                 {
                                     "$type": "ByTargetGlobalValue",
@@ -658,7 +658,7 @@
                     "onRemoved": [
                         {
                             "$type": "ShowUICombatBar",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "predicates": [
                                 {
                                     "$type": "ByTargetGlobalValue",
@@ -1326,7 +1326,7 @@
                     "onAdded": [
                         {
                             "$type": "SetUICombatBarAsh",
-                            "CFIPAGENGPE": true
+                            "canBeHandledOnRecover": true
                         },
                         {
                             "$type": "SetGlobalValue",
@@ -1353,7 +1353,7 @@
                     "onAdded": [
                         {
                             "$type": "SetUICombatBarAsh",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "enable": true
                         },
                         {

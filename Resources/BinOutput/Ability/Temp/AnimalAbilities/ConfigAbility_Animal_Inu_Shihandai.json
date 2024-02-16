@@ -1409,7 +1409,7 @@
                     "onAdded": [
                         {
                             "$type": "ResetAIThreatBroadcastRange",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "EJDGOICAAHB": 0.0
                         }
                     ]
@@ -5127,7 +5127,7 @@
                     "onAdded": [
                         {
                             "$type": "SetEntityScale",
-                            "CFIPAGENGPE": true
+                            "canBeHandledOnRecover": true
                         }
                     ]
                 },
@@ -5137,7 +5137,7 @@
                     "onAdded": [
                         {
                             "$type": "SetEntityScale",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "scale": 2.0
                         }
                     ]

@@ -203,14 +203,14 @@
                     "onAdded": [
                         {
                             "$type": "TriggerHideWeapon",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "partNames": [
                                 "equip01"
                             ]
                         },
                         {
                             "$type": "TriggerHideWeapon",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "partNames": [
                                 "equip02"
                             ]

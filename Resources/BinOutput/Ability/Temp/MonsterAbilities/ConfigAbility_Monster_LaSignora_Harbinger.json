@@ -82,7 +82,7 @@
                         {
                             "$type": "SetSkillAnchor",
                             "doOffStage": true,
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "born": {
                                 "$type": "ConfigBornByGlobalValue",
                                 "GDENJEFPMGC": "_MONSTER_LASIGNORA_HARBINGER_CENTER_POS",

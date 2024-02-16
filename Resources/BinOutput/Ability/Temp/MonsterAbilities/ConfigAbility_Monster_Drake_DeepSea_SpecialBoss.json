@@ -1334,7 +1334,7 @@
                         },
                         {
                             "$type": "UseSkillEliteSet",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "predicates": [
                                 {
                                     "$type": "ByAny",
@@ -1357,7 +1357,7 @@
                         },
                         {
                             "$type": "UseSkillEliteSet",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "predicates": [
                                 {
                                     "$type": "ByTargetGlobalValue",

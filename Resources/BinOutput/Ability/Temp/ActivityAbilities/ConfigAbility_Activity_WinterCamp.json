@@ -96,7 +96,7 @@
                     "onAdded": [
                         {
                             "$type": "EnableRocketJump",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "type": "DungeonJump",
                             "enable": true,
                             "MJIDJNMCKCP": {
@@ -120,7 +120,7 @@
                         {
                             "$type": "EnableRocketJump",
                             "doOffStage": true,
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "type": "DungeonJump",
                             "CFCMBANBCFG": true
                         },

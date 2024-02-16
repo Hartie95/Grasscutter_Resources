@@ -897,7 +897,7 @@
                     "onRemoved": [
                         {
                             "$type": "SetAnimatorBool",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "boolID": "BombThrow",
                             "value": true
                         },
@@ -978,7 +978,7 @@
                     "onRemoved": [
                         {
                             "$type": "SetAnimatorBool",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "boolID": "BombCreate",
                             "value": true
                         }

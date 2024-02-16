@@ -1996,13 +1996,13 @@
                     "onAdded": [
                         {
                             "$type": "SetGlobalValueToOverrideMap",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "globalValueKey": "SGV_Elevator_Height",
                             "overrideMapKey": "Height"
                         },
                         {
                             "$type": "SetMaterialParamFloatByTransform",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "JEODFLCKCJO": "Height",
                             "OBDOJDJDNHC": "_OpacityMask_WS_Y",
                             "value": "Height"

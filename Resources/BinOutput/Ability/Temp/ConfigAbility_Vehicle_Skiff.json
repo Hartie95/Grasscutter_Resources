@@ -446,7 +446,7 @@
                     "onAdded": [
                         {
                             "$type": "SetAnimatorInt",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "intID": "Light",
                             "value": 1.0
                         }

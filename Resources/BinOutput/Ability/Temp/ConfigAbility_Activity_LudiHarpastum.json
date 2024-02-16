@@ -173,7 +173,7 @@
                         {
                             "$type": "ChangePlayMode",
                             "doOffStage": true,
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "POKMJEIDNJF": true,
                             "KDNEFEJINAA": "ActivityAimState"
                         },
@@ -1144,7 +1144,7 @@
                         {
                             "$type": "ChangePlayMode",
                             "doOffStage": true,
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "KDNEFEJINAA": "BounceConjuring"
                         }
                     ],
@@ -1152,7 +1152,7 @@
                         {
                             "$type": "ChangePlayMode",
                             "doOffStage": true,
-                            "CFIPAGENGPE": true
+                            "canBeHandledOnRecover": true
                         }
                     ]
                 }
@@ -2848,7 +2848,7 @@
                                 {
                                     "$type": "ChangePlayMode",
                                     "doOffStage": true,
-                                    "CFIPAGENGPE": true,
+                                    "canBeHandledOnRecover": true,
                                     "POKMJEIDNJF": true,
                                     "KDNEFEJINAA": "ActivityAimState"
                                 }
@@ -2922,7 +2922,7 @@
                                 {
                                     "$type": "ChangePlayMode",
                                     "doOffStage": true,
-                                    "CFIPAGENGPE": true,
+                                    "canBeHandledOnRecover": true,
                                     "POKMJEIDNJF": true,
                                     "KDNEFEJINAA": "ActivityAimState"
                                 }
@@ -2996,7 +2996,7 @@
                                 {
                                     "$type": "ChangePlayMode",
                                     "doOffStage": true,
-                                    "CFIPAGENGPE": true,
+                                    "canBeHandledOnRecover": true,
                                     "POKMJEIDNJF": true,
                                     "KDNEFEJINAA": "ActivityAimState"
                                 }

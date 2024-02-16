@@ -120,7 +120,7 @@
                     "onAdded": [
                         {
                             "$type": "SendEffectTrigger",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "parameter": "Standby",
                             "effectPattern": "Eff_Monster_Effigy_Ice_EnergyCore"
                         }

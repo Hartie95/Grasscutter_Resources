@@ -103,7 +103,7 @@
                         },
                         {
                             "$type": "ReTriggerAISkillInitialCD",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "skillIDs": [
                                 301
                             ],
@@ -698,7 +698,7 @@
                 },
                 {
                     "$type": "Predicated",
-                    "CFIPAGENGPE": true,
+                    "canBeHandledOnRecover": true,
                     "targetPredicates": [
                         {
                             "$type": "ByTargetGlobalValue",

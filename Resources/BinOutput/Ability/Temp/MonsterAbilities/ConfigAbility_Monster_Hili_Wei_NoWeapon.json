@@ -34,7 +34,7 @@
                         },
                         {
                             "$type": "ShowUICombatBar",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "FAPKJBBCHKA": true
                         }
                     ]
@@ -48,7 +48,7 @@
                         },
                         {
                             "$type": "ShowUICombatBar",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "JFJHBPNMMHH": true,
                             "FAPKJBBCHKA": true
                         }

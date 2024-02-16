@@ -1618,7 +1618,7 @@
                     "onAdded": [
                         {
                             "$type": "SetAnimatorInt",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "intID": "State",
                             "value": 201.0
                         }
@@ -1626,7 +1626,7 @@
                     "onRemoved": [
                         {
                             "$type": "SetAnimatorInt",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "intID": "State",
                             "value": 0.0
                         }

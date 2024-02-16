@@ -884,7 +884,7 @@
                         {
                             "$type": "SetMaterialParamFloatByTransform",
                             "doOffStage": true,
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "JEODFLCKCJO": "BrokenPart",
                             "OBDOJDJDNHC": "_EmissionStrength",
                             "value": 0.0
@@ -975,7 +975,7 @@
                         },
                         {
                             "$type": "ShowUICombatBar",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "FAPKJBBCHKA": true
                         },
                         {
@@ -1041,7 +1041,7 @@
                         },
                         {
                             "$type": "ShowUICombatBar",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "FAPKJBBCHKA": true
                         },
                         {
@@ -1077,7 +1077,7 @@
                         },
                         {
                             "$type": "ShowUICombatBar",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "JFJHBPNMMHH": true,
                             "FAPKJBBCHKA": true
                         },
@@ -1125,7 +1125,7 @@
                         },
                         {
                             "$type": "ShowUICombatBar",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "JFJHBPNMMHH": true,
                             "FAPKJBBCHKA": true
                         },
@@ -1150,7 +1150,7 @@
                         },
                         {
                             "$type": "ShowUICombatBar",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "FAPKJBBCHKA": true
                         },
                         {
@@ -1169,7 +1169,7 @@
                         },
                         {
                             "$type": "ShowUICombatBar",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "FAPKJBBCHKA": true
                         },
                         {
@@ -1222,13 +1222,13 @@
                         },
                         {
                             "$type": "ShowUICombatBar",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "FAPKJBBCHKA": true
                         },
                         {
                             "$type": "SetMaterialParamFloatByTransform",
                             "doOffStage": true,
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "JEODFLCKCJO": "BrokenPart",
                             "OBDOJDJDNHC": "_EmissionStrength",
                             "value": 0.0
@@ -1255,7 +1255,7 @@
             "onAdded": [
                 {
                     "$type": "SetMaterialParamFloatByTransform",
-                    "CFIPAGENGPE": true,
+                    "canBeHandledOnRecover": true,
                     "JEODFLCKCJO": "GlowPart",
                     "OBDOJDJDNHC": "_EmissionStrength",
                     "value": 3.0

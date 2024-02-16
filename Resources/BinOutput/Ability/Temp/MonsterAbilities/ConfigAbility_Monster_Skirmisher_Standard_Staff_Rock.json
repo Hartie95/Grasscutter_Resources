@@ -206,16 +206,16 @@
                     "onRemoved": [
                         {
                             "$type": "HideUIBillBoard",
-                            "CFIPAGENGPE": true
+                            "canBeHandledOnRecover": true
                         },
                         {
                             "$type": "TriggerSetVisible",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "visible": true
                         },
                         {
                             "$type": "EnablePushColliderName",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "pushColliderNames": [
                                 "PushCollider"
                             ],
@@ -229,16 +229,16 @@
                     "onAdded": [
                         {
                             "$type": "HideUIBillBoard",
-                            "CFIPAGENGPE": true
+                            "canBeHandledOnRecover": true
                         },
                         {
                             "$type": "TriggerSetVisible",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "visible": true
                         },
                         {
                             "$type": "EnablePushColliderName",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "pushColliderNames": [
                                 "PushCollider"
                             ],
@@ -253,7 +253,7 @@
                     "onRemoved": [
                         {
                             "$type": "SetAnimatorTrigger",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "triggerID": "BlinkOver"
                         },
                         {
@@ -568,7 +568,7 @@
                         },
                         {
                             "$type": "SetAnimatorBool",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "boolID": "ImprovedState"
                         }
                     ]
@@ -734,7 +734,7 @@
                     "onAdded": [
                         {
                             "$type": "SetPoseBool",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "boolID": "WeakState"
                         }
                     ]
@@ -745,7 +745,7 @@
                     "onAdded": [
                         {
                             "$type": "SetPoseBool",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "boolID": "ImprovedState"
                         }
                     ]

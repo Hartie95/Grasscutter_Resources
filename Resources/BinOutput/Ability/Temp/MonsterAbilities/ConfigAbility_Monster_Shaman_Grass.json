@@ -1420,7 +1420,7 @@
                     "onRemoved": [
                         {
                             "$type": "SetPoseBool",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "boolID": "EscapeState"
                         }
                     ],

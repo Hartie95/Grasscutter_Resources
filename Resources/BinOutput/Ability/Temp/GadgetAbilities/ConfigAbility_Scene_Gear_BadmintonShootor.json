@@ -44,7 +44,7 @@
                         },
                         {
                             "$type": "EnterCameraLock",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "JLKLIDDGCLO": "Overlook",
                             "cfgPath": "Data/Camera/Shot/Camera_Dungeon_Dvalin_S01_Overlook"
                         },
@@ -2404,7 +2404,7 @@
                     "onAdded": [
                         {
                             "$type": "EnterCameraLock",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "JLKLIDDGCLO": "Overlook",
                             "cfgPath": "Data/Camera/Shot/Camera_Dungeon_Dvalin_S01_Overlook"
                         }

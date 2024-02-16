@@ -541,14 +541,14 @@
                     "onAdded": [
                         {
                             "$type": "ShowUICombatBar",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "FAPKJBBCHKA": true
                         }
                     ],
                     "onRemoved": [
                         {
                             "$type": "ShowUICombatBar",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "JFJHBPNMMHH": true,
                             "FAPKJBBCHKA": true
                         }
@@ -827,7 +827,7 @@
                         "campTargetType": "SelfCamp",
                         "sizeRatio": 1.0
                     },
-                    "CFIPAGENGPE": true,
+                    "canBeHandledOnRecover": true,
                     "targetPredicates": [
                         {
                             "$type": "ByTargetGlobalValue",
@@ -901,7 +901,7 @@
                                 "campTargetType": "SelfCamp",
                                 "sizeRatio": 1.0
                             },
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "targetPredicates": [
                                 {
                                     "$type": "ByTargetGlobalValue",
@@ -921,7 +921,7 @@
                         },
                         {
                             "$type": "EnablePartControl",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "JEBAOIKDKPN": [
                                 "BaseControl"
                             ],
@@ -945,7 +945,7 @@
                                 "campTargetType": "SelfCamp",
                                 "sizeRatio": 1.0
                             },
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "targetPredicates": [
                                 {
                                     "$type": "ByTargetGlobalValue",
@@ -965,7 +965,7 @@
                         },
                         {
                             "$type": "EnablePartControl",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "JEBAOIKDKPN": [
                                 "BaseControl"
                             ],

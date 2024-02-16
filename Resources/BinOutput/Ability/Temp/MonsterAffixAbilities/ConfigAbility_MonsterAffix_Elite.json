@@ -557,7 +557,7 @@
                         },
                         {
                             "$type": "ResetAIThreatBroadcastRange",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "EJDGOICAAHB": 0.0
                         },
                         {
@@ -577,7 +577,7 @@
                         },
                         {
                             "$type": "ResetAIThreatBroadcastRange",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "EJDGOICAAHB": 120.0
                         },
                         {
@@ -1814,7 +1814,7 @@
                 },
                 {
                     "$type": "ResetAIThreatBroadcastRange",
-                    "CFIPAGENGPE": true,
+                    "canBeHandledOnRecover": true,
                     "EJDGOICAAHB": 120.0
                 }
             ],
@@ -3186,7 +3186,7 @@
                         },
                         {
                             "$type": "SetAISkillGCD",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "weight": 1.5
                         }
                     ]
@@ -3222,7 +3222,7 @@
                         },
                         {
                             "$type": "SetAISkillGCD",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "weight": 1.0
                         }
                     ]

@@ -1110,7 +1110,7 @@
                     "onAdded": [
                         {
                             "$type": "ApplyModifier",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "modifierName": "Skirmisher_Strong_Gloves_Wind_BlockTimer"
                         },
                         {

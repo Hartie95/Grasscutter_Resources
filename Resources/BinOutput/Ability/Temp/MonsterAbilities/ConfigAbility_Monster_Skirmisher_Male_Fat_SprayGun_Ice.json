@@ -81,7 +81,7 @@
                     "onAdded": [
                         {
                             "$type": "SetPoseBool",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "boolID": "ImprovedState",
                             "value": true
                         },
@@ -155,7 +155,7 @@
                         },
                         {
                             "$type": "SetPoseBool",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "boolID": "ImprovedState"
                         },
                         {
@@ -209,7 +209,7 @@
                     "onRemoved": [
                         {
                             "$type": "SetAnimatorBool",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "boolID": "Improved"
                         }
                     ]
@@ -231,7 +231,7 @@
                     "onRemoved": [
                         {
                             "$type": "SetAnimatorBool",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "boolID": "Improved"
                         }
                     ]
@@ -360,7 +360,7 @@
                     "onAdded": [
                         {
                             "$type": "SetPoseBool",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "predicates": [
                                 {
                                     "$type": "ByTargetGlobalValue",
@@ -572,7 +572,7 @@
                     "onRemoved": [
                         {
                             "$type": "SetPoseBool",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "boolID": "WeakState"
                         },
                         {
@@ -611,7 +611,7 @@
                         },
                         {
                             "$type": "AddGlobalValue",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "value": 0.0,
                             "key": "_MONSTER_SKIRMISHER_WEAK_",
                             "useLimitRange": true,
@@ -1213,7 +1213,7 @@
                     "onRemoved": [
                         {
                             "$type": "SetAnimatorBool",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "boolID": "Dark"
                         }
                     ]

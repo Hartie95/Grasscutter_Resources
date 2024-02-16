@@ -530,7 +530,7 @@
                     "onAdded": [
                         {
                             "$type": "SetOverrideMapValue",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "predicates": [
                                 {
                                     "$type": "ByTargetGlobalValue",
@@ -543,7 +543,7 @@
                         },
                         {
                             "$type": "SetOverrideMapValue",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "predicates": [
                                 {
                                     "$type": "ByTargetGlobalValue",
@@ -556,7 +556,7 @@
                         },
                         {
                             "$type": "SetOverrideMapValue",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "predicates": [
                                 {
                                     "$type": "ByTargetGlobalValue",
@@ -723,7 +723,7 @@
                     "onAdded": [
                         {
                             "$type": "SetOverrideMapValue",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "predicates": [
                                 {
                                     "$type": "ByTargetGlobalValue",
@@ -1455,7 +1455,7 @@
                     "onAdded": [
                         {
                             "$type": "SetWeaponAttachPointRealName",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "NINLHECHMOD": "equip01",
                             "KDGJOMGBPGO": "WeaponW"
                         }
@@ -1549,7 +1549,7 @@
                     "onAdded": [
                         {
                             "$type": "SetWeaponAttachPointRealName",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "NINLHECHMOD": "equip01",
                             "KDGJOMGBPGO": "WeaponR"
                         }

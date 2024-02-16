@@ -7,7 +7,7 @@
         "JAHJDDCOKFF": [
             1
         ],
-        "OGNLPEPBDOK": [
+        "actionList": [
             1
         ],
         "type": "ROBOT_TYPE_NORMAL",
@@ -27,7 +27,7 @@
         "JAHJDDCOKFF": [
             1
         ],
-        "OGNLPEPBDOK": [
+        "actionList": [
             2
         ],
         "type": "ROBOT_TYPE_NORMAL",
@@ -47,7 +47,7 @@
         "JAHJDDCOKFF": [
             1
         ],
-        "OGNLPEPBDOK": [
+        "actionList": [
             3
         ],
         "type": "ROBOT_TYPE_NORMAL",
@@ -67,7 +67,7 @@
         "JAHJDDCOKFF": [
             2
         ],
-        "OGNLPEPBDOK": [
+        "actionList": [
             1
         ],
         "type": "ROBOT_TYPE_NORMAL",
@@ -87,7 +87,7 @@
         "JAHJDDCOKFF": [
             2
         ],
-        "OGNLPEPBDOK": [
+        "actionList": [
             2
         ],
         "type": "ROBOT_TYPE_NORMAL",
@@ -107,7 +107,7 @@
         "JAHJDDCOKFF": [
             2
         ],
-        "OGNLPEPBDOK": [
+        "actionList": [
             3
         ],
         "type": "ROBOT_TYPE_NORMAL",
@@ -127,7 +127,7 @@
         "JAHJDDCOKFF": [
             3
         ],
-        "OGNLPEPBDOK": [
+        "actionList": [
             1
         ],
         "type": "ROBOT_TYPE_NORMAL",
@@ -147,7 +147,7 @@
         "JAHJDDCOKFF": [
             3
         ],
-        "OGNLPEPBDOK": [
+        "actionList": [
             2
         ],
         "type": "ROBOT_TYPE_NORMAL",
@@ -167,7 +167,7 @@
         "JAHJDDCOKFF": [
             3
         ],
-        "OGNLPEPBDOK": [
+        "actionList": [
             3
         ],
         "type": "ROBOT_TYPE_NORMAL",
@@ -187,7 +187,7 @@
         "JAHJDDCOKFF": [
             4
         ],
-        "OGNLPEPBDOK": [
+        "actionList": [
             1,
             2,
             3
@@ -209,7 +209,7 @@
         "JAHJDDCOKFF": [
             1
         ],
-        "OGNLPEPBDOK": [
+        "actionList": [
             1
         ],
         "type": "ROBOT_TYPE_NORMAL",
@@ -229,7 +229,7 @@
         "JAHJDDCOKFF": [
             1
         ],
-        "OGNLPEPBDOK": [
+        "actionList": [
             2
         ],
         "type": "ROBOT_TYPE_NORMAL",
@@ -249,7 +249,7 @@
         "JAHJDDCOKFF": [
             1
         ],
-        "OGNLPEPBDOK": [
+        "actionList": [
             3
         ],
         "type": "ROBOT_TYPE_NORMAL",
@@ -269,7 +269,7 @@
         "JAHJDDCOKFF": [
             2
         ],
-        "OGNLPEPBDOK": [
+        "actionList": [
             1
         ],
         "type": "ROBOT_TYPE_NORMAL",
@@ -289,7 +289,7 @@
         "JAHJDDCOKFF": [
             2
         ],
-        "OGNLPEPBDOK": [
+        "actionList": [
             2
         ],
         "type": "ROBOT_TYPE_NORMAL",
@@ -309,7 +309,7 @@
         "JAHJDDCOKFF": [
             2
         ],
-        "OGNLPEPBDOK": [
+        "actionList": [
             3
         ],
         "type": "ROBOT_TYPE_NORMAL",
@@ -329,7 +329,7 @@
         "JAHJDDCOKFF": [
             3
         ],
-        "OGNLPEPBDOK": [
+        "actionList": [
             1
         ],
         "type": "ROBOT_TYPE_NORMAL",
@@ -349,7 +349,7 @@
         "JAHJDDCOKFF": [
             3
         ],
-        "OGNLPEPBDOK": [
+        "actionList": [
             2
         ],
         "type": "ROBOT_TYPE_NORMAL",
@@ -369,7 +369,7 @@
         "JAHJDDCOKFF": [
             3
         ],
-        "OGNLPEPBDOK": [
+        "actionList": [
             3
         ],
         "type": "ROBOT_TYPE_NORMAL",
@@ -389,7 +389,7 @@
         "JAHJDDCOKFF": [
             4
         ],
-        "OGNLPEPBDOK": [
+        "actionList": [
             1,
             2,
             3

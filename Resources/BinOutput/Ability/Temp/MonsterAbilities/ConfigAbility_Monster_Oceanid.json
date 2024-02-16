@@ -796,7 +796,7 @@
                     "onAdded": [
                         {
                             "$type": "SetSurroundAnchor",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "FJHFIALOBFM": "OceanidMovePoint"
                         }
                     ],

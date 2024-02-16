@@ -207,7 +207,7 @@
                     "onAdded": [
                         {
                             "$type": "SetPoseBool",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "boolID": "stage1",
                             "value": true
                         },
@@ -219,7 +219,7 @@
                     "onRemoved": [
                         {
                             "$type": "SetPoseBool",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "boolID": "stage1"
                         }
                     ]
@@ -235,7 +235,7 @@
                     "onAdded": [
                         {
                             "$type": "SetPoseBool",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "boolID": "stage1to2",
                             "value": true
                         }
@@ -243,7 +243,7 @@
                     "onRemoved": [
                         {
                             "$type": "SetPoseBool",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "boolID": "stage1to2"
                         }
                     ]
@@ -259,7 +259,7 @@
                     "onAdded": [
                         {
                             "$type": "SetPoseBool",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "boolID": "stage2",
                             "value": true
                         },
@@ -273,7 +273,7 @@
                     "onRemoved": [
                         {
                             "$type": "SetPoseBool",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "boolID": "stage2"
                         }
                     ]
@@ -289,7 +289,7 @@
                     "onAdded": [
                         {
                             "$type": "SetPoseBool",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "boolID": "stage2to3",
                             "value": true
                         },
@@ -303,7 +303,7 @@
                     "onRemoved": [
                         {
                             "$type": "SetPoseBool",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "boolID": "stage2to3"
                         }
                     ]
@@ -315,7 +315,7 @@
                     "onAdded": [
                         {
                             "$type": "SetPoseBool",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "boolID": "stage3",
                             "value": true
                         },
@@ -329,7 +329,7 @@
                     "onRemoved": [
                         {
                             "$type": "SetPoseBool",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "boolID": "stage3"
                         }
                     ]
@@ -563,7 +563,7 @@
                     "onAdded": [
                         {
                             "$type": "SetPoseBool",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "boolID": "UnderGround"
                         },
                         {
@@ -574,7 +574,7 @@
                     "onRemoved": [
                         {
                             "$type": "SetPoseBool",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "boolID": "UnderGround",
                             "value": true
                         }
@@ -597,7 +597,7 @@
                     "onAdded": [
                         {
                             "$type": "SetPoseBool",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "boolID": "UnderGround",
                             "value": true
                         },
@@ -609,7 +609,7 @@
                     "onRemoved": [
                         {
                             "$type": "SetPoseBool",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "boolID": "UnderGround"
                         }
                     ]
@@ -1176,7 +1176,7 @@
                     "onAdded": [
                         {
                             "$type": "SetPoseBool",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "boolID": "stage1",
                             "value": true
                         }
@@ -1184,7 +1184,7 @@
                     "onRemoved": [
                         {
                             "$type": "SetPoseBool",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "boolID": "stage1"
                         }
                     ]
@@ -1204,7 +1204,7 @@
                         },
                         {
                             "$type": "SetPoseBool",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "boolID": "stage1to2",
                             "value": true
                         }
@@ -1212,7 +1212,7 @@
                     "onRemoved": [
                         {
                             "$type": "SetPoseBool",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "boolID": "stage1to2"
                         }
                     ]
@@ -1228,7 +1228,7 @@
                     "onAdded": [
                         {
                             "$type": "SetPoseBool",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "boolID": "stage2",
                             "value": true
                         },
@@ -1267,7 +1267,7 @@
                     "onRemoved": [
                         {
                             "$type": "SetPoseBool",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "boolID": "stage2"
                         }
                     ]
@@ -1283,7 +1283,7 @@
                     "onAdded": [
                         {
                             "$type": "SetPoseBool",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "boolID": "stage2to3",
                             "value": true
                         },
@@ -1295,7 +1295,7 @@
                     "onRemoved": [
                         {
                             "$type": "SetPoseBool",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "boolID": "stage2to3"
                         }
                     ]
@@ -1307,7 +1307,7 @@
                     "onAdded": [
                         {
                             "$type": "SetPoseBool",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "boolID": "stage3",
                             "value": true
                         },
@@ -1346,7 +1346,7 @@
                     "onRemoved": [
                         {
                             "$type": "SetPoseBool",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "boolID": "stage3"
                         }
                     ]

@@ -46,7 +46,7 @@
                         {
                             "$type": "SetSkillAnchor",
                             "doOffStage": true,
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "born": {
                                 "$type": "ConfigBornByGlobalValue",
                                 "GDENJEFPMGC": "_MONSTER_LASIGNORA_CENTER_POS",
@@ -4028,7 +4028,7 @@
                         },
                         {
                             "$type": "SetAnimatorTrigger",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "triggerID": "ShieldBrokenSkinTrigger",
                             "IFJLLJJCLNC": true
                         },
@@ -4553,13 +4553,13 @@
                     "onAdded": [
                         {
                             "$type": "SendEffectTrigger",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "parameter": "CocoonLightTrigger",
                             "effectPattern": "Eff_Monster_LaSignora_Cocoon"
                         },
                         {
                             "$type": "SendEffectTrigger",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "parameter": "CocoonLightTrigger",
                             "effectPattern": "Eff_Monster_LaSignora_CocoonLoop"
                         }
@@ -4582,13 +4582,13 @@
                         },
                         {
                             "$type": "SendEffectTrigger",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "parameter": "CocoonHeavyTrigger",
                             "effectPattern": "Eff_Monster_LaSignora_Cocoon"
                         },
                         {
                             "$type": "SendEffectTrigger",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "parameter": "CocoonHeavyTrigger",
                             "effectPattern": "Eff_Monster_LaSignora_CocoonLoop"
                         }

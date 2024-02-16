@@ -157,7 +157,7 @@
                     "onAdded": [
                         {
                             "$type": "SetMaterialParamFloatByTransform",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "JEODFLCKCJO": "Point1",
                             "OBDOJDJDNHC": "_EmissionStrength",
                             "value": 3.0
@@ -178,7 +178,7 @@
                     "onAdded": [
                         {
                             "$type": "SetMaterialParamFloatByTransform",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "JEODFLCKCJO": "Point2",
                             "OBDOJDJDNHC": "_EmissionStrength",
                             "value": 3.0
@@ -199,7 +199,7 @@
                     "onAdded": [
                         {
                             "$type": "SetMaterialParamFloatByTransform",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "JEODFLCKCJO": "Point3",
                             "OBDOJDJDNHC": "_EmissionStrength",
                             "value": 3.0
@@ -220,7 +220,7 @@
                     "onAdded": [
                         {
                             "$type": "SetMaterialParamFloatByTransform",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "JEODFLCKCJO": "Point4",
                             "OBDOJDJDNHC": "_EmissionStrength",
                             "value": 3.0
@@ -241,7 +241,7 @@
                     "onAdded": [
                         {
                             "$type": "SetMaterialParamFloatByTransform",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "JEODFLCKCJO": "Point5",
                             "OBDOJDJDNHC": "_EmissionStrength",
                             "value": 3.0
@@ -262,7 +262,7 @@
                     "onAdded": [
                         {
                             "$type": "SetMaterialParamFloatByTransform",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "JEODFLCKCJO": "Point6",
                             "OBDOJDJDNHC": "_EmissionStrength",
                             "value": 3.0
@@ -283,7 +283,7 @@
                     "onAdded": [
                         {
                             "$type": "SetMaterialParamFloatByTransform",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "JEODFLCKCJO": "Point7",
                             "OBDOJDJDNHC": "_EmissionStrength",
                             "value": 3.0
@@ -304,7 +304,7 @@
                     "onAdded": [
                         {
                             "$type": "SetMaterialParamFloatByTransform",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "JEODFLCKCJO": "Point8",
                             "OBDOJDJDNHC": "_EmissionStrength",
                             "value": 3.0
@@ -325,7 +325,7 @@
                     "onAdded": [
                         {
                             "$type": "SetMaterialParamFloatByTransform",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "JEODFLCKCJO": "Point9",
                             "OBDOJDJDNHC": "_EmissionStrength",
                             "value": 3.0
@@ -346,7 +346,7 @@
                     "onAdded": [
                         {
                             "$type": "SetMaterialParamFloatByTransform",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "JEODFLCKCJO": "Point10",
                             "OBDOJDJDNHC": "_EmissionStrength",
                             "value": 3.0

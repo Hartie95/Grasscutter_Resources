@@ -232,7 +232,7 @@
                     "onAdded": [
                         {
                             "$type": "SetMaterialParamFloatByTransform",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "JEODFLCKCJO": "OMat",
                             "OBDOJDJDNHC": "_Opacity",
                             "value": 0.0
@@ -260,7 +260,7 @@
                     "onAdded": [
                         {
                             "$type": "SetMaterialParamFloatByTransform",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "JEODFLCKCJO": "OMat",
                             "OBDOJDJDNHC": "_Opacity",
                             "value": 1.0
@@ -280,7 +280,7 @@
                     "onAdded": [
                         {
                             "$type": "SetMaterialParamFloatByTransform",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "JEODFLCKCJO": "OMat",
                             "OBDOJDJDNHC": "_Opacity",
                             "value": 1.0,
@@ -303,7 +303,7 @@
                     "onAdded": [
                         {
                             "$type": "SetMaterialParamFloatByTransform",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "JEODFLCKCJO": "OMat",
                             "OBDOJDJDNHC": "_Opacity",
                             "value": 0.0,

@@ -12,14 +12,14 @@
                     "DLEFDCFBLDE": [
                         {
                             "$type": "ShowUICombatBar",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "JFJHBPNMMHH": true,
                             "FAPKJBBCHKA": true
                         },
                         {
                             "$type": "ApplyModifier",
                             "target": "CurTeamAvatars",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "modifierName": "FallingDamage"
                         }
                     ]
@@ -222,7 +222,7 @@
                     "onAdded": [
                         {
                             "$type": "SetPoseBool",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "boolID": "stage1",
                             "value": true
                         },
@@ -274,7 +274,7 @@
                     "onAdded": [
                         {
                             "$type": "SetPoseBool",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "boolID": "stage2",
                             "value": true
                         }
@@ -315,7 +315,7 @@
                     "onAdded": [
                         {
                             "$type": "SetPoseBool",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "boolID": "stage3",
                             "value": true
                         },
@@ -345,7 +345,7 @@
                     "onAdded": [
                         {
                             "$type": "SetPoseBool",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "boolID": "stage4",
                             "value": true
                         }
@@ -392,12 +392,12 @@
                     "onAdded": [
                         {
                             "$type": "SetPoseBool",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "boolID": "isEdge"
                         },
                         {
                             "$type": "SetPoseBool",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "boolID": "isWeak"
                         }
                     ]
@@ -409,13 +409,13 @@
                     "onAdded": [
                         {
                             "$type": "SetPoseBool",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "boolID": "isEdge",
                             "value": true
                         },
                         {
                             "$type": "SetPoseBool",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "boolID": "isWeak"
                         }
                     ]
@@ -427,13 +427,13 @@
                     "onAdded": [
                         {
                             "$type": "SetPoseBool",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "boolID": "isEdge",
                             "value": true
                         },
                         {
                             "$type": "SetPoseBool",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "boolID": "isWeak",
                             "value": true
                         }
@@ -5688,7 +5688,7 @@
                     "onAdded": [
                         {
                             "$type": "TriggerAbility",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "predicates": [
                                 {
                                     "$type": "ByTargetGlobalValue",
@@ -6144,7 +6144,7 @@
                         },
                         {
                             "$type": "EnableHitBoxByName",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "hitBoxNames": [
                                 "hitbox_Head01",
                                 "hitbox_Neck01",
@@ -6375,7 +6375,7 @@
                 },
                 {
                     "$type": "AvatarEnterCameraShot",
-                    "CFIPAGENGPE": true,
+                    "canBeHandledOnRecover": true,
                     "predicates": [
                         {
                             "$type": "ByTargetGlobalValue",
@@ -6408,7 +6408,7 @@
                         },
                         {
                             "$type": "SyncToStageScript",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "alias": "S04_PLATFORM"
                         }
                     ]
@@ -6421,7 +6421,7 @@
                 },
                 {
                     "$type": "RegistToStageScript",
-                    "CFIPAGENGPE": true,
+                    "canBeHandledOnRecover": true,
                     "alias": "S04_PLATFORM"
                 }
             ]

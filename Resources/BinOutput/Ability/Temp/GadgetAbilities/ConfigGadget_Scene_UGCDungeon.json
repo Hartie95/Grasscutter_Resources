@@ -2519,7 +2519,7 @@
                         },
                         {
                             "$type": "SetMaterialParamFloatByTransform",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "JEODFLCKCJO": "EmissionStrength",
                             "OBDOJDJDNHC": "_EmissionStrength",
                             "value": 0.699999988079071,
@@ -2561,7 +2561,7 @@
                         },
                         {
                             "$type": "SetMaterialParamFloatByTransform",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "JEODFLCKCJO": "EmissionStrength",
                             "OBDOJDJDNHC": "_EmissionStrength",
                             "value": 3.0,
@@ -2714,7 +2714,7 @@
                         },
                         {
                             "$type": "SetMaterialParamFloatByTransform",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "JEODFLCKCJO": "EmissionStrength",
                             "OBDOJDJDNHC": "_EmissionStrength",
                             "value": 0.800000011920929,
@@ -2756,7 +2756,7 @@
                         },
                         {
                             "$type": "SetMaterialParamFloatByTransform",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "JEODFLCKCJO": "EmissionStrength",
                             "OBDOJDJDNHC": "_EmissionStrength",
                             "value": 4.0,
@@ -2909,7 +2909,7 @@
                         },
                         {
                             "$type": "SetMaterialParamFloatByTransform",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "JEODFLCKCJO": "EmissionStrength",
                             "OBDOJDJDNHC": "_EmissionStrength",
                             "value": 0.699999988079071,
@@ -2951,7 +2951,7 @@
                         },
                         {
                             "$type": "SetMaterialParamFloatByTransform",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "JEODFLCKCJO": "EmissionStrength",
                             "OBDOJDJDNHC": "_EmissionStrength",
                             "value": 3.0,
@@ -3104,7 +3104,7 @@
                         },
                         {
                             "$type": "SetMaterialParamFloatByTransform",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "JEODFLCKCJO": "EmissionStrength",
                             "OBDOJDJDNHC": "_EmissionStrength",
                             "value": 1.5,
@@ -3146,7 +3146,7 @@
                         },
                         {
                             "$type": "SetMaterialParamFloatByTransform",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "JEODFLCKCJO": "EmissionStrength",
                             "OBDOJDJDNHC": "_EmissionStrength",
                             "value": 4.0,

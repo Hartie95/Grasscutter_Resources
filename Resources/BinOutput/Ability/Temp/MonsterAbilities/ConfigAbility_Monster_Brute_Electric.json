@@ -55,7 +55,7 @@
                         },
                         {
                             "$type": "SetAISkillGCD",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "weight": 4.0
                         }
                     ]
@@ -299,7 +299,7 @@
                     "onAdded": [
                         {
                             "$type": "SetAISkillCDAvailableNow",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "skillIDs": [
                                 1
                             ]
@@ -1477,7 +1477,7 @@
                         },
                         {
                             "$type": "SetAISkillGCD",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "weight": 7.0
                         }
                     ],

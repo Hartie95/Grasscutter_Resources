@@ -6611,7 +6611,7 @@
                         },
                         {
                             "$type": "EnablePositionSynchronization",
-                            "CFIPAGENGPE": true,
+                            "canBeHandledOnRecover": true,
                             "enable": true
                         }
                     ]
@@ -6628,7 +6628,7 @@
                         },
                         {
                             "$type": "EnablePositionSynchronization",
-                            "CFIPAGENGPE": true
+                            "canBeHandledOnRecover": true
                         }
                     ]
                 }

@@ -3863,12 +3863,12 @@
                         "campTargetType": "AllExceptSelf",
                         "sizeRatio": 1.0
                     },
-                    "CFIPAGENGPE": true,
+                    "canBeHandledOnRecover": true,
                     "modifierName": "BaseDeathQuick"
                 },
                 {
                     "$type": "CreateGadget",
-                    "CFIPAGENGPE": true,
+                    "canBeHandledOnRecover": true,
                     "born": {
                         "$type": "ConfigBornBySelf"
                     },
