@@ -7,33 +7,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     90
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     1,
                     90
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     150
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     1,
                     150
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     210
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     1,
                     210
                 ]
@@ -61,33 +61,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     90
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     1,
                     90
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     150
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     1,
                     150
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     210
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     1,
                     210
                 ]
@@ -118,33 +118,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     90
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     1,
                     90
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     150
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     1,
                     150
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     210
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     1,
                     210
                 ]
@@ -174,33 +174,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     1,
                     60
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     90
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     1,
                     90
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     1,
                     180
                 ]
@@ -228,12 +228,12 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     234101003,
                     3030,
                     20
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     234101003,
                     3030,
                     20
@@ -241,12 +241,12 @@
             },
             {
                 "towerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     234101003,
                     3030,
                     40
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     234101003,
                     3030,
                     40
@@ -254,12 +254,12 @@
             },
             {
                 "towerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     234101003,
                     3030,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     234101003,
                     3030,
                     60
@@ -289,33 +289,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     1,
                     60
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     90
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     1,
                     90
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     1,
                     180
                 ]
@@ -343,33 +343,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     1,
                     60
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     90
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     1,
                     90
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     1,
                     180
                 ]
@@ -402,33 +402,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     1,
                     60
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     90
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     1,
                     90
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     1,
                     180
                 ]
@@ -460,33 +460,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     1,
                     60
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     90
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     1,
                     90
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     120
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     1,
                     120
                 ]
@@ -513,33 +513,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     1,
                     60
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     120
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     1,
                     120
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     1,
                     180
                 ]
@@ -569,12 +569,12 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     234103003,
                     3024,
                     20
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     234103003,
                     3024,
                     20
@@ -582,12 +582,12 @@
             },
             {
                 "towerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     234103003,
                     3024,
                     40
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     234103003,
                     3024,
                     40
@@ -595,12 +595,12 @@
             },
             {
                 "towerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     234103003,
                     3024,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     234103003,
                     3024,
                     60
@@ -632,33 +632,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     1,
                     60
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     90
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     1,
                     90
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     120
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     1,
                     120
                 ]
@@ -688,33 +688,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -744,33 +744,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     90
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     90
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     240
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     240
                 ]
@@ -806,33 +806,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -862,33 +862,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     30
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     30
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     60
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     120
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     120
                 ]
@@ -925,33 +925,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     90
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     90
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     270
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     270
                 ]
@@ -996,33 +996,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     120
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     120
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     240
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     240
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     330
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     330
                 ]
@@ -1055,33 +1055,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     120
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     120
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -1113,33 +1113,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     120
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     120
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     390
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     390
                 ]
@@ -1171,33 +1171,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     120
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     120
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     330
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     330
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     450
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     450
                 ]
@@ -1229,33 +1229,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     330
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     330
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -1284,33 +1284,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     360
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     360
                 ]
@@ -1345,33 +1345,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     60
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     120
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     120
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
@@ -1399,33 +1399,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     60
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
@@ -1457,33 +1457,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     60
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
@@ -1519,33 +1519,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -1574,33 +1574,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     60
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
@@ -1631,33 +1631,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     60
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
@@ -1690,33 +1690,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -1748,33 +1748,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     60
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
@@ -1810,12 +1810,12 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     234703002,
                     2016,
                     20
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     234703002,
                     2016,
                     20
@@ -1823,12 +1823,12 @@
             },
             {
                 "towerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     234703002,
                     2016,
                     40
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     234703002,
                     2016,
                     40
@@ -1836,12 +1836,12 @@
             },
             {
                 "towerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     234703002,
                     2016,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     234703002,
                     2016,
                     60
@@ -1878,33 +1878,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -1936,33 +1936,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     60
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
@@ -1994,12 +1994,12 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     234704003,
                     3024,
                     20
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     234704003,
                     3024,
                     20
@@ -2007,12 +2007,12 @@
             },
             {
                 "towerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     234704003,
                     3024,
                     40
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     234704003,
                     3024,
                     40
@@ -2020,12 +2020,12 @@
             },
             {
                 "towerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     234704003,
                     3024,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     234704003,
                     3024,
                     60
@@ -2061,33 +2061,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -2120,33 +2120,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     60
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
@@ -2179,33 +2179,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     60
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
@@ -2238,33 +2238,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -2294,33 +2294,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     60
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
@@ -2352,33 +2352,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     60
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
@@ -2410,33 +2410,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -2465,33 +2465,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     60
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
@@ -2523,12 +2523,12 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     234709003,
                     3024,
                     20
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     234709003,
                     3024,
                     20
@@ -2536,12 +2536,12 @@
             },
             {
                 "towerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     234709003,
                     3024,
                     40
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     234709003,
                     3024,
                     40
@@ -2549,12 +2549,12 @@
             },
             {
                 "towerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     234709003,
                     3024,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     234709003,
                     3024,
                     60
@@ -2594,33 +2594,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -2652,33 +2652,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     60
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
@@ -2709,33 +2709,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     60
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
@@ -2767,33 +2767,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -2825,33 +2825,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -2879,33 +2879,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -2935,33 +2935,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -2989,12 +2989,12 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     233711003,
                     3024,
                     20
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     233711003,
                     3024,
                     20
@@ -3002,12 +3002,12 @@
             },
             {
                 "towerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     233711003,
                     3024,
                     40
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     233711003,
                     3024,
                     40
@@ -3015,12 +3015,12 @@
             },
             {
                 "towerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     233711003,
                     3024,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     233711003,
                     3024,
                     60
@@ -3057,33 +3057,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     120
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     120
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     240
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     240
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     360
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     360
                 ]
@@ -3115,33 +3115,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -3170,33 +3170,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -3226,33 +3226,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -3295,33 +3295,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -3351,33 +3351,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     60
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
@@ -3411,33 +3411,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     60
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
@@ -3471,33 +3471,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -3530,33 +3530,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     60
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
@@ -3589,33 +3589,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     60
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
@@ -3648,33 +3648,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -3703,12 +3703,12 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     233715003,
                     3024,
                     20
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     233715003,
                     3024,
                     20
@@ -3716,12 +3716,12 @@
             },
             {
                 "towerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     233715003,
                     3024,
                     40
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     233715003,
                     3024,
                     40
@@ -3729,12 +3729,12 @@
             },
             {
                 "towerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     233715003,
                     3024,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     233715003,
                     3024,
                     60
@@ -3772,33 +3772,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     60
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
@@ -3830,33 +3830,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -3886,33 +3886,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -3940,33 +3940,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -4003,33 +4003,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -4061,33 +4061,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     60
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
@@ -4123,33 +4123,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     60
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
@@ -4190,33 +4190,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -4246,33 +4246,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     60
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
@@ -4309,33 +4309,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     60
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
@@ -4369,33 +4369,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -4426,33 +4426,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     60
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
@@ -4486,33 +4486,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     60
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
@@ -4544,33 +4544,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -4598,33 +4598,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -4658,33 +4658,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -4715,33 +4715,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -4774,33 +4774,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     60
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
@@ -4833,33 +4833,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     60
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
@@ -4894,33 +4894,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -4951,33 +4951,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -5016,33 +5016,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -5071,33 +5071,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -5125,33 +5125,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     60
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
@@ -5185,33 +5185,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     60
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
@@ -5245,33 +5245,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -5299,33 +5299,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -5358,33 +5358,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -5417,33 +5417,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -5477,12 +5477,12 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     233725003,
                     3024,
                     20
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     233725003,
                     3024,
                     20
@@ -5490,12 +5490,12 @@
             },
             {
                 "towerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     233725003,
                     3024,
                     40
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     233725003,
                     3024,
                     40
@@ -5503,12 +5503,12 @@
             },
             {
                 "towerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     233725003,
                     3024,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     233725003,
                     3024,
                     60
@@ -5557,33 +5557,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     60
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
@@ -5618,33 +5618,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -5681,33 +5681,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -5737,33 +5737,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -5793,33 +5793,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -5851,12 +5851,12 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     233727003,
                     3024,
                     20
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     233727003,
                     3024,
                     20
@@ -5864,12 +5864,12 @@
             },
             {
                 "towerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     233727003,
                     3024,
                     40
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     233727003,
                     3024,
                     40
@@ -5877,12 +5877,12 @@
             },
             {
                 "towerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     233727003,
                     3024,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     233727003,
                     3024,
                     60
@@ -5916,33 +5916,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     60
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
@@ -5980,33 +5980,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -6036,33 +6036,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -6093,33 +6093,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -6147,33 +6147,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -6202,33 +6202,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     60
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
@@ -6259,33 +6259,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     60
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
@@ -6323,33 +6323,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -6379,33 +6379,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -6436,33 +6436,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -6490,33 +6490,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -6546,12 +6546,12 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     233731003,
                     3024,
                     20
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     233731003,
                     3024,
                     20
@@ -6559,12 +6559,12 @@
             },
             {
                 "towerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     233731003,
                     3024,
                     40
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     233731003,
                     3024,
                     40
@@ -6572,12 +6572,12 @@
             },
             {
                 "towerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     233731003,
                     3024,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     233731003,
                     3024,
                     60
@@ -6623,33 +6623,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     60
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
@@ -6687,33 +6687,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -6744,33 +6744,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -6806,33 +6806,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -6863,33 +6863,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -6917,12 +6917,12 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     233733003,
                     3024,
                     20
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     233733003,
                     3024,
                     20
@@ -6930,12 +6930,12 @@
             },
             {
                 "towerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     233733003,
                     3024,
                     40
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     233733003,
                     3024,
                     40
@@ -6943,12 +6943,12 @@
             },
             {
                 "towerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     233733003,
                     3024,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     233733003,
                     3024,
                     60
@@ -6988,33 +6988,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     60
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
@@ -7048,33 +7048,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -7105,33 +7105,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -7162,33 +7162,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -7218,33 +7218,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -7272,12 +7272,12 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     233735003,
                     3024,
                     20
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     233735003,
                     3024,
                     20
@@ -7285,12 +7285,12 @@
             },
             {
                 "towerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     233735003,
                     3024,
                     40
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     233735003,
                     3024,
                     40
@@ -7298,12 +7298,12 @@
             },
             {
                 "towerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     233735003,
                     3024,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     233735003,
                     3024,
                     60
@@ -7343,33 +7343,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     60
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
@@ -7406,33 +7406,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -7462,33 +7462,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -7526,33 +7526,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -7583,33 +7583,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -7638,33 +7638,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     60
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
@@ -7705,33 +7705,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     60
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
@@ -7775,33 +7775,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -7834,33 +7834,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     60
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
@@ -7894,33 +7894,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     60
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
@@ -7951,33 +7951,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -8010,12 +8010,12 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     233739003,
                     3024,
                     20
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     233739003,
                     3024,
                     20
@@ -8023,12 +8023,12 @@
             },
             {
                 "towerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     233739003,
                     3024,
                     40
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     233739003,
                     3024,
                     40
@@ -8036,12 +8036,12 @@
             },
             {
                 "towerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     233739003,
                     3024,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     233739003,
                     3024,
                     60
@@ -8082,33 +8082,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     60
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
@@ -8143,33 +8143,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -8201,33 +8201,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -8260,33 +8260,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -8316,33 +8316,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -8375,12 +8375,12 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     233741003,
                     3024,
                     20
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     233741003,
                     3024,
                     20
@@ -8388,12 +8388,12 @@
             },
             {
                 "towerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     233741003,
                     3024,
                     40
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     233741003,
                     3024,
                     40
@@ -8401,12 +8401,12 @@
             },
             {
                 "towerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     233741003,
                     3024,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     233741003,
                     3024,
                     60
@@ -8445,33 +8445,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     60
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
@@ -8505,33 +8505,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -8564,33 +8564,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -8628,33 +8628,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -8684,33 +8684,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -8738,33 +8738,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     60
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
@@ -8801,33 +8801,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     60
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     60
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
@@ -8861,33 +8861,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -8915,33 +8915,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -8970,33 +8970,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
@@ -9028,33 +9028,33 @@
         "conds": [
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     180
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     180
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     300
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     300
                 ]
             },
             {
                 "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
-                "GADMJNNICOA": [
+                "argumentListFirstHalf": [
                     1,
                     420
                 ],
-                "argumentList": [
+                "argumentListSecondHalf": [
                     2,
                     420
                 ]
