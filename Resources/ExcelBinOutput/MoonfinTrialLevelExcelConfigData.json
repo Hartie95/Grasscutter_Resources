@@ -4,7 +4,7 @@
         "openDay": 1,
         "KFBECECPBOO": [],
         "mainQuest": 72659,
-        "BLPCMIAJGOC": [],
+        "markPosition": [],
         "levelNameTextMapHash": 3234887321,
         "descriptionTextMapHash": 2276622360,
         "titleTextMapHash": 3004411014
@@ -23,7 +23,7 @@
         ],
         "OLBNACAPHON": 1,
         "PDEODLNEDPK": 72659,
-        "BLPCMIAJGOC": [
+        "markPosition": [
             700.4874267578125,
             202.71609497070312,
             4.608615875244141
@@ -45,7 +45,7 @@
             1504103
         ],
         "PDEODLNEDPK": 72659,
-        "BLPCMIAJGOC": [
+        "markPosition": [
             232.8166961669922,
             200.0,
             683.4166870117188
@@ -61,7 +61,7 @@
         "KFBECECPBOO": [],
         "PDEODLNEDPK": 72659,
         "mainQuest": 72661,
-        "BLPCMIAJGOC": [],
+        "markPosition": [],
         "levelNameTextMapHash": 3820804857,
         "descriptionTextMapHash": 2776474008,
         "titleTextMapHash": 3421387030
@@ -79,7 +79,7 @@
             1504112
         ],
         "PDEODLNEDPK": 72659,
-        "BLPCMIAJGOC": [
+        "markPosition": [
             -3366.820068359375,
             200.13999938964844,
             -3224.89990234375
@@ -101,7 +101,7 @@
             1504109
         ],
         "PDEODLNEDPK": 72659,
-        "BLPCMIAJGOC": [
+        "markPosition": [
             1696.449951171875,
             195.39999389648438,
             -1602.56005859375
@@ -117,7 +117,7 @@
         "KFBECECPBOO": [],
         "PDEODLNEDPK": 72661,
         "mainQuest": 72662,
-        "BLPCMIAJGOC": [],
+        "markPosition": [],
         "levelNameTextMapHash": 2001507737,
         "descriptionTextMapHash": 1906710200,
         "titleTextMapHash": 1115684502
@@ -128,7 +128,7 @@
         "KFBECECPBOO": [],
         "PDEODLNEDPK": 72662,
         "mainQuest": 72663,
-        "BLPCMIAJGOC": [],
+        "markPosition": [],
         "levelNameTextMapHash": 3918950545,
         "descriptionTextMapHash": 2987271904,
         "titleTextMapHash": 3893103022
@@ -147,7 +147,7 @@
         ],
         "OLBNACAPHON": 8,
         "PDEODLNEDPK": 72663,
-        "BLPCMIAJGOC": [
+        "markPosition": [
             -3528.10009765625,
             200.0,
             -2986.89990234375
