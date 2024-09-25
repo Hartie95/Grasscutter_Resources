@@ -1250,9 +1250,9 @@
                                     "target": "Team",
                                     "luaCallType": "CurScenePlay",
                                     "funcName": "UpdateAsterInterrupt",
-                                    "LIOGECEPJAH": 0.0,
-                                    "FDDPMCCJIKN": 0.0,
-                                    "KNJMHMKNCKF": 0.0
+                                    "param1": 0.0,
+                                    "param2": 0.0,
+                                    "param3": 0.0
                                 },
                                 {
                                     "$type": "SetGlobalValue",
@@ -1312,9 +1312,9 @@
                             "target": "Team",
                             "luaCallType": "CurScenePlay",
                             "funcName": "UpdateAsterProgress",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         },
                         {
                             "$type": "SetAnimatorTrigger",
@@ -2126,9 +2126,9 @@
                                     "target": "Team",
                                     "luaCallType": "CurScenePlay",
                                     "funcName": "UpdateAsterInterrupt",
-                                    "LIOGECEPJAH": 0.0,
-                                    "FDDPMCCJIKN": 0.0,
-                                    "KNJMHMKNCKF": 0.0
+                                    "param1": 0.0,
+                                    "param2": 0.0,
+                                    "param3": 0.0
                                 },
                                 {
                                     "$type": "SetGlobalValue",
@@ -2188,9 +2188,9 @@
                             "target": "Team",
                             "luaCallType": "CurScenePlay",
                             "funcName": "UpdateAsterProgress",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         },
                         {
                             "$type": "SetAnimatorTrigger",
@@ -2997,9 +2997,9 @@
                                     "target": "Team",
                                     "luaCallType": "CurScenePlay",
                                     "funcName": "UpdateAsterInterrupt",
-                                    "LIOGECEPJAH": 0.0,
-                                    "FDDPMCCJIKN": 0.0,
-                                    "KNJMHMKNCKF": 0.0
+                                    "param1": 0.0,
+                                    "param2": 0.0,
+                                    "param3": 0.0
                                 },
                                 {
                                     "$type": "SetAnimatorTrigger",
@@ -3047,9 +3047,9 @@
                             "target": "Team",
                             "luaCallType": "CurScenePlay",
                             "funcName": "UpdateAsterProgress",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         },
                         {
                             "$type": "SetAnimatorTrigger",
@@ -3861,9 +3861,9 @@
                                     "target": "Team",
                                     "luaCallType": "CurScenePlay",
                                     "funcName": "UpdateAsterInterrupt",
-                                    "LIOGECEPJAH": 0.0,
-                                    "FDDPMCCJIKN": 0.0,
-                                    "KNJMHMKNCKF": 0.0
+                                    "param1": 0.0,
+                                    "param2": 0.0,
+                                    "param3": 0.0
                                 },
                                 {
                                     "$type": "SetGlobalValue",
@@ -3923,9 +3923,9 @@
                             "target": "Team",
                             "luaCallType": "CurScenePlay",
                             "funcName": "UpdateAsterProgress",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         },
                         {
                             "$type": "SetAnimatorTrigger",

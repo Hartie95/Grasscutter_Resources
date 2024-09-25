@@ -322,9 +322,9 @@
                                 220128004
                             ],
                             "funcName": "SLC_StageReady_Quest",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 }
@@ -346,9 +346,9 @@
                                 246201001
                             ],
                             "funcName": "SLC_StageReady_Rogue",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 }
@@ -370,9 +370,9 @@
                                 246202001
                             ],
                             "funcName": "SLC_StageReady_Rogue",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 }
@@ -394,9 +394,9 @@
                                 246203001
                             ],
                             "funcName": "SLC_StageReady_Rogue",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 }
@@ -638,9 +638,9 @@
                             "$type": "ServerLuaCall",
                             "luaCallType": "FromGroup",
                             "funcName": "SLC_Reset_SGV",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 }
@@ -3868,9 +3868,9 @@
                             "$type": "ServerLuaCall",
                             "luaCallType": "FromGroup",
                             "funcName": "SLC_Active_Portal",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 },
@@ -5767,9 +5767,9 @@
                             "$type": "ServerLuaCall",
                             "luaCallType": "FromGroup",
                             "funcName": "SLC_PausePursina",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ],
                     "onRemoved": [
@@ -5777,9 +5777,9 @@
                             "$type": "ServerLuaCall",
                             "luaCallType": "FromGroup",
                             "funcName": "SLC_ResumePursina",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 }

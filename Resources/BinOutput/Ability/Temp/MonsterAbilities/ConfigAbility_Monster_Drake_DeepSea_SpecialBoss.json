@@ -52,9 +52,9 @@
                             ],
                             "luaCallType": "FromGroup",
                             "funcName": "SLC_Monster_In_Battle",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 },
@@ -571,9 +571,9 @@
                             ],
                             "luaCallType": "FromGroup",
                             "funcName": "SLC_Monster_In_Battle",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 },
@@ -2000,10 +2000,10 @@
                             ],
                             "luaCallType": "FromGroup",
                             "funcName": "SLC_Deny_Lock_On",
-                            "MPBMJIGLEMJ": 1,
-                            "LIOGECEPJAH": 1.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "paramNum": 1,
+                            "param1": 1.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ],
                     "onRemoved": [
@@ -2019,10 +2019,10 @@
                             ],
                             "luaCallType": "FromGroup",
                             "funcName": "SLC_Deny_Lock_On",
-                            "MPBMJIGLEMJ": 1,
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "paramNum": 1,
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 },

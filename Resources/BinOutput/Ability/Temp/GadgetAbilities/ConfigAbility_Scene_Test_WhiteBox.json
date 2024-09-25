@@ -1395,9 +1395,9 @@
                     ],
                     "luaCallType": "FromGroup",
                     "funcName": "LuaCallFail",
-                    "LIOGECEPJAH": 0.0,
-                    "FDDPMCCJIKN": 0.0,
-                    "KNJMHMKNCKF": 0.0
+                    "param1": 0.0,
+                    "param2": 0.0,
+                    "param3": 0.0
                 }
             ]
         }
@@ -4095,9 +4095,9 @@
                             ],
                             "luaCallType": "FromGroup",
                             "funcName": "Stone_Behit",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         },
                         {
                             "$type": "SetGlobalValue",
@@ -4163,9 +4163,9 @@
                             ],
                             "luaCallType": "FromGroup",
                             "funcName": "Stone_Behit",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         },
                         {
                             "$type": "SetGlobalValue",
@@ -4231,9 +4231,9 @@
                             ],
                             "luaCallType": "FromGroup",
                             "funcName": "Stone_Behit",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         },
                         {
                             "$type": "SetGlobalValue",
@@ -4299,9 +4299,9 @@
                             ],
                             "luaCallType": "FromGroup",
                             "funcName": "Stone_Behit",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         },
                         {
                             "$type": "SetGlobalValue",
@@ -4611,9 +4611,9 @@
                             ],
                             "luaCallType": "FromGroup",
                             "funcName": "SquareBeHit",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 },
@@ -5103,9 +5103,9 @@
                             "$type": "ServerLuaCall",
                             "luaCallType": "FromGroup",
                             "funcName": "MovePlatform",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 },
@@ -5369,9 +5369,9 @@
                     "$type": "ServerLuaCall",
                     "luaCallType": "FromGroup",
                     "funcName": "PhotoTakenSuccessfully",
-                    "LIOGECEPJAH": 0.0,
-                    "FDDPMCCJIKN": 0.0,
-                    "KNJMHMKNCKF": 0.0
+                    "param1": 0.0,
+                    "param2": 0.0,
+                    "param3": 0.0
                 }
             ]
         }
@@ -8203,9 +8203,9 @@
                         {
                             "$type": "ServerLuaCall",
                             "funcName": "GadgetCallClearThreat",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         },
                         {
                             "$type": "DebugLog",
@@ -8218,9 +8218,9 @@
                 {
                     "$type": "ServerLuaCall",
                     "funcName": "GadgetCallSetThreat",
-                    "LIOGECEPJAH": 0.0,
-                    "FDDPMCCJIKN": 0.0,
-                    "KNJMHMKNCKF": 0.0
+                    "param1": 0.0,
+                    "param2": 0.0,
+                    "param3": 0.0
                 },
                 {
                     "$type": "DebugLog",

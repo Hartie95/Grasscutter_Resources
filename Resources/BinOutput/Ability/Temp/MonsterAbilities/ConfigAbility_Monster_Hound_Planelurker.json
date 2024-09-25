@@ -5111,9 +5111,9 @@
                             "$type": "ServerLuaCall",
                             "luaCallType": "FromGroup",
                             "funcName": "SLC_BossBattleReset",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 },
@@ -5209,9 +5209,9 @@
                     "$type": "ServerLuaCall",
                     "luaCallType": "FromGroup",
                     "funcName": "SLC_BossBattleReset",
-                    "LIOGECEPJAH": 0.0,
-                    "FDDPMCCJIKN": 0.0,
-                    "KNJMHMKNCKF": 0.0
+                    "param1": 0.0,
+                    "param2": 0.0,
+                    "param3": 0.0
                 }
             ]
         }

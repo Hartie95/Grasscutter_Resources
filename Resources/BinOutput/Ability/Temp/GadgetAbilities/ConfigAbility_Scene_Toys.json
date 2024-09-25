@@ -318,18 +318,18 @@
                                 {
                                     "$type": "ServerLuaCall",
                                     "funcName": "SetToysCD_MD_Success",
-                                    "LIOGECEPJAH": 0.0,
-                                    "FDDPMCCJIKN": 0.0,
-                                    "KNJMHMKNCKF": 0.0
+                                    "param1": 0.0,
+                                    "param2": 0.0,
+                                    "param3": 0.0
                                 }
                             ],
                             "failActions": [
                                 {
                                     "$type": "ServerLuaCall",
                                     "funcName": "SetToysCD_MD_Fail",
-                                    "LIOGECEPJAH": 0.0,
-                                    "FDDPMCCJIKN": 0.0,
-                                    "KNJMHMKNCKF": 0.0
+                                    "param1": 0.0,
+                                    "param2": 0.0,
+                                    "param3": 0.0
                                 }
                             ]
                         }
@@ -400,18 +400,18 @@
                                 {
                                     "$type": "ServerLuaCall",
                                     "funcName": "SetToysCD_LY_Success",
-                                    "LIOGECEPJAH": 0.0,
-                                    "FDDPMCCJIKN": 0.0,
-                                    "KNJMHMKNCKF": 0.0
+                                    "param1": 0.0,
+                                    "param2": 0.0,
+                                    "param3": 0.0
                                 }
                             ],
                             "failActions": [
                                 {
                                     "$type": "ServerLuaCall",
                                     "funcName": "SetToysCD_LY_Fail",
-                                    "LIOGECEPJAH": 0.0,
-                                    "FDDPMCCJIKN": 0.0,
-                                    "KNJMHMKNCKF": 0.0
+                                    "param1": 0.0,
+                                    "param2": 0.0,
+                                    "param3": 0.0
                                 }
                             ]
                         }
@@ -482,18 +482,18 @@
                                 {
                                     "$type": "ServerLuaCall",
                                     "funcName": "SetToysCD_DQ_Success",
-                                    "LIOGECEPJAH": 0.0,
-                                    "FDDPMCCJIKN": 0.0,
-                                    "KNJMHMKNCKF": 0.0
+                                    "param1": 0.0,
+                                    "param2": 0.0,
+                                    "param3": 0.0
                                 }
                             ],
                             "failActions": [
                                 {
                                     "$type": "ServerLuaCall",
                                     "funcName": "SetToysCD_DQ_Fail",
-                                    "LIOGECEPJAH": 0.0,
-                                    "FDDPMCCJIKN": 0.0,
-                                    "KNJMHMKNCKF": 0.0
+                                    "param1": 0.0,
+                                    "param2": 0.0,
+                                    "param3": 0.0
                                 }
                             ]
                         }

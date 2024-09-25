@@ -721,9 +721,9 @@
                             ],
                             "luaCallType": "FromGroup",
                             "funcName": "ServerLuaCall_Enhance_Start",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         },
                         {
                             "$type": "ShowReminder",
@@ -946,9 +946,9 @@
                             ],
                             "luaCallType": "FromGroup",
                             "funcName": "ServerLuaCall_Enhance_End",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         },
                         {
                             "$type": "SetAnimatorInt",
@@ -1369,9 +1369,9 @@
                             ],
                             "luaCallType": "FromGroup",
                             "funcName": "watcher5_count",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         },
                         {
                             "$type": "AttachEffect",
@@ -2119,9 +2119,9 @@
                                     ],
                                     "luaCallType": "FromGroup",
                                     "funcName": "watcher6_count",
-                                    "LIOGECEPJAH": 0.0,
-                                    "FDDPMCCJIKN": 0.0,
-                                    "KNJMHMKNCKF": 0.0
+                                    "param1": 0.0,
+                                    "param2": 0.0,
+                                    "param3": 0.0
                                 },
                                 {
                                     "$type": "SetAnimatorTrigger",
@@ -2404,9 +2404,9 @@
                                     ],
                                     "luaCallType": "FromGroup",
                                     "funcName": "watcher6_count",
-                                    "LIOGECEPJAH": 0.0,
-                                    "FDDPMCCJIKN": 0.0,
-                                    "KNJMHMKNCKF": 0.0
+                                    "param1": 0.0,
+                                    "param2": 0.0,
+                                    "param3": 0.0
                                 },
                                 {
                                     "$type": "FireEffect",

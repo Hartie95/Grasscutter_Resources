@@ -2522,16 +2522,16 @@
                                             "luaCallType": "CurGalleryControlGroup",
                                             "isTarget": true,
                                             "funcName": "AddScore",
-                                            "MPBMJIGLEMJ": 3,
-                                            "LIOGECEPJAH": [
+                                            "paramNum": 3,
+                                            "param1": [
                                                 "NormalDamage",
                                                 "ShieldPercentage",
                                                 "Mul",
                                                 "FeverPercentage",
                                                 "Mul"
                                             ],
-                                            "FDDPMCCJIKN": 0.0,
-                                            "KNJMHMKNCKF": 1.0
+                                            "param2": 0.0,
+                                            "param3": 1.0
                                         },
                                         {
                                             "$type": "AddElementDurability",
@@ -2555,16 +2555,16 @@
                                             "luaCallType": "CurGalleryControlGroup",
                                             "isTarget": true,
                                             "funcName": "AddScore",
-                                            "MPBMJIGLEMJ": 3,
-                                            "LIOGECEPJAH": [
+                                            "paramNum": 3,
+                                            "param1": [
                                                 "NormalDamage",
                                                 "FeverPercentage",
                                                 "Mul",
                                                 "PerfectPercentage",
                                                 "Mul"
                                             ],
-                                            "FDDPMCCJIKN": 1.0,
-                                            "KNJMHMKNCKF": 1.0
+                                            "param2": 1.0,
+                                            "param3": 1.0
                                         },
                                         {
                                             "$type": "AddElementDurability",
@@ -2628,16 +2628,16 @@
                                             "luaCallType": "CurGalleryControlGroup",
                                             "isTarget": true,
                                             "funcName": "AddScore",
-                                            "MPBMJIGLEMJ": 3,
-                                            "LIOGECEPJAH": [
+                                            "paramNum": 3,
+                                            "param1": [
                                                 "SoilDamage",
                                                 "ShieldPercentage",
                                                 "Mul",
                                                 "FeverPercentage",
                                                 "Mul"
                                             ],
-                                            "FDDPMCCJIKN": 0.0,
-                                            "KNJMHMKNCKF": 2.0
+                                            "param2": 0.0,
+                                            "param3": 2.0
                                         },
                                         {
                                             "$type": "AddElementDurability",
@@ -2661,16 +2661,16 @@
                                             "luaCallType": "CurGalleryControlGroup",
                                             "isTarget": true,
                                             "funcName": "AddScore",
-                                            "MPBMJIGLEMJ": 3,
-                                            "LIOGECEPJAH": [
+                                            "paramNum": 3,
+                                            "param1": [
                                                 "SoilDamage",
                                                 "FeverPercentage",
                                                 "Mul",
                                                 "PerfectPercentage",
                                                 "Mul"
                                             ],
-                                            "FDDPMCCJIKN": 1.0,
-                                            "KNJMHMKNCKF": 2.0
+                                            "param2": 1.0,
+                                            "param3": 2.0
                                         },
                                         {
                                             "$type": "AddElementDurability",
@@ -2734,16 +2734,16 @@
                                             "luaCallType": "CurGalleryControlGroup",
                                             "isTarget": true,
                                             "funcName": "AddScore",
-                                            "MPBMJIGLEMJ": 3,
-                                            "LIOGECEPJAH": [
+                                            "paramNum": 3,
+                                            "param1": [
                                                 "CurveDamage",
                                                 "ShieldPercentage",
                                                 "Mul",
                                                 "FeverPercentage",
                                                 "Mul"
                                             ],
-                                            "FDDPMCCJIKN": 0.0,
-                                            "KNJMHMKNCKF": 4.0
+                                            "param2": 0.0,
+                                            "param3": 4.0
                                         },
                                         {
                                             "$type": "AddElementDurability",
@@ -2767,16 +2767,16 @@
                                             "luaCallType": "CurGalleryControlGroup",
                                             "isTarget": true,
                                             "funcName": "AddScore",
-                                            "MPBMJIGLEMJ": 3,
-                                            "LIOGECEPJAH": [
+                                            "paramNum": 3,
+                                            "param1": [
                                                 "CurveDamage",
                                                 "FeverPercentage",
                                                 "Mul",
                                                 "PerfectPercentage",
                                                 "Mul"
                                             ],
-                                            "FDDPMCCJIKN": 1.0,
-                                            "KNJMHMKNCKF": 4.0
+                                            "param2": 1.0,
+                                            "param3": 4.0
                                         },
                                         {
                                             "$type": "AddElementDurability",
@@ -2840,16 +2840,16 @@
                                             "luaCallType": "CurGalleryControlGroup",
                                             "isTarget": true,
                                             "funcName": "AddScore",
-                                            "MPBMJIGLEMJ": 3,
-                                            "LIOGECEPJAH": [
+                                            "paramNum": 3,
+                                            "param1": [
                                                 "AttractDamage",
                                                 "ShieldPercentage",
                                                 "Mul",
                                                 "FeverPercentage",
                                                 "Mul"
                                             ],
-                                            "FDDPMCCJIKN": 0.0,
-                                            "KNJMHMKNCKF": 6.0
+                                            "param2": 0.0,
+                                            "param3": 6.0
                                         },
                                         {
                                             "$type": "AddElementDurability",
@@ -2873,16 +2873,16 @@
                                             "luaCallType": "CurGalleryControlGroup",
                                             "isTarget": true,
                                             "funcName": "AddScore",
-                                            "MPBMJIGLEMJ": 3,
-                                            "LIOGECEPJAH": [
+                                            "paramNum": 3,
+                                            "param1": [
                                                 "AttractDamage",
                                                 "FeverPercentage",
                                                 "Mul",
                                                 "PerfectPercentage",
                                                 "Mul"
                                             ],
-                                            "FDDPMCCJIKN": 1.0,
-                                            "KNJMHMKNCKF": 6.0
+                                            "param2": 1.0,
+                                            "param3": 6.0
                                         },
                                         {
                                             "$type": "AddElementDurability",
@@ -2946,16 +2946,16 @@
                                             "luaCallType": "CurGalleryControlGroup",
                                             "isTarget": true,
                                             "funcName": "AddScore",
-                                            "MPBMJIGLEMJ": 3,
-                                            "LIOGECEPJAH": [
+                                            "paramNum": 3,
+                                            "param1": [
                                                 "IceDamage",
                                                 "ShieldPercentage",
                                                 "Mul",
                                                 "FeverPercentage",
                                                 "Mul"
                                             ],
-                                            "FDDPMCCJIKN": 0.0,
-                                            "KNJMHMKNCKF": 3.0
+                                            "param2": 0.0,
+                                            "param3": 3.0
                                         },
                                         {
                                             "$type": "AddElementDurability",
@@ -2979,16 +2979,16 @@
                                             "luaCallType": "CurGalleryControlGroup",
                                             "isTarget": true,
                                             "funcName": "AddScore",
-                                            "MPBMJIGLEMJ": 3,
-                                            "LIOGECEPJAH": [
+                                            "paramNum": 3,
+                                            "param1": [
                                                 "IceDamage",
                                                 "FeverPercentage",
                                                 "Mul",
                                                 "PerfectPercentage",
                                                 "Mul"
                                             ],
-                                            "FDDPMCCJIKN": 1.0,
-                                            "KNJMHMKNCKF": 3.0
+                                            "param2": 1.0,
+                                            "param3": 3.0
                                         },
                                         {
                                             "$type": "AddElementDurability",
@@ -3052,16 +3052,16 @@
                                             "luaCallType": "CurGalleryControlGroup",
                                             "isTarget": true,
                                             "funcName": "AddScore",
-                                            "MPBMJIGLEMJ": 3,
-                                            "LIOGECEPJAH": [
+                                            "paramNum": 3,
+                                            "param1": [
                                                 "SpeedDamage",
                                                 "ShieldPercentage",
                                                 "Mul",
                                                 "FeverPercentage",
                                                 "Mul"
                                             ],
-                                            "FDDPMCCJIKN": 0.0,
-                                            "KNJMHMKNCKF": 5.0
+                                            "param2": 0.0,
+                                            "param3": 5.0
                                         },
                                         {
                                             "$type": "AddElementDurability",
@@ -3085,16 +3085,16 @@
                                             "luaCallType": "CurGalleryControlGroup",
                                             "isTarget": true,
                                             "funcName": "AddScore",
-                                            "MPBMJIGLEMJ": 3,
-                                            "LIOGECEPJAH": [
+                                            "paramNum": 3,
+                                            "param1": [
                                                 "SpeedDamage",
                                                 "FeverPercentage",
                                                 "Mul",
                                                 "PerfectPercentage",
                                                 "Mul"
                                             ],
-                                            "FDDPMCCJIKN": 1.0,
-                                            "KNJMHMKNCKF": 5.0
+                                            "param2": 1.0,
+                                            "param3": 5.0
                                         },
                                         {
                                             "$type": "AddElementDurability",
@@ -3243,16 +3243,16 @@
                                             "luaCallType": "CurGalleryControlGroup",
                                             "isTarget": true,
                                             "funcName": "AddScore",
-                                            "MPBMJIGLEMJ": 3,
-                                            "LIOGECEPJAH": [
+                                            "paramNum": 3,
+                                            "param1": [
                                                 "NormalDamage",
                                                 "ShieldPercentage",
                                                 "Mul",
                                                 "FeverPercentage",
                                                 "Mul"
                                             ],
-                                            "FDDPMCCJIKN": 0.0,
-                                            "KNJMHMKNCKF": 1.0
+                                            "param2": 0.0,
+                                            "param3": 1.0
                                         },
                                         {
                                             "$type": "AddElementDurability",
@@ -3276,16 +3276,16 @@
                                             "luaCallType": "CurGalleryControlGroup",
                                             "isTarget": true,
                                             "funcName": "AddScore",
-                                            "MPBMJIGLEMJ": 3,
-                                            "LIOGECEPJAH": [
+                                            "paramNum": 3,
+                                            "param1": [
                                                 "NormalDamage",
                                                 "FeverPercentage",
                                                 "Mul",
                                                 "PerfectPercentage",
                                                 "Mul"
                                             ],
-                                            "FDDPMCCJIKN": 1.0,
-                                            "KNJMHMKNCKF": 1.0
+                                            "param2": 1.0,
+                                            "param3": 1.0
                                         },
                                         {
                                             "$type": "AddElementDurability",
@@ -3349,16 +3349,16 @@
                                             "luaCallType": "CurGalleryControlGroup",
                                             "isTarget": true,
                                             "funcName": "AddScore",
-                                            "MPBMJIGLEMJ": 3,
-                                            "LIOGECEPJAH": [
+                                            "paramNum": 3,
+                                            "param1": [
                                                 "SoilDamage",
                                                 "ShieldPercentage",
                                                 "Mul",
                                                 "FeverPercentage",
                                                 "Mul"
                                             ],
-                                            "FDDPMCCJIKN": 0.0,
-                                            "KNJMHMKNCKF": 2.0
+                                            "param2": 0.0,
+                                            "param3": 2.0
                                         },
                                         {
                                             "$type": "AddElementDurability",
@@ -3382,16 +3382,16 @@
                                             "luaCallType": "CurGalleryControlGroup",
                                             "isTarget": true,
                                             "funcName": "AddScore",
-                                            "MPBMJIGLEMJ": 3,
-                                            "LIOGECEPJAH": [
+                                            "paramNum": 3,
+                                            "param1": [
                                                 "SoilDamage",
                                                 "FeverPercentage",
                                                 "Mul",
                                                 "PerfectPercentage",
                                                 "Mul"
                                             ],
-                                            "FDDPMCCJIKN": 1.0,
-                                            "KNJMHMKNCKF": 2.0
+                                            "param2": 1.0,
+                                            "param3": 2.0
                                         },
                                         {
                                             "$type": "AddElementDurability",
@@ -3455,16 +3455,16 @@
                                             "luaCallType": "CurGalleryControlGroup",
                                             "isTarget": true,
                                             "funcName": "AddScore",
-                                            "MPBMJIGLEMJ": 3,
-                                            "LIOGECEPJAH": [
+                                            "paramNum": 3,
+                                            "param1": [
                                                 "CurveDamage",
                                                 "ShieldPercentage",
                                                 "Mul",
                                                 "FeverPercentage",
                                                 "Mul"
                                             ],
-                                            "FDDPMCCJIKN": 0.0,
-                                            "KNJMHMKNCKF": 4.0
+                                            "param2": 0.0,
+                                            "param3": 4.0
                                         },
                                         {
                                             "$type": "AddElementDurability",
@@ -3488,16 +3488,16 @@
                                             "luaCallType": "CurGalleryControlGroup",
                                             "isTarget": true,
                                             "funcName": "AddScore",
-                                            "MPBMJIGLEMJ": 3,
-                                            "LIOGECEPJAH": [
+                                            "paramNum": 3,
+                                            "param1": [
                                                 "CurveDamage",
                                                 "FeverPercentage",
                                                 "Mul",
                                                 "PerfectPercentage",
                                                 "Mul"
                                             ],
-                                            "FDDPMCCJIKN": 1.0,
-                                            "KNJMHMKNCKF": 4.0
+                                            "param2": 1.0,
+                                            "param3": 4.0
                                         },
                                         {
                                             "$type": "AddElementDurability",
@@ -3561,16 +3561,16 @@
                                             "luaCallType": "CurGalleryControlGroup",
                                             "isTarget": true,
                                             "funcName": "AddScore",
-                                            "MPBMJIGLEMJ": 3,
-                                            "LIOGECEPJAH": [
+                                            "paramNum": 3,
+                                            "param1": [
                                                 "AttractDamage",
                                                 "ShieldPercentage",
                                                 "Mul",
                                                 "FeverPercentage",
                                                 "Mul"
                                             ],
-                                            "FDDPMCCJIKN": 0.0,
-                                            "KNJMHMKNCKF": 6.0
+                                            "param2": 0.0,
+                                            "param3": 6.0
                                         },
                                         {
                                             "$type": "AddElementDurability",
@@ -3594,16 +3594,16 @@
                                             "luaCallType": "CurGalleryControlGroup",
                                             "isTarget": true,
                                             "funcName": "AddScore",
-                                            "MPBMJIGLEMJ": 3,
-                                            "LIOGECEPJAH": [
+                                            "paramNum": 3,
+                                            "param1": [
                                                 "AttractDamage",
                                                 "FeverPercentage",
                                                 "Mul",
                                                 "PerfectPercentage",
                                                 "Mul"
                                             ],
-                                            "FDDPMCCJIKN": 1.0,
-                                            "KNJMHMKNCKF": 6.0
+                                            "param2": 1.0,
+                                            "param3": 6.0
                                         },
                                         {
                                             "$type": "AddElementDurability",
@@ -3667,16 +3667,16 @@
                                             "luaCallType": "CurGalleryControlGroup",
                                             "isTarget": true,
                                             "funcName": "AddScore",
-                                            "MPBMJIGLEMJ": 3,
-                                            "LIOGECEPJAH": [
+                                            "paramNum": 3,
+                                            "param1": [
                                                 "IceDamage",
                                                 "ShieldPercentage",
                                                 "Mul",
                                                 "FeverPercentage",
                                                 "Mul"
                                             ],
-                                            "FDDPMCCJIKN": 0.0,
-                                            "KNJMHMKNCKF": 3.0
+                                            "param2": 0.0,
+                                            "param3": 3.0
                                         },
                                         {
                                             "$type": "AddElementDurability",
@@ -3700,16 +3700,16 @@
                                             "luaCallType": "CurGalleryControlGroup",
                                             "isTarget": true,
                                             "funcName": "AddScore",
-                                            "MPBMJIGLEMJ": 3,
-                                            "LIOGECEPJAH": [
+                                            "paramNum": 3,
+                                            "param1": [
                                                 "IceDamage",
                                                 "FeverPercentage",
                                                 "Mul",
                                                 "PerfectPercentage",
                                                 "Mul"
                                             ],
-                                            "FDDPMCCJIKN": 1.0,
-                                            "KNJMHMKNCKF": 3.0
+                                            "param2": 1.0,
+                                            "param3": 3.0
                                         },
                                         {
                                             "$type": "AddElementDurability",
@@ -3773,16 +3773,16 @@
                                             "luaCallType": "CurGalleryControlGroup",
                                             "isTarget": true,
                                             "funcName": "AddScore",
-                                            "MPBMJIGLEMJ": 3,
-                                            "LIOGECEPJAH": [
+                                            "paramNum": 3,
+                                            "param1": [
                                                 "SpeedDamage",
                                                 "ShieldPercentage",
                                                 "Mul",
                                                 "FeverPercentage",
                                                 "Mul"
                                             ],
-                                            "FDDPMCCJIKN": 0.0,
-                                            "KNJMHMKNCKF": 5.0
+                                            "param2": 0.0,
+                                            "param3": 5.0
                                         },
                                         {
                                             "$type": "AddElementDurability",
@@ -3806,16 +3806,16 @@
                                             "luaCallType": "CurGalleryControlGroup",
                                             "isTarget": true,
                                             "funcName": "AddScore",
-                                            "MPBMJIGLEMJ": 3,
-                                            "LIOGECEPJAH": [
+                                            "paramNum": 3,
+                                            "param1": [
                                                 "SpeedDamage",
                                                 "FeverPercentage",
                                                 "Mul",
                                                 "PerfectPercentage",
                                                 "Mul"
                                             ],
-                                            "FDDPMCCJIKN": 1.0,
-                                            "KNJMHMKNCKF": 5.0
+                                            "param2": 1.0,
+                                            "param3": 5.0
                                         },
                                         {
                                             "$type": "AddElementDurability",
@@ -3964,16 +3964,16 @@
                                             "luaCallType": "CurGalleryControlGroup",
                                             "isTarget": true,
                                             "funcName": "AddScore",
-                                            "MPBMJIGLEMJ": 3,
-                                            "LIOGECEPJAH": [
+                                            "paramNum": 3,
+                                            "param1": [
                                                 "NormalDamage",
                                                 "ShieldPercentage",
                                                 "Mul",
                                                 "FeverPercentage",
                                                 "Mul"
                                             ],
-                                            "FDDPMCCJIKN": 0.0,
-                                            "KNJMHMKNCKF": 1.0
+                                            "param2": 0.0,
+                                            "param3": 1.0
                                         },
                                         {
                                             "$type": "AddElementDurability",
@@ -3997,16 +3997,16 @@
                                             "luaCallType": "CurGalleryControlGroup",
                                             "isTarget": true,
                                             "funcName": "AddScore",
-                                            "MPBMJIGLEMJ": 3,
-                                            "LIOGECEPJAH": [
+                                            "paramNum": 3,
+                                            "param1": [
                                                 "NormalDamage",
                                                 "FeverPercentage",
                                                 "Mul",
                                                 "PerfectPercentage",
                                                 "Mul"
                                             ],
-                                            "FDDPMCCJIKN": 1.0,
-                                            "KNJMHMKNCKF": 1.0
+                                            "param2": 1.0,
+                                            "param3": 1.0
                                         },
                                         {
                                             "$type": "AddElementDurability",
@@ -4070,16 +4070,16 @@
                                             "luaCallType": "CurGalleryControlGroup",
                                             "isTarget": true,
                                             "funcName": "AddScore",
-                                            "MPBMJIGLEMJ": 3,
-                                            "LIOGECEPJAH": [
+                                            "paramNum": 3,
+                                            "param1": [
                                                 "SoilDamage",
                                                 "ShieldPercentage",
                                                 "Mul",
                                                 "FeverPercentage",
                                                 "Mul"
                                             ],
-                                            "FDDPMCCJIKN": 0.0,
-                                            "KNJMHMKNCKF": 2.0
+                                            "param2": 0.0,
+                                            "param3": 2.0
                                         },
                                         {
                                             "$type": "AddElementDurability",
@@ -4103,16 +4103,16 @@
                                             "luaCallType": "CurGalleryControlGroup",
                                             "isTarget": true,
                                             "funcName": "AddScore",
-                                            "MPBMJIGLEMJ": 3,
-                                            "LIOGECEPJAH": [
+                                            "paramNum": 3,
+                                            "param1": [
                                                 "SoilDamage",
                                                 "FeverPercentage",
                                                 "Mul",
                                                 "PerfectPercentage",
                                                 "Mul"
                                             ],
-                                            "FDDPMCCJIKN": 1.0,
-                                            "KNJMHMKNCKF": 2.0
+                                            "param2": 1.0,
+                                            "param3": 2.0
                                         },
                                         {
                                             "$type": "AddElementDurability",
@@ -4176,16 +4176,16 @@
                                             "luaCallType": "CurGalleryControlGroup",
                                             "isTarget": true,
                                             "funcName": "AddScore",
-                                            "MPBMJIGLEMJ": 3,
-                                            "LIOGECEPJAH": [
+                                            "paramNum": 3,
+                                            "param1": [
                                                 "CurveDamage",
                                                 "ShieldPercentage",
                                                 "Mul",
                                                 "FeverPercentage",
                                                 "Mul"
                                             ],
-                                            "FDDPMCCJIKN": 0.0,
-                                            "KNJMHMKNCKF": 4.0
+                                            "param2": 0.0,
+                                            "param3": 4.0
                                         },
                                         {
                                             "$type": "AddElementDurability",
@@ -4209,16 +4209,16 @@
                                             "luaCallType": "CurGalleryControlGroup",
                                             "isTarget": true,
                                             "funcName": "AddScore",
-                                            "MPBMJIGLEMJ": 3,
-                                            "LIOGECEPJAH": [
+                                            "paramNum": 3,
+                                            "param1": [
                                                 "CurveDamage",
                                                 "FeverPercentage",
                                                 "Mul",
                                                 "PerfectPercentage",
                                                 "Mul"
                                             ],
-                                            "FDDPMCCJIKN": 1.0,
-                                            "KNJMHMKNCKF": 4.0
+                                            "param2": 1.0,
+                                            "param3": 4.0
                                         },
                                         {
                                             "$type": "AddElementDurability",
@@ -4282,16 +4282,16 @@
                                             "luaCallType": "CurGalleryControlGroup",
                                             "isTarget": true,
                                             "funcName": "AddScore",
-                                            "MPBMJIGLEMJ": 3,
-                                            "LIOGECEPJAH": [
+                                            "paramNum": 3,
+                                            "param1": [
                                                 "AttractDamage",
                                                 "ShieldPercentage",
                                                 "Mul",
                                                 "FeverPercentage",
                                                 "Mul"
                                             ],
-                                            "FDDPMCCJIKN": 0.0,
-                                            "KNJMHMKNCKF": 6.0
+                                            "param2": 0.0,
+                                            "param3": 6.0
                                         },
                                         {
                                             "$type": "AddElementDurability",
@@ -4315,16 +4315,16 @@
                                             "luaCallType": "CurGalleryControlGroup",
                                             "isTarget": true,
                                             "funcName": "AddScore",
-                                            "MPBMJIGLEMJ": 3,
-                                            "LIOGECEPJAH": [
+                                            "paramNum": 3,
+                                            "param1": [
                                                 "AttractDamage",
                                                 "FeverPercentage",
                                                 "Mul",
                                                 "PerfectPercentage",
                                                 "Mul"
                                             ],
-                                            "FDDPMCCJIKN": 1.0,
-                                            "KNJMHMKNCKF": 6.0
+                                            "param2": 1.0,
+                                            "param3": 6.0
                                         },
                                         {
                                             "$type": "AddElementDurability",
@@ -4388,16 +4388,16 @@
                                             "luaCallType": "CurGalleryControlGroup",
                                             "isTarget": true,
                                             "funcName": "AddScore",
-                                            "MPBMJIGLEMJ": 3,
-                                            "LIOGECEPJAH": [
+                                            "paramNum": 3,
+                                            "param1": [
                                                 "IceDamage",
                                                 "ShieldPercentage",
                                                 "Mul",
                                                 "FeverPercentage",
                                                 "Mul"
                                             ],
-                                            "FDDPMCCJIKN": 0.0,
-                                            "KNJMHMKNCKF": 3.0
+                                            "param2": 0.0,
+                                            "param3": 3.0
                                         },
                                         {
                                             "$type": "AddElementDurability",
@@ -4421,16 +4421,16 @@
                                             "luaCallType": "CurGalleryControlGroup",
                                             "isTarget": true,
                                             "funcName": "AddScore",
-                                            "MPBMJIGLEMJ": 3,
-                                            "LIOGECEPJAH": [
+                                            "paramNum": 3,
+                                            "param1": [
                                                 "IceDamage",
                                                 "FeverPercentage",
                                                 "Mul",
                                                 "PerfectPercentage",
                                                 "Mul"
                                             ],
-                                            "FDDPMCCJIKN": 1.0,
-                                            "KNJMHMKNCKF": 3.0
+                                            "param2": 1.0,
+                                            "param3": 3.0
                                         },
                                         {
                                             "$type": "AddElementDurability",
@@ -4494,16 +4494,16 @@
                                             "luaCallType": "CurGalleryControlGroup",
                                             "isTarget": true,
                                             "funcName": "AddScore",
-                                            "MPBMJIGLEMJ": 3,
-                                            "LIOGECEPJAH": [
+                                            "paramNum": 3,
+                                            "param1": [
                                                 "SpeedDamage",
                                                 "ShieldPercentage",
                                                 "Mul",
                                                 "FeverPercentage",
                                                 "Mul"
                                             ],
-                                            "FDDPMCCJIKN": 0.0,
-                                            "KNJMHMKNCKF": 5.0
+                                            "param2": 0.0,
+                                            "param3": 5.0
                                         },
                                         {
                                             "$type": "AddElementDurability",
@@ -4527,16 +4527,16 @@
                                             "luaCallType": "CurGalleryControlGroup",
                                             "isTarget": true,
                                             "funcName": "AddScore",
-                                            "MPBMJIGLEMJ": 3,
-                                            "LIOGECEPJAH": [
+                                            "paramNum": 3,
+                                            "param1": [
                                                 "SpeedDamage",
                                                 "FeverPercentage",
                                                 "Mul",
                                                 "PerfectPercentage",
                                                 "Mul"
                                             ],
-                                            "FDDPMCCJIKN": 1.0,
-                                            "KNJMHMKNCKF": 5.0
+                                            "param2": 1.0,
+                                            "param3": 5.0
                                         },
                                         {
                                             "$type": "AddElementDurability",
@@ -4722,9 +4722,9 @@
                             ],
                             "luaCallType": "CurGalleryControlGroup",
                             "funcName": "ShieldDieCount",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         },
                         {
                             "$type": "RemoveModifier",
@@ -4893,9 +4893,9 @@
                                 144003005
                             ],
                             "funcName": "FeverStart",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         },
                         {
                             "$type": "AttachEffect",
@@ -4915,9 +4915,9 @@
                                 144003005
                             ],
                             "funcName": "FeverEnd",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         },
                         {
                             "$type": "SetGlobalValue",

@@ -57,10 +57,10 @@
                     "$type": "ServerLuaCall",
                     "luaCallType": "CurChallengeGroup",
                     "funcName": "SLC_ReportBuffGet",
-                    "MPBMJIGLEMJ": 1,
-                    "LIOGECEPJAH": 2.0,
-                    "FDDPMCCJIKN": 0.0,
-                    "KNJMHMKNCKF": 0.0
+                    "paramNum": 1,
+                    "param1": 2.0,
+                    "param2": 0.0,
+                    "param3": 0.0
                 },
                 {
                     "$type": "RemoveModifier",
@@ -135,10 +135,10 @@
                     "$type": "ServerLuaCall",
                     "luaCallType": "CurChallengeGroup",
                     "funcName": "SLC_ReportBuffGet",
-                    "MPBMJIGLEMJ": 1,
-                    "LIOGECEPJAH": 3.0,
-                    "FDDPMCCJIKN": 0.0,
-                    "KNJMHMKNCKF": 0.0
+                    "paramNum": 1,
+                    "param1": 3.0,
+                    "param2": 0.0,
+                    "param3": 0.0
                 },
                 {
                     "$type": "RemoveModifier",
@@ -316,9 +316,9 @@
                                     "$type": "ServerLuaCall",
                                     "luaCallType": "CurChallengeGroup",
                                     "funcName": "SLC_SpecialIcePillarBreak",
-                                    "LIOGECEPJAH": 0.0,
-                                    "FDDPMCCJIKN": 0.0,
-                                    "KNJMHMKNCKF": 0.0
+                                    "param1": 0.0,
+                                    "param2": 0.0,
+                                    "param3": 0.0
                                 },
                                 {
                                     "$type": "FireEffect",
@@ -516,9 +516,9 @@
                                     "$type": "ServerLuaCall",
                                     "luaCallType": "CurChallengeGroup",
                                     "funcName": "SLC_SpecialIcePillarBreak",
-                                    "LIOGECEPJAH": 0.0,
-                                    "FDDPMCCJIKN": 0.0,
-                                    "KNJMHMKNCKF": 0.0
+                                    "param1": 0.0,
+                                    "param2": 0.0,
+                                    "param3": 0.0
                                 },
                                 {
                                     "$type": "FireEffect",
@@ -613,10 +613,10 @@
                                     "$type": "ServerLuaCall",
                                     "luaCallType": "CurChallengeGroup",
                                     "funcName": "SLC_WinterCampCoinGet",
-                                    "MPBMJIGLEMJ": 1,
-                                    "LIOGECEPJAH": 0.0,
-                                    "FDDPMCCJIKN": 0.0,
-                                    "KNJMHMKNCKF": 0.0
+                                    "paramNum": 1,
+                                    "param1": 0.0,
+                                    "param2": 0.0,
+                                    "param3": 0.0
                                 },
                                 {
                                     "$type": "ApplyModifier",
@@ -683,10 +683,10 @@
                             "$type": "ServerLuaCall",
                             "luaCallType": "CurChallengeGroup",
                             "funcName": "SLC_WinterCampCoinGet",
-                            "MPBMJIGLEMJ": 1,
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "paramNum": 1,
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         },
                         {
                             "$type": "ApplyModifier",
@@ -771,10 +771,10 @@
                     "$type": "ServerLuaCall",
                     "luaCallType": "CurChallengeGroup",
                     "funcName": "SLC_WinterCampCoinGet",
-                    "MPBMJIGLEMJ": 1,
-                    "LIOGECEPJAH": 1.0,
-                    "FDDPMCCJIKN": 0.0,
-                    "KNJMHMKNCKF": 0.0
+                    "paramNum": 1,
+                    "param1": 1.0,
+                    "param2": 0.0,
+                    "param3": 0.0
                 },
                 {
                     "$type": "KillSelf"
@@ -1619,9 +1619,9 @@
                             "$type": "ServerLuaCall",
                             "luaCallType": "FromGroup",
                             "funcName": "GadgetCall_SnowPile_Interact",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 }
@@ -1677,10 +1677,10 @@
                             "$type": "ServerLuaCall",
                             "luaCallType": "CurChallengeGroup",
                             "funcName": "SLC_ReportBuffGet",
-                            "MPBMJIGLEMJ": 1,
-                            "LIOGECEPJAH": 4.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "paramNum": 1,
+                            "param1": 4.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         },
                         {
                             "$type": "FireEffect",

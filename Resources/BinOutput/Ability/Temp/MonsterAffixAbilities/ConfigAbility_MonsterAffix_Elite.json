@@ -1796,9 +1796,9 @@
                                 246001001
                             ],
                             "funcName": "SLC_Activity_BlitzRush_AttackTagTrigger",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 }
@@ -1993,9 +1993,9 @@
                                 246001001
                             ],
                             "funcName": "SLC_Activity_BlitzRush_WeakTrigger",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 },
@@ -3629,10 +3629,10 @@
                         {
                             "$type": "ServerLuaTriggerEvent",
                             "luaCallType": "FromGroup",
-                            "MMGCECLJGCL": "WQBOSSDIE",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "sourceName": "WQBOSSDIE",
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 }

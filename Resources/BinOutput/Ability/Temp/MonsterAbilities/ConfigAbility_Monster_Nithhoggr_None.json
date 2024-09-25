@@ -111,10 +111,10 @@
                         {
                             "$type": "ServerLuaTriggerEvent",
                             "luaCallType": "FromGroup",
-                            "MMGCECLJGCL": "CLEARALL",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "sourceName": "CLEARALL",
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         },
                         {
                             "$type": "SetGlobalValue",
@@ -2287,20 +2287,20 @@
                                 {
                                     "$type": "ServerLuaTriggerEvent",
                                     "luaCallType": "FromGroup",
-                                    "MMGCECLJGCL": "CRYSTAL5",
-                                    "LIOGECEPJAH": 0.0,
-                                    "FDDPMCCJIKN": 0.0,
-                                    "KNJMHMKNCKF": 0.0
+                                    "sourceName": "CRYSTAL5",
+                                    "param1": 0.0,
+                                    "param2": 0.0,
+                                    "param3": 0.0
                                 }
                             ],
                             "failActions": [
                                 {
                                     "$type": "ServerLuaTriggerEvent",
                                     "luaCallType": "FromGroup",
-                                    "MMGCECLJGCL": "CRYSTAL6",
-                                    "LIOGECEPJAH": 0.0,
-                                    "FDDPMCCJIKN": 0.0,
-                                    "KNJMHMKNCKF": 0.0
+                                    "sourceName": "CRYSTAL6",
+                                    "param1": 0.0,
+                                    "param2": 0.0,
+                                    "param3": 0.0
                                 }
                             ]
                         },
@@ -4456,10 +4456,10 @@
                 {
                     "$type": "ServerLuaTriggerEvent",
                     "luaCallType": "FromGroup",
-                    "MMGCECLJGCL": "BOSSDIRT",
-                    "LIOGECEPJAH": 0.0,
-                    "FDDPMCCJIKN": 0.0,
-                    "KNJMHMKNCKF": 0.0
+                    "sourceName": "BOSSDIRT",
+                    "param1": 0.0,
+                    "param2": 0.0,
+                    "param3": 0.0
                 },
                 {
                     "$type": "SetGlobalValue",
@@ -4511,10 +4511,10 @@
                         }
                     ],
                     "luaCallType": "FromGroup",
-                    "MMGCECLJGCL": "CRYSTAL3",
-                    "LIOGECEPJAH": 0.0,
-                    "FDDPMCCJIKN": 0.0,
-                    "KNJMHMKNCKF": 0.0
+                    "sourceName": "CRYSTAL3",
+                    "param1": 0.0,
+                    "param2": 0.0,
+                    "param3": 0.0
                 },
                 {
                     "$type": "ServerLuaTriggerEvent",
@@ -4540,10 +4540,10 @@
                         }
                     ],
                     "luaCallType": "FromGroup",
-                    "MMGCECLJGCL": "CRYSTAL4",
-                    "LIOGECEPJAH": 0.0,
-                    "FDDPMCCJIKN": 0.0,
-                    "KNJMHMKNCKF": 0.0
+                    "sourceName": "CRYSTAL4",
+                    "param1": 0.0,
+                    "param2": 0.0,
+                    "param3": 0.0
                 },
                 {
                     "$type": "ServerLuaTriggerEvent",
@@ -4569,10 +4569,10 @@
                         }
                     ],
                     "luaCallType": "FromGroup",
-                    "MMGCECLJGCL": "CRYSTAL5",
-                    "LIOGECEPJAH": 0.0,
-                    "FDDPMCCJIKN": 0.0,
-                    "KNJMHMKNCKF": 0.0
+                    "sourceName": "CRYSTAL5",
+                    "param1": 0.0,
+                    "param2": 0.0,
+                    "param3": 0.0
                 },
                 {
                     "$type": "ServerLuaTriggerEvent",
@@ -4598,10 +4598,10 @@
                         }
                     ],
                     "luaCallType": "FromGroup",
-                    "MMGCECLJGCL": "CRYSTAL6",
-                    "LIOGECEPJAH": 0.0,
-                    "FDDPMCCJIKN": 0.0,
-                    "KNJMHMKNCKF": 0.0
+                    "sourceName": "CRYSTAL6",
+                    "param1": 0.0,
+                    "param2": 0.0,
+                    "param3": 0.0
                 },
                 {
                     "$type": "ServerLuaTriggerEvent",
@@ -4627,10 +4627,10 @@
                         }
                     ],
                     "luaCallType": "FromGroup",
-                    "MMGCECLJGCL": "CRYSTAL18",
-                    "LIOGECEPJAH": 0.0,
-                    "FDDPMCCJIKN": 0.0,
-                    "KNJMHMKNCKF": 0.0
+                    "sourceName": "CRYSTAL18",
+                    "param1": 0.0,
+                    "param2": 0.0,
+                    "param3": 0.0
                 },
                 {
                     "$type": "ServerLuaTriggerEvent",
@@ -4656,10 +4656,10 @@
                         }
                     ],
                     "luaCallType": "FromGroup",
-                    "MMGCECLJGCL": "CRYSTAL19",
-                    "LIOGECEPJAH": 0.0,
-                    "FDDPMCCJIKN": 0.0,
-                    "KNJMHMKNCKF": 0.0
+                    "sourceName": "CRYSTAL19",
+                    "param1": 0.0,
+                    "param2": 0.0,
+                    "param3": 0.0
                 },
                 {
                     "$type": "SetPoseBool",
@@ -4683,10 +4683,10 @@
                 {
                     "$type": "ServerLuaTriggerEvent",
                     "luaCallType": "FromGroup",
-                    "MMGCECLJGCL": "CLEARALL",
-                    "LIOGECEPJAH": 0.0,
-                    "FDDPMCCJIKN": 0.0,
-                    "KNJMHMKNCKF": 0.0
+                    "sourceName": "CLEARALL",
+                    "param1": 0.0,
+                    "param2": 0.0,
+                    "param3": 0.0
                 }
             ]
         }
@@ -5987,20 +5987,20 @@
                                 {
                                     "$type": "ServerLuaTriggerEvent",
                                     "luaCallType": "FromGroup",
-                                    "MMGCECLJGCL": "CRYSTAL3",
-                                    "LIOGECEPJAH": 0.0,
-                                    "FDDPMCCJIKN": 0.0,
-                                    "KNJMHMKNCKF": 0.0
+                                    "sourceName": "CRYSTAL3",
+                                    "param1": 0.0,
+                                    "param2": 0.0,
+                                    "param3": 0.0
                                 }
                             ],
                             "failActions": [
                                 {
                                     "$type": "ServerLuaTriggerEvent",
                                     "luaCallType": "FromGroup",
-                                    "MMGCECLJGCL": "CRYSTAL4",
-                                    "LIOGECEPJAH": 0.0,
-                                    "FDDPMCCJIKN": 0.0,
-                                    "KNJMHMKNCKF": 0.0
+                                    "sourceName": "CRYSTAL4",
+                                    "param1": 0.0,
+                                    "param2": 0.0,
+                                    "param3": 0.0
                                 }
                             ]
                         },

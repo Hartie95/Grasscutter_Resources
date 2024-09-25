@@ -1513,9 +1513,9 @@
                                 220124001
                             ],
                             "funcName": "SLC_MiniOsial_CARD_3",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 },
@@ -1651,9 +1651,9 @@
                             ],
                             "luaCallType": "FromGroup",
                             "funcName": "SLC_MiniOsial_Injury",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         },
                         {
                             "$type": "SetPoseBool",
@@ -1831,9 +1831,9 @@
                     ],
                     "luaCallType": "FromGroup",
                     "funcName": "SLC_MiniOsial_Watcher_2",
-                    "LIOGECEPJAH": 0.0,
-                    "FDDPMCCJIKN": 0.0,
-                    "KNJMHMKNCKF": 0.0
+                    "param1": 0.0,
+                    "param2": 0.0,
+                    "param3": 0.0
                 },
                 {
                     "$type": "SetGlobalValue",
@@ -4173,9 +4173,9 @@
                                 220124001
                             ],
                             "funcName": "SLC_MiniOsial_Water_Attack",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 },

@@ -5812,10 +5812,10 @@
                             "$type": "ServerLuaCall",
                             "luaCallType": "FromGroup",
                             "funcName": "SLC_Change_EnhanceLevel",
-                            "MPBMJIGLEMJ": 1,
-                            "LIOGECEPJAH": 1.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "paramNum": 1,
+                            "param1": 1.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ],
                     "onRemoved": [
@@ -5823,10 +5823,10 @@
                             "$type": "ServerLuaCall",
                             "luaCallType": "FromGroup",
                             "funcName": "SLC_Change_EnhanceLevel",
-                            "MPBMJIGLEMJ": 1,
-                            "LIOGECEPJAH": -1.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "paramNum": 1,
+                            "param1": -1.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 }
@@ -6495,9 +6495,9 @@
                     "luaCallType": "FromGroup",
                     "isTarget": true,
                     "funcName": "SLC_AddBuildingPointsWhenMonsterDieFall",
-                    "LIOGECEPJAH": 0.0,
-                    "FDDPMCCJIKN": 0.0,
-                    "KNJMHMKNCKF": 0.0
+                    "param1": 0.0,
+                    "param2": 0.0,
+                    "param3": 0.0
                 },
                 {
                     "$type": "ServerLuaCall",
@@ -6511,9 +6511,9 @@
                     "luaCallType": "FromGroup",
                     "isTarget": true,
                     "funcName": "SLC_AddBuildingPointsWhenMonsterDieFall",
-                    "LIOGECEPJAH": 0.0,
-                    "FDDPMCCJIKN": 0.0,
-                    "KNJMHMKNCKF": 0.0
+                    "param1": 0.0,
+                    "param2": 0.0,
+                    "param3": 0.0
                 },
                 {
                     "$type": "ServerLuaCall",
@@ -6527,9 +6527,9 @@
                     "luaCallType": "FromGroup",
                     "isTarget": true,
                     "funcName": "SLC_AddBuildingPointsWhenMonsterDieFall",
-                    "LIOGECEPJAH": 0.0,
-                    "FDDPMCCJIKN": 0.0,
-                    "KNJMHMKNCKF": 0.0
+                    "param1": 0.0,
+                    "param2": 0.0,
+                    "param3": 0.0
                 },
                 {
                     "$type": "DebugLog",
@@ -6604,9 +6604,9 @@
                     "$type": "ServerLuaCall",
                     "luaCallType": "FromGroup",
                     "funcName": "SLC_Monster_Ready",
-                    "LIOGECEPJAH": 0.0,
-                    "FDDPMCCJIKN": 0.0,
-                    "KNJMHMKNCKF": 0.0
+                    "param1": 0.0,
+                    "param2": 0.0,
+                    "param3": 0.0
                 }
             ],
             "isDynamicAbility": true

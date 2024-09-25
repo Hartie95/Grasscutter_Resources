@@ -4269,10 +4269,10 @@
                                 {
                                     "$type": "ServerLuaTriggerEvent",
                                     "luaCallType": "FromGroup",
-                                    "MMGCECLJGCL": "BulletShot",
-                                    "LIOGECEPJAH": 0.0,
-                                    "FDDPMCCJIKN": 0.0,
-                                    "KNJMHMKNCKF": 0.0
+                                    "sourceName": "BulletShot",
+                                    "param1": 0.0,
+                                    "param2": 0.0,
+                                    "param3": 0.0
                                 }
                             ]
                         }
@@ -4527,10 +4527,10 @@
                                 {
                                     "$type": "ServerLuaTriggerEvent",
                                     "luaCallType": "FromGroup",
-                                    "MMGCECLJGCL": "BulletShot",
-                                    "LIOGECEPJAH": 0.0,
-                                    "FDDPMCCJIKN": 0.0,
-                                    "KNJMHMKNCKF": 0.0
+                                    "sourceName": "BulletShot",
+                                    "param1": 0.0,
+                                    "param2": 0.0,
+                                    "param3": 0.0
                                 }
                             ]
                         }
@@ -4839,9 +4839,9 @@
                                     "target": "TargetOriginOwner",
                                     "luaCallType": "FromGroup",
                                     "funcName": "WedgeOfSealBreak",
-                                    "LIOGECEPJAH": 0.0,
-                                    "FDDPMCCJIKN": 0.0,
-                                    "KNJMHMKNCKF": 0.0
+                                    "param1": 0.0,
+                                    "param2": 0.0,
+                                    "param3": 0.0
                                 },
                                 {
                                     "$type": "SetGlobalValue",
@@ -5058,9 +5058,9 @@
                     "luaCallType": "FromGroup",
                     "isTarget": true,
                     "funcName": "DropRockAbyssBulletTrigger",
-                    "LIOGECEPJAH": 0.0,
-                    "FDDPMCCJIKN": 0.0,
-                    "KNJMHMKNCKF": 0.0
+                    "param1": 0.0,
+                    "param2": 0.0,
+                    "param3": 0.0
                 }
             ]
         }
@@ -5126,11 +5126,11 @@
                         {
                             "$type": "ServerLuaTriggerEvent",
                             "luaCallType": "FromGroup",
-                            "MMGCECLJGCL": "test",
-                            "MPBMJIGLEMJ": 3,
-                            "LIOGECEPJAH": 1.0,
-                            "FDDPMCCJIKN": 2.0,
-                            "KNJMHMKNCKF": 3.0
+                            "sourceName": "test",
+                            "paramNum": 3,
+                            "param1": 1.0,
+                            "param2": 2.0,
+                            "param3": 3.0
                         }
                     ]
                 }
@@ -5714,10 +5714,10 @@
                         {
                             "$type": "ServerLuaTriggerEvent",
                             "luaCallType": "FromGroup",
-                            "MMGCECLJGCL": "BombDie",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "sourceName": "BombDie",
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 },
@@ -10034,9 +10034,9 @@
                         {
                             "$type": "ServerLuaCall",
                             "funcName": "DisableIntee",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 },
@@ -10047,9 +10047,9 @@
                         {
                             "$type": "ServerLuaCall",
                             "funcName": "EnableIntee",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         },
                         {
                             "$type": "FireEffect",

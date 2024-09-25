@@ -987,9 +987,9 @@
                     "luaCallType": "CurGalleryControlGroup",
                     "isTarget": true,
                     "funcName": "SpeedBuffCount",
-                    "LIOGECEPJAH": 0.0,
-                    "FDDPMCCJIKN": 0.0,
-                    "KNJMHMKNCKF": 0.0
+                    "param1": 0.0,
+                    "param2": 0.0,
+                    "param3": 0.0
                 },
                 {
                     "$type": "ApplyModifier",

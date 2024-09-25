@@ -257,10 +257,10 @@
                     ],
                     "luaCallType": "FromGroup",
                     "funcName": "SLC_Huarongdao_Selecte",
-                    "MPBMJIGLEMJ": 1,
-                    "LIOGECEPJAH": 1.0,
-                    "FDDPMCCJIKN": 0.0,
-                    "KNJMHMKNCKF": 0.0
+                    "paramNum": 1,
+                    "param1": 1.0,
+                    "param2": 0.0,
+                    "param3": 0.0
                 }
             ],
             "onFieldExit": [
@@ -274,10 +274,10 @@
                     ],
                     "luaCallType": "FromGroup",
                     "funcName": "SLC_Huarongdao_Selecte",
-                    "MPBMJIGLEMJ": 1,
-                    "LIOGECEPJAH": 0.0,
-                    "FDDPMCCJIKN": 0.0,
-                    "KNJMHMKNCKF": 0.0
+                    "paramNum": 1,
+                    "param1": 0.0,
+                    "param2": 0.0,
+                    "param3": 0.0
                 }
             ]
         }
@@ -2088,9 +2088,9 @@
                             ],
                             "luaCallType": "FromGroup",
                             "funcName": "SLC_DarkStair_SetState",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 },

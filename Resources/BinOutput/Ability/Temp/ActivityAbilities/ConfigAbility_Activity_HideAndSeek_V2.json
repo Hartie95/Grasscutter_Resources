@@ -245,9 +245,9 @@
                             "$type": "ServerLuaCall",
                             "luaCallType": "AbilityGroupSourceGroup",
                             "funcName": "HideAndSeek_Skill_CatchPrey",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ],
                     "failActions": [
@@ -534,9 +534,9 @@
                             "$type": "ServerLuaCall",
                             "luaCallType": "AbilityGroupSourceGroup",
                             "funcName": "HideAndSeek_Skill_Guide",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ],
                     "failActions": [
@@ -680,9 +680,9 @@
                             "$type": "ServerLuaCall",
                             "luaCallType": "AbilityGroupSourceGroup",
                             "funcName": "HideAndSeek_Skill_Detect_F_Reset",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 }
@@ -730,9 +730,9 @@
                             "$type": "ServerLuaCall",
                             "luaCallType": "AbilityGroupSourceGroup",
                             "funcName": "HideAndSeek_Skill_Detect_F",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         },
                         {
                             "$type": "FireEffect",
@@ -906,9 +906,9 @@
                             "$type": "ServerLuaCall",
                             "luaCallType": "AbilityGroupSourceGroup",
                             "funcName": "HideAndSeek_Skill_UltraMark",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ],
                     "failActions": [
@@ -1026,9 +1026,9 @@
                             "$type": "ServerLuaCall",
                             "luaCallType": "AbilityGroupSourceGroup",
                             "funcName": "HideAndSeek_Skill_GlobalSight",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ],
                     "failActions": [
@@ -1164,9 +1164,9 @@
                             "$type": "ServerLuaCall",
                             "luaCallType": "AbilityGroupSourceGroup",
                             "funcName": "HideAndSeek_Out_SuperPrison",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 },
@@ -1233,9 +1233,9 @@
                             "$type": "ServerLuaCall",
                             "luaCallType": "AbilityGroupSourceGroup",
                             "funcName": "HideAndSeek_Skill_SuperPrison",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ],
                     "failActions": [
@@ -1394,9 +1394,9 @@
                             "$type": "ServerLuaCall",
                             "luaCallType": "AbilityGroupSourceGroup",
                             "funcName": "HideAndSeek_Skill_Transfer_Quit",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 }
@@ -1479,9 +1479,9 @@
                                     "$type": "ServerLuaCall",
                                     "luaCallType": "AbilityGroupSourceGroup",
                                     "funcName": "HideAndSeek_Skill_Transfer",
-                                    "LIOGECEPJAH": 0.0,
-                                    "FDDPMCCJIKN": 0.0,
-                                    "KNJMHMKNCKF": 0.0
+                                    "param1": 0.0,
+                                    "param2": 0.0,
+                                    "param3": 0.0
                                 },
                                 {
                                     "$type": "DebugLog",
@@ -1509,9 +1509,9 @@
                             "$type": "ServerLuaCall",
                             "luaCallType": "AbilityGroupSourceGroup",
                             "funcName": "HideAndSeek_Skill_Transfer_Quit",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 }
@@ -2413,9 +2413,9 @@
                             "$type": "ServerLuaCall",
                             "luaCallType": "AbilityGroupSourceGroup",
                             "funcName": "HideAndSeek_Skill_Transfer_Quit",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         },
                         {
                             "$type": "DebugLog",
@@ -2573,17 +2573,17 @@
                             "$type": "ServerLuaCall",
                             "luaCallType": "AbilityGroupSourceGroup",
                             "funcName": "HideAndSeek_Skill_Transfer_Quit",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         },
                         {
                             "$type": "ServerLuaCall",
                             "luaCallType": "AbilityGroupSourceGroup",
                             "funcName": "HideAndSeek_Skill_SelfInvisible",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 }
@@ -2787,9 +2787,9 @@
                                     "$type": "ServerLuaCall",
                                     "luaCallType": "AbilityGroupSourceGroup",
                                     "funcName": "HideAndSeek_Skill_PlaceBait",
-                                    "LIOGECEPJAH": 0.0,
-                                    "FDDPMCCJIKN": 0.0,
-                                    "KNJMHMKNCKF": 0.0
+                                    "param1": 0.0,
+                                    "param2": 0.0,
+                                    "param3": 0.0
                                 },
                                 {
                                     "$type": "SetGlobalValue",
@@ -2896,9 +2896,9 @@
                             "$type": "ServerLuaCall",
                             "luaCallType": "AbilityGroupSourceGroup",
                             "funcName": "HideAndSeek_Skill_Sprint_Quit",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 }
@@ -2939,9 +2939,9 @@
                             "$type": "ServerLuaCall",
                             "luaCallType": "AbilityGroupSourceGroup",
                             "funcName": "HideAndSeek_Skill_Sprint",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         },
                         {
                             "$type": "DebugLog",
@@ -2967,9 +2967,9 @@
                             "doOffStage": true,
                             "luaCallType": "AbilityGroupSourceGroup",
                             "funcName": "HideAndSeek_Skill_Init",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         },
                         {
                             "$type": "DebugLog",
@@ -3227,9 +3227,9 @@
                             "doOffStage": true,
                             "luaCallType": "AbilityGroupSourceGroup",
                             "funcName": "HideAndSeek_Skill_Init",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         },
                         {
                             "$type": "DebugLog",
@@ -3473,9 +3473,9 @@
                             "doOffStage": true,
                             "luaCallType": "AbilityGroupSourceGroup",
                             "funcName": "HideAndSeek_Out_UltraMark",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 },
@@ -3641,9 +3641,9 @@
                             "doOffStage": true,
                             "luaCallType": "AbilityGroupSourceGroup",
                             "funcName": "HideAndSeek_Out_GlobalSight",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 }
@@ -3847,9 +3847,9 @@
                             "$type": "ServerLuaCall",
                             "luaCallType": "AbilityGroupSourceGroup",
                             "funcName": "HideAndSeek_Out_SuperPrison",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 }
@@ -4283,9 +4283,9 @@
                             "$type": "ServerLuaCall",
                             "luaCallType": "AbilityGroupSourceGroup",
                             "funcName": "HideAndSeek_Skill_SelfInvisible_Quit",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         },
                         {
                             "$type": "FireEffect",
@@ -4486,9 +4486,9 @@
                             "$type": "ServerLuaCall",
                             "luaCallType": "AbilityGroupSourceGroup",
                             "funcName": "HideAndSeek_Skill_Is_Detected_Quit",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 },

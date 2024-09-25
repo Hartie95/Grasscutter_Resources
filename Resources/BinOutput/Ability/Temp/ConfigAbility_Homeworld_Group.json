@@ -473,9 +473,9 @@
                             ],
                             "luaCallType": "FromGroup",
                             "funcName": "EnterField",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         },
                         {
                             "$type": "SetMaterialParamFloatByTransform",
@@ -658,10 +658,10 @@
                             "$type": "ServerLuaCall",
                             "luaCallType": "CurGalleryControlGroup",
                             "funcName": "Homeworld_Gallery_ShootBalloon",
-                            "MPBMJIGLEMJ": 1,
-                            "LIOGECEPJAH": 1.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "paramNum": 1,
+                            "param1": 1.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         },
                         {
                             "$type": "SetGlobalValue",
@@ -714,10 +714,10 @@
                             "$type": "ServerLuaCall",
                             "luaCallType": "CurGalleryControlGroup",
                             "funcName": "Homeworld_Gallery_ShootBalloon",
-                            "MPBMJIGLEMJ": 1,
-                            "LIOGECEPJAH": 2.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "paramNum": 1,
+                            "param1": 2.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         },
                         {
                             "$type": "SetGlobalValue",

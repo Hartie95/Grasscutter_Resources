@@ -449,9 +449,9 @@
                                 235800003
                             ],
                             "funcName": "OnEnterWrongFloor",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 },
@@ -857,9 +857,9 @@
                                 235800001
                             ],
                             "funcName": "SubFloorHitScore",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 }
@@ -1393,9 +1393,9 @@
                             "luaCallType": "CurGalleryControlGroup",
                             "isTarget": true,
                             "funcName": "AddWindFloraScore",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 },
@@ -1409,9 +1409,9 @@
                             "luaCallType": "CurGalleryControlGroup",
                             "isTarget": true,
                             "funcName": "SubWindFloraScore",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 },
@@ -1819,9 +1819,9 @@
                             "luaCallType": "CurGalleryControlGroup",
                             "isTarget": true,
                             "funcName": "AddWindFloraScore",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 },
@@ -1974,9 +1974,9 @@
                             "luaCallType": "CurGalleryControlGroup",
                             "isTarget": true,
                             "funcName": "AddWindFloraScore",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 },
@@ -2260,9 +2260,9 @@
                             "luaCallType": "CurGalleryControlGroup",
                             "isTarget": true,
                             "funcName": "SubWindFloraScore",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 },
@@ -2433,9 +2433,9 @@
                                 235800001
                             ],
                             "funcName": "SubBubbleGameScore",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         },
                         {
                             "$type": "AttachEffect",
@@ -2558,9 +2558,9 @@
                                 235800001
                             ],
                             "funcName": "SubBubbleGameScore",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         },
                         {
                             "$type": "AttachEffect",
@@ -3102,18 +3102,18 @@
                                 235800001
                             ],
                             "funcName": "SubBulletGameScore",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         },
                         {
                             "$type": "ServerLuaCall",
                             "luaCallType": "CurGalleryControlGroup",
                             "isTarget": true,
                             "funcName": "HitByBullet",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 },
@@ -3204,18 +3204,18 @@
                                 235800001
                             ],
                             "funcName": "SubBulletGameScore",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         },
                         {
                             "$type": "ServerLuaCall",
                             "luaCallType": "CurGalleryControlGroup",
                             "isTarget": true,
                             "funcName": "HitByBullet",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 },
@@ -3306,18 +3306,18 @@
                                 235800001
                             ],
                             "funcName": "SubBulletGameScore",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         },
                         {
                             "$type": "ServerLuaCall",
                             "luaCallType": "CurGalleryControlGroup",
                             "isTarget": true,
                             "funcName": "HitByBullet",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 },
@@ -3408,18 +3408,18 @@
                                 235800001
                             ],
                             "funcName": "SubBulletGameScore",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         },
                         {
                             "$type": "ServerLuaCall",
                             "luaCallType": "CurGalleryControlGroup",
                             "isTarget": true,
                             "funcName": "HitByBullet",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 },
@@ -3510,18 +3510,18 @@
                                 235800001
                             ],
                             "funcName": "SubBulletGameScore",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         },
                         {
                             "$type": "ServerLuaCall",
                             "luaCallType": "CurGalleryControlGroup",
                             "isTarget": true,
                             "funcName": "HitByBullet",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 },
@@ -3628,18 +3628,18 @@
                                 235800001
                             ],
                             "funcName": "SubBulletGameScore",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         },
                         {
                             "$type": "ServerLuaCall",
                             "luaCallType": "CurGalleryControlGroup",
                             "isTarget": true,
                             "funcName": "HitByBullet",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 },
@@ -3757,18 +3757,18 @@
                                 235800001
                             ],
                             "funcName": "SubBulletGameScore",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         },
                         {
                             "$type": "ServerLuaCall",
                             "luaCallType": "CurGalleryControlGroup",
                             "isTarget": true,
                             "funcName": "HitByBullet",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 },
@@ -3886,18 +3886,18 @@
                                 235800001
                             ],
                             "funcName": "SubBulletGameScore",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         },
                         {
                             "$type": "ServerLuaCall",
                             "luaCallType": "CurGalleryControlGroup",
                             "isTarget": true,
                             "funcName": "HitByBullet",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 },
@@ -4015,18 +4015,18 @@
                                 235800001
                             ],
                             "funcName": "SubBulletGameScore",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         },
                         {
                             "$type": "ServerLuaCall",
                             "luaCallType": "CurGalleryControlGroup",
                             "isTarget": true,
                             "funcName": "HitByBullet",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 },
@@ -4144,18 +4144,18 @@
                                 235800001
                             ],
                             "funcName": "SubBulletGameScore",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         },
                         {
                             "$type": "ServerLuaCall",
                             "luaCallType": "CurGalleryControlGroup",
                             "isTarget": true,
                             "funcName": "HitByBullet",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 }
@@ -4274,18 +4274,18 @@
                                 235800001
                             ],
                             "funcName": "SubBulletGameScore",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         },
                         {
                             "$type": "ServerLuaCall",
                             "luaCallType": "CurGalleryControlGroup",
                             "isTarget": true,
                             "funcName": "HitByBullet",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 }
@@ -4415,9 +4415,9 @@
                         235800001
                     ],
                     "funcName": "SubRayHitScore",
-                    "LIOGECEPJAH": 0.0,
-                    "FDDPMCCJIKN": 0.0,
-                    "KNJMHMKNCKF": 0.0
+                    "param1": 0.0,
+                    "param2": 0.0,
+                    "param3": 0.0
                 }
             ]
         }
@@ -5806,18 +5806,18 @@
                                 235800001
                             ],
                             "funcName": "SubBulletGameScore",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         },
                         {
                             "$type": "ServerLuaCall",
                             "luaCallType": "CurGalleryControlGroup",
                             "isTarget": true,
                             "funcName": "HitByBullet",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 },
@@ -5964,18 +5964,18 @@
                                 235800001
                             ],
                             "funcName": "SubBulletGameScore",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         },
                         {
                             "$type": "ServerLuaCall",
                             "luaCallType": "CurGalleryControlGroup",
                             "isTarget": true,
                             "funcName": "HitByBullet",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 },
@@ -6103,18 +6103,18 @@
                                 235800001
                             ],
                             "funcName": "SubBulletGameScore",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         },
                         {
                             "$type": "ServerLuaCall",
                             "luaCallType": "CurGalleryControlGroup",
                             "isTarget": true,
                             "funcName": "HitByBullet",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 },
@@ -6242,18 +6242,18 @@
                                 235800001
                             ],
                             "funcName": "SubBulletGameScore",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         },
                         {
                             "$type": "ServerLuaCall",
                             "luaCallType": "CurGalleryControlGroup",
                             "isTarget": true,
                             "funcName": "HitByBullet",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 },
@@ -6424,9 +6424,9 @@
                                 235800001
                             ],
                             "funcName": "SubBubbleGameScore",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         },
                         {
                             "$type": "ApplyModifier",

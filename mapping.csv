@@ -135,6 +135,7 @@ NBMAOCCGJBH,preActivityQuestId
 DDHKCFPAPEH,activityQuestId
 IJKCHDAKIEH,preQuestIdMap
 LJNFLMDNJKL,preQuestIdList
+<<<<<<< HEAD
 HPAAOMPPFEJ,voiceTitleTextMapHash
 PPGIKFJJFIP,voiceDescTextMapHash
 DKFOHJLEPDD,voiceList
@@ -147,3 +148,10 @@ GKMMNELDFKB,markID
 DNIOBEBKMCO,exclusiveSceneTags
 HDOLMOGMJMA,markTipTitleTextMapHash
 NLJFNILCEDC,markTipContentTextMapHash
+=======
+MMGCECLJGCL,sourceName
+LIOGECEPJAH,param1
+FDDPMCCJIKN,param2
+KNJMHMKNCKF,param3
+MPBMJIGLEMJ,paramNum
+>>>>>>> 19d0c01db ([Deobfuscation] Deobfuscated some fields for ServerLuaCall and ServerLuaTriggerEvent)

@@ -1308,9 +1308,9 @@
                                     "luaCallType": "CurGalleryControlGroup",
                                     "isTarget": true,
                                     "funcName": "AutoReturnCount",
-                                    "LIOGECEPJAH": 0.0,
-                                    "FDDPMCCJIKN": 0.0,
-                                    "KNJMHMKNCKF": 0.0
+                                    "param1": 0.0,
+                                    "param2": 0.0,
+                                    "param3": 0.0
                                 }
                             ]
                         }
@@ -1464,9 +1464,9 @@
                                             "luaCallType": "CurGalleryControlGroup",
                                             "isTarget": true,
                                             "funcName": "SoilBallCount",
-                                            "LIOGECEPJAH": 0.0,
-                                            "FDDPMCCJIKN": 0.0,
-                                            "KNJMHMKNCKF": 0.0
+                                            "param1": 0.0,
+                                            "param2": 0.0,
+                                            "param3": 0.0
                                         }
                                     ]
                                 },
@@ -1486,9 +1486,9 @@
                                             "luaCallType": "CurGalleryControlGroup",
                                             "isTarget": true,
                                             "funcName": "IceBallCount",
-                                            "LIOGECEPJAH": 0.0,
-                                            "FDDPMCCJIKN": 0.0,
-                                            "KNJMHMKNCKF": 0.0
+                                            "param1": 0.0,
+                                            "param2": 0.0,
+                                            "param3": 0.0
                                         }
                                     ]
                                 },
@@ -1508,9 +1508,9 @@
                                             "luaCallType": "CurGalleryControlGroup",
                                             "isTarget": true,
                                             "funcName": "CurveBallCount",
-                                            "LIOGECEPJAH": 0.0,
-                                            "FDDPMCCJIKN": 0.0,
-                                            "KNJMHMKNCKF": 0.0
+                                            "param1": 0.0,
+                                            "param2": 0.0,
+                                            "param3": 0.0
                                         }
                                     ]
                                 },
@@ -1530,9 +1530,9 @@
                                             "luaCallType": "CurGalleryControlGroup",
                                             "isTarget": true,
                                             "funcName": "SpeedBallCount",
-                                            "LIOGECEPJAH": 0.0,
-                                            "FDDPMCCJIKN": 0.0,
-                                            "KNJMHMKNCKF": 0.0
+                                            "param1": 0.0,
+                                            "param2": 0.0,
+                                            "param3": 0.0
                                         }
                                     ]
                                 }

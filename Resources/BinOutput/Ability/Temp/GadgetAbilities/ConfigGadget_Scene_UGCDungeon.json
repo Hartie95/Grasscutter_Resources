@@ -73,9 +73,9 @@
                             "$type": "ServerLuaCall",
                             "luaCallType": "CurChallengeGroup",
                             "funcName": "SLC_UGC_CoinDie",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 }
@@ -270,9 +270,9 @@
                             "luaCallType": "CurChallengeGroup",
                             "isTarget": true,
                             "funcName": "SLC_UGC_HitBySpike",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 }
@@ -334,9 +334,9 @@
                             "luaCallType": "CurChallengeGroup",
                             "isTarget": true,
                             "funcName": "SLC_UGC_HitBySpike",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 }
@@ -481,9 +481,9 @@
                             "luaCallType": "CurChallengeGroup",
                             "isTarget": true,
                             "funcName": "SLC_UGC_HitBySpike",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 }
@@ -1043,9 +1043,9 @@
                             "luaCallType": "CurChallengeGroup",
                             "isTarget": true,
                             "funcName": "SLC_UGC_ArriveDest",
-                            "LIOGECEPJAH": 1.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 1.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         },
                         {
                             "$type": "AttachEffect",
@@ -1522,9 +1522,9 @@
                             "luaCallType": "CurChallengeGroup",
                             "isTarget": true,
                             "funcName": "SLC_UGC_HitByBullet",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 },
@@ -1613,9 +1613,9 @@
                             "luaCallType": "CurChallengeGroup",
                             "isTarget": true,
                             "funcName": "SLC_UGC_HitByBullet",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 },
@@ -1704,9 +1704,9 @@
                             "luaCallType": "CurChallengeGroup",
                             "isTarget": true,
                             "funcName": "SLC_UGC_HitByBullet",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 },
@@ -1795,9 +1795,9 @@
                             "luaCallType": "CurChallengeGroup",
                             "isTarget": true,
                             "funcName": "SLC_UGC_HitByBullet",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 },
@@ -2136,9 +2136,9 @@
                             "luaCallType": "CurChallengeGroup",
                             "isTarget": true,
                             "funcName": "SLC_UGC_HitByBullet",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 },
@@ -2227,9 +2227,9 @@
                             "luaCallType": "CurChallengeGroup",
                             "isTarget": true,
                             "funcName": "SLC_UGC_HitByBullet",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 },
@@ -2318,9 +2318,9 @@
                             "luaCallType": "CurChallengeGroup",
                             "isTarget": true,
                             "funcName": "SLC_UGC_HitByBullet",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 },
@@ -2409,9 +2409,9 @@
                             "luaCallType": "CurChallengeGroup",
                             "isTarget": true,
                             "funcName": "SLC_UGC_HitByBullet",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 },
@@ -3754,9 +3754,9 @@
                             "luaCallType": "CurChallengeGroup",
                             "isTarget": true,
                             "funcName": "SLC_UGC_HitByBullet",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ],
                     "onThinkInterval": [
@@ -4186,9 +4186,9 @@
                             "luaCallType": "CurChallengeGroup",
                             "isTarget": true,
                             "funcName": "SLC_UGC_HitBySpike",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 }
@@ -4230,9 +4230,9 @@
                             "luaCallType": "CurChallengeGroup",
                             "isTarget": true,
                             "funcName": "SLC_UGC_Synchronizer",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 }

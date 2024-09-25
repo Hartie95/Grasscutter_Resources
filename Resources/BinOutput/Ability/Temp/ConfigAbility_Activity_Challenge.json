@@ -711,9 +711,9 @@
                                 133001577
                             ],
                             "funcName": "Activity_Arena_ShockAreaAttack",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 }
@@ -786,9 +786,9 @@
                                 133001582
                             ],
                             "funcName": "Activity_Arena_FallingAreaAttack",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         },
                         {
                             "$type": "AddGlobalValue",

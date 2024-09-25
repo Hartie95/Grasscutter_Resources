@@ -5159,9 +5159,9 @@
                             "luaCallType": "CurGalleryControlGroup",
                             "isTarget": true,
                             "funcName": "HitByBall",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 },
@@ -5265,9 +5265,9 @@
                             "luaCallType": "CurGalleryControlGroup",
                             "isTarget": true,
                             "funcName": "HitByBall",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 },
@@ -5371,9 +5371,9 @@
                             "luaCallType": "CurGalleryControlGroup",
                             "isTarget": true,
                             "funcName": "HitByBall",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 },
@@ -5477,9 +5477,9 @@
                             "luaCallType": "CurGalleryControlGroup",
                             "isTarget": true,
                             "funcName": "HitByBall",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         },
                         {
                             "$type": "ServerLuaCall",
@@ -5487,9 +5487,9 @@
                             "luaCallType": "CurGalleryControlGroup",
                             "isTarget": true,
                             "funcName": "BeingForzen",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 },
@@ -5664,9 +5664,9 @@
                             "luaCallType": "CurGalleryControlGroup",
                             "isTarget": true,
                             "funcName": "HitByBall",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         },
                         {
                             "$type": "ServerLuaCall",
@@ -5674,9 +5674,9 @@
                             "luaCallType": "CurGalleryControlGroup",
                             "isTarget": true,
                             "funcName": "BeingDirty",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 },
@@ -5806,9 +5806,9 @@
                             "luaCallType": "CurGalleryControlGroup",
                             "isTarget": true,
                             "funcName": "HitByBall",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 },
@@ -5912,9 +5912,9 @@
                             "luaCallType": "CurGalleryControlGroup",
                             "isTarget": true,
                             "funcName": "HitByBall",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 },
@@ -6025,9 +6025,9 @@
                             "luaCallType": "CurGalleryControlGroup",
                             "isTarget": true,
                             "funcName": "HitByBall",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 },
@@ -8204,9 +8204,9 @@
                     "luaCallType": "CurGalleryControlGroup",
                     "isTarget": true,
                     "funcName": "PepperBuffCount",
-                    "LIOGECEPJAH": 0.0,
-                    "FDDPMCCJIKN": 0.0,
-                    "KNJMHMKNCKF": 0.0
+                    "param1": 0.0,
+                    "param2": 0.0,
+                    "param3": 0.0
                 },
                 {
                     "$type": "FireEffect",
@@ -8289,9 +8289,9 @@
                                     "$type": "ServerLuaCall",
                                     "luaCallType": "CurGalleryControlGroup",
                                     "funcName": "TargetAddScore",
-                                    "LIOGECEPJAH": 0.0,
-                                    "FDDPMCCJIKN": 0.0,
-                                    "KNJMHMKNCKF": 0.0
+                                    "param1": 0.0,
+                                    "param2": 0.0,
+                                    "param3": 0.0
                                 },
                                 {
                                     "$type": "FireEffect",
@@ -8396,9 +8396,9 @@
                     "luaCallType": "CurGalleryControlGroup",
                     "isTarget": true,
                     "funcName": "GoldPAPACount",
-                    "LIOGECEPJAH": 0.0,
-                    "FDDPMCCJIKN": 0.0,
-                    "KNJMHMKNCKF": 0.0
+                    "param1": 0.0,
+                    "param2": 0.0,
+                    "param3": 0.0
                 },
                 {
                     "$type": "FireEffect",

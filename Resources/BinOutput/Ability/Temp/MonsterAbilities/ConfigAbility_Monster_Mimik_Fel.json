@@ -223,9 +223,9 @@
                                 133002066
                             ],
                             "funcName": "SLC_Watcher_OnHitBy_SkillA",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 }
@@ -1741,10 +1741,10 @@
                             ],
                             "luaCallType": "FromGroup",
                             "funcName": "SLC_TryCreateGadget",
-                            "MPBMJIGLEMJ": 1,
-                            "LIOGECEPJAH": 1.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "paramNum": 1,
+                            "param1": 1.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         },
                         {
                             "$type": "ServerLuaCall",
@@ -1758,10 +1758,10 @@
                             ],
                             "luaCallType": "FromGroup",
                             "funcName": "SLC_TryCreateGadget",
-                            "MPBMJIGLEMJ": 1,
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "paramNum": 1,
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         },
                         {
                             "$type": "ShowReminder",
@@ -1846,10 +1846,10 @@
                                     "$type": "ServerLuaCall",
                                     "luaCallType": "FromGroup",
                                     "funcName": "SLC_TryCreateGadget",
-                                    "MPBMJIGLEMJ": 1,
-                                    "LIOGECEPJAH": 1.0,
-                                    "FDDPMCCJIKN": 0.0,
-                                    "KNJMHMKNCKF": 0.0
+                                    "paramNum": 1,
+                                    "param1": 1.0,
+                                    "param2": 0.0,
+                                    "param3": 0.0
                                 }
                             ]
                         },
@@ -1867,10 +1867,10 @@
                                     "$type": "ServerLuaCall",
                                     "luaCallType": "FromGroup",
                                     "funcName": "SLC_TryCreateGadget",
-                                    "MPBMJIGLEMJ": 1,
-                                    "LIOGECEPJAH": 0.0,
-                                    "FDDPMCCJIKN": 0.0,
-                                    "KNJMHMKNCKF": 0.0
+                                    "paramNum": 1,
+                                    "param1": 0.0,
+                                    "param2": 0.0,
+                                    "param3": 0.0
                                 },
                                 {
                                     "$type": "CreateGadget",
@@ -1908,19 +1908,19 @@
                                     "$type": "ServerLuaCall",
                                     "luaCallType": "FromGroup",
                                     "funcName": "SLC_TryCreateGadget",
-                                    "MPBMJIGLEMJ": 1,
-                                    "LIOGECEPJAH": 1.0,
-                                    "FDDPMCCJIKN": 0.0,
-                                    "KNJMHMKNCKF": 0.0
+                                    "paramNum": 1,
+                                    "param1": 1.0,
+                                    "param2": 0.0,
+                                    "param3": 0.0
                                 },
                                 {
                                     "$type": "ServerLuaCall",
                                     "luaCallType": "FromGroup",
                                     "funcName": "SLC_TryCreateGadget",
-                                    "MPBMJIGLEMJ": 1,
-                                    "LIOGECEPJAH": 0.0,
-                                    "FDDPMCCJIKN": 0.0,
-                                    "KNJMHMKNCKF": 0.0
+                                    "paramNum": 1,
+                                    "param1": 0.0,
+                                    "param2": 0.0,
+                                    "param3": 0.0
                                 }
                             ]
                         },
@@ -2004,19 +2004,19 @@
                             "$type": "ServerLuaCall",
                             "luaCallType": "FromGroup",
                             "funcName": "SLC_TryCreateGadget",
-                            "MPBMJIGLEMJ": 1,
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "paramNum": 1,
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         },
                         {
                             "$type": "ServerLuaCall",
                             "luaCallType": "FromGroup",
                             "funcName": "SLC_TryCreateGadget",
-                            "MPBMJIGLEMJ": 1,
-                            "LIOGECEPJAH": 1.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "paramNum": 1,
+                            "param1": 1.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         },
                         {
                             "$type": "ShowReminder",
@@ -2933,9 +2933,9 @@
                                 133002066
                             ],
                             "funcName": "SLC_Watcher_OnHitBy_SkillB",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 },
@@ -3183,10 +3183,10 @@
                     "$type": "ServerLuaCall",
                     "luaCallType": "FromGroup",
                     "funcName": "SLC_GadgetTryCreateMonster",
-                    "MPBMJIGLEMJ": 1,
-                    "LIOGECEPJAH": 1.0,
-                    "FDDPMCCJIKN": 0.0,
-                    "KNJMHMKNCKF": 0.0
+                    "paramNum": 1,
+                    "param1": 1.0,
+                    "param2": 0.0,
+                    "param3": 0.0
                 }
             ]
         }
@@ -3743,9 +3743,9 @@
                             "$type": "ServerLuaCall",
                             "luaCallType": "FromGroup",
                             "funcName": "SLC_Get_PlayerCount",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ]
                 }
@@ -3759,9 +3759,9 @@
                     "$type": "ServerLuaCall",
                     "luaCallType": "FromGroup",
                     "funcName": "SLC_Get_PlayerCount",
-                    "LIOGECEPJAH": 0.0,
-                    "FDDPMCCJIKN": 0.0,
-                    "KNJMHMKNCKF": 0.0
+                    "param1": 0.0,
+                    "param2": 0.0,
+                    "param3": 0.0
                 },
                 {
                     "$type": "SetOverrideMapValue",
@@ -3782,9 +3782,9 @@
                     "$type": "ServerLuaCall",
                     "luaCallType": "FromGroup",
                     "funcName": "SLC_Get_PlayerCount",
-                    "LIOGECEPJAH": 0.0,
-                    "FDDPMCCJIKN": 0.0,
-                    "KNJMHMKNCKF": 0.0
+                    "param1": 0.0,
+                    "param2": 0.0,
+                    "param3": 0.0
                 },
                 {
                     "$type": "SetOverrideMapValue",
@@ -4001,9 +4001,9 @@
                             "$type": "ServerLuaCall",
                             "luaCallType": "CurScenePlay",
                             "funcName": "SLC_Player_PickUp",
-                            "LIOGECEPJAH": 0.0,
-                            "FDDPMCCJIKN": 0.0,
-                            "KNJMHMKNCKF": 0.0
+                            "param1": 0.0,
+                            "param2": 0.0,
+                            "param3": 0.0
                         }
                     ],
                     "onThinkInterval": [
