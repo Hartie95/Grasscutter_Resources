@@ -37,7 +37,7 @@
     },
     {
         "FBJKMMPAOOL": 105,
-        "KNMCLOFEBHB": true,
+        "isDefaultUnlock": true,
         "EIMHGFINNBN": true,
         "NBECKKKEOAK": true,
         "cityId": 1,
@@ -83,7 +83,7 @@
     },
     {
         "FBJKMMPAOOL": 110,
-        "KNMCLOFEBHB": true,
+        "isDefaultUnlock": true,
         "EIMHGFINNBN": true,
         "NBECKKKEOAK": true,
         "cityId": 1,
@@ -183,7 +183,7 @@
     },
     {
         "FBJKMMPAOOL": 121,
-        "KNMCLOFEBHB": true,
+        "isDefaultUnlock": true,
         "EIMHGFINNBN": true,
         "NBECKKKEOAK": true,
         "cityId": 1,
@@ -238,7 +238,7 @@
     },
     {
         "FBJKMMPAOOL": 201,
-        "KNMCLOFEBHB": true,
+        "isDefaultUnlock": true,
         "EIMHGFINNBN": true,
         "NBECKKKEOAK": true,
         "cityId": 2,
@@ -248,7 +248,7 @@
     },
     {
         "FBJKMMPAOOL": 202,
-        "KNMCLOFEBHB": true,
+        "isDefaultUnlock": true,
         "EIMHGFINNBN": true,
         "NBECKKKEOAK": true,
         "cityId": 2,
@@ -456,7 +456,7 @@
     },
     {
         "FBJKMMPAOOL": 225,
-        "KNMCLOFEBHB": true,
+        "isDefaultUnlock": true,
         "EIMHGFINNBN": true,
         "NBECKKKEOAK": true,
         "cityId": 2,

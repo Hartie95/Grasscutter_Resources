@@ -1,187 +1,187 @@
 [
     {
         "skinId": 200301,
-        "KJIAKOKHKBO": 2,
+        "indexID": 2,
         "nameTextMapHash": 1504245738,
         "descTextMapHash": 3529954098,
         "itemId": 340001,
         "characterId": 10000003,
         "jsonName": "Avatar_Lady_Sword_QinCostumeSea",
-        "DFLECMBEBKA": 9215865218573512220,
-        "NLFKNEIPADH": 17992774763103845215,
-        "BILHGPLPHPH": 2693372009414780113,
-        "FAEALPPCLJK": 16220654252350373708,
+        "prefab_pathHash": 9215865218573512220,
+        "prefab_remote_pathHash": 17992774763103845215,
+        "prefab_npc_pathHash": 2693372009414780113,
+        "prefab_manekin_pathHash": 16220654252350373708,
         "quality": 4,
-        "GAKJDLMBFHJ": "UI_AvatarIcon_QinCostumeSea",
+        "frontIconName": "UI_AvatarIcon_QinCostumeSea",
         "sideIconName": "UI_AvatarIcon_Side_QinCostumeSea",
-        "ENPOAHAHBPN": 7856783315815955830
+        "imageNameHash": 7856783315815955830
     },
     {
         "skinId": 201401,
-        "KJIAKOKHKBO": 1,
+        "indexID": 1,
         "nameTextMapHash": 4121525482,
         "descTextMapHash": 2644173682,
         "itemId": 340000,
         "characterId": 10000014,
         "jsonName": "Avatar_Girl_Catalyst_BarbaraCostumeSummertime",
-        "DFLECMBEBKA": 10565960914446858292,
-        "NLFKNEIPADH": 10341761028724614104,
-        "BILHGPLPHPH": 5183081712927355219,
-        "FAEALPPCLJK": 7590386921274555252,
+        "prefab_pathHash": 10565960914446858292,
+        "prefab_remote_pathHash": 10341761028724614104,
+        "prefab_npc_pathHash": 5183081712927355219,
+        "prefab_manekin_pathHash": 7590386921274555252,
         "quality": 4,
-        "GAKJDLMBFHJ": "UI_AvatarIcon_BarbaraCostumeSummertime",
+        "frontIconName": "UI_AvatarIcon_BarbaraCostumeSummertime",
         "sideIconName": "UI_AvatarIcon_Side_BarbaraCostumeSummertime",
-        "ENPOAHAHBPN": 16049450277489157369
+        "imageNameHash": 16049450277489157369
     },
     {
         "skinId": 202701,
-        "KJIAKOKHKBO": 1,
+        "indexID": 1,
         "nameTextMapHash": 2572106930,
         "descTextMapHash": 720597146,
         "itemId": 340002,
         "characterId": 10000027,
         "jsonName": "Avatar_Lady_Catalyst_NingguangCostumeFloral",
-        "DFLECMBEBKA": 15863689246053601958,
-        "NLFKNEIPADH": 11681843191975356725,
-        "BILHGPLPHPH": 9773804280703925870,
-        "FAEALPPCLJK": 1433662792352814140,
+        "prefab_pathHash": 15863689246053601958,
+        "prefab_remote_pathHash": 11681843191975356725,
+        "prefab_npc_pathHash": 9773804280703925870,
+        "prefab_manekin_pathHash": 1433662792352814140,
         "quality": 4,
-        "GAKJDLMBFHJ": "UI_AvatarIcon_NingguangCostumeFloral",
+        "frontIconName": "UI_AvatarIcon_NingguangCostumeFloral",
         "sideIconName": "UI_AvatarIcon_Side_NingguangCostumeFloral",
-        "ENPOAHAHBPN": 13693364619168872694
+        "imageNameHash": 13693364619168872694
     },
     {
         "skinId": 204201,
-        "KJIAKOKHKBO": 1,
+        "indexID": 1,
         "nameTextMapHash": 1613857666,
         "descTextMapHash": 1532026282,
         "itemId": 340003,
         "characterId": 10000042,
         "jsonName": "Avatar_Girl_Sword_KeqingCostumeFeather",
-        "DFLECMBEBKA": 10364379182659254215,
-        "NLFKNEIPADH": 6372458023003575072,
-        "BILHGPLPHPH": 12660355485795349718,
-        "FAEALPPCLJK": 11708378725870789733,
+        "prefab_pathHash": 10364379182659254215,
+        "prefab_remote_pathHash": 6372458023003575072,
+        "prefab_npc_pathHash": 12660355485795349718,
+        "prefab_manekin_pathHash": 11708378725870789733,
         "quality": 4,
-        "GAKJDLMBFHJ": "UI_AvatarIcon_KeqingCostumeFeather",
+        "frontIconName": "UI_AvatarIcon_KeqingCostumeFeather",
         "sideIconName": "UI_AvatarIcon_Side_KeqingCostumeFeather",
-        "ENPOAHAHBPN": 8264683658462126315
+        "imageNameHash": 8264683658462126315
     },
     {
         "skinId": 200302,
-        "KJIAKOKHKBO": 1,
+        "indexID": 1,
         "nameTextMapHash": 2691230306,
         "descTextMapHash": 1553444314,
         "itemId": 340006,
         "characterId": 10000003,
         "jsonName": "Avatar_Lady_Sword_QinCostumeWic",
-        "DFLECMBEBKA": 11789304378759268432,
-        "NLFKNEIPADH": 2508262379750057037,
-        "BILHGPLPHPH": 8899383397730055880,
-        "FAEALPPCLJK": 6257448215821889913,
-        "KNMCLOFEBHB": true,
+        "prefab_pathHash": 11789304378759268432,
+        "prefab_remote_pathHash": 2508262379750057037,
+        "prefab_npc_pathHash": 8899383397730055880,
+        "prefab_manekin_pathHash": 6257448215821889913,
+        "isDefaultUnlock": true,
         "quality": 4,
         "hide": true,
-        "GAKJDLMBFHJ": "UI_AvatarIcon_QinCostumeWic",
+        "frontIconName": "UI_AvatarIcon_QinCostumeWic",
         "sideIconName": "UI_AvatarIcon_Side_QinCostumeWic",
-        "ENPOAHAHBPN": 2268507951203388027
+        "imageNameHash": 2268507951203388027
     },
     {
         "skinId": 202101,
-        "KJIAKOKHKBO": 1,
+        "indexID": 1,
         "nameTextMapHash": 4237698530,
         "descTextMapHash": 2955174482,
         "itemId": 340007,
         "characterId": 10000021,
         "jsonName": "Avatar_Girl_Bow_AmborCostumeWic",
-        "DFLECMBEBKA": 7122218723217693045,
-        "NLFKNEIPADH": 14462486063824583299,
-        "BILHGPLPHPH": 16495873575277370679,
-        "FAEALPPCLJK": 11555033508243667944,
-        "KNMCLOFEBHB": true,
+        "prefab_pathHash": 7122218723217693045,
+        "prefab_remote_pathHash": 14462486063824583299,
+        "prefab_npc_pathHash": 16495873575277370679,
+        "prefab_manekin_pathHash": 11555033508243667944,
+        "isDefaultUnlock": true,
         "quality": 4,
         "hide": true,
-        "GAKJDLMBFHJ": "UI_AvatarIcon_AmborCostumeWic",
+        "frontIconName": "UI_AvatarIcon_AmborCostumeWic",
         "sideIconName": "UI_AvatarIcon_Side_AmborCostumeWic",
-        "ENPOAHAHBPN": 1673287744058013036
+        "imageNameHash": 1673287744058013036
     },
     {
         "skinId": 204101,
-        "KJIAKOKHKBO": 1,
+        "indexID": 1,
         "nameTextMapHash": 1860400666,
         "descTextMapHash": 2912743770,
         "itemId": 340008,
         "characterId": 10000041,
         "jsonName": "Avatar_Girl_Catalyst_MonaCostumeWic",
-        "DFLECMBEBKA": 15379405067054348520,
-        "NLFKNEIPADH": 16287308438257703283,
-        "BILHGPLPHPH": 1127931153574195190,
-        "FAEALPPCLJK": 5022057012086513913,
-        "KNMCLOFEBHB": true,
+        "prefab_pathHash": 15379405067054348520,
+        "prefab_remote_pathHash": 16287308438257703283,
+        "prefab_npc_pathHash": 1127931153574195190,
+        "prefab_manekin_pathHash": 5022057012086513913,
+        "isDefaultUnlock": true,
         "quality": 4,
         "hide": true,
-        "GAKJDLMBFHJ": "UI_AvatarIcon_MonaCostumeWic",
+        "frontIconName": "UI_AvatarIcon_MonaCostumeWic",
         "sideIconName": "UI_AvatarIcon_Side_MonaCostumeWic",
-        "ENPOAHAHBPN": 5743696895040120452
+        "imageNameHash": 5743696895040120452
     },
     {
         "skinId": 204501,
-        "KJIAKOKHKBO": 1,
+        "indexID": 1,
         "nameTextMapHash": 2412226586,
         "descTextMapHash": 3143995322,
         "itemId": 340009,
         "characterId": 10000045,
         "jsonName": "Avatar_Lady_Pole_RosariaCostumeWic",
-        "DFLECMBEBKA": 12861565697458263896,
-        "NLFKNEIPADH": 10539667758355398191,
-        "BILHGPLPHPH": 9648000434294861381,
-        "FAEALPPCLJK": 12267662344150393563,
-        "KNMCLOFEBHB": true,
+        "prefab_pathHash": 12861565697458263896,
+        "prefab_remote_pathHash": 10539667758355398191,
+        "prefab_npc_pathHash": 9648000434294861381,
+        "prefab_manekin_pathHash": 12267662344150393563,
+        "isDefaultUnlock": true,
         "quality": 4,
         "hide": true,
-        "GAKJDLMBFHJ": "UI_AvatarIcon_RosariaCostumeWic",
+        "frontIconName": "UI_AvatarIcon_RosariaCostumeWic",
         "sideIconName": "UI_AvatarIcon_Side_RosariaCostumeWic",
-        "ENPOAHAHBPN": 2832692351080435349
+        "imageNameHash": 2832692351080435349
     },
     {
         "skinId": 201601,
-        "KJIAKOKHKBO": 1,
+        "indexID": 1,
         "nameTextMapHash": 1332852170,
         "descTextMapHash": 3295060426,
         "itemId": 340004,
         "characterId": 10000016,
         "jsonName": "Avatar_Male_Claymore_DilucCostumeFlamme",
-        "DFLECMBEBKA": 10368416818400608368,
-        "NLFKNEIPADH": 15335225919554737858,
-        "BILHGPLPHPH": 7202002721915920244,
-        "coopPicNameHashSuffix": 17146454811973008912,
-        "FAEALPPCLJK": 13676438560609835669,
-        "KJMENCJLBHP": 9590652495663153053,
-        "ADAJKEDFJOH": 4585718866811975168,
+        "prefab_pathHash": 10368416818400608368,
+        "prefab_remote_pathHash": 15335225919554737858,
+        "prefab_npc_pathHash": 7202002721915920244,
+        "animatorConfigPathHash": 17146454811973008912,
+        "prefab_manekin_pathHash": 13676438560609835669,
+        "controller_pathHash": 9590652495663153053,
+        "controller_remote_pathHash": 4585718866811975168,
         "quality": 5,
-        "GAKJDLMBFHJ": "UI_AvatarIcon_DilucCostumeFlamme",
+        "frontIconName": "UI_AvatarIcon_DilucCostumeFlamme",
         "sideIconName": "UI_AvatarIcon_Side_DilucCostumeFlamme",
-        "ENPOAHAHBPN": 3029142693095236341
+        "imageNameHash": 3029142693095236341
     },
     {
         "skinId": 203101,
-        "KJIAKOKHKBO": 1,
+        "indexID": 1,
         "nameTextMapHash": 3162794298,
         "descTextMapHash": 2089933442,
         "itemId": 340005,
         "characterId": 10000031,
         "jsonName": "Avatar_Girl_Bow_FischlCostumeHighness",
-        "DFLECMBEBKA": 13534430752549234096,
-        "NLFKNEIPADH": 1058632974177999890,
-        "BILHGPLPHPH": 16733412713662534099,
-        "coopPicNameHashSuffix": 16874910532900252125,
-        "FAEALPPCLJK": 1849563772142813400,
-        "KJMENCJLBHP": 9561591276388174665,
-        "ADAJKEDFJOH": 7514891772841964710,
+        "prefab_pathHash": 13534430752549234096,
+        "prefab_remote_pathHash": 1058632974177999890,
+        "prefab_npc_pathHash": 16733412713662534099,
+        "animatorConfigPathHash": 16874910532900252125,
+        "prefab_manekin_pathHash": 1849563772142813400,
+        "controller_pathHash": 9561591276388174665,
+        "controller_remote_pathHash": 7514891772841964710,
         "quality": 4,
-        "GAKJDLMBFHJ": "UI_AvatarIcon_FischlCostumeHighness",
+        "frontIconName": "UI_AvatarIcon_FischlCostumeHighness",
         "sideIconName": "UI_AvatarIcon_Side_FischlCostumeHighness",
-        "ENPOAHAHBPN": 16903652226668881157
+        "imageNameHash": 16903652226668881157
     },
     {
         "skinId": 200200,
@@ -190,7 +190,7 @@
         "characterId": 10000002,
         "jsonName": "",
         "isDefault": true,
-        "GAKJDLMBFHJ": "",
+        "frontIconName": "",
         "sideIconName": ""
     },
     {
@@ -200,7 +200,7 @@
         "characterId": 10000003,
         "jsonName": "",
         "isDefault": true,
-        "GAKJDLMBFHJ": "",
+        "frontIconName": "",
         "sideIconName": "",
         "HLFNPPHJMDM": true
     },
@@ -211,7 +211,7 @@
         "characterId": 10000005,
         "jsonName": "",
         "isDefault": true,
-        "GAKJDLMBFHJ": "",
+        "frontIconName": "",
         "sideIconName": ""
     },
     {
@@ -221,7 +221,7 @@
         "characterId": 10000006,
         "jsonName": "",
         "isDefault": true,
-        "GAKJDLMBFHJ": "",
+        "frontIconName": "",
         "sideIconName": ""
     },
     {
@@ -231,7 +231,7 @@
         "characterId": 10000007,
         "jsonName": "",
         "isDefault": true,
-        "GAKJDLMBFHJ": "",
+        "frontIconName": "",
         "sideIconName": ""
     },
     {
@@ -241,7 +241,7 @@
         "characterId": 10000014,
         "jsonName": "",
         "isDefault": true,
-        "GAKJDLMBFHJ": "",
+        "frontIconName": "",
         "sideIconName": ""
     },
     {
@@ -251,7 +251,7 @@
         "characterId": 10000015,
         "jsonName": "",
         "isDefault": true,
-        "GAKJDLMBFHJ": "",
+        "frontIconName": "",
         "sideIconName": ""
     },
     {
@@ -261,7 +261,7 @@
         "characterId": 10000016,
         "jsonName": "",
         "isDefault": true,
-        "GAKJDLMBFHJ": "",
+        "frontIconName": "",
         "sideIconName": ""
     },
     {
@@ -271,7 +271,7 @@
         "characterId": 10000020,
         "jsonName": "",
         "isDefault": true,
-        "GAKJDLMBFHJ": "",
+        "frontIconName": "",
         "sideIconName": ""
     },
     {
@@ -281,7 +281,7 @@
         "characterId": 10000021,
         "jsonName": "",
         "isDefault": true,
-        "GAKJDLMBFHJ": "",
+        "frontIconName": "",
         "sideIconName": "",
         "HLFNPPHJMDM": true
     },
@@ -292,7 +292,7 @@
         "characterId": 10000022,
         "jsonName": "",
         "isDefault": true,
-        "GAKJDLMBFHJ": "",
+        "frontIconName": "",
         "sideIconName": ""
     },
     {
@@ -302,7 +302,7 @@
         "characterId": 10000023,
         "jsonName": "",
         "isDefault": true,
-        "GAKJDLMBFHJ": "",
+        "frontIconName": "",
         "sideIconName": ""
     },
     {
@@ -312,7 +312,7 @@
         "characterId": 10000024,
         "jsonName": "",
         "isDefault": true,
-        "GAKJDLMBFHJ": "",
+        "frontIconName": "",
         "sideIconName": ""
     },
     {
@@ -322,7 +322,7 @@
         "characterId": 10000025,
         "jsonName": "",
         "isDefault": true,
-        "GAKJDLMBFHJ": "",
+        "frontIconName": "",
         "sideIconName": ""
     },
     {
@@ -332,7 +332,7 @@
         "characterId": 10000026,
         "jsonName": "",
         "isDefault": true,
-        "GAKJDLMBFHJ": "",
+        "frontIconName": "",
         "sideIconName": ""
     },
     {
@@ -342,7 +342,7 @@
         "characterId": 10000027,
         "jsonName": "",
         "isDefault": true,
-        "GAKJDLMBFHJ": "",
+        "frontIconName": "",
         "sideIconName": ""
     },
     {
@@ -352,7 +352,7 @@
         "characterId": 10000029,
         "jsonName": "",
         "isDefault": true,
-        "GAKJDLMBFHJ": "",
+        "frontIconName": "",
         "sideIconName": ""
     },
     {
@@ -362,7 +362,7 @@
         "characterId": 10000030,
         "jsonName": "",
         "isDefault": true,
-        "GAKJDLMBFHJ": "",
+        "frontIconName": "",
         "sideIconName": ""
     },
     {
@@ -372,7 +372,7 @@
         "characterId": 10000031,
         "jsonName": "",
         "isDefault": true,
-        "GAKJDLMBFHJ": "",
+        "frontIconName": "",
         "sideIconName": ""
     },
     {
@@ -382,7 +382,7 @@
         "characterId": 10000032,
         "jsonName": "",
         "isDefault": true,
-        "GAKJDLMBFHJ": "",
+        "frontIconName": "",
         "sideIconName": ""
     },
     {
@@ -392,7 +392,7 @@
         "characterId": 10000033,
         "jsonName": "",
         "isDefault": true,
-        "GAKJDLMBFHJ": "",
+        "frontIconName": "",
         "sideIconName": ""
     },
     {
@@ -402,7 +402,7 @@
         "characterId": 10000034,
         "jsonName": "",
         "isDefault": true,
-        "GAKJDLMBFHJ": "",
+        "frontIconName": "",
         "sideIconName": ""
     },
     {
@@ -412,7 +412,7 @@
         "characterId": 10000035,
         "jsonName": "",
         "isDefault": true,
-        "GAKJDLMBFHJ": "",
+        "frontIconName": "",
         "sideIconName": ""
     },
     {
@@ -422,7 +422,7 @@
         "characterId": 10000036,
         "jsonName": "",
         "isDefault": true,
-        "GAKJDLMBFHJ": "",
+        "frontIconName": "",
         "sideIconName": ""
     },
     {
@@ -432,7 +432,7 @@
         "characterId": 10000037,
         "jsonName": "",
         "isDefault": true,
-        "GAKJDLMBFHJ": "",
+        "frontIconName": "",
         "sideIconName": ""
     },
     {
@@ -442,7 +442,7 @@
         "characterId": 10000038,
         "jsonName": "",
         "isDefault": true,
-        "GAKJDLMBFHJ": "",
+        "frontIconName": "",
         "sideIconName": ""
     },
     {
@@ -452,7 +452,7 @@
         "characterId": 10000039,
         "jsonName": "",
         "isDefault": true,
-        "GAKJDLMBFHJ": "",
+        "frontIconName": "",
         "sideIconName": ""
     },
     {
@@ -462,7 +462,7 @@
         "characterId": 10000041,
         "jsonName": "",
         "isDefault": true,
-        "GAKJDLMBFHJ": "",
+        "frontIconName": "",
         "sideIconName": "",
         "HLFNPPHJMDM": true
     },
@@ -473,7 +473,7 @@
         "characterId": 10000042,
         "jsonName": "",
         "isDefault": true,
-        "GAKJDLMBFHJ": "",
+        "frontIconName": "",
         "sideIconName": ""
     },
     {
@@ -483,7 +483,7 @@
         "characterId": 10000043,
         "jsonName": "",
         "isDefault": true,
-        "GAKJDLMBFHJ": "",
+        "frontIconName": "",
         "sideIconName": ""
     },
     {
@@ -493,7 +493,7 @@
         "characterId": 10000044,
         "jsonName": "",
         "isDefault": true,
-        "GAKJDLMBFHJ": "",
+        "frontIconName": "",
         "sideIconName": ""
     },
     {
@@ -503,7 +503,7 @@
         "characterId": 10000045,
         "jsonName": "",
         "isDefault": true,
-        "GAKJDLMBFHJ": "",
+        "frontIconName": "",
         "sideIconName": "",
         "HLFNPPHJMDM": true
     },
@@ -514,7 +514,7 @@
         "characterId": 10000046,
         "jsonName": "",
         "isDefault": true,
-        "GAKJDLMBFHJ": "",
+        "frontIconName": "",
         "sideIconName": ""
     },
     {
@@ -524,7 +524,7 @@
         "characterId": 10000047,
         "jsonName": "",
         "isDefault": true,
-        "GAKJDLMBFHJ": "",
+        "frontIconName": "",
         "sideIconName": ""
     },
     {
@@ -534,7 +534,7 @@
         "characterId": 10000048,
         "jsonName": "",
         "isDefault": true,
-        "GAKJDLMBFHJ": "",
+        "frontIconName": "",
         "sideIconName": ""
     },
     {
@@ -544,7 +544,7 @@
         "characterId": 10000049,
         "jsonName": "",
         "isDefault": true,
-        "GAKJDLMBFHJ": "",
+        "frontIconName": "",
         "sideIconName": ""
     },
     {
@@ -554,7 +554,7 @@
         "characterId": 10000050,
         "jsonName": "",
         "isDefault": true,
-        "GAKJDLMBFHJ": "",
+        "frontIconName": "",
         "sideIconName": ""
     },
     {
@@ -564,7 +564,7 @@
         "characterId": 10000051,
         "jsonName": "",
         "isDefault": true,
-        "GAKJDLMBFHJ": "",
+        "frontIconName": "",
         "sideIconName": ""
     },
     {
@@ -574,7 +574,7 @@
         "characterId": 10000052,
         "jsonName": "",
         "isDefault": true,
-        "GAKJDLMBFHJ": "",
+        "frontIconName": "",
         "sideIconName": ""
     },
     {
@@ -584,7 +584,7 @@
         "characterId": 10000053,
         "jsonName": "",
         "isDefault": true,
-        "GAKJDLMBFHJ": "",
+        "frontIconName": "",
         "sideIconName": ""
     },
     {
@@ -594,7 +594,7 @@
         "characterId": 10000054,
         "jsonName": "",
         "isDefault": true,
-        "GAKJDLMBFHJ": "",
+        "frontIconName": "",
         "sideIconName": ""
     },
     {
@@ -604,7 +604,7 @@
         "characterId": 10000055,
         "jsonName": "",
         "isDefault": true,
-        "GAKJDLMBFHJ": "",
+        "frontIconName": "",
         "sideIconName": ""
     },
     {
@@ -614,7 +614,7 @@
         "characterId": 10000056,
         "jsonName": "",
         "isDefault": true,
-        "GAKJDLMBFHJ": "",
+        "frontIconName": "",
         "sideIconName": ""
     },
     {
@@ -624,7 +624,7 @@
         "characterId": 10000057,
         "jsonName": "",
         "isDefault": true,
-        "GAKJDLMBFHJ": "",
+        "frontIconName": "",
         "sideIconName": ""
     },
     {
@@ -634,7 +634,7 @@
         "characterId": 10000058,
         "jsonName": "",
         "isDefault": true,
-        "GAKJDLMBFHJ": "",
+        "frontIconName": "",
         "sideIconName": ""
     },
     {
@@ -644,7 +644,7 @@
         "characterId": 10000059,
         "jsonName": "",
         "isDefault": true,
-        "GAKJDLMBFHJ": "",
+        "frontIconName": "",
         "sideIconName": ""
     },
     {
@@ -654,7 +654,7 @@
         "characterId": 10000060,
         "jsonName": "",
         "isDefault": true,
-        "GAKJDLMBFHJ": "",
+        "frontIconName": "",
         "sideIconName": ""
     },
     {
@@ -664,7 +664,7 @@
         "characterId": 10000062,
         "jsonName": "",
         "isDefault": true,
-        "GAKJDLMBFHJ": "",
+        "frontIconName": "",
         "sideIconName": ""
     },
     {
@@ -674,7 +674,7 @@
         "characterId": 10000063,
         "jsonName": "",
         "isDefault": true,
-        "GAKJDLMBFHJ": "",
+        "frontIconName": "",
         "sideIconName": ""
     },
     {
@@ -684,7 +684,7 @@
         "characterId": 10000064,
         "jsonName": "",
         "isDefault": true,
-        "GAKJDLMBFHJ": "",
+        "frontIconName": "",
         "sideIconName": ""
     },
     {
@@ -694,7 +694,7 @@
         "characterId": 10000065,
         "jsonName": "",
         "isDefault": true,
-        "GAKJDLMBFHJ": "",
+        "frontIconName": "",
         "sideIconName": ""
     },
     {
@@ -704,7 +704,7 @@
         "characterId": 10000066,
         "jsonName": "",
         "isDefault": true,
-        "GAKJDLMBFHJ": "",
+        "frontIconName": "",
         "sideIconName": ""
     },
     {
@@ -714,7 +714,7 @@
         "characterId": 10000067,
         "jsonName": "",
         "isDefault": true,
-        "GAKJDLMBFHJ": "",
+        "frontIconName": "",
         "sideIconName": ""
     },
     {
@@ -724,7 +724,7 @@
         "characterId": 10000068,
         "jsonName": "",
         "isDefault": true,
-        "GAKJDLMBFHJ": "",
+        "frontIconName": "",
         "sideIconName": ""
     },
     {
@@ -734,7 +734,7 @@
         "characterId": 10000069,
         "jsonName": "",
         "isDefault": true,
-        "GAKJDLMBFHJ": "",
+        "frontIconName": "",
         "sideIconName": ""
     },
     {
@@ -744,7 +744,7 @@
         "characterId": 10000070,
         "jsonName": "",
         "isDefault": true,
-        "GAKJDLMBFHJ": "",
+        "frontIconName": "",
         "sideIconName": ""
     },
     {
@@ -754,7 +754,7 @@
         "characterId": 10000071,
         "jsonName": "",
         "isDefault": true,
-        "GAKJDLMBFHJ": "",
+        "frontIconName": "",
         "sideIconName": ""
     },
     {
@@ -764,7 +764,7 @@
         "characterId": 10000072,
         "jsonName": "",
         "isDefault": true,
-        "GAKJDLMBFHJ": "",
+        "frontIconName": "",
         "sideIconName": ""
     },
     {
@@ -774,7 +774,7 @@
         "characterId": 10000073,
         "jsonName": "",
         "isDefault": true,
-        "GAKJDLMBFHJ": "",
+        "frontIconName": "",
         "sideIconName": ""
     },
     {
@@ -784,7 +784,7 @@
         "characterId": 10000074,
         "jsonName": "",
         "isDefault": true,
-        "GAKJDLMBFHJ": "",
+        "frontIconName": "",
         "sideIconName": ""
     }
 ]
