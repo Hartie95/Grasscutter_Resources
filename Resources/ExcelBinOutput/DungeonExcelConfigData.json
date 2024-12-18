@@ -23064,7 +23064,7 @@
             "SETTLE_SHOW_NONE"
         ],
         "interceptReviveAfterSettle": true,
-        "recommendElementTypes": [c
+        "recommendElementTypes": [
             "Water",
             "None",
             "None",
