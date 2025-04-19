@@ -5687,7 +5687,7 @@
                         },
                         {
                             "$type": "ChangeTag",
-                            "JLCBMMLJBBP": true,
+                            "isAdd": true,
                             "tag": "_SCENEOBJ_StaticThunderArea_Caster"
                         },
                         {

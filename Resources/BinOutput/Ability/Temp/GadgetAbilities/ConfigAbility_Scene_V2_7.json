@@ -1260,7 +1260,7 @@
             "onAdded": [
                 {
                     "$type": "ChangeTag",
-                    "JLCBMMLJBBP": true,
+                    "isAdd": true,
                     "tag": "Tag_Is_Emitter"
                 }
             ]

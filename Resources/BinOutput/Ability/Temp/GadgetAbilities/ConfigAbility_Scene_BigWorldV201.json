@@ -2039,7 +2039,7 @@
             "onAdded": [
                 {
                     "$type": "ChangeTag",
-                    "JLCBMMLJBBP": true,
+                    "isAdd": true,
                     "tag": "AdeptusStove"
                 }
             ]

@@ -2379,7 +2379,7 @@
                         },
                         {
                             "$type": "ChangeTag",
-                            "JLCBMMLJBBP": true,
+                            "isAdd": true,
                             "tag": "IS_LIGHT_POINT"
                         }
                     ],
@@ -3839,7 +3839,7 @@
                     "onAdded": [
                         {
                             "$type": "ChangeTag",
-                            "JLCBMMLJBBP": true,
+                            "isAdd": true,
                             "tag": "IS_LitResonancer"
                         }
                     ],
@@ -5244,7 +5244,7 @@
                         },
                         {
                             "$type": "ChangeTag",
-                            "JLCBMMLJBBP": true,
+                            "isAdd": true,
                             "tag": "IS_LIGHT_POINT"
                         },
                         {
@@ -5310,7 +5310,7 @@
                         },
                         {
                             "$type": "ChangeTag",
-                            "JLCBMMLJBBP": true,
+                            "isAdd": true,
                             "tag": "IS_LIGHT_POINT"
                         },
                         {
@@ -5383,7 +5383,7 @@
             "onAdded": [
                 {
                     "$type": "ChangeTag",
-                    "JLCBMMLJBBP": true,
+                    "isAdd": true,
                     "tag": "IS_LIGHT_POINT"
                 },
                 {
@@ -5400,7 +5400,7 @@
             "onAdded": [
                 {
                     "$type": "ChangeTag",
-                    "JLCBMMLJBBP": true,
+                    "isAdd": true,
                     "tag": "IS_LIGHT_POINT"
                 }
             ]
@@ -6569,7 +6569,7 @@
                         },
                         {
                             "$type": "ChangeTag",
-                            "JLCBMMLJBBP": true,
+                            "isAdd": true,
                             "tag": "IS_LIGHT_POINT"
                         }
                     ],
@@ -10199,7 +10199,7 @@
                     "onAdded": [
                         {
                             "$type": "ChangeTag",
-                            "JLCBMMLJBBP": true,
+                            "isAdd": true,
                             "tag": "IS_LIGHT_POINT"
                         }
                     ],
@@ -10285,7 +10285,7 @@
                     "onAdded": [
                         {
                             "$type": "ChangeTag",
-                            "JLCBMMLJBBP": true,
+                            "isAdd": true,
                             "tag": "IS_LIGHT_POINT"
                         }
                     ],
@@ -10875,7 +10875,7 @@
                     "onAdded": [
                         {
                             "$type": "ChangeTag",
-                            "JLCBMMLJBBP": true,
+                            "isAdd": true,
                             "tag": "IS_LitResonancer"
                         }
                     ],

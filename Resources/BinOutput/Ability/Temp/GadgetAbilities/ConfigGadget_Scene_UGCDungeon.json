@@ -3563,7 +3563,7 @@
                         },
                         {
                             "$type": "ChangeTag",
-                            "JLCBMMLJBBP": true,
+                            "isAdd": true,
                             "tag": "_IS_ELECTRIC_CORE"
                         },
                         {
@@ -3649,7 +3649,7 @@
                 },
                 {
                     "$type": "ChangeTag",
-                    "JLCBMMLJBBP": true,
+                    "isAdd": true,
                     "tag": "_IS_ELECTRIC_CORE"
                 },
                 {

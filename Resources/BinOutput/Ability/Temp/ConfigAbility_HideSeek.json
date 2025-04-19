@@ -5635,7 +5635,7 @@
                 },
                 {
                     "$type": "ChangeTag",
-                    "JLCBMMLJBBP": true,
+                    "isAdd": true,
                     "tag": "HideSeek_GuideGadget"
                 },
                 {
