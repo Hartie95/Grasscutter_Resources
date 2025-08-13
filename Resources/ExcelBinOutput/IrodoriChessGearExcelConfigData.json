@@ -2,7 +2,7 @@
     {
         "KHHIAJAPBNC": 1,
         "gadgetId": 70350413,
-        "ALMOHHGFHEM": 1,
+        "initLevel": 1,
         "gearNameTextMapHash": 817272258,
         "gearShortNameTextMapHash": 2737592193,
         "descTextMapHash": 507890396,
@@ -16,7 +16,7 @@
     {
         "KHHIAJAPBNC": 2,
         "gadgetId": 70350414,
-        "ALMOHHGFHEM": 1,
+        "initLevel": 1,
         "gearNameTextMapHash": 2441370474,
         "gearShortNameTextMapHash": 3200560025,
         "descTextMapHash": 2909906068,
@@ -30,7 +30,7 @@
     {
         "KHHIAJAPBNC": 3,
         "gadgetId": 70350417,
-        "ALMOHHGFHEM": 1,
+        "initLevel": 1,
         "gearNameTextMapHash": 743529442,
         "gearShortNameTextMapHash": 1960603441,
         "descTextMapHash": 1659680372,
@@ -45,7 +45,7 @@
         "KHHIAJAPBNC": 4,
         "gadgetId": 70350416,
         "isEnableRotate": true,
-        "ALMOHHGFHEM": 1,
+        "initLevel": 1,
         "gearNameTextMapHash": 652793914,
         "gearShortNameTextMapHash": 2317925841,
         "descTextMapHash": 4222711388,
@@ -59,7 +59,7 @@
     {
         "KHHIAJAPBNC": 5,
         "gadgetId": 70350415,
-        "ALMOHHGFHEM": 1,
+        "initLevel": 1,
         "gearNameTextMapHash": 3567891258,
         "gearShortNameTextMapHash": 443808353,
         "descTextMapHash": 3829741156,
@@ -73,7 +73,7 @@
     {
         "KHHIAJAPBNC": 6,
         "gadgetId": 70350397,
-        "ALMOHHGFHEM": 1,
+        "initLevel": 1,
         "gearNameTextMapHash": 1653102994,
         "gearShortNameTextMapHash": 3532643049,
         "descTextMapHash": 1906618748,
@@ -87,7 +87,7 @@
     {
         "KHHIAJAPBNC": 7,
         "gadgetId": 70350412,
-        "ALMOHHGFHEM": 1,
+        "initLevel": 1,
         "gearNameTextMapHash": 85896194,
         "gearShortNameTextMapHash": 3069493729,
         "descTextMapHash": 3189693612,
@@ -102,7 +102,7 @@
     {
         "KHHIAJAPBNC": 10,
         "gadgetId": 70350418,
-        "ALMOHHGFHEM": 1,
+        "initLevel": 1,
         "gearNameTextMapHash": 1439726074,
         "gearShortNameTextMapHash": 4080501745,
         "descTextMapHash": 293150996,
@@ -118,7 +118,7 @@
         "KHHIAJAPBNC": 11,
         "gadgetId": 70350419,
         "isEnableRotate": true,
-        "ALMOHHGFHEM": 1,
+        "initLevel": 1,
         "gearNameTextMapHash": 800691746,
         "gearShortNameTextMapHash": 1500236857,
         "descTextMapHash": 57532300,
