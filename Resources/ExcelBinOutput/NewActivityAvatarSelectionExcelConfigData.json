@@ -12,10 +12,10 @@
             3008005
         ],
         "descTextMapHash": 4093489151,
-        "costItemNum": [
+        "costItemIdList": [
             115
         ],
-        "MBIECKFEKPO": [
+        "costItemNumList": [
             1000
         ]
     },
@@ -27,10 +27,10 @@
             3015401
         ],
         "descTextMapHash": 4209415871,
-        "costItemNum": [
+        "costItemIdList": [
             122
         ],
-        "MBIECKFEKPO": [
+        "costItemNumList": [
             1000
         ]
     },
@@ -42,11 +42,11 @@
             3020001
         ],
         "descTextMapHash": 2565587871,
-        "costItemNum": [
+        "costItemIdList": [
             127,
             128
         ],
-        "MBIECKFEKPO": [
+        "costItemNumList": [
             1000,
             1000
         ]
@@ -61,10 +61,10 @@
             3025001
         ],
         "descTextMapHash": 3129338567,
-        "costItemNum": [
+        "costItemIdList": [
             134
         ],
-        "MBIECKFEKPO": [
+        "costItemNumList": [
             1000
         ]
     },
@@ -83,11 +83,11 @@
             3035008
         ],
         "descTextMapHash": 1068450767,
-        "costItemNum": [
+        "costItemIdList": [
             137,
             139
         ],
-        "MBIECKFEKPO": [
+        "costItemNumList": [
             1000,
             1000
         ]
@@ -105,8 +105,8 @@
             3042001
         ],
         "descTextMapHash": 1443525671,
-        "costItemNum": [],
-        "MBIECKFEKPO": []
+        "costItemIdList": [],
+        "costItemNumList": []
     },
     {
         "scheduleId": 2014001,
@@ -118,8 +118,8 @@
             3047001
         ],
         "descTextMapHash": 2555517879,
-        "costItemNum": [],
-        "MBIECKFEKPO": []
+        "costItemIdList": [],
+        "costItemNumList": []
     },
     {
         "scheduleId": 2017001,
@@ -129,11 +129,11 @@
             3058001
         ],
         "descTextMapHash": 1254380255,
-        "costItemNum": [
+        "costItemIdList": [
             151,
             152
         ],
-        "MBIECKFEKPO": [
+        "costItemNumList": [
             1000,
             1000
         ]

@@ -1,7 +1,7 @@
 [
     {
         "stageId": 1,
-        "GNHACLFIMGK": "STAGE_TYPE_NORMAL",
+        "stageType": "STAGE_TYPE_NORMAL",
         "IDHFIFOEMGM": [
             9,
             11,
@@ -12,7 +12,7 @@
     },
     {
         "stageId": 2,
-        "GNHACLFIMGK": "STAGE_TYPE_NORMAL",
+        "stageType": "STAGE_TYPE_NORMAL",
         "IDHFIFOEMGM": [
             1,
             5,
@@ -23,7 +23,7 @@
     },
     {
         "stageId": 3,
-        "GNHACLFIMGK": "STAGE_TYPE_NORMAL",
+        "stageType": "STAGE_TYPE_NORMAL",
         "IDHFIFOEMGM": [
             4,
             12,
@@ -34,7 +34,7 @@
     },
     {
         "stageId": 4,
-        "GNHACLFIMGK": "STAGE_TYPE_NORMAL",
+        "stageType": "STAGE_TYPE_NORMAL",
         "IDHFIFOEMGM": [
             7,
             10,
@@ -45,7 +45,7 @@
     },
     {
         "stageId": 5,
-        "GNHACLFIMGK": "STAGE_TYPE_RANDOM",
+        "stageType": "STAGE_TYPE_RANDOM",
         "IDHFIFOEMGM": [],
         "dayIndex": 5,
         "stageNameTextMapHash": 2184004626

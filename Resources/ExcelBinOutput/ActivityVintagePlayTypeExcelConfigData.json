@@ -2,8 +2,8 @@
     {
         "id": 1,
         "openDay": 2,
-        "DHDIGGLDBPC": 2770657795,
-        "HAODJKMEEPM": 451749962
+        "questTitleTextMapHash": 2770657795,
+        "questDescTextMapHash": 451749962
     },
     {
         "id": 2,
@@ -11,8 +11,8 @@
         "AJCBFJLAOGG": 2016018,
         "guideQuestId": 73680,
         "tutorialId": 6075,
-        "DHDIGGLDBPC": 3768550315,
-        "HAODJKMEEPM": 4047130162
+        "questTitleTextMapHash": 3768550315,
+        "questDescTextMapHash": 4047130162
     },
     {
         "id": 3,
@@ -20,14 +20,14 @@
         "AJCBFJLAOGG": 2016014,
         "guideQuestId": 73681,
         "tutorialId": 6076,
-        "DHDIGGLDBPC": 270140011,
-        "HAODJKMEEPM": 2131325170
+        "questTitleTextMapHash": 270140011,
+        "questDescTextMapHash": 2131325170
     },
     {
         "id": 4,
         "openDay": 1,
-        "DHDIGGLDBPC": 2892310883,
-        "HAODJKMEEPM": 3970421978
+        "questTitleTextMapHash": 2892310883,
+        "questDescTextMapHash": 3970421978
     },
     {
         "id": 5,
@@ -35,7 +35,7 @@
         "AJCBFJLAOGG": 2016020,
         "guideQuestId": 73682,
         "tutorialId": 6077,
-        "DHDIGGLDBPC": 4164172003,
-        "HAODJKMEEPM": 1181894626
+        "questTitleTextMapHash": 4164172003,
+        "questDescTextMapHash": 1181894626
     }
 ]

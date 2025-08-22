@@ -3,7 +3,7 @@
         "dungeonId": 8101,
         "DPMOOJNKFBE": 3,
         "JNLIOBMFLNA": "FUNGUS_TRAINING_DUNGEON_ATTACK",
-        "JMLNHKCOEBA": 1,
+        "unlockDay": 1,
         "EDKGMEFKFPG": 1,
         "galleryId": 28021,
         "MMNJPGPKHMI": [
@@ -45,7 +45,7 @@
         "dungeonId": 8102,
         "DPMOOJNKFBE": 3,
         "JNLIOBMFLNA": "FUNGUS_TRAINING_DUNGEON_ATTACK",
-        "JMLNHKCOEBA": 2,
+        "unlockDay": 2,
         "EDKGMEFKFPG": 2,
         "galleryId": 28021,
         "MMNJPGPKHMI": [
@@ -93,7 +93,7 @@
         "dungeonId": 8103,
         "DPMOOJNKFBE": 3,
         "JNLIOBMFLNA": "FUNGUS_TRAINING_DUNGEON_ATTACK",
-        "JMLNHKCOEBA": 3,
+        "unlockDay": 3,
         "EDKGMEFKFPG": 3,
         "galleryId": 28021,
         "MMNJPGPKHMI": [
@@ -141,7 +141,7 @@
         "dungeonId": 8104,
         "DPMOOJNKFBE": 3,
         "JNLIOBMFLNA": "FUNGUS_TRAINING_DUNGEON_ATTACK",
-        "JMLNHKCOEBA": 4,
+        "unlockDay": 4,
         "EDKGMEFKFPG": 4,
         "galleryId": 28021,
         "MMNJPGPKHMI": [
@@ -196,7 +196,7 @@
         "dungeonId": 8105,
         "DPMOOJNKFBE": 3,
         "JNLIOBMFLNA": "FUNGUS_TRAINING_DUNGEON_ATTACK",
-        "JMLNHKCOEBA": 5,
+        "unlockDay": 5,
         "EDKGMEFKFPG": 5,
         "galleryId": 28021,
         "MMNJPGPKHMI": [
@@ -251,7 +251,7 @@
         "dungeonId": 8106,
         "DPMOOJNKFBE": 1,
         "JNLIOBMFLNA": "FUNGUS_TRAINING_DUNGEON_DEFEND",
-        "JMLNHKCOEBA": 1,
+        "unlockDay": 1,
         "EDKGMEFKFPG": 1,
         "galleryId": 28022,
         "MMNJPGPKHMI": [
@@ -290,7 +290,7 @@
         "dungeonId": 8107,
         "DPMOOJNKFBE": 1,
         "JNLIOBMFLNA": "FUNGUS_TRAINING_DUNGEON_DEFEND",
-        "JMLNHKCOEBA": 2,
+        "unlockDay": 2,
         "EDKGMEFKFPG": 2,
         "galleryId": 28022,
         "MMNJPGPKHMI": [
@@ -335,7 +335,7 @@
         "dungeonId": 8108,
         "DPMOOJNKFBE": 1,
         "JNLIOBMFLNA": "FUNGUS_TRAINING_DUNGEON_DEFEND",
-        "JMLNHKCOEBA": 3,
+        "unlockDay": 3,
         "EDKGMEFKFPG": 3,
         "galleryId": 28022,
         "MMNJPGPKHMI": [
@@ -380,7 +380,7 @@
         "dungeonId": 8109,
         "DPMOOJNKFBE": 1,
         "JNLIOBMFLNA": "FUNGUS_TRAINING_DUNGEON_DEFEND",
-        "JMLNHKCOEBA": 4,
+        "unlockDay": 4,
         "EDKGMEFKFPG": 4,
         "galleryId": 28022,
         "MMNJPGPKHMI": [
@@ -424,7 +424,7 @@
         "dungeonId": 8110,
         "DPMOOJNKFBE": 1,
         "JNLIOBMFLNA": "FUNGUS_TRAINING_DUNGEON_DEFEND",
-        "JMLNHKCOEBA": 5,
+        "unlockDay": 5,
         "EDKGMEFKFPG": 5,
         "galleryId": 28022,
         "MMNJPGPKHMI": [

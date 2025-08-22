@@ -2,7 +2,7 @@
     {
         "id": 1,
         "levelNameTextMapHash": 224439824,
-        "JMLNHKCOEBA": 4,
+        "unlockDay": 4,
         "MPPGFMEBPLI": 180,
         "DBIFFMKBLIC": [
             20101,
@@ -35,7 +35,7 @@
     {
         "id": 2,
         "levelNameTextMapHash": 1120699320,
-        "JMLNHKCOEBA": 4,
+        "unlockDay": 4,
         "MPPGFMEBPLI": 180,
         "DBIFFMKBLIC": [
             20201,
@@ -71,7 +71,7 @@
     {
         "id": 3,
         "levelNameTextMapHash": 1265087192,
-        "JMLNHKCOEBA": 5,
+        "unlockDay": 5,
         "MPPGFMEBPLI": 180,
         "DBIFFMKBLIC": [
             20301,
@@ -108,7 +108,7 @@
     {
         "id": 4,
         "levelNameTextMapHash": 1644740232,
-        "JMLNHKCOEBA": 5,
+        "unlockDay": 5,
         "MPPGFMEBPLI": 180,
         "DBIFFMKBLIC": [
             20401,

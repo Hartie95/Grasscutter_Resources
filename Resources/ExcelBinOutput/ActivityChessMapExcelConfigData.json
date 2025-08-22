@@ -8,7 +8,7 @@
         "buildGearLimit": 14,
         "dungeonID": 7400,
         "AHEFOKEPELN": 376,
-        "JMLNHKCOEBA": 1,
+        "unlockDay": 1,
         "CAPLAJNBODH": true,
         "show": true,
         "DELEFDGGODG": [
@@ -27,7 +27,7 @@
         "buildGearLimit": 14,
         "dungeonID": 7401,
         "AHEFOKEPELN": 376,
-        "JMLNHKCOEBA": 1,
+        "unlockDay": 1,
         "JMPOIDDFBAN": 9999,
         "show": true,
         "DELEFDGGODG": [
@@ -46,7 +46,7 @@
         "buildGearLimit": 14,
         "dungeonID": 7402,
         "AHEFOKEPELN": 376,
-        "JMLNHKCOEBA": 1,
+        "unlockDay": 1,
         "JMPOIDDFBAN": 1,
         "show": true,
         "DELEFDGGODG": [
@@ -66,7 +66,7 @@
         "buildGearLimit": 14,
         "dungeonID": 7404,
         "AHEFOKEPELN": 376,
-        "JMLNHKCOEBA": 1,
+        "unlockDay": 1,
         "JMPOIDDFBAN": 2,
         "show": true,
         "DELEFDGGODG": [
@@ -87,7 +87,7 @@
         "buildGearLimit": 14,
         "dungeonID": 7405,
         "AHEFOKEPELN": 376,
-        "JMLNHKCOEBA": 1,
+        "unlockDay": 1,
         "JMPOIDDFBAN": 3,
         "show": true,
         "DELEFDGGODG": [
@@ -108,7 +108,7 @@
         "buildGearLimit": 14,
         "dungeonID": 7403,
         "AHEFOKEPELN": 376,
-        "JMLNHKCOEBA": 2,
+        "unlockDay": 2,
         "JMPOIDDFBAN": 4,
         "show": true,
         "DELEFDGGODG": [
@@ -128,7 +128,7 @@
         "buildGearLimit": 14,
         "dungeonID": 7406,
         "AHEFOKEPELN": 376,
-        "JMLNHKCOEBA": 2,
+        "unlockDay": 2,
         "JMPOIDDFBAN": 5,
         "show": true,
         "DELEFDGGODG": [
@@ -148,7 +148,7 @@
         "buildGearLimit": 14,
         "dungeonID": 7407,
         "AHEFOKEPELN": 376,
-        "JMLNHKCOEBA": 3,
+        "unlockDay": 3,
         "JMPOIDDFBAN": 6,
         "show": true,
         "DELEFDGGODG": [
@@ -168,7 +168,7 @@
         "buildGearLimit": 14,
         "dungeonID": 7409,
         "AHEFOKEPELN": 376,
-        "JMLNHKCOEBA": 3,
+        "unlockDay": 3,
         "JMPOIDDFBAN": 7,
         "show": true,
         "DELEFDGGODG": [
@@ -189,7 +189,7 @@
         "buildGearLimit": 14,
         "dungeonID": 7410,
         "AHEFOKEPELN": 376,
-        "JMLNHKCOEBA": 4,
+        "unlockDay": 4,
         "JMPOIDDFBAN": 8,
         "show": true,
         "DELEFDGGODG": [
@@ -211,7 +211,7 @@
         "buildGearLimit": 14,
         "dungeonID": 7408,
         "AHEFOKEPELN": 376,
-        "JMLNHKCOEBA": 4,
+        "unlockDay": 4,
         "JMPOIDDFBAN": 9,
         "show": true,
         "DELEFDGGODG": [
@@ -231,7 +231,7 @@
         "buildGearLimit": 14,
         "dungeonID": 7411,
         "AHEFOKEPELN": 376,
-        "JMLNHKCOEBA": 4,
+        "unlockDay": 4,
         "JMPOIDDFBAN": 9999,
         "DELEFDGGODG": [
             18,

@@ -5,7 +5,7 @@
         "LPNMFJPBHDM": 1099514193,
         "HAAAMJLBNLH": 2330058402,
         "dungeonId": 7902,
-        "OLDBODLHMAE": [
+        "levelIdList": [
             107,
             108,
             109
@@ -22,7 +22,7 @@
         "LPNMFJPBHDM": 1763379753,
         "HAAAMJLBNLH": 3278430706,
         "dungeonId": 7901,
-        "OLDBODLHMAE": [
+        "levelIdList": [
             104,
             105,
             106
@@ -39,7 +39,7 @@
         "LPNMFJPBHDM": 749575313,
         "HAAAMJLBNLH": 4079219706,
         "dungeonId": 7900,
-        "OLDBODLHMAE": [
+        "levelIdList": [
             101,
             102,
             103
@@ -56,7 +56,7 @@
         "LPNMFJPBHDM": 3033430985,
         "HAAAMJLBNLH": 2484812794,
         "dungeonId": 7903,
-        "OLDBODLHMAE": [
+        "levelIdList": [
             110,
             111,
             112

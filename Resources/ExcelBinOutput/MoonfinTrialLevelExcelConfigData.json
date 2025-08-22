@@ -2,7 +2,7 @@
     {
         "levelId": 1,
         "openDay": 1,
-        "KFBECECPBOO": [],
+        "watcherID": [],
         "mainQuest": 72659,
         "markPosition": [],
         "levelNameTextMapHash": 3234887321,
@@ -11,18 +11,18 @@
     },
     {
         "levelId": 3,
-        "DPIDFIHDIMJ": "MOONFIN_TRIAL_ACTIVITY_LEVEL_TYPE_CHALLENGE_SPECIFIC",
-        "DDEBPJIADFF": 3,
+        "levelType": "MOONFIN_TRIAL_ACTIVITY_LEVEL_TYPE_CHALLENGE_SPECIFIC",
+        "specificFishId": 3,
         "galleryId": 11002,
         "challengeId": 111178,
         "openDay": 1,
-        "KFBECECPBOO": [
+        "watcherID": [
             1504104,
             1504105,
             1504106
         ],
-        "OLBNACAPHON": 1,
-        "PDEODLNEDPK": 72659,
+        "leadingLevel": 1,
+        "leadingMainQuest": 72659,
         "markPosition": [
             700.4874267578125,
             202.71609497070312,
@@ -35,16 +35,16 @@
     },
     {
         "levelId": 2,
-        "DPIDFIHDIMJ": "MOONFIN_TRIAL_ACTIVITY_LEVEL_TYPE_CHALLENGE_TOTAL",
+        "levelType": "MOONFIN_TRIAL_ACTIVITY_LEVEL_TYPE_CHALLENGE_TOTAL",
         "galleryId": 11001,
         "challengeId": 111177,
         "openDay": 2,
-        "KFBECECPBOO": [
+        "watcherID": [
             1504101,
             1504102,
             1504103
         ],
-        "PDEODLNEDPK": 72659,
+        "leadingMainQuest": 72659,
         "markPosition": [
             232.8166961669922,
             200.0,
@@ -58,8 +58,8 @@
     {
         "levelId": 4,
         "openDay": 3,
-        "KFBECECPBOO": [],
-        "PDEODLNEDPK": 72659,
+        "watcherID": [],
+        "leadingMainQuest": 72659,
         "mainQuest": 72661,
         "markPosition": [],
         "levelNameTextMapHash": 3820804857,
@@ -68,17 +68,17 @@
     },
     {
         "levelId": 6,
-        "DPIDFIHDIMJ": "MOONFIN_TRIAL_ACTIVITY_LEVEL_TYPE_CHALLENGE_SPECIFIC",
-        "DDEBPJIADFF": 2,
+        "levelType": "MOONFIN_TRIAL_ACTIVITY_LEVEL_TYPE_CHALLENGE_SPECIFIC",
+        "specificFishId": 2,
         "galleryId": 11004,
         "challengeId": 111180,
         "openDay": 4,
-        "KFBECECPBOO": [
+        "watcherID": [
             1504110,
             1504111,
             1504112
         ],
-        "PDEODLNEDPK": 72659,
+        "leadingMainQuest": 72659,
         "markPosition": [
             -3366.820068359375,
             200.13999938964844,
@@ -91,16 +91,16 @@
     },
     {
         "levelId": 5,
-        "DPIDFIHDIMJ": "MOONFIN_TRIAL_ACTIVITY_LEVEL_TYPE_CHALLENGE_CONTINUOUS",
+        "levelType": "MOONFIN_TRIAL_ACTIVITY_LEVEL_TYPE_CHALLENGE_CONTINUOUS",
         "galleryId": 11003,
         "challengeId": 111179,
         "openDay": 5,
-        "KFBECECPBOO": [
+        "watcherID": [
             1504107,
             1504108,
             1504109
         ],
-        "PDEODLNEDPK": 72659,
+        "leadingMainQuest": 72659,
         "markPosition": [
             1696.449951171875,
             195.39999389648438,
@@ -114,8 +114,8 @@
     {
         "levelId": 7,
         "openDay": 6,
-        "KFBECECPBOO": [],
-        "PDEODLNEDPK": 72661,
+        "watcherID": [],
+        "leadingMainQuest": 72661,
         "mainQuest": 72662,
         "markPosition": [],
         "levelNameTextMapHash": 2001507737,
@@ -125,8 +125,8 @@
     {
         "levelId": 8,
         "openDay": 7,
-        "KFBECECPBOO": [],
-        "PDEODLNEDPK": 72662,
+        "watcherID": [],
+        "leadingMainQuest": 72662,
         "mainQuest": 72663,
         "markPosition": [],
         "levelNameTextMapHash": 3918950545,
@@ -135,18 +135,18 @@
     },
     {
         "levelId": 9,
-        "DPIDFIHDIMJ": "MOONFIN_TRIAL_ACTIVITY_LEVEL_TYPE_SPECIAL_FISH",
-        "DDEBPJIADFF": 1019,
+        "levelType": "MOONFIN_TRIAL_ACTIVITY_LEVEL_TYPE_SPECIAL_FISH",
+        "specificFishId": 1019,
         "galleryId": 11005,
         "challengeId": 111181,
         "openDay": 7,
-        "KFBECECPBOO": [
+        "watcherID": [
             1504113,
             1504114,
             1504115
         ],
-        "OLBNACAPHON": 8,
-        "PDEODLNEDPK": 72663,
+        "leadingLevel": 8,
+        "leadingMainQuest": 72663,
         "markPosition": [
             -3528.10009765625,
             200.0,

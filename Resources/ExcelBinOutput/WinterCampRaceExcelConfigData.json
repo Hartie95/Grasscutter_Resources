@@ -14,8 +14,8 @@
             20000,
             30000
         ],
-        "OHAEEENDHNB": 220,
-        "HHIMNCJIAIF": 700,
+        "timeFactor": 220,
+        "goldFactor": 700,
         "DIKGOFDNLPG": 900,
         "KNFOJGKNHCK": [
             5,
@@ -39,8 +39,8 @@
             20000,
             30000
         ],
-        "OHAEEENDHNB": 220,
-        "HHIMNCJIAIF": 700,
+        "timeFactor": 220,
+        "goldFactor": 700,
         "DIKGOFDNLPG": 900,
         "KNFOJGKNHCK": [
             5,
@@ -64,8 +64,8 @@
             20000,
             30000
         ],
-        "OHAEEENDHNB": 220,
-        "HHIMNCJIAIF": 700,
+        "timeFactor": 220,
+        "goldFactor": 700,
         "DIKGOFDNLPG": 900,
         "KNFOJGKNHCK": [
             5,
@@ -90,8 +90,8 @@
             20000,
             30000
         ],
-        "OHAEEENDHNB": 220,
-        "HHIMNCJIAIF": 700,
+        "timeFactor": 220,
+        "goldFactor": 700,
         "DIKGOFDNLPG": 900,
         "KNFOJGKNHCK": [
             5,

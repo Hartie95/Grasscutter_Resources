@@ -2,7 +2,7 @@
     {
         "NCMMBLHLIOA": 1,
         "campNameTextMapHash": 1935736076,
-        "JMLNHKCOEBA": 1,
+        "unlockDay": 1,
         "EDJDHKMKEFH": 20170101,
         "questId": 4008109,
         "BGPJHHHHJOA": 4008106,
@@ -14,7 +14,7 @@
     {
         "NCMMBLHLIOA": 2,
         "campNameTextMapHash": 380485788,
-        "JMLNHKCOEBA": 1,
+        "unlockDay": 1,
         "EDJDHKMKEFH": 20170102,
         "questId": 4008114,
         "BGPJHHHHJOA": 4008108,
@@ -27,7 +27,7 @@
     {
         "NCMMBLHLIOA": 3,
         "campNameTextMapHash": 3201021900,
-        "JMLNHKCOEBA": 2,
+        "unlockDay": 2,
         "EDJDHKMKEFH": 20170103,
         "OFPOJFFPENL": [
             1201705,
@@ -38,7 +38,7 @@
     {
         "NCMMBLHLIOA": 4,
         "campNameTextMapHash": 3559699356,
-        "JMLNHKCOEBA": 3,
+        "unlockDay": 3,
         "EDJDHKMKEFH": 20170104,
         "OFPOJFFPENL": [
             1201707,
@@ -49,7 +49,7 @@
     {
         "NCMMBLHLIOA": 5,
         "campNameTextMapHash": 877087676,
-        "JMLNHKCOEBA": 4,
+        "unlockDay": 4,
         "EDJDHKMKEFH": 20170105,
         "OFPOJFFPENL": [
             1201709,

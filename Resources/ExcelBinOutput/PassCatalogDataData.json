@@ -4,7 +4,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_hengzhundating",
-        "HHDKOJDDCPI": "SUBAREA",
+        "regionType": "SUBAREA",
         "OHHCJMEOPPG": "2706",
         "LKJPCPLPOGH": [
             {
@@ -34,7 +34,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_dueting",
-        "HHDKOJDDCPI": "SUBAREA",
+        "regionType": "SUBAREA",
         "OHHCJMEOPPG": "2705",
         "LKJPCPLPOGH": [
             {
@@ -65,7 +65,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_duetingchuansong",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_duetingchuansong",
         "LKJPCPLPOGH": [
             {
@@ -97,7 +97,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_duetingrukou03",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_duetingrukou03",
         "LKJPCPLPOGH": [
             {
@@ -127,7 +127,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_duetingrukou02",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_duetingrukou02",
         "LKJPCPLPOGH": [
             {
@@ -157,7 +157,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_duetingrukou01",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_duetingrukou01",
         "LKJPCPLPOGH": [
             {
@@ -187,7 +187,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_rukouchuansong",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_rukouchuansong",
         "LKJPCPLPOGH": [
             {
@@ -223,7 +223,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_mushroomentry",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_mushroomentry",
         "LKJPCPLPOGH": [
             {
@@ -254,7 +254,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_mushroom",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_mushroom",
         "LKJPCPLPOGH": [
             {
@@ -284,7 +284,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_mushroomexit",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_mushroomexit",
         "LKJPCPLPOGH": [
             {
@@ -315,7 +315,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_rukoutopyramid",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_rukoutopyramid",
         "LKJPCPLPOGH": [
             {
@@ -347,7 +347,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_rukouroute01",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_rukouroute01",
         "LKJPCPLPOGH": [
             {
@@ -377,7 +377,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_rukouroute02",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_rukouroute02",
         "LKJPCPLPOGH": [
             {
@@ -407,7 +407,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_rukouroute03",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_rukouroute03",
         "LKJPCPLPOGH": [
             {
@@ -437,7 +437,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_pyramid01",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_pyramid01",
         "LKJPCPLPOGH": [
             {
@@ -467,7 +467,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_pyramid02",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_pyramid02",
         "LKJPCPLPOGH": [
             {
@@ -497,7 +497,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_pyramidchuansong",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_pyramidchuansong",
         "LKJPCPLPOGH": [
             {
@@ -529,7 +529,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_rukoutojinrudown01",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_rukoutojinrudown01",
         "LKJPCPLPOGH": [
             {
@@ -560,7 +560,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_rukoutojinrudown02",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_rukoutojinrudown02",
         "LKJPCPLPOGH": [
             {
@@ -590,7 +590,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_rukoutojinrudown03",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_rukoutojinrudown03",
         "LKJPCPLPOGH": [
             {
@@ -622,7 +622,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_underwaterentrydown",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_underwaterentrydown",
         "LKJPCPLPOGH": [
             {
@@ -652,7 +652,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_underwaterentryup01",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_underwaterentryup01",
         "LKJPCPLPOGH": [
             {
@@ -682,7 +682,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_underwaterentryup02",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_underwaterentryup02",
         "LKJPCPLPOGH": [
             {
@@ -712,7 +712,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_underwaterentryup03",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_underwaterentryup03",
         "LKJPCPLPOGH": [
             {
@@ -744,7 +744,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_rukoutojinruup01",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_rukoutojinruup01",
         "LKJPCPLPOGH": [
             {
@@ -776,7 +776,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_rukoutojinruup02",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_rukoutojinruup02",
         "LKJPCPLPOGH": [
             {
@@ -806,7 +806,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_rukoutojinruup03",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_rukoutojinruup03",
         "LKJPCPLPOGH": [
             {
@@ -837,7 +837,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_shuimozhijian",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_shuimozhijian",
         "LKJPCPLPOGH": [
             {
@@ -867,7 +867,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "",
-        "HHDKOJDDCPI": "BIGWORLD",
+        "regionType": "BIGWORLD",
         "OHHCJMEOPPG": "",
         "LKJPCPLPOGH": [
             {
@@ -895,7 +895,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_jinruchuansong",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_jinruchuansong",
         "LKJPCPLPOGH": [
             {
@@ -925,7 +925,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_jinrudongku",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_jinrudongku",
         "LKJPCPLPOGH": [
             {
@@ -959,7 +959,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_jinrutorukoudown",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_jinrutorukoudown",
         "LKJPCPLPOGH": [
             {
@@ -990,7 +990,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_jinrutorukouup01",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_jinrutorukouup01",
         "LKJPCPLPOGH": [
             {
@@ -1022,7 +1022,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_jinrutorukouup02",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_jinrutorukouup02",
         "LKJPCPLPOGH": [
             {
@@ -1052,7 +1052,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_jinruuproom",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_jinruuproom",
         "LKJPCPLPOGH": [
             {
@@ -1083,7 +1083,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_jinrutosiyu",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_jinrutosiyu",
         "LKJPCPLPOGH": [
             {
@@ -1115,7 +1115,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_jinrutomishi01",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_jinrutomishi01",
         "LKJPCPLPOGH": [
             {
@@ -1149,7 +1149,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_jinrutomishi02",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_jinrutomishi02",
         "LKJPCPLPOGH": [
             {
@@ -1180,7 +1180,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_jinrutomishi03",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_jinrutomishi03",
         "LKJPCPLPOGH": [
             {
@@ -1211,7 +1211,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_jinrutomishi04",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_jinrutomishi04",
         "LKJPCPLPOGH": [
             {
@@ -1241,7 +1241,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_jinrutoyuren01",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_jinrutoyuren01",
         "LKJPCPLPOGH": [
             {
@@ -1274,7 +1274,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_jinrutoyuren02",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_jinrutoyuren02",
         "LKJPCPLPOGH": [
             {
@@ -1304,7 +1304,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_jinrutoyuren03",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_jinrutoyuren03",
         "LKJPCPLPOGH": [
             {
@@ -1334,7 +1334,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_jinrutoyuren04",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_jinrutoyuren04",
         "LKJPCPLPOGH": [
             {
@@ -1365,7 +1365,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_jinrutoyuren05",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_jinrutoyuren05",
         "LKJPCPLPOGH": [
             {
@@ -1395,7 +1395,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_jinrutoyurenroom",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_jinrutoyurenroom",
         "LKJPCPLPOGH": [
             {
@@ -1425,7 +1425,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_jinrutoyuren06",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_jinrutoyuren06",
         "LKJPCPLPOGH": [
             {
@@ -1455,7 +1455,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_yurentojinru",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_yurentojinru",
         "LKJPCPLPOGH": [
             {
@@ -1484,7 +1484,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_jinrutojisi",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_jinrutojisi",
         "LKJPCPLPOGH": [
             {
@@ -1515,7 +1515,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_xukongzhijianentry",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_xukongzhijianentry",
         "LKJPCPLPOGH": [
             {
@@ -1546,7 +1546,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_xukongzhijianmid",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_xukongzhijianmid",
         "LKJPCPLPOGH": [
             {
@@ -1576,7 +1576,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_xukongzhijian",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_xukongzhijian",
         "LKJPCPLPOGH": [
             {
@@ -1605,7 +1605,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_jinrutosiyuentry",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_jinrutosiyuentry",
         "LKJPCPLPOGH": [
             {
@@ -1635,7 +1635,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_siyu",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_siyu",
         "LKJPCPLPOGH": [
             {
@@ -1666,7 +1666,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_siyutoyuren",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_siyutoyuren",
         "LKJPCPLPOGH": [
             {
@@ -1696,7 +1696,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_siyutoyurendown",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_siyutoyurendown",
         "LKJPCPLPOGH": [
             {
@@ -1726,7 +1726,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_yurenup",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_yurenup",
         "LKJPCPLPOGH": [
             {
@@ -1756,7 +1756,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_siyutotouming",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_siyutotouming",
         "LKJPCPLPOGH": [
             {
@@ -1787,7 +1787,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_toumingdown",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_toumingdown",
         "LKJPCPLPOGH": [
             {
@@ -1817,7 +1817,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_toumingup",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_toumingup",
         "LKJPCPLPOGH": [
             {
@@ -1849,7 +1849,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_yurendown01",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_yurendown01",
         "LKJPCPLPOGH": [
             {
@@ -1881,7 +1881,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_yurendown02",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_yurendown02",
         "LKJPCPLPOGH": [
             {
@@ -1913,7 +1913,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_yurentojisiup",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_yurentojisiup",
         "LKJPCPLPOGH": [
             {
@@ -1944,7 +1944,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_yurentojisidown",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_yurentojisidown",
         "LKJPCPLPOGH": [
             {
@@ -1976,7 +1976,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_yurendamen",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_yurendamen",
         "LKJPCPLPOGH": [
             {
@@ -2007,7 +2007,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_yurenchuansongdown",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_yurenchuansongdown",
         "LKJPCPLPOGH": [
             {
@@ -2038,7 +2038,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_yurenchuansong",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_yurenchuansong",
         "LKJPCPLPOGH": [
             {
@@ -2070,7 +2070,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_yurentojisiuproute",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_yurentojisiuproute",
         "LKJPCPLPOGH": [
             {
@@ -2101,7 +2101,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_jisichuansong",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_jisichuansong",
         "LKJPCPLPOGH": [
             {
@@ -2132,7 +2132,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_jisichuansongentry",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_jisichuansongentry",
         "LKJPCPLPOGH": [
             {
@@ -2164,7 +2164,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_jisidongkudown",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_jisidongkudown",
         "LKJPCPLPOGH": [
             {
@@ -2197,7 +2197,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_jisidongkuup",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_jisidongkuup",
         "LKJPCPLPOGH": [
             {
@@ -2229,7 +2229,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_chiwangzhixin",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_chiwangzhixin",
         "LKJPCPLPOGH": [
             {
@@ -2258,7 +2258,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_jisidatingentry",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_jisidatingentry",
         "LKJPCPLPOGH": [
             {
@@ -2290,7 +2290,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_jisidating01",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_jisidating01",
         "LKJPCPLPOGH": [
             {
@@ -2320,7 +2320,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_jisidating02",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_jisidating02",
         "LKJPCPLPOGH": [
             {
@@ -2350,7 +2350,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_jisidating03",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_jisidating03",
         "LKJPCPLPOGH": [
             {
@@ -2380,7 +2380,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_jisitoliantong",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_jisitoliantong",
         "LKJPCPLPOGH": [
             {
@@ -2413,7 +2413,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_liantong",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_liantong",
         "LKJPCPLPOGH": [
             {
@@ -2446,7 +2446,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_liantongtodicheng",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_liantongtodicheng",
         "LKJPCPLPOGH": [
             {
@@ -2477,7 +2477,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_dicheng",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_dicheng",
         "LKJPCPLPOGH": [
             {
@@ -2509,7 +2509,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_miyitodicheng",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_miyitodicheng",
         "LKJPCPLPOGH": [
             {
@@ -2538,7 +2538,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_miyiright01",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_miyiright01",
         "LKJPCPLPOGH": [
             {
@@ -2570,7 +2570,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_miyiright02",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_miyiright02",
         "LKJPCPLPOGH": [
             {
@@ -2601,7 +2601,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_miyiright03",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_miyiright03",
         "LKJPCPLPOGH": [
             {
@@ -2631,7 +2631,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_miyiright04",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_miyiright04",
         "LKJPCPLPOGH": [
             {
@@ -2661,7 +2661,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_miyiright05",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_miyiright05",
         "LKJPCPLPOGH": [
             {
@@ -2691,7 +2691,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_miyichuansong",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_miyichuansong",
         "LKJPCPLPOGH": [
             {
@@ -2725,7 +2725,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_miyileft01",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_miyileft01",
         "LKJPCPLPOGH": [
             {
@@ -2755,7 +2755,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_miyileft02",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_miyileft02",
         "LKJPCPLPOGH": [
             {
@@ -2785,7 +2785,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_miyileft03",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_miyileft03",
         "LKJPCPLPOGH": [
             {
@@ -2815,7 +2815,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_miyileft04",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_miyileft04",
         "LKJPCPLPOGH": [
             {
@@ -2847,7 +2847,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_miyimid",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_miyimid",
         "LKJPCPLPOGH": [
             {
@@ -2879,7 +2879,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_miyidown",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_miyidown",
         "LKJPCPLPOGH": [
             {
@@ -2908,7 +2908,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_miyitokuangdongentry",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_miyitokuangdongentry",
         "LKJPCPLPOGH": [
             {
@@ -2939,7 +2939,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_liantongtoquanzhang",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_liantongtoquanzhang",
         "LKJPCPLPOGH": [
             {
@@ -2971,7 +2971,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_liantongtoquanzhangdown",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_liantongtoquanzhangdown",
         "LKJPCPLPOGH": [
             {
@@ -3001,7 +3001,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_quanzhang",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_quanzhang",
         "LKJPCPLPOGH": [
             {
@@ -3037,7 +3037,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_quanzhangchuansong",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_quanzhangchuansong",
         "LKJPCPLPOGH": [
             {
@@ -3071,7 +3071,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_quanzhangzhijianentry01",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_quanzhangzhijianentry01",
         "LKJPCPLPOGH": [
             {
@@ -3101,7 +3101,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_quanzhangzhijian",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_quanzhangzhijian",
         "LKJPCPLPOGH": [
             {
@@ -3131,7 +3131,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_quanzhangzhijianentry02",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_quanzhangzhijianentry02",
         "LKJPCPLPOGH": [
             {
@@ -3162,7 +3162,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_quanzhangstair01",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_quanzhangstair01",
         "LKJPCPLPOGH": [
             {
@@ -3192,7 +3192,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_quanzhangstair02",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_quanzhangstair02",
         "LKJPCPLPOGH": [
             {
@@ -3222,7 +3222,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_quanzhangstair03",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_quanzhangstair03",
         "LKJPCPLPOGH": [
             {
@@ -3252,7 +3252,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_quanzhangstair04",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_quanzhangstair04",
         "LKJPCPLPOGH": [
             {
@@ -3283,7 +3283,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_quanzhangstair05",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_quanzhangstair05",
         "LKJPCPLPOGH": [
             {
@@ -3315,7 +3315,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_quanzhangstair06",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_quanzhangstair06",
         "LKJPCPLPOGH": [
             {
@@ -3346,7 +3346,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_quanzhangtokuangdong",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_quanzhangtokuangdong",
         "LKJPCPLPOGH": [
             {
@@ -3376,7 +3376,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_quanzhangtokuangdongentryup",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_quanzhangtokuangdongentryup",
         "LKJPCPLPOGH": [
             {
@@ -3407,7 +3407,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_kuangdongup01",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_kuangdongup01",
         "LKJPCPLPOGH": [
             {
@@ -3439,7 +3439,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_kuangdongup02",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_kuangdongup02",
         "LKJPCPLPOGH": [
             {
@@ -3472,7 +3472,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_kuangdongup03",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_kuangdongup03",
         "LKJPCPLPOGH": [
             {
@@ -3503,7 +3503,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_kuangdongup04",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_kuangdongup04",
         "LKJPCPLPOGH": [
             {
@@ -3535,7 +3535,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_kuangdongup05",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_kuangdongup05",
         "LKJPCPLPOGH": [
             {
@@ -3568,7 +3568,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_kuangdongup06",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_kuangdongup06",
         "LKJPCPLPOGH": [
             {
@@ -3599,7 +3599,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_kuangdongdown01",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_kuangdongdown01",
         "LKJPCPLPOGH": [
             {
@@ -3632,7 +3632,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_kuangdongdown02",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_kuangdongdown02",
         "LKJPCPLPOGH": [
             {
@@ -3665,7 +3665,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_kuangdong",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_kuangdong",
         "LKJPCPLPOGH": [
             {
@@ -3699,7 +3699,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_kuangdongdown04",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_kuangdongdown04",
         "LKJPCPLPOGH": [
             {
@@ -3732,7 +3732,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_kuangdongdown05",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_kuangdongdown05",
         "LKJPCPLPOGH": [
             {
@@ -3763,7 +3763,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_quanzhangtokuangdongentrydown",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_quanzhangtokuangdongentrydown",
         "LKJPCPLPOGH": [
             {
@@ -3795,7 +3795,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_kuangdongdown06",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_kuangdongdown06",
         "LKJPCPLPOGH": [
             {
@@ -3826,7 +3826,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_miyitokuangdong",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_miyitokuangdong",
         "LKJPCPLPOGH": [
             {
@@ -3858,7 +3858,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_kuangdongup07",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_kuangdongup07",
         "LKJPCPLPOGH": [
             {
@@ -3888,7 +3888,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_bigpyramidchuansong",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_bigpyramidchuansong",
         "LKJPCPLPOGH": [
             {
@@ -3918,7 +3918,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_bigpyramid",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_bigpyramid",
         "LKJPCPLPOGH": [
             {
@@ -3947,7 +3947,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_miyidimian",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_miyidimian",
         "LKJPCPLPOGH": [
             {
@@ -3978,7 +3978,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_miyientry",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_miyientry",
         "LKJPCPLPOGH": [
             {
@@ -4008,7 +4008,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_liushaexit",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_liushaexit",
         "LKJPCPLPOGH": [
             {
@@ -4040,7 +4040,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_liushaexitroute",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_liushaexitroute",
         "LKJPCPLPOGH": [
             {
@@ -4073,7 +4073,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_liushaexitchuansong",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_liushaexitchuansong",
         "LKJPCPLPOGH": [
             {
@@ -4106,7 +4106,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_liusha",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_liusha",
         "LKJPCPLPOGH": [
             {
@@ -4136,7 +4136,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_liushaentry",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_liushaentry",
         "LKJPCPLPOGH": [
             {
@@ -4166,7 +4166,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_liushaentrychuansong",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_liushaentrychuansong",
         "LKJPCPLPOGH": [
             {
@@ -4199,7 +4199,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_liushadicheng",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_liushadicheng",
         "LKJPCPLPOGH": [
             {
@@ -4231,7 +4231,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_shengxian",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_shengxian",
         "LKJPCPLPOGH": [
             {
@@ -4261,7 +4261,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_shengxianchuansong",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_shengxianchuansong",
         "LKJPCPLPOGH": [
             {
@@ -4292,7 +4292,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_warpgate",
-        "HHDKOJDDCPI": "POLYGON",
+        "regionType": "POLYGON",
         "OHHCJMEOPPG": "BigWorld_DeshretGuide_warpgate",
         "LKJPCPLPOGH": [
             {
@@ -4322,7 +4322,7 @@
         "FNMJPBBGADC": 3,
         "NNGKMPOPCLP": 1,
         "HBKNLEOGKKH": "DeshretPoint_arudaoying",
-        "HHDKOJDDCPI": "SUBAREA",
+        "regionType": "SUBAREA",
         "OHHCJMEOPPG": "2707",
         "LKJPCPLPOGH": [
             {

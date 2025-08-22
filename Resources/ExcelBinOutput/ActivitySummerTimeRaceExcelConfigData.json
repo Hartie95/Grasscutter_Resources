@@ -1,146 +1,146 @@
 [
     {
         "Id": 1,
-        "KFGDHIKBLLC": [
+        "medalWatcher": [
             1200501,
             1200502,
             1200503
         ],
-        "ANCNKKANDLL": [
+        "worldCoord": [
             604.0,
             120.0,
             233.0
         ],
-        "GBEIHFEJJOA": [
+        "medalPoint": [
             10000,
             20000,
             30000
         ],
         "levelTitleTextMapHash": 1443788822,
-        "OHAEEENDHNB": 150,
-        "HHIMNCJIAIF": 1500,
-        "MBNDJJFFFDL": 2005021,
-        "IJGCLGCBGJE": 108096,
-        "CAFKHCOOEKO": 108100
+        "timeFactor": 150,
+        "goldFactor": 1500,
+        "activityCondId": 2005021,
+        "boatPointConfigId": 108096,
+        "playerPointConfigId": 108100
     },
     {
         "Id": 2,
-        "KFGDHIKBLLC": [
+        "medalWatcher": [
             1200504,
             1200505,
             1200506
         ],
-        "ANCNKKANDLL": [
+        "worldCoord": [
             -193.0,
             120.0,
             -466.0
         ],
-        "GBEIHFEJJOA": [
+        "medalPoint": [
             10000,
             20000,
             30000
         ],
         "levelTitleTextMapHash": 2178347534,
-        "OHAEEENDHNB": 150,
-        "HHIMNCJIAIF": 1500,
-        "MBNDJJFFFDL": 2005022,
-        "IJGCLGCBGJE": 63139,
-        "CAFKHCOOEKO": 63022
+        "timeFactor": 150,
+        "goldFactor": 1500,
+        "activityCondId": 2005022,
+        "boatPointConfigId": 63139,
+        "playerPointConfigId": 63022
     },
     {
         "Id": 3,
-        "KFGDHIKBLLC": [
+        "medalWatcher": [
             1200507,
             1200508,
             1200509
         ],
-        "ANCNKKANDLL": [
+        "worldCoord": [
             90.0,
             120.0,
             270.0
         ],
-        "GBEIHFEJJOA": [
+        "medalPoint": [
             10000,
             20000,
             30000
         ],
         "levelTitleTextMapHash": 588766758,
-        "OHAEEENDHNB": 150,
-        "HHIMNCJIAIF": 1500,
-        "MBNDJJFFFDL": 2005023,
-        "IJGCLGCBGJE": 127093,
-        "CAFKHCOOEKO": 127011
+        "timeFactor": 150,
+        "goldFactor": 1500,
+        "activityCondId": 2005023,
+        "boatPointConfigId": 127093,
+        "playerPointConfigId": 127011
     },
     {
         "Id": 4,
-        "KFGDHIKBLLC": [
+        "medalWatcher": [
             1200510,
             1200511,
             1200512
         ],
-        "ANCNKKANDLL": [
+        "worldCoord": [
             -556.0,
             120.0,
             -142.0
         ],
-        "GBEIHFEJJOA": [
+        "medalPoint": [
             10000,
             20000,
             30000
         ],
         "levelTitleTextMapHash": 2433878222,
-        "OHAEEENDHNB": 150,
-        "HHIMNCJIAIF": 1500,
-        "MBNDJJFFFDL": 2005024,
-        "IJGCLGCBGJE": 65070,
-        "CAFKHCOOEKO": 65045
+        "timeFactor": 150,
+        "goldFactor": 1500,
+        "activityCondId": 2005024,
+        "boatPointConfigId": 65070,
+        "playerPointConfigId": 65045
     },
     {
         "Id": 5,
-        "KFGDHIKBLLC": [
+        "medalWatcher": [
             1200513,
             1200514,
             1200515
         ],
-        "ANCNKKANDLL": [
+        "worldCoord": [
             -231.0,
             120.0,
             -630.0
         ],
-        "GBEIHFEJJOA": [
+        "medalPoint": [
             10000,
             20000,
             30000
         ],
         "levelTitleTextMapHash": 3726955622,
-        "OHAEEENDHNB": 150,
-        "HHIMNCJIAIF": 1500,
-        "MBNDJJFFFDL": 2005025,
-        "IJGCLGCBGJE": 130099,
-        "CAFKHCOOEKO": 130026
+        "timeFactor": 150,
+        "goldFactor": 1500,
+        "activityCondId": 2005025,
+        "boatPointConfigId": 130099,
+        "playerPointConfigId": 130026
     },
     {
         "Id": 6,
-        "KFGDHIKBLLC": [
+        "medalWatcher": [
             1200516,
             1200517,
             1200518
         ],
-        "ANCNKKANDLL": [
+        "worldCoord": [
             287.0,
             120.0,
             -764.0
         ],
-        "GBEIHFEJJOA": [
+        "medalPoint": [
             10000,
             20000,
             30000
         ],
         "levelTitleTextMapHash": 3590576158,
-        "OHAEEENDHNB": 150,
-        "HHIMNCJIAIF": 1500,
-        "MBNDJJFFFDL": 2005026,
-        "IJGCLGCBGJE": 49058,
-        "CAFKHCOOEKO": 49039
+        "timeFactor": 150,
+        "goldFactor": 1500,
+        "activityCondId": 2005026,
+        "boatPointConfigId": 49058,
+        "playerPointConfigId": 49039
     }
 ]

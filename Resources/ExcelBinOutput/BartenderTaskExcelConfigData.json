@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "JMLNHKCOEBA": 1,
+        "unlockDay": 1,
         "parentQuestId": 70504,
         "LOJHOBCPPBM": 5062003,
         "FKLEDOCGMAF": 10000015,
@@ -12,7 +12,7 @@
     },
     {
         "id": 2,
-        "JMLNHKCOEBA": 1,
+        "unlockDay": 1,
         "parentQuestId": 70505,
         "LOJHOBCPPBM": 5062003,
         "FKLEDOCGMAF": 10000016,
@@ -22,7 +22,7 @@
     },
     {
         "id": 3,
-        "JMLNHKCOEBA": 2,
+        "unlockDay": 2,
         "parentQuestId": 70506,
         "LOJHOBCPPBM": 5062004,
         "FKLEDOCGMAF": 10000006,
@@ -33,7 +33,7 @@
     },
     {
         "id": 4,
-        "JMLNHKCOEBA": 2,
+        "unlockDay": 2,
         "parentQuestId": 70507,
         "LOJHOBCPPBM": 5062004,
         "FKLEDOCGMAF": 10000030,
@@ -43,7 +43,7 @@
     },
     {
         "id": 5,
-        "JMLNHKCOEBA": 3,
+        "unlockDay": 3,
         "parentQuestId": 70503,
         "LOJHOBCPPBM": 5062005,
         "FKLEDOCGMAF": 10000051,
@@ -53,7 +53,7 @@
     },
     {
         "id": 6,
-        "JMLNHKCOEBA": 3,
+        "unlockDay": 3,
         "parentQuestId": 70508,
         "LOJHOBCPPBM": 5062005,
         "FKLEDOCGMAF": 10000024,
@@ -64,7 +64,7 @@
     },
     {
         "id": 7,
-        "JMLNHKCOEBA": 3,
+        "unlockDay": 3,
         "parentQuestId": 70509,
         "LOJHOBCPPBM": 5062005,
         "FKLEDOCGMAF": 10000063,

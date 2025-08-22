@@ -2,8 +2,8 @@
     {
         "ID": 1,
         "levelID": 1,
-        "DPIDFIHDIMJ": "IRODORI_MASTER_LEVEL_NORAML",
-        "JMLNHKCOEBA": 5,
+        "levelType": "IRODORI_MASTER_LEVEL_NORAML",
+        "unlockDay": 5,
         "watcherList": [
             12012201,
             12012202
@@ -19,8 +19,8 @@
     {
         "ID": 2,
         "levelID": 1,
-        "DPIDFIHDIMJ": "IRODORI_MASTER_LEVEL_HARD",
-        "JMLNHKCOEBA": 5,
+        "levelType": "IRODORI_MASTER_LEVEL_HARD",
+        "unlockDay": 5,
         "watcherList": [
             12012203,
             12012204
@@ -37,8 +37,8 @@
     {
         "ID": 3,
         "levelID": 1,
-        "DPIDFIHDIMJ": "IRODORI_MASTER_LEVEL_MASTER",
-        "JMLNHKCOEBA": 5,
+        "levelType": "IRODORI_MASTER_LEVEL_MASTER",
+        "unlockDay": 5,
         "watcherList": [],
         "KCBBCJCAJMI": 2005017,
         "OACEMDINBNK": 2005018,
@@ -51,8 +51,8 @@
     {
         "ID": 4,
         "levelID": 2,
-        "DPIDFIHDIMJ": "IRODORI_MASTER_LEVEL_NORAML",
-        "JMLNHKCOEBA": 6,
+        "levelType": "IRODORI_MASTER_LEVEL_NORAML",
+        "unlockDay": 6,
         "watcherList": [
             12012205,
             12012206
@@ -68,8 +68,8 @@
     {
         "ID": 5,
         "levelID": 2,
-        "DPIDFIHDIMJ": "IRODORI_MASTER_LEVEL_HARD",
-        "JMLNHKCOEBA": 6,
+        "levelType": "IRODORI_MASTER_LEVEL_HARD",
+        "unlockDay": 6,
         "watcherList": [
             12012207,
             12012208
@@ -86,8 +86,8 @@
     {
         "ID": 6,
         "levelID": 2,
-        "DPIDFIHDIMJ": "IRODORI_MASTER_LEVEL_MASTER",
-        "JMLNHKCOEBA": 6,
+        "levelType": "IRODORI_MASTER_LEVEL_MASTER",
+        "unlockDay": 6,
         "watcherList": [],
         "KCBBCJCAJMI": 2005017,
         "OACEMDINBNK": 2005018,
@@ -100,8 +100,8 @@
     {
         "ID": 7,
         "levelID": 3,
-        "DPIDFIHDIMJ": "IRODORI_MASTER_LEVEL_NORAML",
-        "JMLNHKCOEBA": 7,
+        "levelType": "IRODORI_MASTER_LEVEL_NORAML",
+        "unlockDay": 7,
         "watcherList": [
             12012209,
             12012210
@@ -117,8 +117,8 @@
     {
         "ID": 8,
         "levelID": 3,
-        "DPIDFIHDIMJ": "IRODORI_MASTER_LEVEL_HARD",
-        "JMLNHKCOEBA": 7,
+        "levelType": "IRODORI_MASTER_LEVEL_HARD",
+        "unlockDay": 7,
         "watcherList": [
             12012211,
             12012212
@@ -135,8 +135,8 @@
     {
         "ID": 9,
         "levelID": 3,
-        "DPIDFIHDIMJ": "IRODORI_MASTER_LEVEL_MASTER",
-        "JMLNHKCOEBA": 7,
+        "levelType": "IRODORI_MASTER_LEVEL_MASTER",
+        "unlockDay": 7,
         "watcherList": [],
         "KCBBCJCAJMI": 2005017,
         "OACEMDINBNK": 2005018,
@@ -149,8 +149,8 @@
     {
         "ID": 10,
         "levelID": 4,
-        "DPIDFIHDIMJ": "IRODORI_MASTER_LEVEL_NORAML",
-        "JMLNHKCOEBA": 8,
+        "levelType": "IRODORI_MASTER_LEVEL_NORAML",
+        "unlockDay": 8,
         "watcherList": [
             12012213,
             12012214
@@ -166,8 +166,8 @@
     {
         "ID": 11,
         "levelID": 4,
-        "DPIDFIHDIMJ": "IRODORI_MASTER_LEVEL_HARD",
-        "JMLNHKCOEBA": 8,
+        "levelType": "IRODORI_MASTER_LEVEL_HARD",
+        "unlockDay": 8,
         "watcherList": [
             12012215,
             12012216
@@ -184,8 +184,8 @@
     {
         "ID": 12,
         "levelID": 4,
-        "DPIDFIHDIMJ": "IRODORI_MASTER_LEVEL_MASTER",
-        "JMLNHKCOEBA": 8,
+        "levelType": "IRODORI_MASTER_LEVEL_MASTER",
+        "unlockDay": 8,
         "watcherList": [],
         "KCBBCJCAJMI": 2005017,
         "OACEMDINBNK": 2005018,

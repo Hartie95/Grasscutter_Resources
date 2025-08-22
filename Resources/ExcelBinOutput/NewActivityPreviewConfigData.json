@@ -5,15 +5,15 @@
         "introTitleTextMapHash": 2947979886,
         "introContentTextMapHash": 3778764695,
         "rewardPreviewID": 32701,
-        "MJEFJPINOGN": 202102,
-        "CJOOCENJPLD": [],
-        "JLKFOHKOHPM": [],
-        "OBDFCICGIBB": 7003007,
+        "preQuestID": 202102,
+        "middleQuestIDList": [],
+        "middleQuestFinishIDList": [],
+        "openQuestID": 7003007,
         "pushTipsID": 10009,
-        "DCGOFMDLHNE": [],
-        "HMKHFFEIBBD": [],
+        "openMainQuestIDList": [],
+        "preMainQuestIDList": [],
         "LONFAIEMHPB": [],
-        "EFNOELGOCLO": [
+        "preActivityCondition": [
             {
                 "desc": ""
             },
@@ -31,14 +31,14 @@
         "introTitleTextMapHash": 2455330254,
         "introContentTextMapHash": 3413189295,
         "rewardPreviewID": 32801,
-        "MJEFJPINOGN": 202102,
-        "CJOOCENJPLD": [],
-        "JLKFOHKOHPM": [],
+        "preQuestID": 202102,
+        "middleQuestIDList": [],
+        "middleQuestFinishIDList": [],
         "pushTipsID": 10010,
-        "DCGOFMDLHNE": [],
-        "HMKHFFEIBBD": [],
+        "openMainQuestIDList": [],
+        "preMainQuestIDList": [],
         "LONFAIEMHPB": [],
-        "EFNOELGOCLO": [
+        "preActivityCondition": [
             {
                 "desc": ""
             },
@@ -56,15 +56,15 @@
         "introTitleTextMapHash": 764763430,
         "introContentTextMapHash": 1642172191,
         "rewardPreviewID": 33301,
-        "MJEFJPINOGN": 200711,
-        "CJOOCENJPLD": [],
-        "JLKFOHKOHPM": [],
-        "OBDFCICGIBB": 4003102,
+        "preQuestID": 200711,
+        "middleQuestIDList": [],
+        "middleQuestFinishIDList": [],
+        "openQuestID": 4003102,
         "pushTipsID": 11005,
-        "DCGOFMDLHNE": [],
-        "HMKHFFEIBBD": [],
+        "openMainQuestIDList": [],
+        "preMainQuestIDList": [],
         "LONFAIEMHPB": [],
-        "EFNOELGOCLO": [
+        "preActivityCondition": [
             {
                 "desc": ""
             },
@@ -82,14 +82,14 @@
         "introTitleTextMapHash": 2088299710,
         "introContentTextMapHash": 3266929583,
         "rewardPreviewID": 32901,
-        "MJEFJPINOGN": 1100801,
-        "CJOOCENJPLD": [],
-        "JLKFOHKOHPM": [],
-        "OBDFCICGIBB": 7066101,
-        "DCGOFMDLHNE": [],
-        "HMKHFFEIBBD": [],
+        "preQuestID": 1100801,
+        "middleQuestIDList": [],
+        "middleQuestFinishIDList": [],
+        "openQuestID": 7066101,
+        "openMainQuestIDList": [],
+        "preMainQuestIDList": [],
         "LONFAIEMHPB": [],
-        "EFNOELGOCLO": [
+        "preActivityCondition": [
             {
                 "desc": ""
             },
@@ -106,12 +106,12 @@
         "descTextMapHash": 2297639280,
         "introTitleTextMapHash": 335290462,
         "introContentTextMapHash": 4003122079,
-        "CJOOCENJPLD": [],
-        "JLKFOHKOHPM": [],
-        "DCGOFMDLHNE": [],
-        "HMKHFFEIBBD": [],
+        "middleQuestIDList": [],
+        "middleQuestFinishIDList": [],
+        "openMainQuestIDList": [],
+        "preMainQuestIDList": [],
         "LONFAIEMHPB": [],
-        "EFNOELGOCLO": [
+        "preActivityCondition": [
             {
                 "desc": ""
             },
@@ -129,15 +129,15 @@
         "introTitleTextMapHash": 1841946878,
         "introContentTextMapHash": 1472432935,
         "rewardPreviewID": 33304,
-        "MJEFJPINOGN": 101609,
-        "CJOOCENJPLD": [],
-        "JLKFOHKOHPM": [],
-        "OBDFCICGIBB": 7165904,
+        "preQuestID": 101609,
+        "middleQuestIDList": [],
+        "middleQuestFinishIDList": [],
+        "openQuestID": 7165904,
         "pushTipsID": 6039,
-        "DCGOFMDLHNE": [],
-        "HMKHFFEIBBD": [],
+        "openMainQuestIDList": [],
+        "preMainQuestIDList": [],
         "LONFAIEMHPB": [],
-        "EFNOELGOCLO": [
+        "preActivityCondition": [
             {
                 "desc": ""
             },
@@ -155,19 +155,19 @@
         "introTitleTextMapHash": 3507761150,
         "introContentTextMapHash": 2469097983,
         "rewardPreviewID": 33305,
-        "MJEFJPINOGN": 102510,
-        "CJOOCENJPLD": [],
-        "JLKFOHKOHPM": [],
-        "OBDFCICGIBB": 1101505,
-        "DCGOFMDLHNE": [
+        "preQuestID": 102510,
+        "middleQuestIDList": [],
+        "middleQuestFinishIDList": [],
+        "openQuestID": 1101505,
+        "openMainQuestIDList": [
             11009,
             11013,
             11014,
             11015
         ],
-        "HMKHFFEIBBD": [],
+        "preMainQuestIDList": [],
         "LONFAIEMHPB": [],
-        "EFNOELGOCLO": [
+        "preActivityCondition": [
             {
                 "desc": ""
             },
@@ -185,15 +185,15 @@
         "introTitleTextMapHash": 1325772086,
         "introContentTextMapHash": 2994661887,
         "rewardPreviewID": 33314,
-        "MJEFJPINOGN": 1101505,
-        "CJOOCENJPLD": [],
-        "JLKFOHKOHPM": [],
-        "OBDFCICGIBB": 7050205,
+        "preQuestID": 1101505,
+        "middleQuestIDList": [],
+        "middleQuestFinishIDList": [],
+        "openQuestID": 7050205,
         "pushTipsID": 11026,
-        "DCGOFMDLHNE": [],
-        "HMKHFFEIBBD": [],
+        "openMainQuestIDList": [],
+        "preMainQuestIDList": [],
         "LONFAIEMHPB": [],
-        "EFNOELGOCLO": [
+        "preActivityCondition": [
             {
                 "desc": ""
             },
@@ -211,15 +211,15 @@
         "introTitleTextMapHash": 1741498918,
         "introContentTextMapHash": 2447121647,
         "rewardPreviewID": 33341,
-        "MJEFJPINOGN": 102510,
-        "CJOOCENJPLD": [],
-        "JLKFOHKOHPM": [],
-        "OBDFCICGIBB": 7166207,
+        "preQuestID": 102510,
+        "middleQuestIDList": [],
+        "middleQuestFinishIDList": [],
+        "openQuestID": 7166207,
         "pushTipsID": 11029,
-        "DCGOFMDLHNE": [],
-        "HMKHFFEIBBD": [],
+        "openMainQuestIDList": [],
+        "preMainQuestIDList": [],
         "LONFAIEMHPB": [],
-        "EFNOELGOCLO": [
+        "preActivityCondition": [
             {
                 "desc": ""
             },
@@ -237,13 +237,13 @@
         "introTitleTextMapHash": 2840044350,
         "introContentTextMapHash": 3439719415,
         "rewardPreviewID": 33343,
-        "CJOOCENJPLD": [],
-        "JLKFOHKOHPM": [],
-        "OBDFCICGIBB": 7166302,
-        "DCGOFMDLHNE": [],
-        "HMKHFFEIBBD": [],
+        "middleQuestIDList": [],
+        "middleQuestFinishIDList": [],
+        "openQuestID": 7166302,
+        "openMainQuestIDList": [],
+        "preMainQuestIDList": [],
         "LONFAIEMHPB": [],
-        "EFNOELGOCLO": [
+        "preActivityCondition": [
             {
                 "desc": ""
             },
@@ -261,15 +261,15 @@
         "introTitleTextMapHash": 2147799606,
         "introContentTextMapHash": 2998466839,
         "rewardPreviewID": 33344,
-        "MJEFJPINOGN": 102510,
-        "CJOOCENJPLD": [],
-        "JLKFOHKOHPM": [],
-        "OBDFCICGIBB": 7166402,
+        "preQuestID": 102510,
+        "middleQuestIDList": [],
+        "middleQuestFinishIDList": [],
+        "openQuestID": 7166402,
         "pushTipsID": 11036,
-        "DCGOFMDLHNE": [],
-        "HMKHFFEIBBD": [],
+        "openMainQuestIDList": [],
+        "preMainQuestIDList": [],
         "LONFAIEMHPB": [],
-        "EFNOELGOCLO": [
+        "preActivityCondition": [
             {
                 "desc": ""
             },
@@ -287,11 +287,11 @@
         "introTitleTextMapHash": 3579825366,
         "introContentTextMapHash": 3248685335,
         "rewardPreviewID": 33345,
-        "MJEFJPINOGN": 201310,
-        "CJOOCENJPLD": [],
-        "JLKFOHKOHPM": [],
-        "DCGOFMDLHNE": [],
-        "HMKHFFEIBBD": [
+        "preQuestID": 201310,
+        "middleQuestIDList": [],
+        "middleQuestFinishIDList": [],
+        "openMainQuestIDList": [],
+        "preMainQuestIDList": [
             12033,
             12034,
             12035,
@@ -305,7 +305,7 @@
             12024
         ],
         "LONFAIEMHPB": [],
-        "EFNOELGOCLO": [
+        "preActivityCondition": [
             {
                 "desc": ""
             },
@@ -323,19 +323,19 @@
         "introTitleTextMapHash": 1494276190,
         "introContentTextMapHash": 307881487,
         "rewardPreviewID": 33342,
-        "MJEFJPINOGN": 201310,
-        "CJOOCENJPLD": [
+        "preQuestID": 201310,
+        "middleQuestIDList": [
             72724,
             71811
         ],
-        "JLKFOHKOHPM": [
+        "middleQuestFinishIDList": [
             71811
         ],
-        "OBDFCICGIBB": 7268302,
-        "DCGOFMDLHNE": [],
-        "HMKHFFEIBBD": [],
+        "openQuestID": 7268302,
+        "openMainQuestIDList": [],
+        "preMainQuestIDList": [],
         "LONFAIEMHPB": [],
-        "EFNOELGOCLO": [
+        "preActivityCondition": [
             {
                 "desc": ""
             },
@@ -353,15 +353,15 @@
         "introTitleTextMapHash": 4144500574,
         "introContentTextMapHash": 2609834719,
         "rewardPreviewID": 33346,
-        "MJEFJPINOGN": 201310,
-        "CJOOCENJPLD": [],
-        "JLKFOHKOHPM": [],
-        "OBDFCICGIBB": 7268407,
+        "preQuestID": 201310,
+        "middleQuestIDList": [],
+        "middleQuestFinishIDList": [],
+        "openQuestID": 7268407,
         "pushTipsID": 11031,
-        "DCGOFMDLHNE": [],
-        "HMKHFFEIBBD": [],
+        "openMainQuestIDList": [],
+        "preMainQuestIDList": [],
         "LONFAIEMHPB": [],
-        "EFNOELGOCLO": [
+        "preActivityCondition": [
             {
                 "desc": ""
             },
@@ -379,12 +379,12 @@
         "introTitleTextMapHash": 2832709958,
         "introContentTextMapHash": 311526159,
         "rewardPreviewID": 33349,
-        "CJOOCENJPLD": [],
-        "JLKFOHKOHPM": [],
-        "DCGOFMDLHNE": [],
-        "HMKHFFEIBBD": [],
+        "middleQuestIDList": [],
+        "middleQuestFinishIDList": [],
+        "openMainQuestIDList": [],
+        "preMainQuestIDList": [],
         "LONFAIEMHPB": [],
-        "EFNOELGOCLO": [
+        "preActivityCondition": [
             {
                 "DKBDDKGGOFM": 5079028,
                 "desc": "UI_ACTIVITY_CHASM_CHALLENGE_PRECOND"
@@ -403,15 +403,15 @@
         "introTitleTextMapHash": 129883518,
         "introContentTextMapHash": 14362551,
         "rewardPreviewID": 33347,
-        "MJEFJPINOGN": 7280705,
-        "CJOOCENJPLD": [],
-        "JLKFOHKOHPM": [],
-        "OBDFCICGIBB": 7269402,
+        "preQuestID": 7280705,
+        "middleQuestIDList": [],
+        "middleQuestFinishIDList": [],
+        "openQuestID": 7269402,
         "pushTipsID": 6058,
-        "DCGOFMDLHNE": [],
-        "HMKHFFEIBBD": [],
+        "openMainQuestIDList": [],
+        "preMainQuestIDList": [],
         "LONFAIEMHPB": [],
-        "EFNOELGOCLO": [
+        "preActivityCondition": [
             {
                 "desc": ""
             },
@@ -429,13 +429,13 @@
         "introTitleTextMapHash": 3967506214,
         "introContentTextMapHash": 2318570351,
         "rewardPreviewID": 33348,
-        "MJEFJPINOGN": 102510,
-        "CJOOCENJPLD": [],
-        "JLKFOHKOHPM": [],
-        "DCGOFMDLHNE": [],
-        "HMKHFFEIBBD": [],
+        "preQuestID": 102510,
+        "middleQuestIDList": [],
+        "middleQuestFinishIDList": [],
+        "openMainQuestIDList": [],
+        "preMainQuestIDList": [],
         "LONFAIEMHPB": [],
-        "EFNOELGOCLO": [
+        "preActivityCondition": [
             {
                 "desc": ""
             },
@@ -453,18 +453,18 @@
         "introTitleTextMapHash": 2451625702,
         "introContentTextMapHash": 150992887,
         "rewardPreviewID": 33359,
-        "MJEFJPINOGN": 200212,
-        "CJOOCENJPLD": [
+        "preQuestID": 200212,
+        "middleQuestIDList": [
             10500,
             10501,
             10502
         ],
-        "JLKFOHKOHPM": [],
-        "OBDFCICGIBB": 4006415,
-        "DCGOFMDLHNE": [],
-        "HMKHFFEIBBD": [],
+        "middleQuestFinishIDList": [],
+        "openQuestID": 4006415,
+        "openMainQuestIDList": [],
+        "preMainQuestIDList": [],
         "LONFAIEMHPB": [],
-        "EFNOELGOCLO": [
+        "preActivityCondition": [
             {
                 "desc": ""
             },
@@ -482,14 +482,14 @@
         "introTitleTextMapHash": 3032919286,
         "introContentTextMapHash": 2381332071,
         "rewardPreviewID": 33355,
-        "MJEFJPINOGN": 39604,
-        "CJOOCENJPLD": [],
-        "JLKFOHKOHPM": [],
-        "OBDFCICGIBB": 7051404,
-        "DCGOFMDLHNE": [],
-        "HMKHFFEIBBD": [],
+        "preQuestID": 39604,
+        "middleQuestIDList": [],
+        "middleQuestFinishIDList": [],
+        "openQuestID": 7051404,
+        "openMainQuestIDList": [],
+        "preMainQuestIDList": [],
         "LONFAIEMHPB": [],
-        "EFNOELGOCLO": [
+        "preActivityCondition": [
             {
                 "desc": ""
             },
@@ -507,15 +507,15 @@
         "introTitleTextMapHash": 419271054,
         "introContentTextMapHash": 2693240455,
         "rewardPreviewID": 33354,
-        "MJEFJPINOGN": 4006415,
-        "CJOOCENJPLD": [],
-        "JLKFOHKOHPM": [],
-        "OBDFCICGIBB": 7051701,
+        "preQuestID": 4006415,
+        "middleQuestIDList": [],
+        "middleQuestFinishIDList": [],
+        "openQuestID": 7051701,
         "pushTipsID": 6067,
-        "DCGOFMDLHNE": [],
-        "HMKHFFEIBBD": [],
+        "openMainQuestIDList": [],
+        "preMainQuestIDList": [],
         "LONFAIEMHPB": [],
-        "EFNOELGOCLO": [
+        "preActivityCondition": [
             {
                 "desc": ""
             },
@@ -533,13 +533,13 @@
         "introTitleTextMapHash": 2564895862,
         "introContentTextMapHash": 2009313135,
         "rewardPreviewID": 33353,
-        "MJEFJPINOGN": 4006407,
-        "CJOOCENJPLD": [],
-        "JLKFOHKOHPM": [],
-        "DCGOFMDLHNE": [],
-        "HMKHFFEIBBD": [],
+        "preQuestID": 4006407,
+        "middleQuestIDList": [],
+        "middleQuestFinishIDList": [],
+        "openMainQuestIDList": [],
+        "preMainQuestIDList": [],
         "LONFAIEMHPB": [],
-        "EFNOELGOCLO": [
+        "preActivityCondition": [
             {
                 "desc": ""
             },
@@ -557,18 +557,18 @@
         "introTitleTextMapHash": 3164498510,
         "introContentTextMapHash": 3242410287,
         "rewardPreviewID": 33352,
-        "MJEFJPINOGN": 39604,
-        "CJOOCENJPLD": [
+        "preQuestID": 39604,
+        "middleQuestIDList": [
             464,
             465,
             466
         ],
-        "JLKFOHKOHPM": [],
-        "OBDFCICGIBB": 7051207,
-        "DCGOFMDLHNE": [],
-        "HMKHFFEIBBD": [],
+        "middleQuestFinishIDList": [],
+        "openQuestID": 7051207,
+        "openMainQuestIDList": [],
+        "preMainQuestIDList": [],
         "LONFAIEMHPB": [],
-        "EFNOELGOCLO": [
+        "preActivityCondition": [
             {
                 "desc": ""
             },
@@ -586,14 +586,14 @@
         "introTitleTextMapHash": 2961478182,
         "introContentTextMapHash": 2551744279,
         "rewardPreviewID": 33362,
-        "CJOOCENJPLD": [],
-        "JLKFOHKOHPM": [],
-        "OBDFCICGIBB": 7365101,
+        "middleQuestIDList": [],
+        "middleQuestFinishIDList": [],
+        "openQuestID": 7365101,
         "pushTipsID": 6060,
-        "DCGOFMDLHNE": [],
-        "HMKHFFEIBBD": [],
+        "openMainQuestIDList": [],
+        "preMainQuestIDList": [],
         "LONFAIEMHPB": [],
-        "EFNOELGOCLO": [
+        "preActivityCondition": [
             {
                 "desc": ""
             },
@@ -611,20 +611,20 @@
         "introTitleTextMapHash": 513450638,
         "introContentTextMapHash": 680457463,
         "rewardPreviewID": 33363,
-        "MJEFJPINOGN": 31101,
-        "CJOOCENJPLD": [
+        "preQuestID": 31101,
+        "middleQuestIDList": [
             3000,
             3001,
             3002,
             3003,
             3004
         ],
-        "JLKFOHKOHPM": [],
-        "OBDFCICGIBB": 7350014,
-        "DCGOFMDLHNE": [],
-        "HMKHFFEIBBD": [],
+        "middleQuestFinishIDList": [],
+        "openQuestID": 7350014,
+        "openMainQuestIDList": [],
+        "preMainQuestIDList": [],
         "LONFAIEMHPB": [],
-        "EFNOELGOCLO": [
+        "preActivityCondition": [
             {
                 "desc": ""
             },
@@ -642,15 +642,15 @@
         "introTitleTextMapHash": 1224531574,
         "introContentTextMapHash": 4012609855,
         "rewardPreviewID": 33365,
-        "MJEFJPINOGN": 39604,
-        "CJOOCENJPLD": [],
-        "JLKFOHKOHPM": [],
-        "OBDFCICGIBB": 7365001,
+        "preQuestID": 39604,
+        "middleQuestIDList": [],
+        "middleQuestFinishIDList": [],
+        "openQuestID": 7365001,
         "pushTipsID": 6063,
-        "DCGOFMDLHNE": [],
-        "HMKHFFEIBBD": [],
+        "openMainQuestIDList": [],
+        "preMainQuestIDList": [],
         "LONFAIEMHPB": [],
-        "EFNOELGOCLO": [
+        "preActivityCondition": [
             {
                 "desc": ""
             },
@@ -668,14 +668,14 @@
         "introTitleTextMapHash": 1821354486,
         "introContentTextMapHash": 2407982055,
         "rewardPreviewID": 33364,
-        "CJOOCENJPLD": [],
-        "JLKFOHKOHPM": [],
-        "OBDFCICGIBB": 7367401,
+        "middleQuestIDList": [],
+        "middleQuestFinishIDList": [],
+        "openQuestID": 7367401,
         "pushTipsID": 11084,
-        "DCGOFMDLHNE": [],
-        "HMKHFFEIBBD": [],
+        "openMainQuestIDList": [],
+        "preMainQuestIDList": [],
         "LONFAIEMHPB": [],
-        "EFNOELGOCLO": [
+        "preActivityCondition": [
             {
                 "desc": ""
             },
@@ -693,12 +693,12 @@
         "introTitleTextMapHash": 808569118,
         "introContentTextMapHash": 1181416655,
         "rewardPreviewID": 33369,
-        "CJOOCENJPLD": [],
-        "JLKFOHKOHPM": [],
-        "DCGOFMDLHNE": [],
-        "HMKHFFEIBBD": [],
+        "middleQuestIDList": [],
+        "middleQuestFinishIDList": [],
+        "openMainQuestIDList": [],
+        "preMainQuestIDList": [],
         "LONFAIEMHPB": [],
-        "EFNOELGOCLO": [
+        "preActivityCondition": [
             {
                 "desc": ""
             },
@@ -716,14 +716,14 @@
         "introTitleTextMapHash": 4251264374,
         "introContentTextMapHash": 1682329263,
         "rewardPreviewID": 33368,
-        "CJOOCENJPLD": [],
-        "JLKFOHKOHPM": [],
-        "OBDFCICGIBB": 7066401,
+        "middleQuestIDList": [],
+        "middleQuestFinishIDList": [],
+        "openQuestID": 7066401,
         "pushTipsID": 6086,
-        "DCGOFMDLHNE": [],
-        "HMKHFFEIBBD": [],
+        "openMainQuestIDList": [],
+        "preMainQuestIDList": [],
         "LONFAIEMHPB": [],
-        "EFNOELGOCLO": [
+        "preActivityCondition": [
             {
                 "desc": ""
             },
@@ -741,7 +741,7 @@
         "introTitleTextMapHash": 1749135902,
         "introContentTextMapHash": 301346087,
         "rewardPreviewID": 33367,
-        "CJOOCENJPLD": [
+        "middleQuestIDList": [
             3000,
             3001,
             3002,
@@ -750,15 +750,15 @@
             3005,
             3006
         ],
-        "JLKFOHKOHPM": [],
-        "OBDFCICGIBB": 7367501,
+        "middleQuestFinishIDList": [],
+        "openQuestID": 7367501,
         "pushTipsID": 6095,
-        "DCGOFMDLHNE": [],
-        "HMKHFFEIBBD": [],
+        "openMainQuestIDList": [],
+        "preMainQuestIDList": [],
         "LONFAIEMHPB": [
             8007
         ],
-        "EFNOELGOCLO": [
+        "preActivityCondition": [
             {
                 "desc": ""
             },
@@ -776,8 +776,8 @@
         "introTitleTextMapHash": 386758302,
         "introContentTextMapHash": 2136382431,
         "rewardPreviewID": 33378,
-        "MJEFJPINOGN": 102510,
-        "CJOOCENJPLD": [
+        "preQuestID": 102510,
+        "middleQuestIDList": [
             3024,
             3025,
             3022,
@@ -785,12 +785,12 @@
             3026,
             12031
         ],
-        "JLKFOHKOHPM": [],
-        "OBDFCICGIBB": 4008109,
-        "DCGOFMDLHNE": [],
-        "HMKHFFEIBBD": [],
+        "middleQuestFinishIDList": [],
+        "openQuestID": 4008109,
+        "openMainQuestIDList": [],
+        "preMainQuestIDList": [],
         "LONFAIEMHPB": [],
-        "EFNOELGOCLO": [
+        "preActivityCondition": [
             {
                 "desc": ""
             },
@@ -808,12 +808,12 @@
         "introTitleTextMapHash": 1644820174,
         "introContentTextMapHash": 1475306879,
         "rewardPreviewID": 33376,
-        "CJOOCENJPLD": [],
-        "JLKFOHKOHPM": [],
-        "DCGOFMDLHNE": [],
-        "HMKHFFEIBBD": [],
+        "middleQuestIDList": [],
+        "middleQuestFinishIDList": [],
+        "openMainQuestIDList": [],
+        "preMainQuestIDList": [],
         "LONFAIEMHPB": [],
-        "EFNOELGOCLO": [
+        "preActivityCondition": [
             {
                 "desc": ""
             },
@@ -831,13 +831,13 @@
         "introTitleTextMapHash": 2866240318,
         "introContentTextMapHash": 1304621647,
         "rewardPreviewID": 33377,
-        "CJOOCENJPLD": [],
-        "JLKFOHKOHPM": [],
+        "middleQuestIDList": [],
+        "middleQuestFinishIDList": [],
         "pushTipsID": 12082,
-        "DCGOFMDLHNE": [],
-        "HMKHFFEIBBD": [],
+        "openMainQuestIDList": [],
+        "preMainQuestIDList": [],
         "LONFAIEMHPB": [],
-        "EFNOELGOCLO": [
+        "preActivityCondition": [
             {
                 "desc": ""
             },
@@ -855,8 +855,8 @@
         "introTitleTextMapHash": 3328563830,
         "introContentTextMapHash": 2438825343,
         "rewardPreviewID": 33342,
-        "MJEFJPINOGN": 201310,
-        "CJOOCENJPLD": [
+        "preQuestID": 201310,
+        "middleQuestIDList": [
             71811,
             12010,
             12011,
@@ -866,12 +866,12 @@
             11011,
             11012
         ],
-        "JLKFOHKOHPM": [],
-        "OBDFCICGIBB": 7250102,
-        "DCGOFMDLHNE": [],
-        "HMKHFFEIBBD": [],
+        "middleQuestFinishIDList": [],
+        "openQuestID": 7250102,
+        "openMainQuestIDList": [],
+        "preMainQuestIDList": [],
         "LONFAIEMHPB": [],
-        "EFNOELGOCLO": [
+        "preActivityCondition": [
             {
                 "desc": ""
             },

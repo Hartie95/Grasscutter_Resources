@@ -70,7 +70,7 @@
         "maxPlayers": 4,
         "isAllowInAnyTime": true,
         "settleType": "MP_PLAY_SETTLE_CARD",
-        "JADCMDCLPCF": 10901,
+        "seriesId": 10901,
         "buffList": [],
         "pushTipsId": 6038,
         "bgImage": "ART/UI/Atlas/ActivitySignImg/UI_Icon_SettlementBg_Common",

@@ -2,7 +2,7 @@
     {
         "stageId": 1,
         "openDay": 1,
-        "OLDBODLHMAE": [
+        "levelIdList": [
             1,
             2,
             3,
@@ -52,7 +52,7 @@
     {
         "stageId": 2,
         "openDay": 3,
-        "OLDBODLHMAE": [
+        "levelIdList": [
             5,
             6,
             7,
@@ -102,7 +102,7 @@
     {
         "stageId": 3,
         "openDay": 5,
-        "OLDBODLHMAE": [
+        "levelIdList": [
             9,
             10,
             11,

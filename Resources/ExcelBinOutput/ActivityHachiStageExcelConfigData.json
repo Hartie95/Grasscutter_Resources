@@ -5,8 +5,8 @@
         "questId": [
             4003101
         ],
-        "DHDIGGLDBPC": 1199192159,
-        "HAODJKMEEPM": 3015199484,
+        "questTitleTextMapHash": 1199192159,
+        "questDescTextMapHash": 3015199484,
         "MKHKCGPDPCF": 1924393222,
         "MPIDNIHDOAM": 2118923051,
         "OFAOPLFINLB": 1505101,
@@ -49,8 +49,8 @@
             4003204,
             4003201
         ],
-        "DHDIGGLDBPC": 716583711,
-        "HAODJKMEEPM": 2559179716,
+        "questTitleTextMapHash": 716583711,
+        "questDescTextMapHash": 2559179716,
         "MKHKCGPDPCF": 3379448934,
         "MPIDNIHDOAM": 2891858571,
         "OFAOPLFINLB": 1505102,
@@ -93,8 +93,8 @@
             4003304,
             4003301
         ],
-        "DHDIGGLDBPC": 1981993887,
-        "HAODJKMEEPM": 3687587460,
+        "questTitleTextMapHash": 1981993887,
+        "questDescTextMapHash": 3687587460,
         "MKHKCGPDPCF": 645500798,
         "MPIDNIHDOAM": 1395539139,
         "OFAOPLFINLB": 1505103,

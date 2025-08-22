@@ -3,7 +3,7 @@
         "ID": 1,
         "condID": 2012101,
         "GHHCAMCNFOC": 2012121,
-        "JMLNHKCOEBA": 1,
+        "unlockDay": 1,
         "entityType": "IRODORI_POETRY_ENTITY_TYPE_GATHER",
         "CGELKHNONEM": [
             {
@@ -65,7 +65,7 @@
         "ID": 2,
         "condID": 2012102,
         "GHHCAMCNFOC": 2012122,
-        "JMLNHKCOEBA": 2,
+        "unlockDay": 2,
         "entityType": "IRODORI_POETRY_ENTITY_TYPE_MONSTER",
         "CGELKHNONEM": [
             {
@@ -134,7 +134,7 @@
         "ID": 3,
         "condID": 2012103,
         "GHHCAMCNFOC": 2012123,
-        "JMLNHKCOEBA": 3,
+        "unlockDay": 3,
         "entityType": "IRODORI_POETRY_ENTITY_TYPE_GATHER",
         "CGELKHNONEM": [
             {

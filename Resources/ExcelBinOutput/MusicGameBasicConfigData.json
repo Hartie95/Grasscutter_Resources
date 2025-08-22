@@ -13,29 +13,29 @@
             2725
         ],
         "scoreOneKey": 20,
-        "GCIIOEOCINJ": 15,
-        "CJIHKCNJFKG": 5,
-        "NOJAAJMNELC": 145.0,
-        "FMBCCHCNJGO": {
+        "scoreLongPress": 15,
+        "scoreGreat": 5,
+        "bpm": 145.0,
+        "bpmDict": {
             "0": 145.0
         },
-        "comboConfig": [
+        "ugcBeatDivisionOptions": [
             2,
             4,
             6
         ],
-        "scaleRange": 4,
-        "FAOGONAHMDJ": "XiaoGong_Hint_Complex",
-        "GINGCFHIGBJ": "XiaoGong_Hint_Complex",
-        "HHCHMOBJJPP": 102,
-        "EHOCFNIDINA": [
+        "ugcDefaultBeatDivision": 4,
+        "simpleHintJsonPath": "XiaoGong_Hint_Complex",
+        "complexHintJsonPath": "XiaoGong_Hint_Complex",
+        "noteCount": 102,
+        "comboConfig": [
             {},
             {},
             {},
             {}
         ],
         "unlockTipsTextMapHash": 1978622692,
-        "HPNLHOLDHGI": [
+        "soloConfig": [
             {},
             {},
             {},
@@ -56,29 +56,29 @@
             3370
         ],
         "scoreOneKey": 20,
-        "GCIIOEOCINJ": 15,
-        "CJIHKCNJFKG": 5,
-        "NOJAAJMNELC": 145.0,
-        "FMBCCHCNJGO": {
+        "scoreLongPress": 15,
+        "scoreGreat": 5,
+        "bpm": 145.0,
+        "bpmDict": {
             "0": 145.0
         },
-        "comboConfig": [
+        "ugcBeatDivisionOptions": [
             2,
             4,
             6
         ],
-        "scaleRange": 4,
-        "FAOGONAHMDJ": "XiaoGong_Hint_Complex",
-        "GINGCFHIGBJ": "XiaoGong_Hint_Complex",
-        "HHCHMOBJJPP": 122,
-        "EHOCFNIDINA": [
+        "ugcDefaultBeatDivision": 4,
+        "simpleHintJsonPath": "XiaoGong_Hint_Complex",
+        "complexHintJsonPath": "XiaoGong_Hint_Complex",
+        "noteCount": 122,
+        "comboConfig": [
             {},
             {},
             {},
             {}
         ],
         "unlockTipsTextMapHash": 2239859412,
-        "HPNLHOLDHGI": [
+        "soloConfig": [
             {},
             {},
             {},
@@ -99,29 +99,29 @@
             4960
         ],
         "scoreOneKey": 20,
-        "GCIIOEOCINJ": 15,
-        "CJIHKCNJFKG": 5,
-        "NOJAAJMNELC": 145.0,
-        "FMBCCHCNJGO": {
+        "scoreLongPress": 15,
+        "scoreGreat": 5,
+        "bpm": 145.0,
+        "bpmDict": {
             "0": 145.0
         },
-        "comboConfig": [
+        "ugcBeatDivisionOptions": [
             2,
             4,
             6
         ],
-        "scaleRange": 4,
-        "FAOGONAHMDJ": "XiaoGong_Hint_Complex",
-        "GINGCFHIGBJ": "XiaoGong_Hint_Complex",
-        "HHCHMOBJJPP": 179,
-        "EHOCFNIDINA": [
+        "ugcDefaultBeatDivision": 4,
+        "simpleHintJsonPath": "XiaoGong_Hint_Complex",
+        "complexHintJsonPath": "XiaoGong_Hint_Complex",
+        "noteCount": 179,
+        "comboConfig": [
             {},
             {},
             {},
             {}
         ],
         "unlockTipsTextMapHash": 2777352964,
-        "HPNLHOLDHGI": [
+        "soloConfig": [
             {},
             {},
             {},
@@ -142,29 +142,29 @@
             2750
         ],
         "scoreOneKey": 20,
-        "GCIIOEOCINJ": 15,
-        "CJIHKCNJFKG": 5,
-        "NOJAAJMNELC": 150.0,
-        "FMBCCHCNJGO": {
+        "scoreLongPress": 15,
+        "scoreGreat": 5,
+        "bpm": 150.0,
+        "bpmDict": {
             "0": 150.0
         },
-        "comboConfig": [
+        "ugcBeatDivisionOptions": [
             2,
             4,
             6
         ],
-        "scaleRange": 4,
-        "FAOGONAHMDJ": "YiDou_Hint_Complex",
-        "GINGCFHIGBJ": "YiDou_Hint_Complex",
-        "HHCHMOBJJPP": 97,
-        "EHOCFNIDINA": [
+        "ugcDefaultBeatDivision": 4,
+        "simpleHintJsonPath": "YiDou_Hint_Complex",
+        "complexHintJsonPath": "YiDou_Hint_Complex",
+        "noteCount": 97,
+        "comboConfig": [
             {},
             {},
             {},
             {}
         ],
         "unlockTipsTextMapHash": 4163533660,
-        "HPNLHOLDHGI": [
+        "soloConfig": [
             {},
             {},
             {},
@@ -185,29 +185,29 @@
             3635
         ],
         "scoreOneKey": 20,
-        "GCIIOEOCINJ": 15,
-        "CJIHKCNJFKG": 5,
-        "NOJAAJMNELC": 150.0,
-        "FMBCCHCNJGO": {
+        "scoreLongPress": 15,
+        "scoreGreat": 5,
+        "bpm": 150.0,
+        "bpmDict": {
             "0": 150.0
         },
-        "comboConfig": [
+        "ugcBeatDivisionOptions": [
             2,
             4,
             6
         ],
-        "scaleRange": 4,
-        "FAOGONAHMDJ": "YiDou_Hint_Complex",
-        "GINGCFHIGBJ": "YiDou_Hint_Complex",
-        "HHCHMOBJJPP": 121,
-        "EHOCFNIDINA": [
+        "ugcDefaultBeatDivision": 4,
+        "simpleHintJsonPath": "YiDou_Hint_Complex",
+        "complexHintJsonPath": "YiDou_Hint_Complex",
+        "noteCount": 121,
+        "comboConfig": [
             {},
             {},
             {},
             {}
         ],
         "unlockTipsTextMapHash": 575239028,
-        "HPNLHOLDHGI": [
+        "soloConfig": [
             {},
             {},
             {},
@@ -228,29 +228,29 @@
             4685
         ],
         "scoreOneKey": 20,
-        "GCIIOEOCINJ": 15,
-        "CJIHKCNJFKG": 5,
-        "NOJAAJMNELC": 150.0,
-        "FMBCCHCNJGO": {
+        "scoreLongPress": 15,
+        "scoreGreat": 5,
+        "bpm": 150.0,
+        "bpmDict": {
             "0": 150.0
         },
-        "comboConfig": [
+        "ugcBeatDivisionOptions": [
             2,
             4,
             6
         ],
-        "scaleRange": 4,
-        "FAOGONAHMDJ": "YiDou_Hint_Complex",
-        "GINGCFHIGBJ": "YiDou_Hint_Complex",
-        "HHCHMOBJJPP": 168,
-        "EHOCFNIDINA": [
+        "ugcDefaultBeatDivision": 4,
+        "simpleHintJsonPath": "YiDou_Hint_Complex",
+        "complexHintJsonPath": "YiDou_Hint_Complex",
+        "noteCount": 168,
+        "comboConfig": [
             {},
             {},
             {},
             {}
         ],
         "unlockTipsTextMapHash": 627147492,
-        "HPNLHOLDHGI": [
+        "soloConfig": [
             {},
             {},
             {},
@@ -271,31 +271,31 @@
             2670
         ],
         "scoreOneKey": 20,
-        "GCIIOEOCINJ": 15,
-        "CJIHKCNJFKG": 5,
-        "NOJAAJMNELC": 168.0,
-        "FMBCCHCNJGO": {
+        "scoreLongPress": 15,
+        "scoreGreat": 5,
+        "bpm": 168.0,
+        "bpmDict": {
             "0": 168.0,
             "2841": 168.0,
             "54265": 170.0
         },
-        "comboConfig": [
+        "ugcBeatDivisionOptions": [
             2,
             4,
             6
         ],
-        "scaleRange": 4,
-        "FAOGONAHMDJ": "WanYe_Hint_Complex",
-        "GINGCFHIGBJ": "WanYe_Hint_Complex",
-        "HHCHMOBJJPP": 99,
-        "EHOCFNIDINA": [
+        "ugcDefaultBeatDivision": 4,
+        "simpleHintJsonPath": "WanYe_Hint_Complex",
+        "complexHintJsonPath": "WanYe_Hint_Complex",
+        "noteCount": 99,
+        "comboConfig": [
             {},
             {},
             {},
             {}
         ],
         "unlockTipsTextMapHash": 1710397604,
-        "HPNLHOLDHGI": [
+        "soloConfig": [
             {},
             {},
             {},
@@ -316,31 +316,31 @@
             3740
         ],
         "scoreOneKey": 20,
-        "GCIIOEOCINJ": 15,
-        "CJIHKCNJFKG": 5,
-        "NOJAAJMNELC": 168.0,
-        "FMBCCHCNJGO": {
+        "scoreLongPress": 15,
+        "scoreGreat": 5,
+        "bpm": 168.0,
+        "bpmDict": {
             "0": 168.0,
             "2841": 168.0,
             "54265": 170.0
         },
-        "comboConfig": [
+        "ugcBeatDivisionOptions": [
             2,
             4,
             6
         ],
-        "scaleRange": 4,
-        "FAOGONAHMDJ": "WanYe_Hint_Complex",
-        "GINGCFHIGBJ": "WanYe_Hint_Complex",
-        "HHCHMOBJJPP": 129,
-        "EHOCFNIDINA": [
+        "ugcDefaultBeatDivision": 4,
+        "simpleHintJsonPath": "WanYe_Hint_Complex",
+        "complexHintJsonPath": "WanYe_Hint_Complex",
+        "noteCount": 129,
+        "comboConfig": [
             {},
             {},
             {},
             {}
         ],
         "unlockTipsTextMapHash": 1852506564,
-        "HPNLHOLDHGI": [
+        "soloConfig": [
             {},
             {},
             {},
@@ -361,31 +361,31 @@
             4820
         ],
         "scoreOneKey": 20,
-        "GCIIOEOCINJ": 15,
-        "CJIHKCNJFKG": 5,
-        "NOJAAJMNELC": 168.0,
-        "FMBCCHCNJGO": {
+        "scoreLongPress": 15,
+        "scoreGreat": 5,
+        "bpm": 168.0,
+        "bpmDict": {
             "0": 168.0,
             "2841": 168.0,
             "54265": 170.0
         },
-        "comboConfig": [
+        "ugcBeatDivisionOptions": [
             2,
             4,
             6
         ],
-        "scaleRange": 4,
-        "FAOGONAHMDJ": "WanYe_Hint_Complex",
-        "GINGCFHIGBJ": "WanYe_Hint_Complex",
-        "HHCHMOBJJPP": 171,
-        "EHOCFNIDINA": [
+        "ugcDefaultBeatDivision": 4,
+        "simpleHintJsonPath": "WanYe_Hint_Complex",
+        "complexHintJsonPath": "WanYe_Hint_Complex",
+        "noteCount": 171,
+        "comboConfig": [
             {},
             {},
             {},
             {}
         ],
         "unlockTipsTextMapHash": 1750823012,
-        "HPNLHOLDHGI": [
+        "soloConfig": [
             {},
             {},
             {},
@@ -406,29 +406,29 @@
             2110
         ],
         "scoreOneKey": 20,
-        "GCIIOEOCINJ": 15,
-        "CJIHKCNJFKG": 5,
-        "NOJAAJMNELC": 143.0,
-        "FMBCCHCNJGO": {
+        "scoreLongPress": 15,
+        "scoreGreat": 5,
+        "bpm": 143.0,
+        "bpmDict": {
             "0": 143.0
         },
-        "comboConfig": [
+        "ugcBeatDivisionOptions": [
             2,
             4,
             6
         ],
-        "scaleRange": 4,
-        "FAOGONAHMDJ": "TuoMa_Hint_Complex",
-        "GINGCFHIGBJ": "TuoMa_Hint_Complex",
-        "HHCHMOBJJPP": 77,
-        "EHOCFNIDINA": [
+        "ugcDefaultBeatDivision": 4,
+        "simpleHintJsonPath": "TuoMa_Hint_Complex",
+        "complexHintJsonPath": "TuoMa_Hint_Complex",
+        "noteCount": 77,
+        "comboConfig": [
             {},
             {},
             {},
             {}
         ],
         "unlockTipsTextMapHash": 2032707428,
-        "HPNLHOLDHGI": [
+        "soloConfig": [
             {},
             {},
             {},
@@ -449,29 +449,29 @@
             2775
         ],
         "scoreOneKey": 20,
-        "GCIIOEOCINJ": 15,
-        "CJIHKCNJFKG": 5,
-        "NOJAAJMNELC": 143.0,
-        "FMBCCHCNJGO": {
+        "scoreLongPress": 15,
+        "scoreGreat": 5,
+        "bpm": 143.0,
+        "bpmDict": {
             "0": 143.0
         },
-        "comboConfig": [
+        "ugcBeatDivisionOptions": [
             2,
             4,
             6
         ],
-        "scaleRange": 4,
-        "FAOGONAHMDJ": "TuoMa_Hint_Complex",
-        "GINGCFHIGBJ": "TuoMa_Hint_Complex",
-        "HHCHMOBJJPP": 102,
-        "EHOCFNIDINA": [
+        "ugcDefaultBeatDivision": 4,
+        "simpleHintJsonPath": "TuoMa_Hint_Complex",
+        "complexHintJsonPath": "TuoMa_Hint_Complex",
+        "noteCount": 102,
+        "comboConfig": [
             {},
             {},
             {},
             {}
         ],
         "unlockTipsTextMapHash": 2891835564,
-        "HPNLHOLDHGI": [
+        "soloConfig": [
             {},
             {},
             {},
@@ -492,29 +492,29 @@
             3555
         ],
         "scoreOneKey": 20,
-        "GCIIOEOCINJ": 15,
-        "CJIHKCNJFKG": 5,
-        "NOJAAJMNELC": 143.0,
-        "FMBCCHCNJGO": {
+        "scoreLongPress": 15,
+        "scoreGreat": 5,
+        "bpm": 143.0,
+        "bpmDict": {
             "0": 143.0
         },
-        "comboConfig": [
+        "ugcBeatDivisionOptions": [
             2,
             4,
             6
         ],
-        "scaleRange": 4,
-        "FAOGONAHMDJ": "TuoMa_Hint_Complex",
-        "GINGCFHIGBJ": "TuoMa_Hint_Complex",
-        "HHCHMOBJJPP": 135,
-        "EHOCFNIDINA": [
+        "ugcDefaultBeatDivision": 4,
+        "simpleHintJsonPath": "TuoMa_Hint_Complex",
+        "complexHintJsonPath": "TuoMa_Hint_Complex",
+        "noteCount": 135,
+        "comboConfig": [
             {},
             {},
             {},
             {}
         ],
         "unlockTipsTextMapHash": 2765580940,
-        "HPNLHOLDHGI": [
+        "soloConfig": [
             {},
             {},
             {},
@@ -535,10 +535,10 @@
             2150
         ],
         "scoreOneKey": 20,
-        "GCIIOEOCINJ": 15,
-        "CJIHKCNJFKG": 5,
-        "NOJAAJMNELC": 129.0,
-        "FMBCCHCNJGO": {
+        "scoreLongPress": 15,
+        "scoreGreat": 5,
+        "bpm": 129.0,
+        "bpmDict": {
             "0": 129.0,
             "20248": 135.0,
             "46144": 135.0,
@@ -548,23 +548,23 @@
             "77517": 139.0,
             "84358": 117.0
         },
-        "comboConfig": [
+        "ugcBeatDivisionOptions": [
             2,
             4,
             6
         ],
-        "scaleRange": 4,
-        "FAOGONAHMDJ": "KeLi_Hint_Complex",
-        "GINGCFHIGBJ": "KeLi_Hint_Complex",
-        "HHCHMOBJJPP": 101,
-        "EHOCFNIDINA": [
+        "ugcDefaultBeatDivision": 4,
+        "simpleHintJsonPath": "KeLi_Hint_Complex",
+        "complexHintJsonPath": "KeLi_Hint_Complex",
+        "noteCount": 101,
+        "comboConfig": [
             {},
             {},
             {},
             {}
         ],
         "unlockTipsTextMapHash": 450371132,
-        "HPNLHOLDHGI": [
+        "soloConfig": [
             {},
             {},
             {},
@@ -585,10 +585,10 @@
             3150
         ],
         "scoreOneKey": 20,
-        "GCIIOEOCINJ": 15,
-        "CJIHKCNJFKG": 5,
-        "NOJAAJMNELC": 129.0,
-        "FMBCCHCNJGO": {
+        "scoreLongPress": 15,
+        "scoreGreat": 5,
+        "bpm": 129.0,
+        "bpmDict": {
             "0": 129.0,
             "20248": 135.0,
             "46144": 135.0,
@@ -598,23 +598,23 @@
             "77517": 139.0,
             "84358": 117.0
         },
-        "comboConfig": [
+        "ugcBeatDivisionOptions": [
             2,
             4,
             6
         ],
-        "scaleRange": 4,
-        "FAOGONAHMDJ": "KeLi_Hint_Complex",
-        "GINGCFHIGBJ": "KeLi_Hint_Complex",
-        "HHCHMOBJJPP": 133,
-        "EHOCFNIDINA": [
+        "ugcDefaultBeatDivision": 4,
+        "simpleHintJsonPath": "KeLi_Hint_Complex",
+        "complexHintJsonPath": "KeLi_Hint_Complex",
+        "noteCount": 133,
+        "comboConfig": [
             {},
             {},
             {},
             {}
         ],
         "unlockTipsTextMapHash": 2490751876,
-        "HPNLHOLDHGI": [
+        "soloConfig": [
             {},
             {},
             {},
@@ -635,10 +635,10 @@
             4640
         ],
         "scoreOneKey": 20,
-        "GCIIOEOCINJ": 15,
-        "CJIHKCNJFKG": 5,
-        "NOJAAJMNELC": 129.0,
-        "FMBCCHCNJGO": {
+        "scoreLongPress": 15,
+        "scoreGreat": 5,
+        "bpm": 129.0,
+        "bpmDict": {
             "0": 129.0,
             "20248": 135.0,
             "46144": 135.0,
@@ -648,23 +648,23 @@
             "77517": 139.0,
             "84358": 117.0
         },
-        "comboConfig": [
+        "ugcBeatDivisionOptions": [
             2,
             4,
             6
         ],
-        "scaleRange": 4,
-        "FAOGONAHMDJ": "KeLi_Hint_Complex",
-        "GINGCFHIGBJ": "KeLi_Hint_Complex",
-        "HHCHMOBJJPP": 178,
-        "EHOCFNIDINA": [
+        "ugcDefaultBeatDivision": 4,
+        "simpleHintJsonPath": "KeLi_Hint_Complex",
+        "complexHintJsonPath": "KeLi_Hint_Complex",
+        "noteCount": 178,
+        "comboConfig": [
             {},
             {},
             {},
             {}
         ],
         "unlockTipsTextMapHash": 845524156,
-        "HPNLHOLDHGI": [
+        "soloConfig": [
             {},
             {},
             {},
@@ -685,29 +685,29 @@
             2225
         ],
         "scoreOneKey": 20,
-        "GCIIOEOCINJ": 15,
-        "CJIHKCNJFKG": 5,
-        "NOJAAJMNELC": 136.0,
-        "FMBCCHCNJGO": {
+        "scoreLongPress": 15,
+        "scoreGreat": 5,
+        "bpm": 136.0,
+        "bpmDict": {
             "0": 136.0
         },
-        "comboConfig": [
+        "ugcBeatDivisionOptions": [
             3,
             4,
             6
         ],
-        "scaleRange": 3,
-        "FAOGONAHMDJ": "ReTuoLongWang_Hint_Complex",
-        "GINGCFHIGBJ": "ReTuoLongWang_Hint_Complex",
-        "HHCHMOBJJPP": 99,
-        "EHOCFNIDINA": [
+        "ugcDefaultBeatDivision": 3,
+        "simpleHintJsonPath": "ReTuoLongWang_Hint_Complex",
+        "complexHintJsonPath": "ReTuoLongWang_Hint_Complex",
+        "noteCount": 99,
+        "comboConfig": [
             {},
             {},
             {},
             {}
         ],
         "unlockTipsTextMapHash": 1680807580,
-        "HPNLHOLDHGI": [
+        "soloConfig": [
             {},
             {},
             {},
@@ -728,29 +728,29 @@
             3270
         ],
         "scoreOneKey": 20,
-        "GCIIOEOCINJ": 15,
-        "CJIHKCNJFKG": 5,
-        "NOJAAJMNELC": 136.0,
-        "FMBCCHCNJGO": {
+        "scoreLongPress": 15,
+        "scoreGreat": 5,
+        "bpm": 136.0,
+        "bpmDict": {
             "0": 136.0
         },
-        "comboConfig": [
+        "ugcBeatDivisionOptions": [
             3,
             4,
             6
         ],
-        "scaleRange": 3,
-        "FAOGONAHMDJ": "ReTuoLongWang_Hint_Complex",
-        "GINGCFHIGBJ": "ReTuoLongWang_Hint_Complex",
-        "HHCHMOBJJPP": 127,
-        "EHOCFNIDINA": [
+        "ugcDefaultBeatDivision": 3,
+        "simpleHintJsonPath": "ReTuoLongWang_Hint_Complex",
+        "complexHintJsonPath": "ReTuoLongWang_Hint_Complex",
+        "noteCount": 127,
+        "comboConfig": [
             {},
             {},
             {},
             {}
         ],
         "unlockTipsTextMapHash": 1642361068,
-        "HPNLHOLDHGI": [
+        "soloConfig": [
             {},
             {},
             {},
@@ -771,29 +771,29 @@
             4505
         ],
         "scoreOneKey": 20,
-        "GCIIOEOCINJ": 15,
-        "CJIHKCNJFKG": 5,
-        "NOJAAJMNELC": 136.0,
-        "FMBCCHCNJGO": {
+        "scoreLongPress": 15,
+        "scoreGreat": 5,
+        "bpm": 136.0,
+        "bpmDict": {
             "0": 136.0
         },
-        "comboConfig": [
+        "ugcBeatDivisionOptions": [
             3,
             4,
             6
         ],
-        "scaleRange": 3,
-        "FAOGONAHMDJ": "ReTuoLongWang_Hint_Complex",
-        "GINGCFHIGBJ": "ReTuoLongWang_Hint_Complex",
-        "HHCHMOBJJPP": 156,
-        "EHOCFNIDINA": [
+        "ugcDefaultBeatDivision": 3,
+        "simpleHintJsonPath": "ReTuoLongWang_Hint_Complex",
+        "complexHintJsonPath": "ReTuoLongWang_Hint_Complex",
+        "noteCount": 156,
+        "comboConfig": [
             {},
             {},
             {},
             {}
         ],
         "unlockTipsTextMapHash": 4217629892,
-        "HPNLHOLDHGI": [
+        "soloConfig": [
             {},
             {},
             {},
@@ -814,29 +814,29 @@
             2385
         ],
         "scoreOneKey": 20,
-        "GCIIOEOCINJ": 15,
-        "CJIHKCNJFKG": 5,
-        "NOJAAJMNELC": 144.0,
-        "FMBCCHCNJGO": {
+        "scoreLongPress": 15,
+        "scoreGreat": 5,
+        "bpm": 144.0,
+        "bpmDict": {
             "0": 144.0
         },
-        "comboConfig": [
+        "ugcBeatDivisionOptions": [
             2,
             4,
             6
         ],
-        "scaleRange": 4,
-        "FAOGONAHMDJ": "LeiShen_Hint_Complex",
-        "GINGCFHIGBJ": "LeiShen_Hint_Complex",
-        "HHCHMOBJJPP": 102,
-        "EHOCFNIDINA": [
+        "ugcDefaultBeatDivision": 4,
+        "simpleHintJsonPath": "LeiShen_Hint_Complex",
+        "complexHintJsonPath": "LeiShen_Hint_Complex",
+        "noteCount": 102,
+        "comboConfig": [
             {},
             {},
             {},
             {}
         ],
         "unlockTipsTextMapHash": 2867394468,
-        "HPNLHOLDHGI": [
+        "soloConfig": [
             {},
             {},
             {},
@@ -857,29 +857,29 @@
             3500
         ],
         "scoreOneKey": 20,
-        "GCIIOEOCINJ": 15,
-        "CJIHKCNJFKG": 5,
-        "NOJAAJMNELC": 144.0,
-        "FMBCCHCNJGO": {
+        "scoreLongPress": 15,
+        "scoreGreat": 5,
+        "bpm": 144.0,
+        "bpmDict": {
             "0": 144.0
         },
-        "comboConfig": [
+        "ugcBeatDivisionOptions": [
             2,
             4,
             6
         ],
-        "scaleRange": 4,
-        "FAOGONAHMDJ": "LeiShen_Hint_Complex",
-        "GINGCFHIGBJ": "LeiShen_Hint_Complex",
-        "HHCHMOBJJPP": 132,
-        "EHOCFNIDINA": [
+        "ugcDefaultBeatDivision": 4,
+        "simpleHintJsonPath": "LeiShen_Hint_Complex",
+        "complexHintJsonPath": "LeiShen_Hint_Complex",
+        "noteCount": 132,
+        "comboConfig": [
             {},
             {},
             {},
             {}
         ],
         "unlockTipsTextMapHash": 477471884,
-        "HPNLHOLDHGI": [
+        "soloConfig": [
             {},
             {},
             {},
@@ -900,29 +900,29 @@
             4915
         ],
         "scoreOneKey": 20,
-        "GCIIOEOCINJ": 15,
-        "CJIHKCNJFKG": 5,
-        "NOJAAJMNELC": 144.0,
-        "FMBCCHCNJGO": {
+        "scoreLongPress": 15,
+        "scoreGreat": 5,
+        "bpm": 144.0,
+        "bpmDict": {
             "0": 144.0
         },
-        "comboConfig": [
+        "ugcBeatDivisionOptions": [
             2,
             4,
             6
         ],
-        "scaleRange": 4,
-        "FAOGONAHMDJ": "LeiShen_Hint_Complex",
-        "GINGCFHIGBJ": "LeiShen_Hint_Complex",
-        "HHCHMOBJJPP": 178,
-        "EHOCFNIDINA": [
+        "ugcDefaultBeatDivision": 4,
+        "simpleHintJsonPath": "LeiShen_Hint_Complex",
+        "complexHintJsonPath": "LeiShen_Hint_Complex",
+        "noteCount": 178,
+        "comboConfig": [
             {},
             {},
             {},
             {}
         ],
         "unlockTipsTextMapHash": 132414284,
-        "HPNLHOLDHGI": [
+        "soloConfig": [
             {},
             {},
             {},

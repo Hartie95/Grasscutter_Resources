@@ -22,7 +22,7 @@
         ],
         "condID": 5080001,
         "watcherID": 1508001,
-        "OBDFCICGIBB": 7269401
+        "openQuestID": 7269401
     },
     {
         "stageId": 2,
@@ -51,7 +51,7 @@
         ],
         "condID": 5080002,
         "watcherID": 1508002,
-        "OBDFCICGIBB": 7269501
+        "openQuestID": 7269501
     },
     {
         "stageId": 3,
@@ -77,7 +77,7 @@
         "condID": 5080003,
         "NDAHDFFFMFD": true,
         "watcherID": 1508003,
-        "OBDFCICGIBB": 7269601
+        "openQuestID": 7269601
     },
     {
         "stageId": 4,
@@ -92,7 +92,7 @@
         "BPPDNDEIBPI": [],
         "OMKADIHOOCH": [],
         "condID": 5080004,
-        "OBDFCICGIBB": 7269701
+        "openQuestID": 7269701
     },
     {
         "stageId": 5,
