@@ -1,0 +1,9170 @@
+﻿[
+  {
+    "level": "1",
+    "dropTag": "搜刮点解谜通用蒙德",
+    "dropId": "20000000",
+    "dropMultiplier": "1",
+    "type": "24",
+    "category": "搜刮点解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "搜刮点解谜通用璃月",
+    "dropId": "20000100",
+    "dropMultiplier": "1",
+    "type": "24",
+    "category": "搜刮点解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "搜刮点解谜通用稻妻",
+    "dropId": "20000200",
+    "dropMultiplier": "1",
+    "type": "24",
+    "category": "搜刮点解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "搜刮点解谜通用须弥",
+    "dropId": "20000300",
+    "dropMultiplier": "1",
+    "type": "24",
+    "category": "搜刮点解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "搜刮点解谜通用枫丹",
+    "dropId": "20000400",
+    "dropMultiplier": "1",
+    "type": "24",
+    "category": "搜刮点解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "搜刮点解谜通用纳塔",
+    "dropId": "20000500",
+    "dropMultiplier": "1",
+    "type": "24",
+    "category": "搜刮点解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "搜刮点解谜通用至冬",
+    "dropId": "20000600",
+    "dropMultiplier": "1",
+    "type": "24",
+    "category": "搜刮点解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "搜刮点解谜通用群岛",
+    "dropId": "20000700",
+    "dropMultiplier": "1",
+    "type": "24",
+    "category": "搜刮点解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "搜刮点解谜矿石蒙德",
+    "dropId": "20001000",
+    "dropMultiplier": "1",
+    "type": "24",
+    "category": "搜刮点解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "搜刮点解谜矿石璃月",
+    "dropId": "20001100",
+    "dropMultiplier": "1",
+    "type": "24",
+    "category": "搜刮点解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "搜刮点解谜矿石稻妻",
+    "dropId": "20001200",
+    "dropMultiplier": "1",
+    "type": "24",
+    "category": "搜刮点解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "搜刮点解谜矿石须弥",
+    "dropId": "20001300",
+    "dropMultiplier": "1",
+    "type": "24",
+    "category": "搜刮点解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "搜刮点解谜矿石枫丹",
+    "dropId": "20001400",
+    "dropMultiplier": "1",
+    "type": "24",
+    "category": "搜刮点解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "搜刮点解谜矿石纳塔",
+    "dropId": "20001500",
+    "dropMultiplier": "1",
+    "type": "24",
+    "category": "搜刮点解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "搜刮点解谜矿石至冬",
+    "dropId": "20001600",
+    "dropMultiplier": "1",
+    "type": "24",
+    "category": "搜刮点解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "搜刮点解谜矿石群岛",
+    "dropId": "20001700",
+    "dropMultiplier": "1",
+    "type": "24",
+    "category": "搜刮点解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "搜刮点解谜破损蒙德",
+    "dropId": "20002000",
+    "dropMultiplier": "1",
+    "type": "24",
+    "category": "搜刮点解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "搜刮点解谜破损璃月",
+    "dropId": "20002100",
+    "dropMultiplier": "1",
+    "type": "24",
+    "category": "搜刮点解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "搜刮点解谜破损稻妻",
+    "dropId": "20002200",
+    "dropMultiplier": "1",
+    "type": "24",
+    "category": "搜刮点解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "搜刮点解谜破损须弥",
+    "dropId": "20002300",
+    "dropMultiplier": "1",
+    "type": "24",
+    "category": "搜刮点解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "搜刮点解谜破损枫丹",
+    "dropId": "20002400",
+    "dropMultiplier": "1",
+    "type": "24",
+    "category": "搜刮点解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "搜刮点解谜破损纳塔",
+    "dropId": "20002500",
+    "dropMultiplier": "1",
+    "type": "24",
+    "category": "搜刮点解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "搜刮点解谜破损至冬",
+    "dropId": "20002600",
+    "dropMultiplier": "1",
+    "type": "24",
+    "category": "搜刮点解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "搜刮点解谜破损群岛",
+    "dropId": "20002700",
+    "dropMultiplier": "1",
+    "type": "24",
+    "category": "搜刮点解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "搜刮点解谜人文蒙德",
+    "dropId": "20003000",
+    "dropMultiplier": "1",
+    "type": "24",
+    "category": "搜刮点解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "搜刮点解谜人文璃月",
+    "dropId": "20003100",
+    "dropMultiplier": "1",
+    "type": "24",
+    "category": "搜刮点解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "搜刮点解谜人文稻妻",
+    "dropId": "20003200",
+    "dropMultiplier": "1",
+    "type": "24",
+    "category": "搜刮点解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "搜刮点解谜人文须弥",
+    "dropId": "20003300",
+    "dropMultiplier": "1",
+    "type": "24",
+    "category": "搜刮点解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "搜刮点解谜人文枫丹",
+    "dropId": "20003400",
+    "dropMultiplier": "1",
+    "type": "24",
+    "category": "搜刮点解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "搜刮点解谜人文纳塔",
+    "dropId": "20003500",
+    "dropMultiplier": "1",
+    "type": "24",
+    "category": "搜刮点解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "搜刮点解谜人文至冬",
+    "dropId": "20003600",
+    "dropMultiplier": "1",
+    "type": "24",
+    "category": "搜刮点解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "搜刮点解谜人文群岛",
+    "dropId": "20003700",
+    "dropMultiplier": "1",
+    "type": "24",
+    "category": "搜刮点解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "搜刮点解谜果蔬蒙德",
+    "dropId": "20004000",
+    "dropMultiplier": "1",
+    "type": "24",
+    "category": "搜刮点解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "搜刮点解谜果蔬璃月",
+    "dropId": "20004100",
+    "dropMultiplier": "1",
+    "type": "24",
+    "category": "搜刮点解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "搜刮点解谜果蔬稻妻",
+    "dropId": "20004200",
+    "dropMultiplier": "1",
+    "type": "24",
+    "category": "搜刮点解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "搜刮点解谜果蔬须弥",
+    "dropId": "20004300",
+    "dropMultiplier": "1",
+    "type": "24",
+    "category": "搜刮点解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "搜刮点解谜果蔬枫丹",
+    "dropId": "20004400",
+    "dropMultiplier": "1",
+    "type": "24",
+    "category": "搜刮点解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "搜刮点解谜果蔬纳塔",
+    "dropId": "20004500",
+    "dropMultiplier": "1",
+    "type": "24",
+    "category": "搜刮点解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "搜刮点解谜果蔬至冬",
+    "dropId": "20004600",
+    "dropMultiplier": "1",
+    "type": "24",
+    "category": "搜刮点解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "搜刮点解谜果蔬群岛",
+    "dropId": "20004700",
+    "dropMultiplier": "1",
+    "type": "24",
+    "category": "搜刮点解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "搜刮点解谜武器蒙德",
+    "dropId": "20005000",
+    "dropMultiplier": "1",
+    "type": "24",
+    "category": "搜刮点解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "搜刮点解谜武器璃月",
+    "dropId": "20005100",
+    "dropMultiplier": "1",
+    "type": "24",
+    "category": "搜刮点解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "搜刮点解谜武器稻妻",
+    "dropId": "20005200",
+    "dropMultiplier": "1",
+    "type": "24",
+    "category": "搜刮点解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "搜刮点解谜武器须弥",
+    "dropId": "20005300",
+    "dropMultiplier": "1",
+    "type": "24",
+    "category": "搜刮点解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "搜刮点解谜武器枫丹",
+    "dropId": "20005400",
+    "dropMultiplier": "1",
+    "type": "24",
+    "category": "搜刮点解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "搜刮点解谜武器纳塔",
+    "dropId": "20005500",
+    "dropMultiplier": "1",
+    "type": "24",
+    "category": "搜刮点解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "搜刮点解谜武器至冬",
+    "dropId": "20005600",
+    "dropMultiplier": "1",
+    "type": "24",
+    "category": "搜刮点解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "搜刮点解谜武器群岛",
+    "dropId": "20005700",
+    "dropMultiplier": "1",
+    "type": "24",
+    "category": "搜刮点解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "搜刮点解谜遗物蒙德",
+    "dropId": "20006000",
+    "dropMultiplier": "1",
+    "type": "24",
+    "category": "搜刮点解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "搜刮点解谜遗物璃月",
+    "dropId": "20006100",
+    "dropMultiplier": "1",
+    "type": "24",
+    "category": "搜刮点解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "搜刮点解谜遗物稻妻",
+    "dropId": "20006200",
+    "dropMultiplier": "1",
+    "type": "24",
+    "category": "搜刮点解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "搜刮点解谜遗物须弥",
+    "dropId": "20006300",
+    "dropMultiplier": "1",
+    "type": "24",
+    "category": "搜刮点解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "搜刮点解谜遗物枫丹",
+    "dropId": "20006400",
+    "dropMultiplier": "1",
+    "type": "24",
+    "category": "搜刮点解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "搜刮点解谜遗物纳塔",
+    "dropId": "20006500",
+    "dropMultiplier": "1",
+    "type": "24",
+    "category": "搜刮点解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "搜刮点解谜遗物至冬",
+    "dropId": "20006600",
+    "dropMultiplier": "1",
+    "type": "24",
+    "category": "搜刮点解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "搜刮点解谜遗物群岛",
+    "dropId": "20006700",
+    "dropMultiplier": "1",
+    "type": "24",
+    "category": "搜刮点解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "一次性搜刮点峭壁蒙德",
+    "dropId": "19001000",
+    "dropMultiplier": "1",
+    "type": "17",
+    "category": "一次性搜刮点"
+  },
+  {
+    "level": "1",
+    "dropTag": "一次性搜刮点峭壁璃月",
+    "dropId": "19001100",
+    "dropMultiplier": "1",
+    "type": "17",
+    "category": "一次性搜刮点"
+  },
+  {
+    "level": "1",
+    "dropTag": "一次性搜刮点峭壁稻妻",
+    "dropId": "19001200",
+    "dropMultiplier": "1",
+    "type": "17",
+    "category": "一次性搜刮点"
+  },
+  {
+    "level": "1",
+    "dropTag": "一次性搜刮点峭壁须弥",
+    "dropId": "19001300",
+    "dropMultiplier": "1",
+    "type": "17",
+    "category": "一次性搜刮点"
+  },
+  {
+    "level": "1",
+    "dropTag": "一次性搜刮点峭壁枫丹",
+    "dropId": "19001400",
+    "dropMultiplier": "1",
+    "type": "17",
+    "category": "一次性搜刮点"
+  },
+  {
+    "level": "1",
+    "dropTag": "一次性搜刮点峭壁纳塔",
+    "dropId": "19001500",
+    "dropMultiplier": "1",
+    "type": "17",
+    "category": "一次性搜刮点"
+  },
+  {
+    "level": "1",
+    "dropTag": "一次性搜刮点峭壁至冬",
+    "dropId": "19001600",
+    "dropMultiplier": "1",
+    "type": "17",
+    "category": "一次性搜刮点"
+  },
+  {
+    "level": "1",
+    "dropTag": "一次性搜刮点峭壁深色蒙德",
+    "dropId": "19002000",
+    "dropMultiplier": "1",
+    "type": "17",
+    "category": "一次性搜刮点"
+  },
+  {
+    "level": "1",
+    "dropTag": "一次性搜刮点峭壁深色璃月",
+    "dropId": "19002100",
+    "dropMultiplier": "1",
+    "type": "17",
+    "category": "一次性搜刮点"
+  },
+  {
+    "level": "1",
+    "dropTag": "一次性搜刮点峭壁深色稻妻",
+    "dropId": "19002200",
+    "dropMultiplier": "1",
+    "type": "17",
+    "category": "一次性搜刮点"
+  },
+  {
+    "level": "1",
+    "dropTag": "一次性搜刮点峭壁深色须弥",
+    "dropId": "19002300",
+    "dropMultiplier": "1",
+    "type": "17",
+    "category": "一次性搜刮点"
+  },
+  {
+    "level": "1",
+    "dropTag": "一次性搜刮点峭壁深色枫丹",
+    "dropId": "19002400",
+    "dropMultiplier": "1",
+    "type": "17",
+    "category": "一次性搜刮点"
+  },
+  {
+    "level": "1",
+    "dropTag": "一次性搜刮点峭壁深色纳塔",
+    "dropId": "19002500",
+    "dropMultiplier": "1",
+    "type": "17",
+    "category": "一次性搜刮点"
+  },
+  {
+    "level": "1",
+    "dropTag": "一次性搜刮点峭壁深色至冬",
+    "dropId": "19002600",
+    "dropMultiplier": "1",
+    "type": "17",
+    "category": "一次性搜刮点"
+  },
+  {
+    "level": "1",
+    "dropTag": "水上搜刮点蒙德",
+    "dropId": "19000000",
+    "dropMultiplier": "1",
+    "type": "17",
+    "category": "水上搜刮点"
+  },
+  {
+    "level": "1",
+    "dropTag": "水上搜刮点璃月",
+    "dropId": "19000100",
+    "dropMultiplier": "1",
+    "type": "17",
+    "category": "水上搜刮点"
+  },
+  {
+    "level": "1",
+    "dropTag": "水上搜刮点稻妻",
+    "dropId": "19000200",
+    "dropMultiplier": "1",
+    "type": "17",
+    "category": "水上搜刮点"
+  },
+  {
+    "level": "1",
+    "dropTag": "水上搜刮点须弥",
+    "dropId": "19000300",
+    "dropMultiplier": "1",
+    "type": "17",
+    "category": "水上搜刮点"
+  },
+  {
+    "level": "1",
+    "dropTag": "水上搜刮点枫丹",
+    "dropId": "19000400",
+    "dropMultiplier": "1",
+    "type": "17",
+    "category": "水上搜刮点"
+  },
+  {
+    "level": "1",
+    "dropTag": "水上搜刮点纳塔",
+    "dropId": "19000500",
+    "dropMultiplier": "1",
+    "type": "17",
+    "category": "水上搜刮点"
+  },
+  {
+    "level": "1",
+    "dropTag": "水上搜刮点至冬",
+    "dropId": "19000600",
+    "dropMultiplier": "1",
+    "type": "17",
+    "category": "水上搜刮点"
+  },
+  {
+    "level": "1",
+    "dropTag": "水上搜刮点群岛",
+    "dropId": "19000610",
+    "dropMultiplier": "1",
+    "type": "17",
+    "category": "水上搜刮点"
+  },
+  {
+    "level": "1",
+    "dropTag": "书页章节1稻妻",
+    "dropId": "9000000",
+    "dropMultiplier": "1",
+    "type": "2001",
+    "category": "书页"
+  },
+  {
+    "level": "1",
+    "dropTag": "书页章节2稻妻",
+    "dropId": "9000010",
+    "dropMultiplier": "1",
+    "type": "2001",
+    "category": "书页"
+  },
+  {
+    "level": "1",
+    "dropTag": "书页章节3稻妻",
+    "dropId": "9000020",
+    "dropMultiplier": "1",
+    "type": "2001",
+    "category": "书页"
+  },
+  {
+    "level": "1",
+    "dropTag": "书页章节4稻妻",
+    "dropId": "9000030",
+    "dropMultiplier": "1",
+    "type": "2001",
+    "category": "书页"
+  },
+  {
+    "level": "1",
+    "dropTag": "书页章节5稻妻",
+    "dropId": "9000040",
+    "dropMultiplier": "1",
+    "type": "2001",
+    "category": "书页"
+  },
+  {
+    "level": "1",
+    "dropTag": "书页章节6稻妻",
+    "dropId": "9000050",
+    "dropMultiplier": "1",
+    "type": "2001",
+    "category": "书页"
+  },
+  {
+    "level": "1",
+    "dropTag": "书页章节1须弥",
+    "dropId": "9001000",
+    "dropMultiplier": "1",
+    "type": "2001",
+    "category": "书页"
+  },
+  {
+    "level": "1",
+    "dropTag": "书页章节2须弥",
+    "dropId": "9001010",
+    "dropMultiplier": "1",
+    "type": "2001",
+    "category": "书页"
+  },
+  {
+    "level": "1",
+    "dropTag": "书页章节3须弥",
+    "dropId": "9001020",
+    "dropMultiplier": "1",
+    "type": "2001",
+    "category": "书页"
+  },
+  {
+    "level": "1",
+    "dropTag": "灵龛蒙德",
+    "dropId": "8000000",
+    "dropMultiplier": "1",
+    "type": "15",
+    "category": "灵龛"
+  },
+  {
+    "level": "1",
+    "dropTag": "灵龛璃月",
+    "dropId": "8000100",
+    "dropMultiplier": "1",
+    "type": "15",
+    "category": "灵龛"
+  },
+  {
+    "level": "1",
+    "dropTag": "灵龛稻妻",
+    "dropId": "8000200",
+    "dropMultiplier": "1",
+    "type": "15",
+    "category": "灵龛"
+  },
+  {
+    "level": "1",
+    "dropTag": "灵龛须弥",
+    "dropId": "8000300",
+    "dropMultiplier": "1",
+    "type": "15",
+    "category": "灵龛"
+  },
+  {
+    "level": "1",
+    "dropTag": "摩拉石箱蒙德",
+    "dropId": "8100000",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "摩拉石箱"
+  },
+  {
+    "level": "1",
+    "dropTag": "摩拉石箱璃月",
+    "dropId": "8100100",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "摩拉石箱"
+  },
+  {
+    "level": "1",
+    "dropTag": "摩拉石箱稻妻",
+    "dropId": "8100200",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "摩拉石箱"
+  },
+  {
+    "level": "1",
+    "dropTag": "摩拉石箱须弥",
+    "dropId": "8100300",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "摩拉石箱"
+  },
+  {
+    "level": "1",
+    "dropTag": "摩拉石箱枫丹",
+    "dropId": "8100400",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "摩拉石箱"
+  },
+  {
+    "level": "1",
+    "dropTag": "摩拉石箱纳塔",
+    "dropId": "8100500",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "摩拉石箱"
+  },
+  {
+    "level": "1",
+    "dropTag": "摩拉石箱至冬",
+    "dropId": "8100600",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "摩拉石箱"
+  },
+  {
+    "level": "1",
+    "dropTag": "逐月节低级蒙德",
+    "dropId": "10000100",
+    "dropMultiplier": "1",
+    "type": "2104",
+    "category": "逐月节"
+  },
+  {
+    "level": "1",
+    "dropTag": "逐月节低级璃月",
+    "dropId": "10000200",
+    "dropMultiplier": "1",
+    "type": "2104",
+    "category": "逐月节"
+  },
+  {
+    "level": "1",
+    "dropTag": "渊下宫活动低级稻妻",
+    "dropId": "10010300",
+    "dropMultiplier": "1",
+    "type": "2501",
+    "category": "渊下宫活动"
+  },
+  {
+    "level": "1",
+    "dropTag": "渊下宫活动中级稻妻",
+    "dropId": "10010310",
+    "dropMultiplier": "1",
+    "type": "2501",
+    "category": "渊下宫活动"
+  },
+  {
+    "level": "1",
+    "dropTag": "渊下宫活动高级稻妻",
+    "dropId": "10010320",
+    "dropMultiplier": "1",
+    "type": "2501",
+    "category": "渊下宫活动"
+  },
+  {
+    "level": "1",
+    "dropTag": "渊下宫活动超级稻妻",
+    "dropId": "10010330",
+    "dropMultiplier": "1",
+    "type": "2501",
+    "category": "渊下宫活动"
+  },
+  {
+    "level": "1",
+    "dropTag": "战斗低级蒙德",
+    "dropId": "51010000",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "战斗"
+  },
+  {
+    "level": "6",
+    "dropTag": "战斗低级蒙德",
+    "dropId": "51010100",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "战斗"
+  },
+  {
+    "level": "11",
+    "dropTag": "战斗低级蒙德",
+    "dropId": "51010200",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "战斗"
+  },
+  {
+    "level": "16",
+    "dropTag": "战斗低级蒙德",
+    "dropId": "51010300",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "战斗"
+  },
+  {
+    "level": "21",
+    "dropTag": "战斗低级蒙德",
+    "dropId": "51010400",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "战斗"
+  },
+  {
+    "level": "26",
+    "dropTag": "战斗低级蒙德",
+    "dropId": "51010500",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "战斗"
+  },
+  {
+    "level": "1",
+    "dropTag": "战斗中级蒙德",
+    "dropId": "51010500",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "战斗"
+  },
+  {
+    "level": "6",
+    "dropTag": "战斗中级蒙德",
+    "dropId": "51010500",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "战斗"
+  },
+  {
+    "level": "11",
+    "dropTag": "战斗中级蒙德",
+    "dropId": "51010500",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "战斗"
+  },
+  {
+    "level": "16",
+    "dropTag": "战斗中级蒙德",
+    "dropId": "51010500",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "战斗"
+  },
+  {
+    "level": "21",
+    "dropTag": "战斗中级蒙德",
+    "dropId": "51010600",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "战斗"
+  },
+  {
+    "level": "26",
+    "dropTag": "战斗中级蒙德",
+    "dropId": "51010700",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "战斗"
+  },
+  {
+    "level": "1",
+    "dropTag": "战斗高级蒙德",
+    "dropId": "51010700",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "战斗"
+  },
+  {
+    "level": "6",
+    "dropTag": "战斗高级蒙德",
+    "dropId": "51010700",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "战斗"
+  },
+  {
+    "level": "11",
+    "dropTag": "战斗高级蒙德",
+    "dropId": "51010700",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "战斗"
+  },
+  {
+    "level": "16",
+    "dropTag": "战斗高级蒙德",
+    "dropId": "51010700",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "战斗"
+  },
+  {
+    "level": "21",
+    "dropTag": "战斗高级蒙德",
+    "dropId": "51010800",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "战斗"
+  },
+  {
+    "level": "26",
+    "dropTag": "战斗高级蒙德",
+    "dropId": "51010900",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "战斗"
+  },
+  {
+    "level": "1",
+    "dropTag": "战斗超级蒙德",
+    "dropId": "51010900",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "战斗"
+  },
+  {
+    "level": "6",
+    "dropTag": "战斗超级蒙德",
+    "dropId": "51010900",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "战斗"
+  },
+  {
+    "level": "11",
+    "dropTag": "战斗超级蒙德",
+    "dropId": "51010900",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "战斗"
+  },
+  {
+    "level": "16",
+    "dropTag": "战斗超级蒙德",
+    "dropId": "51010900",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "战斗"
+  },
+  {
+    "level": "21",
+    "dropTag": "战斗超级蒙德",
+    "dropId": "51011000",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "战斗"
+  },
+  {
+    "level": "26",
+    "dropTag": "战斗超级蒙德",
+    "dropId": "51011100",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "战斗"
+  },
+  {
+    "level": "1",
+    "dropTag": "解谜低级蒙德",
+    "dropId": "52010000",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "解谜"
+  },
+  {
+    "level": "6",
+    "dropTag": "解谜低级蒙德",
+    "dropId": "52010100",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "解谜"
+  },
+  {
+    "level": "11",
+    "dropTag": "解谜低级蒙德",
+    "dropId": "52010200",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "解谜"
+  },
+  {
+    "level": "16",
+    "dropTag": "解谜低级蒙德",
+    "dropId": "52010300",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "解谜"
+  },
+  {
+    "level": "21",
+    "dropTag": "解谜低级蒙德",
+    "dropId": "52010400",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "解谜"
+  },
+  {
+    "level": "26",
+    "dropTag": "解谜低级蒙德",
+    "dropId": "52010500",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "解谜中级蒙德",
+    "dropId": "52010500",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "解谜"
+  },
+  {
+    "level": "6",
+    "dropTag": "解谜中级蒙德",
+    "dropId": "52010500",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "解谜"
+  },
+  {
+    "level": "11",
+    "dropTag": "解谜中级蒙德",
+    "dropId": "52010500",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "解谜"
+  },
+  {
+    "level": "16",
+    "dropTag": "解谜中级蒙德",
+    "dropId": "52010500",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "解谜"
+  },
+  {
+    "level": "21",
+    "dropTag": "解谜中级蒙德",
+    "dropId": "52010600",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "解谜"
+  },
+  {
+    "level": "26",
+    "dropTag": "解谜中级蒙德",
+    "dropId": "52010700",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "解谜高级蒙德",
+    "dropId": "52010700",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "解谜"
+  },
+  {
+    "level": "6",
+    "dropTag": "解谜高级蒙德",
+    "dropId": "52010700",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "解谜"
+  },
+  {
+    "level": "11",
+    "dropTag": "解谜高级蒙德",
+    "dropId": "52010700",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "解谜"
+  },
+  {
+    "level": "16",
+    "dropTag": "解谜高级蒙德",
+    "dropId": "52010700",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "解谜"
+  },
+  {
+    "level": "21",
+    "dropTag": "解谜高级蒙德",
+    "dropId": "52010800",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "解谜"
+  },
+  {
+    "level": "26",
+    "dropTag": "解谜高级蒙德",
+    "dropId": "52010900",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "解谜超级蒙德",
+    "dropId": "52010900",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "解谜"
+  },
+  {
+    "level": "6",
+    "dropTag": "解谜超级蒙德",
+    "dropId": "52010900",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "解谜"
+  },
+  {
+    "level": "11",
+    "dropTag": "解谜超级蒙德",
+    "dropId": "52010900",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "解谜"
+  },
+  {
+    "level": "16",
+    "dropTag": "解谜超级蒙德",
+    "dropId": "52010900",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "解谜"
+  },
+  {
+    "level": "21",
+    "dropTag": "解谜超级蒙德",
+    "dropId": "52011000",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "解谜"
+  },
+  {
+    "level": "26",
+    "dropTag": "解谜超级蒙德",
+    "dropId": "52011100",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "战斗低级璃月",
+    "dropId": "51020000",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "战斗"
+  },
+  {
+    "level": "6",
+    "dropTag": "战斗低级璃月",
+    "dropId": "51020100",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "战斗"
+  },
+  {
+    "level": "11",
+    "dropTag": "战斗低级璃月",
+    "dropId": "51020200",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "战斗"
+  },
+  {
+    "level": "16",
+    "dropTag": "战斗低级璃月",
+    "dropId": "51020300",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "战斗"
+  },
+  {
+    "level": "21",
+    "dropTag": "战斗低级璃月",
+    "dropId": "51020400",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "战斗"
+  },
+  {
+    "level": "26",
+    "dropTag": "战斗低级璃月",
+    "dropId": "51020500",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "战斗"
+  },
+  {
+    "level": "1",
+    "dropTag": "战斗中级璃月",
+    "dropId": "51020500",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "战斗"
+  },
+  {
+    "level": "6",
+    "dropTag": "战斗中级璃月",
+    "dropId": "51020500",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "战斗"
+  },
+  {
+    "level": "11",
+    "dropTag": "战斗中级璃月",
+    "dropId": "51020500",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "战斗"
+  },
+  {
+    "level": "16",
+    "dropTag": "战斗中级璃月",
+    "dropId": "51020500",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "战斗"
+  },
+  {
+    "level": "21",
+    "dropTag": "战斗中级璃月",
+    "dropId": "51020600",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "战斗"
+  },
+  {
+    "level": "26",
+    "dropTag": "战斗中级璃月",
+    "dropId": "51020700",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "战斗"
+  },
+  {
+    "level": "1",
+    "dropTag": "战斗高级璃月",
+    "dropId": "51020700",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "战斗"
+  },
+  {
+    "level": "6",
+    "dropTag": "战斗高级璃月",
+    "dropId": "51020700",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "战斗"
+  },
+  {
+    "level": "11",
+    "dropTag": "战斗高级璃月",
+    "dropId": "51020700",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "战斗"
+  },
+  {
+    "level": "16",
+    "dropTag": "战斗高级璃月",
+    "dropId": "51020700",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "战斗"
+  },
+  {
+    "level": "21",
+    "dropTag": "战斗高级璃月",
+    "dropId": "51020800",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "战斗"
+  },
+  {
+    "level": "26",
+    "dropTag": "战斗高级璃月",
+    "dropId": "51020900",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "战斗"
+  },
+  {
+    "level": "1",
+    "dropTag": "战斗超级璃月",
+    "dropId": "51020900",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "战斗"
+  },
+  {
+    "level": "6",
+    "dropTag": "战斗超级璃月",
+    "dropId": "51020900",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "战斗"
+  },
+  {
+    "level": "11",
+    "dropTag": "战斗超级璃月",
+    "dropId": "51020900",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "战斗"
+  },
+  {
+    "level": "16",
+    "dropTag": "战斗超级璃月",
+    "dropId": "51020900",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "战斗"
+  },
+  {
+    "level": "21",
+    "dropTag": "战斗超级璃月",
+    "dropId": "51021000",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "战斗"
+  },
+  {
+    "level": "26",
+    "dropTag": "战斗超级璃月",
+    "dropId": "51021100",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "战斗"
+  },
+  {
+    "level": "1",
+    "dropTag": "解谜低级璃月",
+    "dropId": "52020000",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "解谜"
+  },
+  {
+    "level": "6",
+    "dropTag": "解谜低级璃月",
+    "dropId": "52020100",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "解谜"
+  },
+  {
+    "level": "11",
+    "dropTag": "解谜低级璃月",
+    "dropId": "52020200",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "解谜"
+  },
+  {
+    "level": "16",
+    "dropTag": "解谜低级璃月",
+    "dropId": "52020300",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "解谜"
+  },
+  {
+    "level": "21",
+    "dropTag": "解谜低级璃月",
+    "dropId": "52020400",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "解谜"
+  },
+  {
+    "level": "26",
+    "dropTag": "解谜低级璃月",
+    "dropId": "52020500",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "解谜中级璃月",
+    "dropId": "52020500",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "解谜"
+  },
+  {
+    "level": "6",
+    "dropTag": "解谜中级璃月",
+    "dropId": "52020500",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "解谜"
+  },
+  {
+    "level": "11",
+    "dropTag": "解谜中级璃月",
+    "dropId": "52020500",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "解谜"
+  },
+  {
+    "level": "16",
+    "dropTag": "解谜中级璃月",
+    "dropId": "52020500",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "解谜"
+  },
+  {
+    "level": "21",
+    "dropTag": "解谜中级璃月",
+    "dropId": "52020600",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "解谜"
+  },
+  {
+    "level": "26",
+    "dropTag": "解谜中级璃月",
+    "dropId": "52020700",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "解谜高级璃月",
+    "dropId": "52020700",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "解谜"
+  },
+  {
+    "level": "6",
+    "dropTag": "解谜高级璃月",
+    "dropId": "52020700",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "解谜"
+  },
+  {
+    "level": "11",
+    "dropTag": "解谜高级璃月",
+    "dropId": "52020700",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "解谜"
+  },
+  {
+    "level": "16",
+    "dropTag": "解谜高级璃月",
+    "dropId": "52020700",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "解谜"
+  },
+  {
+    "level": "21",
+    "dropTag": "解谜高级璃月",
+    "dropId": "52020800",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "解谜"
+  },
+  {
+    "level": "26",
+    "dropTag": "解谜高级璃月",
+    "dropId": "52020900",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "解谜超级璃月",
+    "dropId": "52020900",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "解谜"
+  },
+  {
+    "level": "6",
+    "dropTag": "解谜超级璃月",
+    "dropId": "52020900",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "解谜"
+  },
+  {
+    "level": "11",
+    "dropTag": "解谜超级璃月",
+    "dropId": "52020900",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "解谜"
+  },
+  {
+    "level": "16",
+    "dropTag": "解谜超级璃月",
+    "dropId": "52020900",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "解谜"
+  },
+  {
+    "level": "21",
+    "dropTag": "解谜超级璃月",
+    "dropId": "52021000",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "解谜"
+  },
+  {
+    "level": "26",
+    "dropTag": "解谜超级璃月",
+    "dropId": "52021100",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "雪山战斗低级蒙德",
+    "dropId": "53010000",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山战斗"
+  },
+  {
+    "level": "6",
+    "dropTag": "雪山战斗低级蒙德",
+    "dropId": "53010100",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山战斗"
+  },
+  {
+    "level": "11",
+    "dropTag": "雪山战斗低级蒙德",
+    "dropId": "53010200",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山战斗"
+  },
+  {
+    "level": "16",
+    "dropTag": "雪山战斗低级蒙德",
+    "dropId": "53010300",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山战斗"
+  },
+  {
+    "level": "21",
+    "dropTag": "雪山战斗低级蒙德",
+    "dropId": "53010400",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山战斗"
+  },
+  {
+    "level": "26",
+    "dropTag": "雪山战斗低级蒙德",
+    "dropId": "53010500",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山战斗"
+  },
+  {
+    "level": "1",
+    "dropTag": "雪山战斗中级蒙德",
+    "dropId": "53010500",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山战斗"
+  },
+  {
+    "level": "6",
+    "dropTag": "雪山战斗中级蒙德",
+    "dropId": "53010500",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山战斗"
+  },
+  {
+    "level": "11",
+    "dropTag": "雪山战斗中级蒙德",
+    "dropId": "53010500",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山战斗"
+  },
+  {
+    "level": "16",
+    "dropTag": "雪山战斗中级蒙德",
+    "dropId": "53010500",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山战斗"
+  },
+  {
+    "level": "21",
+    "dropTag": "雪山战斗中级蒙德",
+    "dropId": "53010600",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山战斗"
+  },
+  {
+    "level": "26",
+    "dropTag": "雪山战斗中级蒙德",
+    "dropId": "53010700",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山战斗"
+  },
+  {
+    "level": "1",
+    "dropTag": "雪山战斗高级蒙德",
+    "dropId": "53010700",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山战斗"
+  },
+  {
+    "level": "6",
+    "dropTag": "雪山战斗高级蒙德",
+    "dropId": "53010700",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山战斗"
+  },
+  {
+    "level": "11",
+    "dropTag": "雪山战斗高级蒙德",
+    "dropId": "53010700",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山战斗"
+  },
+  {
+    "level": "16",
+    "dropTag": "雪山战斗高级蒙德",
+    "dropId": "53010700",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山战斗"
+  },
+  {
+    "level": "21",
+    "dropTag": "雪山战斗高级蒙德",
+    "dropId": "53010800",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山战斗"
+  },
+  {
+    "level": "26",
+    "dropTag": "雪山战斗高级蒙德",
+    "dropId": "53010900",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山战斗"
+  },
+  {
+    "level": "1",
+    "dropTag": "雪山战斗超级蒙德",
+    "dropId": "53010900",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山战斗"
+  },
+  {
+    "level": "6",
+    "dropTag": "雪山战斗超级蒙德",
+    "dropId": "53010900",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山战斗"
+  },
+  {
+    "level": "11",
+    "dropTag": "雪山战斗超级蒙德",
+    "dropId": "53010900",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山战斗"
+  },
+  {
+    "level": "16",
+    "dropTag": "雪山战斗超级蒙德",
+    "dropId": "53010900",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山战斗"
+  },
+  {
+    "level": "21",
+    "dropTag": "雪山战斗超级蒙德",
+    "dropId": "53011000",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山战斗"
+  },
+  {
+    "level": "26",
+    "dropTag": "雪山战斗超级蒙德",
+    "dropId": "53011100",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山战斗"
+  },
+  {
+    "level": "1",
+    "dropTag": "雪山解谜低级蒙德",
+    "dropId": "54010000",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山解谜"
+  },
+  {
+    "level": "6",
+    "dropTag": "雪山解谜低级蒙德",
+    "dropId": "54010100",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山解谜"
+  },
+  {
+    "level": "11",
+    "dropTag": "雪山解谜低级蒙德",
+    "dropId": "54010200",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山解谜"
+  },
+  {
+    "level": "16",
+    "dropTag": "雪山解谜低级蒙德",
+    "dropId": "54010300",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山解谜"
+  },
+  {
+    "level": "21",
+    "dropTag": "雪山解谜低级蒙德",
+    "dropId": "54010400",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山解谜"
+  },
+  {
+    "level": "26",
+    "dropTag": "雪山解谜低级蒙德",
+    "dropId": "54010500",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "雪山解谜中级蒙德",
+    "dropId": "54010500",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山解谜"
+  },
+  {
+    "level": "6",
+    "dropTag": "雪山解谜中级蒙德",
+    "dropId": "54010500",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山解谜"
+  },
+  {
+    "level": "11",
+    "dropTag": "雪山解谜中级蒙德",
+    "dropId": "54010500",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山解谜"
+  },
+  {
+    "level": "16",
+    "dropTag": "雪山解谜中级蒙德",
+    "dropId": "54010500",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山解谜"
+  },
+  {
+    "level": "21",
+    "dropTag": "雪山解谜中级蒙德",
+    "dropId": "54010600",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山解谜"
+  },
+  {
+    "level": "26",
+    "dropTag": "雪山解谜中级蒙德",
+    "dropId": "54010700",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "雪山解谜高级蒙德",
+    "dropId": "54010700",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山解谜"
+  },
+  {
+    "level": "6",
+    "dropTag": "雪山解谜高级蒙德",
+    "dropId": "54010700",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山解谜"
+  },
+  {
+    "level": "11",
+    "dropTag": "雪山解谜高级蒙德",
+    "dropId": "54010700",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山解谜"
+  },
+  {
+    "level": "16",
+    "dropTag": "雪山解谜高级蒙德",
+    "dropId": "54010700",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山解谜"
+  },
+  {
+    "level": "21",
+    "dropTag": "雪山解谜高级蒙德",
+    "dropId": "54010800",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山解谜"
+  },
+  {
+    "level": "26",
+    "dropTag": "雪山解谜高级蒙德",
+    "dropId": "54010900",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "雪山解谜超级蒙德",
+    "dropId": "54010900",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山解谜"
+  },
+  {
+    "level": "6",
+    "dropTag": "雪山解谜超级蒙德",
+    "dropId": "54010900",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山解谜"
+  },
+  {
+    "level": "11",
+    "dropTag": "雪山解谜超级蒙德",
+    "dropId": "54010900",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山解谜"
+  },
+  {
+    "level": "16",
+    "dropTag": "雪山解谜超级蒙德",
+    "dropId": "54010900",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山解谜"
+  },
+  {
+    "level": "21",
+    "dropTag": "雪山解谜超级蒙德",
+    "dropId": "54011000",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山解谜"
+  },
+  {
+    "level": "26",
+    "dropTag": "雪山解谜超级蒙德",
+    "dropId": "54011100",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "雪山玉髓低级蒙德",
+    "dropId": "55010000",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山玉髓"
+  },
+  {
+    "level": "6",
+    "dropTag": "雪山玉髓低级蒙德",
+    "dropId": "55010100",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山玉髓"
+  },
+  {
+    "level": "11",
+    "dropTag": "雪山玉髓低级蒙德",
+    "dropId": "55010200",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山玉髓"
+  },
+  {
+    "level": "16",
+    "dropTag": "雪山玉髓低级蒙德",
+    "dropId": "55010300",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山玉髓"
+  },
+  {
+    "level": "21",
+    "dropTag": "雪山玉髓低级蒙德",
+    "dropId": "55010400",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山玉髓"
+  },
+  {
+    "level": "26",
+    "dropTag": "雪山玉髓低级蒙德",
+    "dropId": "55010500",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山玉髓"
+  },
+  {
+    "level": "1",
+    "dropTag": "雪山玉髓中级蒙德",
+    "dropId": "55010500",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山玉髓"
+  },
+  {
+    "level": "6",
+    "dropTag": "雪山玉髓中级蒙德",
+    "dropId": "55010500",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山玉髓"
+  },
+  {
+    "level": "11",
+    "dropTag": "雪山玉髓中级蒙德",
+    "dropId": "55010500",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山玉髓"
+  },
+  {
+    "level": "16",
+    "dropTag": "雪山玉髓中级蒙德",
+    "dropId": "55010500",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山玉髓"
+  },
+  {
+    "level": "21",
+    "dropTag": "雪山玉髓中级蒙德",
+    "dropId": "55010600",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山玉髓"
+  },
+  {
+    "level": "26",
+    "dropTag": "雪山玉髓中级蒙德",
+    "dropId": "55010700",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山玉髓"
+  },
+  {
+    "level": "1",
+    "dropTag": "雪山玉髓高级蒙德",
+    "dropId": "55010700",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山玉髓"
+  },
+  {
+    "level": "6",
+    "dropTag": "雪山玉髓高级蒙德",
+    "dropId": "55010700",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山玉髓"
+  },
+  {
+    "level": "11",
+    "dropTag": "雪山玉髓高级蒙德",
+    "dropId": "55010700",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山玉髓"
+  },
+  {
+    "level": "16",
+    "dropTag": "雪山玉髓高级蒙德",
+    "dropId": "55010700",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山玉髓"
+  },
+  {
+    "level": "21",
+    "dropTag": "雪山玉髓高级蒙德",
+    "dropId": "55010800",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山玉髓"
+  },
+  {
+    "level": "26",
+    "dropTag": "雪山玉髓高级蒙德",
+    "dropId": "55010900",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山玉髓"
+  },
+  {
+    "level": "1",
+    "dropTag": "雪山玉髓超级蒙德",
+    "dropId": "55010900",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山玉髓"
+  },
+  {
+    "level": "6",
+    "dropTag": "雪山玉髓超级蒙德",
+    "dropId": "55010900",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山玉髓"
+  },
+  {
+    "level": "11",
+    "dropTag": "雪山玉髓超级蒙德",
+    "dropId": "55010900",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山玉髓"
+  },
+  {
+    "level": "16",
+    "dropTag": "雪山玉髓超级蒙德",
+    "dropId": "55010900",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山玉髓"
+  },
+  {
+    "level": "21",
+    "dropTag": "雪山玉髓超级蒙德",
+    "dropId": "55011000",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山玉髓"
+  },
+  {
+    "level": "26",
+    "dropTag": "雪山玉髓超级蒙德",
+    "dropId": "55011100",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "雪山玉髓"
+  },
+  {
+    "level": "1",
+    "dropTag": "战斗低级群岛",
+    "dropId": "51310000",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "战斗"
+  },
+  {
+    "level": "1",
+    "dropTag": "战斗中级群岛",
+    "dropId": "51312000",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "战斗"
+  },
+  {
+    "level": "1",
+    "dropTag": "战斗高级群岛",
+    "dropId": "51313000",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "战斗"
+  },
+  {
+    "level": "1",
+    "dropTag": "战斗超级群岛",
+    "dropId": "51314000",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "战斗"
+  },
+  {
+    "level": "1",
+    "dropTag": "解谜低级群岛",
+    "dropId": "52310000",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "解谜中级群岛",
+    "dropId": "52312000",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "解谜高级群岛",
+    "dropId": "52313000",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "解谜超级群岛",
+    "dropId": "52314000",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "战斗低级稻妻",
+    "dropId": "51030000",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "战斗"
+  },
+  {
+    "level": "1",
+    "dropTag": "战斗中级稻妻",
+    "dropId": "51032000",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "战斗"
+  },
+  {
+    "level": "1",
+    "dropTag": "战斗高级稻妻",
+    "dropId": "51033000",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "战斗"
+  },
+  {
+    "level": "1",
+    "dropTag": "战斗超级稻妻",
+    "dropId": "51034000",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "战斗"
+  },
+  {
+    "level": "1",
+    "dropTag": "解谜低级稻妻",
+    "dropId": "52030000",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "解谜中级稻妻",
+    "dropId": "52032000",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "解谜高级稻妻",
+    "dropId": "52033000",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "解谜超级稻妻",
+    "dropId": "52034000",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "战斗低级须弥",
+    "dropId": "51040000",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "战斗"
+  },
+  {
+    "level": "1",
+    "dropTag": "战斗中级须弥",
+    "dropId": "51042000",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "战斗"
+  },
+  {
+    "level": "1",
+    "dropTag": "战斗高级须弥",
+    "dropId": "51043000",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "战斗"
+  },
+  {
+    "level": "1",
+    "dropTag": "战斗超级须弥",
+    "dropId": "51044000",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "战斗"
+  },
+  {
+    "level": "1",
+    "dropTag": "解谜低级须弥",
+    "dropId": "52040000",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "解谜中级须弥",
+    "dropId": "52042000",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "解谜高级须弥",
+    "dropId": "52043000",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "解谜超级须弥",
+    "dropId": "52044000",
+    "dropMultiplier": "1",
+    "type": "19",
+    "category": "解谜"
+  },
+  {
+    "level": "1",
+    "dropTag": "无相之雷",
+    "dropId": "401000000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之雷"
+  },
+  {
+    "level": "5",
+    "dropTag": "无相之雷",
+    "dropId": "401000100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之雷"
+  },
+  {
+    "level": "10",
+    "dropTag": "无相之雷",
+    "dropId": "401000200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之雷"
+  },
+  {
+    "level": "15",
+    "dropTag": "无相之雷",
+    "dropId": "401000300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之雷"
+  },
+  {
+    "level": "20",
+    "dropTag": "无相之雷",
+    "dropId": "401000400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之雷"
+  },
+  {
+    "level": "25",
+    "dropTag": "无相之雷",
+    "dropId": "401000500",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之雷"
+  },
+  {
+    "level": "30",
+    "dropTag": "无相之雷",
+    "dropId": "401000600",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之雷"
+  },
+  {
+    "level": "35",
+    "dropTag": "无相之雷",
+    "dropId": "401000700",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之雷"
+  },
+  {
+    "level": "40",
+    "dropTag": "无相之雷",
+    "dropId": "401000800",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之雷"
+  },
+  {
+    "level": "45",
+    "dropTag": "无相之雷",
+    "dropId": "401000900",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之雷"
+  },
+  {
+    "level": "50",
+    "dropTag": "无相之雷",
+    "dropId": "401001000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之雷"
+  },
+  {
+    "level": "55",
+    "dropTag": "无相之雷",
+    "dropId": "401001100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之雷"
+  },
+  {
+    "level": "60",
+    "dropTag": "无相之雷",
+    "dropId": "401001200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之雷"
+  },
+  {
+    "level": "65",
+    "dropTag": "无相之雷",
+    "dropId": "401001300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之雷"
+  },
+  {
+    "level": "70",
+    "dropTag": "无相之雷",
+    "dropId": "401001400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之雷"
+  },
+  {
+    "level": "75",
+    "dropTag": "无相之雷",
+    "dropId": "401001500",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之雷"
+  },
+  {
+    "level": "80",
+    "dropTag": "无相之雷",
+    "dropId": "401001600",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之雷"
+  },
+  {
+    "level": "85",
+    "dropTag": "无相之雷",
+    "dropId": "401001700",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之雷"
+  },
+  {
+    "level": "90",
+    "dropTag": "无相之雷",
+    "dropId": "401001800",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之雷"
+  },
+  {
+    "level": "93",
+    "dropTag": "无相之雷",
+    "dropId": "401001900",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之雷"
+  },
+  {
+    "level": "100",
+    "dropTag": "无相之雷",
+    "dropId": "401002000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之雷"
+  },
+  {
+    "level": "105",
+    "dropTag": "无相之雷",
+    "dropId": "401002100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之雷"
+  },
+  {
+    "level": "110",
+    "dropTag": "无相之雷",
+    "dropId": "401002200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之雷"
+  },
+  {
+    "level": "115",
+    "dropTag": "无相之雷",
+    "dropId": "401002300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之雷"
+  },
+  {
+    "level": "120",
+    "dropTag": "无相之雷",
+    "dropId": "401002400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之雷"
+  },
+  {
+    "level": "1",
+    "dropTag": "无相之风",
+    "dropId": "402000000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之风"
+  },
+  {
+    "level": "5",
+    "dropTag": "无相之风",
+    "dropId": "402000100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之风"
+  },
+  {
+    "level": "10",
+    "dropTag": "无相之风",
+    "dropId": "402000200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之风"
+  },
+  {
+    "level": "15",
+    "dropTag": "无相之风",
+    "dropId": "402000300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之风"
+  },
+  {
+    "level": "20",
+    "dropTag": "无相之风",
+    "dropId": "402000400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之风"
+  },
+  {
+    "level": "25",
+    "dropTag": "无相之风",
+    "dropId": "402000500",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之风"
+  },
+  {
+    "level": "30",
+    "dropTag": "无相之风",
+    "dropId": "402000600",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之风"
+  },
+  {
+    "level": "35",
+    "dropTag": "无相之风",
+    "dropId": "402000700",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之风"
+  },
+  {
+    "level": "40",
+    "dropTag": "无相之风",
+    "dropId": "402000800",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之风"
+  },
+  {
+    "level": "45",
+    "dropTag": "无相之风",
+    "dropId": "402000900",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之风"
+  },
+  {
+    "level": "50",
+    "dropTag": "无相之风",
+    "dropId": "402001000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之风"
+  },
+  {
+    "level": "55",
+    "dropTag": "无相之风",
+    "dropId": "402001100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之风"
+  },
+  {
+    "level": "60",
+    "dropTag": "无相之风",
+    "dropId": "402001200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之风"
+  },
+  {
+    "level": "65",
+    "dropTag": "无相之风",
+    "dropId": "402001300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之风"
+  },
+  {
+    "level": "70",
+    "dropTag": "无相之风",
+    "dropId": "402001400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之风"
+  },
+  {
+    "level": "75",
+    "dropTag": "无相之风",
+    "dropId": "402001500",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之风"
+  },
+  {
+    "level": "80",
+    "dropTag": "无相之风",
+    "dropId": "402001600",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之风"
+  },
+  {
+    "level": "85",
+    "dropTag": "无相之风",
+    "dropId": "402001700",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之风"
+  },
+  {
+    "level": "90",
+    "dropTag": "无相之风",
+    "dropId": "402001800",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之风"
+  },
+  {
+    "level": "93",
+    "dropTag": "无相之风",
+    "dropId": "402001900",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之风"
+  },
+  {
+    "level": "100",
+    "dropTag": "无相之风",
+    "dropId": "402002000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之风"
+  },
+  {
+    "level": "105",
+    "dropTag": "无相之风",
+    "dropId": "402002100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之风"
+  },
+  {
+    "level": "110",
+    "dropTag": "无相之风",
+    "dropId": "402002200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之风"
+  },
+  {
+    "level": "115",
+    "dropTag": "无相之风",
+    "dropId": "402002300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之风"
+  },
+  {
+    "level": "120",
+    "dropTag": "无相之风",
+    "dropId": "402002400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之风"
+  },
+  {
+    "level": "1",
+    "dropTag": "无相之岩",
+    "dropId": "403000000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之岩"
+  },
+  {
+    "level": "5",
+    "dropTag": "无相之岩",
+    "dropId": "403000100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之岩"
+  },
+  {
+    "level": "10",
+    "dropTag": "无相之岩",
+    "dropId": "403000200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之岩"
+  },
+  {
+    "level": "15",
+    "dropTag": "无相之岩",
+    "dropId": "403000300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之岩"
+  },
+  {
+    "level": "20",
+    "dropTag": "无相之岩",
+    "dropId": "403000400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之岩"
+  },
+  {
+    "level": "25",
+    "dropTag": "无相之岩",
+    "dropId": "403000500",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之岩"
+  },
+  {
+    "level": "30",
+    "dropTag": "无相之岩",
+    "dropId": "403000600",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之岩"
+  },
+  {
+    "level": "35",
+    "dropTag": "无相之岩",
+    "dropId": "403000700",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之岩"
+  },
+  {
+    "level": "40",
+    "dropTag": "无相之岩",
+    "dropId": "403000800",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之岩"
+  },
+  {
+    "level": "45",
+    "dropTag": "无相之岩",
+    "dropId": "403000900",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之岩"
+  },
+  {
+    "level": "50",
+    "dropTag": "无相之岩",
+    "dropId": "403001000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之岩"
+  },
+  {
+    "level": "55",
+    "dropTag": "无相之岩",
+    "dropId": "403001100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之岩"
+  },
+  {
+    "level": "60",
+    "dropTag": "无相之岩",
+    "dropId": "403001200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之岩"
+  },
+  {
+    "level": "65",
+    "dropTag": "无相之岩",
+    "dropId": "403001300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之岩"
+  },
+  {
+    "level": "70",
+    "dropTag": "无相之岩",
+    "dropId": "403001400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之岩"
+  },
+  {
+    "level": "75",
+    "dropTag": "无相之岩",
+    "dropId": "403001500",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之岩"
+  },
+  {
+    "level": "80",
+    "dropTag": "无相之岩",
+    "dropId": "403001600",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之岩"
+  },
+  {
+    "level": "85",
+    "dropTag": "无相之岩",
+    "dropId": "403001700",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之岩"
+  },
+  {
+    "level": "90",
+    "dropTag": "无相之岩",
+    "dropId": "403001800",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之岩"
+  },
+  {
+    "level": "93",
+    "dropTag": "无相之岩",
+    "dropId": "403001900",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之岩"
+  },
+  {
+    "level": "100",
+    "dropTag": "无相之岩",
+    "dropId": "403002000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之岩"
+  },
+  {
+    "level": "105",
+    "dropTag": "无相之岩",
+    "dropId": "403002100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之岩"
+  },
+  {
+    "level": "110",
+    "dropTag": "无相之岩",
+    "dropId": "403002200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之岩"
+  },
+  {
+    "level": "115",
+    "dropTag": "无相之岩",
+    "dropId": "403002300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之岩"
+  },
+  {
+    "level": "120",
+    "dropTag": "无相之岩",
+    "dropId": "403002400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之岩"
+  },
+  {
+    "level": "1",
+    "dropTag": "急冻树",
+    "dropId": "404000000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "急冻树"
+  },
+  {
+    "level": "5",
+    "dropTag": "急冻树",
+    "dropId": "404000100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "急冻树"
+  },
+  {
+    "level": "10",
+    "dropTag": "急冻树",
+    "dropId": "404000200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "急冻树"
+  },
+  {
+    "level": "15",
+    "dropTag": "急冻树",
+    "dropId": "404000300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "急冻树"
+  },
+  {
+    "level": "20",
+    "dropTag": "急冻树",
+    "dropId": "404000400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "急冻树"
+  },
+  {
+    "level": "25",
+    "dropTag": "急冻树",
+    "dropId": "404000500",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "急冻树"
+  },
+  {
+    "level": "30",
+    "dropTag": "急冻树",
+    "dropId": "404000600",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "急冻树"
+  },
+  {
+    "level": "35",
+    "dropTag": "急冻树",
+    "dropId": "404000700",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "急冻树"
+  },
+  {
+    "level": "40",
+    "dropTag": "急冻树",
+    "dropId": "404000800",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "急冻树"
+  },
+  {
+    "level": "45",
+    "dropTag": "急冻树",
+    "dropId": "404000900",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "急冻树"
+  },
+  {
+    "level": "50",
+    "dropTag": "急冻树",
+    "dropId": "404001000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "急冻树"
+  },
+  {
+    "level": "55",
+    "dropTag": "急冻树",
+    "dropId": "404001100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "急冻树"
+  },
+  {
+    "level": "60",
+    "dropTag": "急冻树",
+    "dropId": "404001200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "急冻树"
+  },
+  {
+    "level": "65",
+    "dropTag": "急冻树",
+    "dropId": "404001300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "急冻树"
+  },
+  {
+    "level": "70",
+    "dropTag": "急冻树",
+    "dropId": "404001400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "急冻树"
+  },
+  {
+    "level": "75",
+    "dropTag": "急冻树",
+    "dropId": "404001500",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "急冻树"
+  },
+  {
+    "level": "80",
+    "dropTag": "急冻树",
+    "dropId": "404001600",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "急冻树"
+  },
+  {
+    "level": "85",
+    "dropTag": "急冻树",
+    "dropId": "404001700",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "急冻树"
+  },
+  {
+    "level": "90",
+    "dropTag": "急冻树",
+    "dropId": "404001800",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "急冻树"
+  },
+  {
+    "level": "93",
+    "dropTag": "急冻树",
+    "dropId": "404001900",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "急冻树"
+  },
+  {
+    "level": "100",
+    "dropTag": "急冻树",
+    "dropId": "404002000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "急冻树"
+  },
+  {
+    "level": "105",
+    "dropTag": "急冻树",
+    "dropId": "404002100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "急冻树"
+  },
+  {
+    "level": "110",
+    "dropTag": "急冻树",
+    "dropId": "404002200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "急冻树"
+  },
+  {
+    "level": "115",
+    "dropTag": "急冻树",
+    "dropId": "404002300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "急冻树"
+  },
+  {
+    "level": "120",
+    "dropTag": "急冻树",
+    "dropId": "404002400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "急冻树"
+  },
+  {
+    "level": "1",
+    "dropTag": "爆炎树",
+    "dropId": "405000000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "爆炎树"
+  },
+  {
+    "level": "5",
+    "dropTag": "爆炎树",
+    "dropId": "405000100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "爆炎树"
+  },
+  {
+    "level": "10",
+    "dropTag": "爆炎树",
+    "dropId": "405000200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "爆炎树"
+  },
+  {
+    "level": "15",
+    "dropTag": "爆炎树",
+    "dropId": "405000300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "爆炎树"
+  },
+  {
+    "level": "20",
+    "dropTag": "爆炎树",
+    "dropId": "405000400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "爆炎树"
+  },
+  {
+    "level": "25",
+    "dropTag": "爆炎树",
+    "dropId": "405000500",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "爆炎树"
+  },
+  {
+    "level": "30",
+    "dropTag": "爆炎树",
+    "dropId": "405000600",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "爆炎树"
+  },
+  {
+    "level": "35",
+    "dropTag": "爆炎树",
+    "dropId": "405000700",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "爆炎树"
+  },
+  {
+    "level": "40",
+    "dropTag": "爆炎树",
+    "dropId": "405000800",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "爆炎树"
+  },
+  {
+    "level": "45",
+    "dropTag": "爆炎树",
+    "dropId": "405000900",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "爆炎树"
+  },
+  {
+    "level": "50",
+    "dropTag": "爆炎树",
+    "dropId": "405001000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "爆炎树"
+  },
+  {
+    "level": "55",
+    "dropTag": "爆炎树",
+    "dropId": "405001100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "爆炎树"
+  },
+  {
+    "level": "60",
+    "dropTag": "爆炎树",
+    "dropId": "405001200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "爆炎树"
+  },
+  {
+    "level": "65",
+    "dropTag": "爆炎树",
+    "dropId": "405001300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "爆炎树"
+  },
+  {
+    "level": "70",
+    "dropTag": "爆炎树",
+    "dropId": "405001400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "爆炎树"
+  },
+  {
+    "level": "75",
+    "dropTag": "爆炎树",
+    "dropId": "405001500",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "爆炎树"
+  },
+  {
+    "level": "80",
+    "dropTag": "爆炎树",
+    "dropId": "405001600",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "爆炎树"
+  },
+  {
+    "level": "85",
+    "dropTag": "爆炎树",
+    "dropId": "405001700",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "爆炎树"
+  },
+  {
+    "level": "90",
+    "dropTag": "爆炎树",
+    "dropId": "405001800",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "爆炎树"
+  },
+  {
+    "level": "93",
+    "dropTag": "爆炎树",
+    "dropId": "405001900",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "爆炎树"
+  },
+  {
+    "level": "100",
+    "dropTag": "爆炎树",
+    "dropId": "405002000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "爆炎树"
+  },
+  {
+    "level": "105",
+    "dropTag": "爆炎树",
+    "dropId": "405002100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "爆炎树"
+  },
+  {
+    "level": "110",
+    "dropTag": "爆炎树",
+    "dropId": "405002200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "爆炎树"
+  },
+  {
+    "level": "115",
+    "dropTag": "爆炎树",
+    "dropId": "405002300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "爆炎树"
+  },
+  {
+    "level": "120",
+    "dropTag": "爆炎树",
+    "dropId": "405002400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "爆炎树"
+  },
+  {
+    "level": "1",
+    "dropTag": "纯水精灵",
+    "dropId": "406000000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "纯水精灵"
+  },
+  {
+    "level": "5",
+    "dropTag": "纯水精灵",
+    "dropId": "406000100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "纯水精灵"
+  },
+  {
+    "level": "10",
+    "dropTag": "纯水精灵",
+    "dropId": "406000200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "纯水精灵"
+  },
+  {
+    "level": "15",
+    "dropTag": "纯水精灵",
+    "dropId": "406000300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "纯水精灵"
+  },
+  {
+    "level": "20",
+    "dropTag": "纯水精灵",
+    "dropId": "406000400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "纯水精灵"
+  },
+  {
+    "level": "25",
+    "dropTag": "纯水精灵",
+    "dropId": "406000500",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "纯水精灵"
+  },
+  {
+    "level": "30",
+    "dropTag": "纯水精灵",
+    "dropId": "406000600",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "纯水精灵"
+  },
+  {
+    "level": "35",
+    "dropTag": "纯水精灵",
+    "dropId": "406000700",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "纯水精灵"
+  },
+  {
+    "level": "40",
+    "dropTag": "纯水精灵",
+    "dropId": "406000800",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "纯水精灵"
+  },
+  {
+    "level": "45",
+    "dropTag": "纯水精灵",
+    "dropId": "406000900",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "纯水精灵"
+  },
+  {
+    "level": "50",
+    "dropTag": "纯水精灵",
+    "dropId": "406001000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "纯水精灵"
+  },
+  {
+    "level": "55",
+    "dropTag": "纯水精灵",
+    "dropId": "406001100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "纯水精灵"
+  },
+  {
+    "level": "60",
+    "dropTag": "纯水精灵",
+    "dropId": "406001200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "纯水精灵"
+  },
+  {
+    "level": "65",
+    "dropTag": "纯水精灵",
+    "dropId": "406001300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "纯水精灵"
+  },
+  {
+    "level": "70",
+    "dropTag": "纯水精灵",
+    "dropId": "406001400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "纯水精灵"
+  },
+  {
+    "level": "75",
+    "dropTag": "纯水精灵",
+    "dropId": "406001500",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "纯水精灵"
+  },
+  {
+    "level": "80",
+    "dropTag": "纯水精灵",
+    "dropId": "406001600",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "纯水精灵"
+  },
+  {
+    "level": "85",
+    "dropTag": "纯水精灵",
+    "dropId": "406001700",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "纯水精灵"
+  },
+  {
+    "level": "90",
+    "dropTag": "纯水精灵",
+    "dropId": "406001800",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "纯水精灵"
+  },
+  {
+    "level": "93",
+    "dropTag": "纯水精灵",
+    "dropId": "406001900",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "纯水精灵"
+  },
+  {
+    "level": "100",
+    "dropTag": "纯水精灵",
+    "dropId": "406002000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "纯水精灵"
+  },
+  {
+    "level": "105",
+    "dropTag": "纯水精灵",
+    "dropId": "406002100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "纯水精灵"
+  },
+  {
+    "level": "110",
+    "dropTag": "纯水精灵",
+    "dropId": "406002200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "纯水精灵"
+  },
+  {
+    "level": "115",
+    "dropTag": "纯水精灵",
+    "dropId": "406002300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "纯水精灵"
+  },
+  {
+    "level": "120",
+    "dropTag": "纯水精灵",
+    "dropId": "406002400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "纯水精灵"
+  },
+  {
+    "level": "1",
+    "dropTag": "古岩龙蜥电",
+    "dropId": "407000000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥电"
+  },
+  {
+    "level": "5",
+    "dropTag": "古岩龙蜥电",
+    "dropId": "407000100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥电"
+  },
+  {
+    "level": "10",
+    "dropTag": "古岩龙蜥电",
+    "dropId": "407000200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥电"
+  },
+  {
+    "level": "15",
+    "dropTag": "古岩龙蜥电",
+    "dropId": "407000300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥电"
+  },
+  {
+    "level": "20",
+    "dropTag": "古岩龙蜥电",
+    "dropId": "407000400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥电"
+  },
+  {
+    "level": "25",
+    "dropTag": "古岩龙蜥电",
+    "dropId": "407000500",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥电"
+  },
+  {
+    "level": "30",
+    "dropTag": "古岩龙蜥电",
+    "dropId": "407000600",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥电"
+  },
+  {
+    "level": "35",
+    "dropTag": "古岩龙蜥电",
+    "dropId": "407000700",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥电"
+  },
+  {
+    "level": "40",
+    "dropTag": "古岩龙蜥电",
+    "dropId": "407000800",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥电"
+  },
+  {
+    "level": "45",
+    "dropTag": "古岩龙蜥电",
+    "dropId": "407000900",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥电"
+  },
+  {
+    "level": "50",
+    "dropTag": "古岩龙蜥电",
+    "dropId": "407001000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥电"
+  },
+  {
+    "level": "55",
+    "dropTag": "古岩龙蜥电",
+    "dropId": "407001100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥电"
+  },
+  {
+    "level": "60",
+    "dropTag": "古岩龙蜥电",
+    "dropId": "407001200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥电"
+  },
+  {
+    "level": "65",
+    "dropTag": "古岩龙蜥电",
+    "dropId": "407001300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥电"
+  },
+  {
+    "level": "70",
+    "dropTag": "古岩龙蜥电",
+    "dropId": "407001400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥电"
+  },
+  {
+    "level": "75",
+    "dropTag": "古岩龙蜥电",
+    "dropId": "407001500",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥电"
+  },
+  {
+    "level": "80",
+    "dropTag": "古岩龙蜥电",
+    "dropId": "407001600",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥电"
+  },
+  {
+    "level": "85",
+    "dropTag": "古岩龙蜥电",
+    "dropId": "407001700",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥电"
+  },
+  {
+    "level": "90",
+    "dropTag": "古岩龙蜥电",
+    "dropId": "407001800",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥电"
+  },
+  {
+    "level": "93",
+    "dropTag": "古岩龙蜥电",
+    "dropId": "407001900",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥电"
+  },
+  {
+    "level": "100",
+    "dropTag": "古岩龙蜥电",
+    "dropId": "407002000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥电"
+  },
+  {
+    "level": "105",
+    "dropTag": "古岩龙蜥电",
+    "dropId": "407002100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥电"
+  },
+  {
+    "level": "110",
+    "dropTag": "古岩龙蜥电",
+    "dropId": "407002200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥电"
+  },
+  {
+    "level": "115",
+    "dropTag": "古岩龙蜥电",
+    "dropId": "407002300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥电"
+  },
+  {
+    "level": "120",
+    "dropTag": "古岩龙蜥电",
+    "dropId": "407002400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥电"
+  },
+  {
+    "level": "1",
+    "dropTag": "古岩龙蜥冰",
+    "dropId": "408000000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥冰"
+  },
+  {
+    "level": "5",
+    "dropTag": "古岩龙蜥冰",
+    "dropId": "408000100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥冰"
+  },
+  {
+    "level": "10",
+    "dropTag": "古岩龙蜥冰",
+    "dropId": "408000200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥冰"
+  },
+  {
+    "level": "15",
+    "dropTag": "古岩龙蜥冰",
+    "dropId": "408000300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥冰"
+  },
+  {
+    "level": "20",
+    "dropTag": "古岩龙蜥冰",
+    "dropId": "408000400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥冰"
+  },
+  {
+    "level": "25",
+    "dropTag": "古岩龙蜥冰",
+    "dropId": "408000500",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥冰"
+  },
+  {
+    "level": "30",
+    "dropTag": "古岩龙蜥冰",
+    "dropId": "408000600",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥冰"
+  },
+  {
+    "level": "35",
+    "dropTag": "古岩龙蜥冰",
+    "dropId": "408000700",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥冰"
+  },
+  {
+    "level": "40",
+    "dropTag": "古岩龙蜥冰",
+    "dropId": "408000800",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥冰"
+  },
+  {
+    "level": "45",
+    "dropTag": "古岩龙蜥冰",
+    "dropId": "408000900",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥冰"
+  },
+  {
+    "level": "50",
+    "dropTag": "古岩龙蜥冰",
+    "dropId": "408001000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥冰"
+  },
+  {
+    "level": "55",
+    "dropTag": "古岩龙蜥冰",
+    "dropId": "408001100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥冰"
+  },
+  {
+    "level": "60",
+    "dropTag": "古岩龙蜥冰",
+    "dropId": "408001200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥冰"
+  },
+  {
+    "level": "65",
+    "dropTag": "古岩龙蜥冰",
+    "dropId": "408001300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥冰"
+  },
+  {
+    "level": "70",
+    "dropTag": "古岩龙蜥冰",
+    "dropId": "408001400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥冰"
+  },
+  {
+    "level": "75",
+    "dropTag": "古岩龙蜥冰",
+    "dropId": "408001500",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥冰"
+  },
+  {
+    "level": "80",
+    "dropTag": "古岩龙蜥冰",
+    "dropId": "408001600",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥冰"
+  },
+  {
+    "level": "85",
+    "dropTag": "古岩龙蜥冰",
+    "dropId": "408001700",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥冰"
+  },
+  {
+    "level": "90",
+    "dropTag": "古岩龙蜥冰",
+    "dropId": "408001800",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥冰"
+  },
+  {
+    "level": "93",
+    "dropTag": "古岩龙蜥冰",
+    "dropId": "408001900",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥冰"
+  },
+  {
+    "level": "100",
+    "dropTag": "古岩龙蜥冰",
+    "dropId": "408002000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥冰"
+  },
+  {
+    "level": "105",
+    "dropTag": "古岩龙蜥冰",
+    "dropId": "408002100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥冰"
+  },
+  {
+    "level": "110",
+    "dropTag": "古岩龙蜥冰",
+    "dropId": "408002200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥冰"
+  },
+  {
+    "level": "115",
+    "dropTag": "古岩龙蜥冰",
+    "dropId": "408002300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥冰"
+  },
+  {
+    "level": "120",
+    "dropTag": "古岩龙蜥冰",
+    "dropId": "408002400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥冰"
+  },
+  {
+    "level": "1",
+    "dropTag": "古岩龙蜥火",
+    "dropId": "409000000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥火"
+  },
+  {
+    "level": "5",
+    "dropTag": "古岩龙蜥火",
+    "dropId": "409000100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥火"
+  },
+  {
+    "level": "10",
+    "dropTag": "古岩龙蜥火",
+    "dropId": "409000200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥火"
+  },
+  {
+    "level": "15",
+    "dropTag": "古岩龙蜥火",
+    "dropId": "409000300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥火"
+  },
+  {
+    "level": "20",
+    "dropTag": "古岩龙蜥火",
+    "dropId": "409000400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥火"
+  },
+  {
+    "level": "25",
+    "dropTag": "古岩龙蜥火",
+    "dropId": "409000500",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥火"
+  },
+  {
+    "level": "30",
+    "dropTag": "古岩龙蜥火",
+    "dropId": "409000600",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥火"
+  },
+  {
+    "level": "35",
+    "dropTag": "古岩龙蜥火",
+    "dropId": "409000700",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥火"
+  },
+  {
+    "level": "40",
+    "dropTag": "古岩龙蜥火",
+    "dropId": "409000800",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥火"
+  },
+  {
+    "level": "45",
+    "dropTag": "古岩龙蜥火",
+    "dropId": "409000900",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥火"
+  },
+  {
+    "level": "50",
+    "dropTag": "古岩龙蜥火",
+    "dropId": "409001000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥火"
+  },
+  {
+    "level": "55",
+    "dropTag": "古岩龙蜥火",
+    "dropId": "409001100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥火"
+  },
+  {
+    "level": "60",
+    "dropTag": "古岩龙蜥火",
+    "dropId": "409001200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥火"
+  },
+  {
+    "level": "65",
+    "dropTag": "古岩龙蜥火",
+    "dropId": "409001300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥火"
+  },
+  {
+    "level": "70",
+    "dropTag": "古岩龙蜥火",
+    "dropId": "409001400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥火"
+  },
+  {
+    "level": "75",
+    "dropTag": "古岩龙蜥火",
+    "dropId": "409001500",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥火"
+  },
+  {
+    "level": "80",
+    "dropTag": "古岩龙蜥火",
+    "dropId": "409001600",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥火"
+  },
+  {
+    "level": "85",
+    "dropTag": "古岩龙蜥火",
+    "dropId": "409001700",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥火"
+  },
+  {
+    "level": "90",
+    "dropTag": "古岩龙蜥火",
+    "dropId": "409001800",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥火"
+  },
+  {
+    "level": "93",
+    "dropTag": "古岩龙蜥火",
+    "dropId": "409001900",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥火"
+  },
+  {
+    "level": "100",
+    "dropTag": "古岩龙蜥火",
+    "dropId": "409002000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥火"
+  },
+  {
+    "level": "105",
+    "dropTag": "古岩龙蜥火",
+    "dropId": "409002100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥火"
+  },
+  {
+    "level": "110",
+    "dropTag": "古岩龙蜥火",
+    "dropId": "409002200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥火"
+  },
+  {
+    "level": "115",
+    "dropTag": "古岩龙蜥火",
+    "dropId": "409002300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥火"
+  },
+  {
+    "level": "120",
+    "dropTag": "古岩龙蜥火",
+    "dropId": "409002400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥火"
+  },
+  {
+    "level": "1",
+    "dropTag": "古岩龙蜥水",
+    "dropId": "410000000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥水"
+  },
+  {
+    "level": "5",
+    "dropTag": "古岩龙蜥水",
+    "dropId": "410000100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥水"
+  },
+  {
+    "level": "10",
+    "dropTag": "古岩龙蜥水",
+    "dropId": "410000200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥水"
+  },
+  {
+    "level": "15",
+    "dropTag": "古岩龙蜥水",
+    "dropId": "410000300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥水"
+  },
+  {
+    "level": "20",
+    "dropTag": "古岩龙蜥水",
+    "dropId": "410000400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥水"
+  },
+  {
+    "level": "25",
+    "dropTag": "古岩龙蜥水",
+    "dropId": "410000500",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥水"
+  },
+  {
+    "level": "30",
+    "dropTag": "古岩龙蜥水",
+    "dropId": "410000600",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥水"
+  },
+  {
+    "level": "35",
+    "dropTag": "古岩龙蜥水",
+    "dropId": "410000700",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥水"
+  },
+  {
+    "level": "40",
+    "dropTag": "古岩龙蜥水",
+    "dropId": "410000800",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥水"
+  },
+  {
+    "level": "45",
+    "dropTag": "古岩龙蜥水",
+    "dropId": "410000900",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥水"
+  },
+  {
+    "level": "50",
+    "dropTag": "古岩龙蜥水",
+    "dropId": "410001000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥水"
+  },
+  {
+    "level": "55",
+    "dropTag": "古岩龙蜥水",
+    "dropId": "410001100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥水"
+  },
+  {
+    "level": "60",
+    "dropTag": "古岩龙蜥水",
+    "dropId": "410001200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥水"
+  },
+  {
+    "level": "65",
+    "dropTag": "古岩龙蜥水",
+    "dropId": "410001300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥水"
+  },
+  {
+    "level": "70",
+    "dropTag": "古岩龙蜥水",
+    "dropId": "410001400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥水"
+  },
+  {
+    "level": "75",
+    "dropTag": "古岩龙蜥水",
+    "dropId": "410001500",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥水"
+  },
+  {
+    "level": "80",
+    "dropTag": "古岩龙蜥水",
+    "dropId": "410001600",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥水"
+  },
+  {
+    "level": "85",
+    "dropTag": "古岩龙蜥水",
+    "dropId": "410001700",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥水"
+  },
+  {
+    "level": "90",
+    "dropTag": "古岩龙蜥水",
+    "dropId": "410001800",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥水"
+  },
+  {
+    "level": "93",
+    "dropTag": "古岩龙蜥水",
+    "dropId": "410001900",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥水"
+  },
+  {
+    "level": "100",
+    "dropTag": "古岩龙蜥水",
+    "dropId": "410002000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥水"
+  },
+  {
+    "level": "105",
+    "dropTag": "古岩龙蜥水",
+    "dropId": "410002100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥水"
+  },
+  {
+    "level": "110",
+    "dropTag": "古岩龙蜥水",
+    "dropId": "410002200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥水"
+  },
+  {
+    "level": "115",
+    "dropTag": "古岩龙蜥水",
+    "dropId": "410002300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥水"
+  },
+  {
+    "level": "120",
+    "dropTag": "古岩龙蜥水",
+    "dropId": "410002400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "古岩龙蜥水"
+  },
+  {
+    "level": "1",
+    "dropTag": "无相之冰",
+    "dropId": "411000000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之冰"
+  },
+  {
+    "level": "5",
+    "dropTag": "无相之冰",
+    "dropId": "411000100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之冰"
+  },
+  {
+    "level": "10",
+    "dropTag": "无相之冰",
+    "dropId": "411000200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之冰"
+  },
+  {
+    "level": "15",
+    "dropTag": "无相之冰",
+    "dropId": "411000300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之冰"
+  },
+  {
+    "level": "20",
+    "dropTag": "无相之冰",
+    "dropId": "411000400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之冰"
+  },
+  {
+    "level": "25",
+    "dropTag": "无相之冰",
+    "dropId": "411000500",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之冰"
+  },
+  {
+    "level": "30",
+    "dropTag": "无相之冰",
+    "dropId": "411000600",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之冰"
+  },
+  {
+    "level": "35",
+    "dropTag": "无相之冰",
+    "dropId": "411000700",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之冰"
+  },
+  {
+    "level": "40",
+    "dropTag": "无相之冰",
+    "dropId": "411000800",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之冰"
+  },
+  {
+    "level": "45",
+    "dropTag": "无相之冰",
+    "dropId": "411000900",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之冰"
+  },
+  {
+    "level": "50",
+    "dropTag": "无相之冰",
+    "dropId": "411001000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之冰"
+  },
+  {
+    "level": "55",
+    "dropTag": "无相之冰",
+    "dropId": "411001100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之冰"
+  },
+  {
+    "level": "60",
+    "dropTag": "无相之冰",
+    "dropId": "411001200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之冰"
+  },
+  {
+    "level": "65",
+    "dropTag": "无相之冰",
+    "dropId": "411001300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之冰"
+  },
+  {
+    "level": "70",
+    "dropTag": "无相之冰",
+    "dropId": "411001400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之冰"
+  },
+  {
+    "level": "75",
+    "dropTag": "无相之冰",
+    "dropId": "411001500",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之冰"
+  },
+  {
+    "level": "80",
+    "dropTag": "无相之冰",
+    "dropId": "411001600",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之冰"
+  },
+  {
+    "level": "85",
+    "dropTag": "无相之冰",
+    "dropId": "411001700",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之冰"
+  },
+  {
+    "level": "90",
+    "dropTag": "无相之冰",
+    "dropId": "411001800",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之冰"
+  },
+  {
+    "level": "93",
+    "dropTag": "无相之冰",
+    "dropId": "411001900",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之冰"
+  },
+  {
+    "level": "100",
+    "dropTag": "无相之冰",
+    "dropId": "411002000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之冰"
+  },
+  {
+    "level": "105",
+    "dropTag": "无相之冰",
+    "dropId": "411002100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之冰"
+  },
+  {
+    "level": "110",
+    "dropTag": "无相之冰",
+    "dropId": "411002200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之冰"
+  },
+  {
+    "level": "115",
+    "dropTag": "无相之冰",
+    "dropId": "411002300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之冰"
+  },
+  {
+    "level": "120",
+    "dropTag": "无相之冰",
+    "dropId": "411002400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之冰"
+  },
+  {
+    "level": "1",
+    "dropTag": "魔偶剑鬼",
+    "dropId": "412000000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "魔偶剑鬼"
+  },
+  {
+    "level": "5",
+    "dropTag": "魔偶剑鬼",
+    "dropId": "412000100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "魔偶剑鬼"
+  },
+  {
+    "level": "10",
+    "dropTag": "魔偶剑鬼",
+    "dropId": "412000200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "魔偶剑鬼"
+  },
+  {
+    "level": "15",
+    "dropTag": "魔偶剑鬼",
+    "dropId": "412000300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "魔偶剑鬼"
+  },
+  {
+    "level": "20",
+    "dropTag": "魔偶剑鬼",
+    "dropId": "412000400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "魔偶剑鬼"
+  },
+  {
+    "level": "25",
+    "dropTag": "魔偶剑鬼",
+    "dropId": "412000500",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "魔偶剑鬼"
+  },
+  {
+    "level": "30",
+    "dropTag": "魔偶剑鬼",
+    "dropId": "412000600",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "魔偶剑鬼"
+  },
+  {
+    "level": "35",
+    "dropTag": "魔偶剑鬼",
+    "dropId": "412000700",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "魔偶剑鬼"
+  },
+  {
+    "level": "40",
+    "dropTag": "魔偶剑鬼",
+    "dropId": "412000800",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "魔偶剑鬼"
+  },
+  {
+    "level": "45",
+    "dropTag": "魔偶剑鬼",
+    "dropId": "412000900",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "魔偶剑鬼"
+  },
+  {
+    "level": "50",
+    "dropTag": "魔偶剑鬼",
+    "dropId": "412001000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "魔偶剑鬼"
+  },
+  {
+    "level": "55",
+    "dropTag": "魔偶剑鬼",
+    "dropId": "412001100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "魔偶剑鬼"
+  },
+  {
+    "level": "60",
+    "dropTag": "魔偶剑鬼",
+    "dropId": "412001200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "魔偶剑鬼"
+  },
+  {
+    "level": "65",
+    "dropTag": "魔偶剑鬼",
+    "dropId": "412001300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "魔偶剑鬼"
+  },
+  {
+    "level": "70",
+    "dropTag": "魔偶剑鬼",
+    "dropId": "412001400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "魔偶剑鬼"
+  },
+  {
+    "level": "75",
+    "dropTag": "魔偶剑鬼",
+    "dropId": "412001500",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "魔偶剑鬼"
+  },
+  {
+    "level": "80",
+    "dropTag": "魔偶剑鬼",
+    "dropId": "412001600",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "魔偶剑鬼"
+  },
+  {
+    "level": "85",
+    "dropTag": "魔偶剑鬼",
+    "dropId": "412001700",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "魔偶剑鬼"
+  },
+  {
+    "level": "90",
+    "dropTag": "魔偶剑鬼",
+    "dropId": "412001800",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "魔偶剑鬼"
+  },
+  {
+    "level": "93",
+    "dropTag": "魔偶剑鬼",
+    "dropId": "412001900",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "魔偶剑鬼"
+  },
+  {
+    "level": "100",
+    "dropTag": "魔偶剑鬼",
+    "dropId": "412002000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "魔偶剑鬼"
+  },
+  {
+    "level": "105",
+    "dropTag": "魔偶剑鬼",
+    "dropId": "412002100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "魔偶剑鬼"
+  },
+  {
+    "level": "110",
+    "dropTag": "魔偶剑鬼",
+    "dropId": "412002200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "魔偶剑鬼"
+  },
+  {
+    "level": "115",
+    "dropTag": "魔偶剑鬼",
+    "dropId": "412002300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "魔偶剑鬼"
+  },
+  {
+    "level": "120",
+    "dropTag": "魔偶剑鬼",
+    "dropId": "412002400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "魔偶剑鬼"
+  },
+  {
+    "level": "1",
+    "dropTag": "恒常机关阵列",
+    "dropId": "413000000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "恒常机关阵列"
+  },
+  {
+    "level": "5",
+    "dropTag": "恒常机关阵列",
+    "dropId": "413000100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "恒常机关阵列"
+  },
+  {
+    "level": "10",
+    "dropTag": "恒常机关阵列",
+    "dropId": "413000200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "恒常机关阵列"
+  },
+  {
+    "level": "15",
+    "dropTag": "恒常机关阵列",
+    "dropId": "413000300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "恒常机关阵列"
+  },
+  {
+    "level": "20",
+    "dropTag": "恒常机关阵列",
+    "dropId": "413000400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "恒常机关阵列"
+  },
+  {
+    "level": "25",
+    "dropTag": "恒常机关阵列",
+    "dropId": "413000500",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "恒常机关阵列"
+  },
+  {
+    "level": "30",
+    "dropTag": "恒常机关阵列",
+    "dropId": "413000600",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "恒常机关阵列"
+  },
+  {
+    "level": "35",
+    "dropTag": "恒常机关阵列",
+    "dropId": "413000700",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "恒常机关阵列"
+  },
+  {
+    "level": "40",
+    "dropTag": "恒常机关阵列",
+    "dropId": "413000800",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "恒常机关阵列"
+  },
+  {
+    "level": "45",
+    "dropTag": "恒常机关阵列",
+    "dropId": "413000900",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "恒常机关阵列"
+  },
+  {
+    "level": "50",
+    "dropTag": "恒常机关阵列",
+    "dropId": "413001000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "恒常机关阵列"
+  },
+  {
+    "level": "55",
+    "dropTag": "恒常机关阵列",
+    "dropId": "413001100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "恒常机关阵列"
+  },
+  {
+    "level": "60",
+    "dropTag": "恒常机关阵列",
+    "dropId": "413001200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "恒常机关阵列"
+  },
+  {
+    "level": "65",
+    "dropTag": "恒常机关阵列",
+    "dropId": "413001300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "恒常机关阵列"
+  },
+  {
+    "level": "70",
+    "dropTag": "恒常机关阵列",
+    "dropId": "413001400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "恒常机关阵列"
+  },
+  {
+    "level": "75",
+    "dropTag": "恒常机关阵列",
+    "dropId": "413001500",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "恒常机关阵列"
+  },
+  {
+    "level": "80",
+    "dropTag": "恒常机关阵列",
+    "dropId": "413001600",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "恒常机关阵列"
+  },
+  {
+    "level": "85",
+    "dropTag": "恒常机关阵列",
+    "dropId": "413001700",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "恒常机关阵列"
+  },
+  {
+    "level": "90",
+    "dropTag": "恒常机关阵列",
+    "dropId": "413001800",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "恒常机关阵列"
+  },
+  {
+    "level": "93",
+    "dropTag": "恒常机关阵列",
+    "dropId": "413001900",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "恒常机关阵列"
+  },
+  {
+    "level": "100",
+    "dropTag": "恒常机关阵列",
+    "dropId": "413002000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "恒常机关阵列"
+  },
+  {
+    "level": "105",
+    "dropTag": "恒常机关阵列",
+    "dropId": "413002100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "恒常机关阵列"
+  },
+  {
+    "level": "110",
+    "dropTag": "恒常机关阵列",
+    "dropId": "413002200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "恒常机关阵列"
+  },
+  {
+    "level": "115",
+    "dropTag": "恒常机关阵列",
+    "dropId": "413002300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "恒常机关阵列"
+  },
+  {
+    "level": "120",
+    "dropTag": "恒常机关阵列",
+    "dropId": "413002400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "恒常机关阵列"
+  },
+  {
+    "level": "1",
+    "dropTag": "无相之火",
+    "dropId": "414000000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之火"
+  },
+  {
+    "level": "5",
+    "dropTag": "无相之火",
+    "dropId": "414000100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之火"
+  },
+  {
+    "level": "10",
+    "dropTag": "无相之火",
+    "dropId": "414000200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之火"
+  },
+  {
+    "level": "15",
+    "dropTag": "无相之火",
+    "dropId": "414000300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之火"
+  },
+  {
+    "level": "20",
+    "dropTag": "无相之火",
+    "dropId": "414000400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之火"
+  },
+  {
+    "level": "25",
+    "dropTag": "无相之火",
+    "dropId": "414000500",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之火"
+  },
+  {
+    "level": "30",
+    "dropTag": "无相之火",
+    "dropId": "414000600",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之火"
+  },
+  {
+    "level": "35",
+    "dropTag": "无相之火",
+    "dropId": "414000700",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之火"
+  },
+  {
+    "level": "40",
+    "dropTag": "无相之火",
+    "dropId": "414000800",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之火"
+  },
+  {
+    "level": "45",
+    "dropTag": "无相之火",
+    "dropId": "414000900",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之火"
+  },
+  {
+    "level": "50",
+    "dropTag": "无相之火",
+    "dropId": "414001000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之火"
+  },
+  {
+    "level": "55",
+    "dropTag": "无相之火",
+    "dropId": "414001100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之火"
+  },
+  {
+    "level": "60",
+    "dropTag": "无相之火",
+    "dropId": "414001200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之火"
+  },
+  {
+    "level": "65",
+    "dropTag": "无相之火",
+    "dropId": "414001300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之火"
+  },
+  {
+    "level": "70",
+    "dropTag": "无相之火",
+    "dropId": "414001400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之火"
+  },
+  {
+    "level": "75",
+    "dropTag": "无相之火",
+    "dropId": "414001500",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之火"
+  },
+  {
+    "level": "80",
+    "dropTag": "无相之火",
+    "dropId": "414001600",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之火"
+  },
+  {
+    "level": "85",
+    "dropTag": "无相之火",
+    "dropId": "414001700",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之火"
+  },
+  {
+    "level": "90",
+    "dropTag": "无相之火",
+    "dropId": "414001800",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之火"
+  },
+  {
+    "level": "93",
+    "dropTag": "无相之火",
+    "dropId": "414001900",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之火"
+  },
+  {
+    "level": "100",
+    "dropTag": "无相之火",
+    "dropId": "414002000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之火"
+  },
+  {
+    "level": "105",
+    "dropTag": "无相之火",
+    "dropId": "414002100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之火"
+  },
+  {
+    "level": "110",
+    "dropTag": "无相之火",
+    "dropId": "414002200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之火"
+  },
+  {
+    "level": "115",
+    "dropTag": "无相之火",
+    "dropId": "414002300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之火"
+  },
+  {
+    "level": "120",
+    "dropTag": "无相之火",
+    "dropId": "414002400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之火"
+  },
+  {
+    "level": "1",
+    "dropTag": "无相之水",
+    "dropId": "415000000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之水"
+  },
+  {
+    "level": "5",
+    "dropTag": "无相之水",
+    "dropId": "415000100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之水"
+  },
+  {
+    "level": "10",
+    "dropTag": "无相之水",
+    "dropId": "415000200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之水"
+  },
+  {
+    "level": "15",
+    "dropTag": "无相之水",
+    "dropId": "415000300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之水"
+  },
+  {
+    "level": "20",
+    "dropTag": "无相之水",
+    "dropId": "415000400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之水"
+  },
+  {
+    "level": "25",
+    "dropTag": "无相之水",
+    "dropId": "415000500",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之水"
+  },
+  {
+    "level": "30",
+    "dropTag": "无相之水",
+    "dropId": "415000600",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之水"
+  },
+  {
+    "level": "35",
+    "dropTag": "无相之水",
+    "dropId": "415000700",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之水"
+  },
+  {
+    "level": "40",
+    "dropTag": "无相之水",
+    "dropId": "415000800",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之水"
+  },
+  {
+    "level": "45",
+    "dropTag": "无相之水",
+    "dropId": "415000900",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之水"
+  },
+  {
+    "level": "50",
+    "dropTag": "无相之水",
+    "dropId": "415001000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之水"
+  },
+  {
+    "level": "55",
+    "dropTag": "无相之水",
+    "dropId": "415001100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之水"
+  },
+  {
+    "level": "60",
+    "dropTag": "无相之水",
+    "dropId": "415001200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之水"
+  },
+  {
+    "level": "65",
+    "dropTag": "无相之水",
+    "dropId": "415001300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之水"
+  },
+  {
+    "level": "70",
+    "dropTag": "无相之水",
+    "dropId": "415001400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之水"
+  },
+  {
+    "level": "75",
+    "dropTag": "无相之水",
+    "dropId": "415001500",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之水"
+  },
+  {
+    "level": "80",
+    "dropTag": "无相之水",
+    "dropId": "415001600",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之水"
+  },
+  {
+    "level": "85",
+    "dropTag": "无相之水",
+    "dropId": "415001700",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之水"
+  },
+  {
+    "level": "90",
+    "dropTag": "无相之水",
+    "dropId": "415001800",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之水"
+  },
+  {
+    "level": "93",
+    "dropTag": "无相之水",
+    "dropId": "415001900",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之水"
+  },
+  {
+    "level": "100",
+    "dropTag": "无相之水",
+    "dropId": "415002000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之水"
+  },
+  {
+    "level": "105",
+    "dropTag": "无相之水",
+    "dropId": "415002100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之水"
+  },
+  {
+    "level": "110",
+    "dropTag": "无相之水",
+    "dropId": "415002200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之水"
+  },
+  {
+    "level": "115",
+    "dropTag": "无相之水",
+    "dropId": "415002300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之水"
+  },
+  {
+    "level": "120",
+    "dropTag": "无相之水",
+    "dropId": "415002400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之水"
+  },
+  {
+    "level": "1",
+    "dropTag": "雷音权现",
+    "dropId": "416000000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "雷音权现"
+  },
+  {
+    "level": "5",
+    "dropTag": "雷音权现",
+    "dropId": "416000100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "雷音权现"
+  },
+  {
+    "level": "10",
+    "dropTag": "雷音权现",
+    "dropId": "416000200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "雷音权现"
+  },
+  {
+    "level": "15",
+    "dropTag": "雷音权现",
+    "dropId": "416000300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "雷音权现"
+  },
+  {
+    "level": "20",
+    "dropTag": "雷音权现",
+    "dropId": "416000400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "雷音权现"
+  },
+  {
+    "level": "25",
+    "dropTag": "雷音权现",
+    "dropId": "416000500",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "雷音权现"
+  },
+  {
+    "level": "30",
+    "dropTag": "雷音权现",
+    "dropId": "416000600",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "雷音权现"
+  },
+  {
+    "level": "35",
+    "dropTag": "雷音权现",
+    "dropId": "416000700",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "雷音权现"
+  },
+  {
+    "level": "40",
+    "dropTag": "雷音权现",
+    "dropId": "416000800",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "雷音权现"
+  },
+  {
+    "level": "45",
+    "dropTag": "雷音权现",
+    "dropId": "416000900",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "雷音权现"
+  },
+  {
+    "level": "50",
+    "dropTag": "雷音权现",
+    "dropId": "416001000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "雷音权现"
+  },
+  {
+    "level": "55",
+    "dropTag": "雷音权现",
+    "dropId": "416001100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "雷音权现"
+  },
+  {
+    "level": "60",
+    "dropTag": "雷音权现",
+    "dropId": "416001200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "雷音权现"
+  },
+  {
+    "level": "65",
+    "dropTag": "雷音权现",
+    "dropId": "416001300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "雷音权现"
+  },
+  {
+    "level": "70",
+    "dropTag": "雷音权现",
+    "dropId": "416001400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "雷音权现"
+  },
+  {
+    "level": "75",
+    "dropTag": "雷音权现",
+    "dropId": "416001500",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "雷音权现"
+  },
+  {
+    "level": "80",
+    "dropTag": "雷音权现",
+    "dropId": "416001600",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "雷音权现"
+  },
+  {
+    "level": "85",
+    "dropTag": "雷音权现",
+    "dropId": "416001700",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "雷音权现"
+  },
+  {
+    "level": "90",
+    "dropTag": "雷音权现",
+    "dropId": "416001800",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "雷音权现"
+  },
+  {
+    "level": "93",
+    "dropTag": "雷音权现",
+    "dropId": "416001900",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "雷音权现"
+  },
+  {
+    "level": "100",
+    "dropTag": "雷音权现",
+    "dropId": "416002000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "雷音权现"
+  },
+  {
+    "level": "105",
+    "dropTag": "雷音权现",
+    "dropId": "416002100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "雷音权现"
+  },
+  {
+    "level": "110",
+    "dropTag": "雷音权现",
+    "dropId": "416002200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "雷音权现"
+  },
+  {
+    "level": "115",
+    "dropTag": "雷音权现",
+    "dropId": "416002300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "雷音权现"
+  },
+  {
+    "level": "120",
+    "dropTag": "雷音权现",
+    "dropId": "416002400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "雷音权现"
+  },
+  {
+    "level": "1",
+    "dropTag": "黄金王兽",
+    "dropId": "417000000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "黄金王兽"
+  },
+  {
+    "level": "5",
+    "dropTag": "黄金王兽",
+    "dropId": "417000100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "黄金王兽"
+  },
+  {
+    "level": "10",
+    "dropTag": "黄金王兽",
+    "dropId": "417000200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "黄金王兽"
+  },
+  {
+    "level": "15",
+    "dropTag": "黄金王兽",
+    "dropId": "417000300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "黄金王兽"
+  },
+  {
+    "level": "20",
+    "dropTag": "黄金王兽",
+    "dropId": "417000400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "黄金王兽"
+  },
+  {
+    "level": "25",
+    "dropTag": "黄金王兽",
+    "dropId": "417000500",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "黄金王兽"
+  },
+  {
+    "level": "30",
+    "dropTag": "黄金王兽",
+    "dropId": "417000600",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "黄金王兽"
+  },
+  {
+    "level": "35",
+    "dropTag": "黄金王兽",
+    "dropId": "417000700",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "黄金王兽"
+  },
+  {
+    "level": "40",
+    "dropTag": "黄金王兽",
+    "dropId": "417000800",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "黄金王兽"
+  },
+  {
+    "level": "45",
+    "dropTag": "黄金王兽",
+    "dropId": "417000900",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "黄金王兽"
+  },
+  {
+    "level": "50",
+    "dropTag": "黄金王兽",
+    "dropId": "417001000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "黄金王兽"
+  },
+  {
+    "level": "55",
+    "dropTag": "黄金王兽",
+    "dropId": "417001100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "黄金王兽"
+  },
+  {
+    "level": "60",
+    "dropTag": "黄金王兽",
+    "dropId": "417001200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "黄金王兽"
+  },
+  {
+    "level": "65",
+    "dropTag": "黄金王兽",
+    "dropId": "417001300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "黄金王兽"
+  },
+  {
+    "level": "70",
+    "dropTag": "黄金王兽",
+    "dropId": "417001400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "黄金王兽"
+  },
+  {
+    "level": "75",
+    "dropTag": "黄金王兽",
+    "dropId": "417001500",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "黄金王兽"
+  },
+  {
+    "level": "80",
+    "dropTag": "黄金王兽",
+    "dropId": "417001600",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "黄金王兽"
+  },
+  {
+    "level": "85",
+    "dropTag": "黄金王兽",
+    "dropId": "417001700",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "黄金王兽"
+  },
+  {
+    "level": "90",
+    "dropTag": "黄金王兽",
+    "dropId": "417001800",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "黄金王兽"
+  },
+  {
+    "level": "93",
+    "dropTag": "黄金王兽",
+    "dropId": "417001900",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "黄金王兽"
+  },
+  {
+    "level": "100",
+    "dropTag": "黄金王兽",
+    "dropId": "417002000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "黄金王兽"
+  },
+  {
+    "level": "105",
+    "dropTag": "黄金王兽",
+    "dropId": "417002100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "黄金王兽"
+  },
+  {
+    "level": "110",
+    "dropTag": "黄金王兽",
+    "dropId": "417002200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "黄金王兽"
+  },
+  {
+    "level": "115",
+    "dropTag": "黄金王兽",
+    "dropId": "417002300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "黄金王兽"
+  },
+  {
+    "level": "120",
+    "dropTag": "黄金王兽",
+    "dropId": "417002400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "黄金王兽"
+  },
+  {
+    "level": "1",
+    "dropTag": "深海龙蜥组合",
+    "dropId": "418000000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "深海龙蜥组合"
+  },
+  {
+    "level": "5",
+    "dropTag": "深海龙蜥组合",
+    "dropId": "418000100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "深海龙蜥组合"
+  },
+  {
+    "level": "10",
+    "dropTag": "深海龙蜥组合",
+    "dropId": "418000200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "深海龙蜥组合"
+  },
+  {
+    "level": "15",
+    "dropTag": "深海龙蜥组合",
+    "dropId": "418000300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "深海龙蜥组合"
+  },
+  {
+    "level": "20",
+    "dropTag": "深海龙蜥组合",
+    "dropId": "418000400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "深海龙蜥组合"
+  },
+  {
+    "level": "25",
+    "dropTag": "深海龙蜥组合",
+    "dropId": "418000500",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "深海龙蜥组合"
+  },
+  {
+    "level": "30",
+    "dropTag": "深海龙蜥组合",
+    "dropId": "418000600",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "深海龙蜥组合"
+  },
+  {
+    "level": "35",
+    "dropTag": "深海龙蜥组合",
+    "dropId": "418000700",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "深海龙蜥组合"
+  },
+  {
+    "level": "40",
+    "dropTag": "深海龙蜥组合",
+    "dropId": "418000800",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "深海龙蜥组合"
+  },
+  {
+    "level": "45",
+    "dropTag": "深海龙蜥组合",
+    "dropId": "418000900",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "深海龙蜥组合"
+  },
+  {
+    "level": "50",
+    "dropTag": "深海龙蜥组合",
+    "dropId": "418001000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "深海龙蜥组合"
+  },
+  {
+    "level": "55",
+    "dropTag": "深海龙蜥组合",
+    "dropId": "418001100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "深海龙蜥组合"
+  },
+  {
+    "level": "60",
+    "dropTag": "深海龙蜥组合",
+    "dropId": "418001200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "深海龙蜥组合"
+  },
+  {
+    "level": "65",
+    "dropTag": "深海龙蜥组合",
+    "dropId": "418001300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "深海龙蜥组合"
+  },
+  {
+    "level": "70",
+    "dropTag": "深海龙蜥组合",
+    "dropId": "418001400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "深海龙蜥组合"
+  },
+  {
+    "level": "75",
+    "dropTag": "深海龙蜥组合",
+    "dropId": "418001500",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "深海龙蜥组合"
+  },
+  {
+    "level": "80",
+    "dropTag": "深海龙蜥组合",
+    "dropId": "418001600",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "深海龙蜥组合"
+  },
+  {
+    "level": "85",
+    "dropTag": "深海龙蜥组合",
+    "dropId": "418001700",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "深海龙蜥组合"
+  },
+  {
+    "level": "90",
+    "dropTag": "深海龙蜥组合",
+    "dropId": "418001800",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "深海龙蜥组合"
+  },
+  {
+    "level": "93",
+    "dropTag": "深海龙蜥组合",
+    "dropId": "418001900",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "深海龙蜥组合"
+  },
+  {
+    "level": "100",
+    "dropTag": "深海龙蜥组合",
+    "dropId": "418002000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "深海龙蜥组合"
+  },
+  {
+    "level": "105",
+    "dropTag": "深海龙蜥组合",
+    "dropId": "418002100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "深海龙蜥组合"
+  },
+  {
+    "level": "110",
+    "dropTag": "深海龙蜥组合",
+    "dropId": "418002200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "深海龙蜥组合"
+  },
+  {
+    "level": "115",
+    "dropTag": "深海龙蜥组合",
+    "dropId": "418002300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "深海龙蜥组合"
+  },
+  {
+    "level": "120",
+    "dropTag": "深海龙蜥组合",
+    "dropId": "418002400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "深海龙蜥组合"
+  },
+  {
+    "level": "1",
+    "dropTag": "遗迹巨蛇",
+    "dropId": "419000000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "遗迹巨蛇"
+  },
+  {
+    "level": "5",
+    "dropTag": "遗迹巨蛇",
+    "dropId": "419000100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "遗迹巨蛇"
+  },
+  {
+    "level": "10",
+    "dropTag": "遗迹巨蛇",
+    "dropId": "419000200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "遗迹巨蛇"
+  },
+  {
+    "level": "15",
+    "dropTag": "遗迹巨蛇",
+    "dropId": "419000300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "遗迹巨蛇"
+  },
+  {
+    "level": "20",
+    "dropTag": "遗迹巨蛇",
+    "dropId": "419000400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "遗迹巨蛇"
+  },
+  {
+    "level": "25",
+    "dropTag": "遗迹巨蛇",
+    "dropId": "419000500",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "遗迹巨蛇"
+  },
+  {
+    "level": "30",
+    "dropTag": "遗迹巨蛇",
+    "dropId": "419000600",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "遗迹巨蛇"
+  },
+  {
+    "level": "35",
+    "dropTag": "遗迹巨蛇",
+    "dropId": "419000700",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "遗迹巨蛇"
+  },
+  {
+    "level": "40",
+    "dropTag": "遗迹巨蛇",
+    "dropId": "419000800",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "遗迹巨蛇"
+  },
+  {
+    "level": "45",
+    "dropTag": "遗迹巨蛇",
+    "dropId": "419000900",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "遗迹巨蛇"
+  },
+  {
+    "level": "50",
+    "dropTag": "遗迹巨蛇",
+    "dropId": "419001000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "遗迹巨蛇"
+  },
+  {
+    "level": "55",
+    "dropTag": "遗迹巨蛇",
+    "dropId": "419001100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "遗迹巨蛇"
+  },
+  {
+    "level": "60",
+    "dropTag": "遗迹巨蛇",
+    "dropId": "419001200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "遗迹巨蛇"
+  },
+  {
+    "level": "65",
+    "dropTag": "遗迹巨蛇",
+    "dropId": "419001300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "遗迹巨蛇"
+  },
+  {
+    "level": "70",
+    "dropTag": "遗迹巨蛇",
+    "dropId": "419001400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "遗迹巨蛇"
+  },
+  {
+    "level": "75",
+    "dropTag": "遗迹巨蛇",
+    "dropId": "419001500",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "遗迹巨蛇"
+  },
+  {
+    "level": "80",
+    "dropTag": "遗迹巨蛇",
+    "dropId": "419001600",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "遗迹巨蛇"
+  },
+  {
+    "level": "85",
+    "dropTag": "遗迹巨蛇",
+    "dropId": "419001700",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "遗迹巨蛇"
+  },
+  {
+    "level": "90",
+    "dropTag": "遗迹巨蛇",
+    "dropId": "419001800",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "遗迹巨蛇"
+  },
+  {
+    "level": "93",
+    "dropTag": "遗迹巨蛇",
+    "dropId": "419001900",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "遗迹巨蛇"
+  },
+  {
+    "level": "100",
+    "dropTag": "遗迹巨蛇",
+    "dropId": "419002000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "遗迹巨蛇"
+  },
+  {
+    "level": "105",
+    "dropTag": "遗迹巨蛇",
+    "dropId": "419002100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "遗迹巨蛇"
+  },
+  {
+    "level": "110",
+    "dropTag": "遗迹巨蛇",
+    "dropId": "419002200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "遗迹巨蛇"
+  },
+  {
+    "level": "115",
+    "dropTag": "遗迹巨蛇",
+    "dropId": "419002300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "遗迹巨蛇"
+  },
+  {
+    "level": "120",
+    "dropTag": "遗迹巨蛇",
+    "dropId": "419002400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "遗迹巨蛇"
+  },
+  {
+    "level": "1",
+    "dropTag": "翠翎恐蕈",
+    "dropId": "420000000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "翠翎恐蕈"
+  },
+  {
+    "level": "5",
+    "dropTag": "翠翎恐蕈",
+    "dropId": "420000100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "翠翎恐蕈"
+  },
+  {
+    "level": "10",
+    "dropTag": "翠翎恐蕈",
+    "dropId": "420000200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "翠翎恐蕈"
+  },
+  {
+    "level": "15",
+    "dropTag": "翠翎恐蕈",
+    "dropId": "420000300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "翠翎恐蕈"
+  },
+  {
+    "level": "20",
+    "dropTag": "翠翎恐蕈",
+    "dropId": "420000400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "翠翎恐蕈"
+  },
+  {
+    "level": "25",
+    "dropTag": "翠翎恐蕈",
+    "dropId": "420000500",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "翠翎恐蕈"
+  },
+  {
+    "level": "30",
+    "dropTag": "翠翎恐蕈",
+    "dropId": "420000600",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "翠翎恐蕈"
+  },
+  {
+    "level": "35",
+    "dropTag": "翠翎恐蕈",
+    "dropId": "420000700",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "翠翎恐蕈"
+  },
+  {
+    "level": "40",
+    "dropTag": "翠翎恐蕈",
+    "dropId": "420000800",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "翠翎恐蕈"
+  },
+  {
+    "level": "45",
+    "dropTag": "翠翎恐蕈",
+    "dropId": "420000900",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "翠翎恐蕈"
+  },
+  {
+    "level": "50",
+    "dropTag": "翠翎恐蕈",
+    "dropId": "420001000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "翠翎恐蕈"
+  },
+  {
+    "level": "55",
+    "dropTag": "翠翎恐蕈",
+    "dropId": "420001100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "翠翎恐蕈"
+  },
+  {
+    "level": "60",
+    "dropTag": "翠翎恐蕈",
+    "dropId": "420001200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "翠翎恐蕈"
+  },
+  {
+    "level": "65",
+    "dropTag": "翠翎恐蕈",
+    "dropId": "420001300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "翠翎恐蕈"
+  },
+  {
+    "level": "70",
+    "dropTag": "翠翎恐蕈",
+    "dropId": "420001400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "翠翎恐蕈"
+  },
+  {
+    "level": "75",
+    "dropTag": "翠翎恐蕈",
+    "dropId": "420001500",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "翠翎恐蕈"
+  },
+  {
+    "level": "80",
+    "dropTag": "翠翎恐蕈",
+    "dropId": "420001600",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "翠翎恐蕈"
+  },
+  {
+    "level": "85",
+    "dropTag": "翠翎恐蕈",
+    "dropId": "420001700",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "翠翎恐蕈"
+  },
+  {
+    "level": "90",
+    "dropTag": "翠翎恐蕈",
+    "dropId": "420001800",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "翠翎恐蕈"
+  },
+  {
+    "level": "93",
+    "dropTag": "翠翎恐蕈",
+    "dropId": "420001900",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "翠翎恐蕈"
+  },
+  {
+    "level": "100",
+    "dropTag": "翠翎恐蕈",
+    "dropId": "420002000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "翠翎恐蕈"
+  },
+  {
+    "level": "105",
+    "dropTag": "翠翎恐蕈",
+    "dropId": "420002100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "翠翎恐蕈"
+  },
+  {
+    "level": "110",
+    "dropTag": "翠翎恐蕈",
+    "dropId": "420002200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "翠翎恐蕈"
+  },
+  {
+    "level": "115",
+    "dropTag": "翠翎恐蕈",
+    "dropId": "420002300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "翠翎恐蕈"
+  },
+  {
+    "level": "120",
+    "dropTag": "翠翎恐蕈",
+    "dropId": "420002400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "翠翎恐蕈"
+  },
+  {
+    "level": "1",
+    "dropTag": "掣电树",
+    "dropId": "421000000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "掣电树"
+  },
+  {
+    "level": "5",
+    "dropTag": "掣电树",
+    "dropId": "421000100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "掣电树"
+  },
+  {
+    "level": "10",
+    "dropTag": "掣电树",
+    "dropId": "421000200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "掣电树"
+  },
+  {
+    "level": "15",
+    "dropTag": "掣电树",
+    "dropId": "421000300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "掣电树"
+  },
+  {
+    "level": "20",
+    "dropTag": "掣电树",
+    "dropId": "421000400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "掣电树"
+  },
+  {
+    "level": "25",
+    "dropTag": "掣电树",
+    "dropId": "421000500",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "掣电树"
+  },
+  {
+    "level": "30",
+    "dropTag": "掣电树",
+    "dropId": "421000600",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "掣电树"
+  },
+  {
+    "level": "35",
+    "dropTag": "掣电树",
+    "dropId": "421000700",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "掣电树"
+  },
+  {
+    "level": "40",
+    "dropTag": "掣电树",
+    "dropId": "421000800",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "掣电树"
+  },
+  {
+    "level": "45",
+    "dropTag": "掣电树",
+    "dropId": "421000900",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "掣电树"
+  },
+  {
+    "level": "50",
+    "dropTag": "掣电树",
+    "dropId": "421001000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "掣电树"
+  },
+  {
+    "level": "55",
+    "dropTag": "掣电树",
+    "dropId": "421001100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "掣电树"
+  },
+  {
+    "level": "60",
+    "dropTag": "掣电树",
+    "dropId": "421001200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "掣电树"
+  },
+  {
+    "level": "65",
+    "dropTag": "掣电树",
+    "dropId": "421001300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "掣电树"
+  },
+  {
+    "level": "70",
+    "dropTag": "掣电树",
+    "dropId": "421001400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "掣电树"
+  },
+  {
+    "level": "75",
+    "dropTag": "掣电树",
+    "dropId": "421001500",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "掣电树"
+  },
+  {
+    "level": "80",
+    "dropTag": "掣电树",
+    "dropId": "421001600",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "掣电树"
+  },
+  {
+    "level": "85",
+    "dropTag": "掣电树",
+    "dropId": "421001700",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "掣电树"
+  },
+  {
+    "level": "90",
+    "dropTag": "掣电树",
+    "dropId": "421001800",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "掣电树"
+  },
+  {
+    "level": "93",
+    "dropTag": "掣电树",
+    "dropId": "421001900",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "掣电树"
+  },
+  {
+    "level": "100",
+    "dropTag": "掣电树",
+    "dropId": "421002000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "掣电树"
+  },
+  {
+    "level": "105",
+    "dropTag": "掣电树",
+    "dropId": "421002100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "掣电树"
+  },
+  {
+    "level": "110",
+    "dropTag": "掣电树",
+    "dropId": "421002200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "掣电树"
+  },
+  {
+    "level": "115",
+    "dropTag": "掣电树",
+    "dropId": "421002300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "掣电树"
+  },
+  {
+    "level": "120",
+    "dropTag": "掣电树",
+    "dropId": "421002400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "掣电树"
+  },
+  {
+    "level": "1",
+    "dropTag": "兆载永劫龙兽",
+    "dropId": "422000000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "兆载永劫龙兽"
+  },
+  {
+    "level": "5",
+    "dropTag": "兆载永劫龙兽",
+    "dropId": "422000100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "兆载永劫龙兽"
+  },
+  {
+    "level": "10",
+    "dropTag": "兆载永劫龙兽",
+    "dropId": "422000200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "兆载永劫龙兽"
+  },
+  {
+    "level": "15",
+    "dropTag": "兆载永劫龙兽",
+    "dropId": "422000300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "兆载永劫龙兽"
+  },
+  {
+    "level": "20",
+    "dropTag": "兆载永劫龙兽",
+    "dropId": "422000400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "兆载永劫龙兽"
+  },
+  {
+    "level": "25",
+    "dropTag": "兆载永劫龙兽",
+    "dropId": "422000500",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "兆载永劫龙兽"
+  },
+  {
+    "level": "30",
+    "dropTag": "兆载永劫龙兽",
+    "dropId": "422000600",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "兆载永劫龙兽"
+  },
+  {
+    "level": "35",
+    "dropTag": "兆载永劫龙兽",
+    "dropId": "422000700",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "兆载永劫龙兽"
+  },
+  {
+    "level": "40",
+    "dropTag": "兆载永劫龙兽",
+    "dropId": "422000800",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "兆载永劫龙兽"
+  },
+  {
+    "level": "45",
+    "dropTag": "兆载永劫龙兽",
+    "dropId": "422000900",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "兆载永劫龙兽"
+  },
+  {
+    "level": "50",
+    "dropTag": "兆载永劫龙兽",
+    "dropId": "422001000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "兆载永劫龙兽"
+  },
+  {
+    "level": "55",
+    "dropTag": "兆载永劫龙兽",
+    "dropId": "422001100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "兆载永劫龙兽"
+  },
+  {
+    "level": "60",
+    "dropTag": "兆载永劫龙兽",
+    "dropId": "422001200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "兆载永劫龙兽"
+  },
+  {
+    "level": "65",
+    "dropTag": "兆载永劫龙兽",
+    "dropId": "422001300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "兆载永劫龙兽"
+  },
+  {
+    "level": "70",
+    "dropTag": "兆载永劫龙兽",
+    "dropId": "422001400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "兆载永劫龙兽"
+  },
+  {
+    "level": "75",
+    "dropTag": "兆载永劫龙兽",
+    "dropId": "422001500",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "兆载永劫龙兽"
+  },
+  {
+    "level": "80",
+    "dropTag": "兆载永劫龙兽",
+    "dropId": "422001600",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "兆载永劫龙兽"
+  },
+  {
+    "level": "85",
+    "dropTag": "兆载永劫龙兽",
+    "dropId": "422001700",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "兆载永劫龙兽"
+  },
+  {
+    "level": "90",
+    "dropTag": "兆载永劫龙兽",
+    "dropId": "422001800",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "兆载永劫龙兽"
+  },
+  {
+    "level": "93",
+    "dropTag": "兆载永劫龙兽",
+    "dropId": "422001900",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "兆载永劫龙兽"
+  },
+  {
+    "level": "100",
+    "dropTag": "兆载永劫龙兽",
+    "dropId": "422002000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "兆载永劫龙兽"
+  },
+  {
+    "level": "105",
+    "dropTag": "兆载永劫龙兽",
+    "dropId": "422002100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "兆载永劫龙兽"
+  },
+  {
+    "level": "110",
+    "dropTag": "兆载永劫龙兽",
+    "dropId": "422002200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "兆载永劫龙兽"
+  },
+  {
+    "level": "115",
+    "dropTag": "兆载永劫龙兽",
+    "dropId": "422002300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "兆载永劫龙兽"
+  },
+  {
+    "level": "120",
+    "dropTag": "兆载永劫龙兽",
+    "dropId": "422002400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "兆载永劫龙兽"
+  },
+  {
+    "level": "1",
+    "dropTag": "半永恒统辖矩阵",
+    "dropId": "423000000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "半永恒统辖矩阵"
+  },
+  {
+    "level": "5",
+    "dropTag": "半永恒统辖矩阵",
+    "dropId": "423000100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "半永恒统辖矩阵"
+  },
+  {
+    "level": "10",
+    "dropTag": "半永恒统辖矩阵",
+    "dropId": "423000200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "半永恒统辖矩阵"
+  },
+  {
+    "level": "15",
+    "dropTag": "半永恒统辖矩阵",
+    "dropId": "423000300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "半永恒统辖矩阵"
+  },
+  {
+    "level": "20",
+    "dropTag": "半永恒统辖矩阵",
+    "dropId": "423000400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "半永恒统辖矩阵"
+  },
+  {
+    "level": "25",
+    "dropTag": "半永恒统辖矩阵",
+    "dropId": "423000500",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "半永恒统辖矩阵"
+  },
+  {
+    "level": "30",
+    "dropTag": "半永恒统辖矩阵",
+    "dropId": "423000600",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "半永恒统辖矩阵"
+  },
+  {
+    "level": "35",
+    "dropTag": "半永恒统辖矩阵",
+    "dropId": "423000700",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "半永恒统辖矩阵"
+  },
+  {
+    "level": "40",
+    "dropTag": "半永恒统辖矩阵",
+    "dropId": "423000800",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "半永恒统辖矩阵"
+  },
+  {
+    "level": "45",
+    "dropTag": "半永恒统辖矩阵",
+    "dropId": "423000900",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "半永恒统辖矩阵"
+  },
+  {
+    "level": "50",
+    "dropTag": "半永恒统辖矩阵",
+    "dropId": "423001000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "半永恒统辖矩阵"
+  },
+  {
+    "level": "55",
+    "dropTag": "半永恒统辖矩阵",
+    "dropId": "423001100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "半永恒统辖矩阵"
+  },
+  {
+    "level": "60",
+    "dropTag": "半永恒统辖矩阵",
+    "dropId": "423001200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "半永恒统辖矩阵"
+  },
+  {
+    "level": "65",
+    "dropTag": "半永恒统辖矩阵",
+    "dropId": "423001300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "半永恒统辖矩阵"
+  },
+  {
+    "level": "70",
+    "dropTag": "半永恒统辖矩阵",
+    "dropId": "423001400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "半永恒统辖矩阵"
+  },
+  {
+    "level": "75",
+    "dropTag": "半永恒统辖矩阵",
+    "dropId": "423001500",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "半永恒统辖矩阵"
+  },
+  {
+    "level": "80",
+    "dropTag": "半永恒统辖矩阵",
+    "dropId": "423001600",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "半永恒统辖矩阵"
+  },
+  {
+    "level": "85",
+    "dropTag": "半永恒统辖矩阵",
+    "dropId": "423001700",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "半永恒统辖矩阵"
+  },
+  {
+    "level": "90",
+    "dropTag": "半永恒统辖矩阵",
+    "dropId": "423001800",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "半永恒统辖矩阵"
+  },
+  {
+    "level": "93",
+    "dropTag": "半永恒统辖矩阵",
+    "dropId": "423001900",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "半永恒统辖矩阵"
+  },
+  {
+    "level": "100",
+    "dropTag": "半永恒统辖矩阵",
+    "dropId": "423002000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "半永恒统辖矩阵"
+  },
+  {
+    "level": "105",
+    "dropTag": "半永恒统辖矩阵",
+    "dropId": "423002100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "半永恒统辖矩阵"
+  },
+  {
+    "level": "110",
+    "dropTag": "半永恒统辖矩阵",
+    "dropId": "423002200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "半永恒统辖矩阵"
+  },
+  {
+    "level": "115",
+    "dropTag": "半永恒统辖矩阵",
+    "dropId": "423002300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "半永恒统辖矩阵"
+  },
+  {
+    "level": "120",
+    "dropTag": "半永恒统辖矩阵",
+    "dropId": "423002400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "半永恒统辖矩阵"
+  },
+  {
+    "level": "1",
+    "dropTag": "无相之草",
+    "dropId": "424000000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之草"
+  },
+  {
+    "level": "5",
+    "dropTag": "无相之草",
+    "dropId": "424000100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之草"
+  },
+  {
+    "level": "10",
+    "dropTag": "无相之草",
+    "dropId": "424000200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之草"
+  },
+  {
+    "level": "15",
+    "dropTag": "无相之草",
+    "dropId": "424000300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之草"
+  },
+  {
+    "level": "20",
+    "dropTag": "无相之草",
+    "dropId": "424000400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之草"
+  },
+  {
+    "level": "25",
+    "dropTag": "无相之草",
+    "dropId": "424000500",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之草"
+  },
+  {
+    "level": "30",
+    "dropTag": "无相之草",
+    "dropId": "424000600",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之草"
+  },
+  {
+    "level": "35",
+    "dropTag": "无相之草",
+    "dropId": "424000700",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之草"
+  },
+  {
+    "level": "40",
+    "dropTag": "无相之草",
+    "dropId": "424000800",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之草"
+  },
+  {
+    "level": "45",
+    "dropTag": "无相之草",
+    "dropId": "424000900",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之草"
+  },
+  {
+    "level": "50",
+    "dropTag": "无相之草",
+    "dropId": "424001000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之草"
+  },
+  {
+    "level": "55",
+    "dropTag": "无相之草",
+    "dropId": "424001100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之草"
+  },
+  {
+    "level": "60",
+    "dropTag": "无相之草",
+    "dropId": "424001200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之草"
+  },
+  {
+    "level": "65",
+    "dropTag": "无相之草",
+    "dropId": "424001300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之草"
+  },
+  {
+    "level": "70",
+    "dropTag": "无相之草",
+    "dropId": "424001400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之草"
+  },
+  {
+    "level": "75",
+    "dropTag": "无相之草",
+    "dropId": "424001500",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之草"
+  },
+  {
+    "level": "80",
+    "dropTag": "无相之草",
+    "dropId": "424001600",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之草"
+  },
+  {
+    "level": "85",
+    "dropTag": "无相之草",
+    "dropId": "424001700",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之草"
+  },
+  {
+    "level": "90",
+    "dropTag": "无相之草",
+    "dropId": "424001800",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之草"
+  },
+  {
+    "level": "93",
+    "dropTag": "无相之草",
+    "dropId": "424001900",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之草"
+  },
+  {
+    "level": "100",
+    "dropTag": "无相之草",
+    "dropId": "424002000",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之草"
+  },
+  {
+    "level": "105",
+    "dropTag": "无相之草",
+    "dropId": "424002100",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之草"
+  },
+  {
+    "level": "110",
+    "dropTag": "无相之草",
+    "dropId": "424002200",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之草"
+  },
+  {
+    "level": "115",
+    "dropTag": "无相之草",
+    "dropId": "424002300",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之草"
+  },
+  {
+    "level": "120",
+    "dropTag": "无相之草",
+    "dropId": "424002400",
+    "dropMultiplier": "1",
+    "type": "34",
+    "category": "无相之草"
+  },
+  {
+    "level": "1",
+    "dropTag": "风魔龙",
+    "dropId": "451000000",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "风魔龙"
+  },
+  {
+    "level": "5",
+    "dropTag": "风魔龙",
+    "dropId": "451000100",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "风魔龙"
+  },
+  {
+    "level": "10",
+    "dropTag": "风魔龙",
+    "dropId": "451000200",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "风魔龙"
+  },
+  {
+    "level": "15",
+    "dropTag": "风魔龙",
+    "dropId": "451000300",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "风魔龙"
+  },
+  {
+    "level": "20",
+    "dropTag": "风魔龙",
+    "dropId": "451000400",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "风魔龙"
+  },
+  {
+    "level": "25",
+    "dropTag": "风魔龙",
+    "dropId": "451000500",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "风魔龙"
+  },
+  {
+    "level": "30",
+    "dropTag": "风魔龙",
+    "dropId": "451000600",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "风魔龙"
+  },
+  {
+    "level": "35",
+    "dropTag": "风魔龙",
+    "dropId": "451000700",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "风魔龙"
+  },
+  {
+    "level": "40",
+    "dropTag": "风魔龙",
+    "dropId": "451000800",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "风魔龙"
+  },
+  {
+    "level": "45",
+    "dropTag": "风魔龙",
+    "dropId": "451000900",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "风魔龙"
+  },
+  {
+    "level": "50",
+    "dropTag": "风魔龙",
+    "dropId": "451001000",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "风魔龙"
+  },
+  {
+    "level": "55",
+    "dropTag": "风魔龙",
+    "dropId": "451001100",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "风魔龙"
+  },
+  {
+    "level": "60",
+    "dropTag": "风魔龙",
+    "dropId": "451001200",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "风魔龙"
+  },
+  {
+    "level": "65",
+    "dropTag": "风魔龙",
+    "dropId": "451001300",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "风魔龙"
+  },
+  {
+    "level": "70",
+    "dropTag": "风魔龙",
+    "dropId": "451001400",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "风魔龙"
+  },
+  {
+    "level": "75",
+    "dropTag": "风魔龙",
+    "dropId": "451001500",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "风魔龙"
+  },
+  {
+    "level": "80",
+    "dropTag": "风魔龙",
+    "dropId": "451001600",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "风魔龙"
+  },
+  {
+    "level": "85",
+    "dropTag": "风魔龙",
+    "dropId": "451001700",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "风魔龙"
+  },
+  {
+    "level": "90",
+    "dropTag": "风魔龙",
+    "dropId": "451001800",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "风魔龙"
+  },
+  {
+    "level": "93",
+    "dropTag": "风魔龙",
+    "dropId": "451001900",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "风魔龙"
+  },
+  {
+    "level": "100",
+    "dropTag": "风魔龙",
+    "dropId": "451002000",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "风魔龙"
+  },
+  {
+    "level": "105",
+    "dropTag": "风魔龙",
+    "dropId": "451002100",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "风魔龙"
+  },
+  {
+    "level": "110",
+    "dropTag": "风魔龙",
+    "dropId": "451002200",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "风魔龙"
+  },
+  {
+    "level": "115",
+    "dropTag": "风魔龙",
+    "dropId": "451002300",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "风魔龙"
+  },
+  {
+    "level": "120",
+    "dropTag": "风魔龙",
+    "dropId": "451002400",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "风魔龙"
+  },
+  {
+    "level": "1",
+    "dropTag": "北风狼",
+    "dropId": "452000000",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "北风狼"
+  },
+  {
+    "level": "5",
+    "dropTag": "北风狼",
+    "dropId": "452000100",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "北风狼"
+  },
+  {
+    "level": "10",
+    "dropTag": "北风狼",
+    "dropId": "452000200",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "北风狼"
+  },
+  {
+    "level": "15",
+    "dropTag": "北风狼",
+    "dropId": "452000300",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "北风狼"
+  },
+  {
+    "level": "20",
+    "dropTag": "北风狼",
+    "dropId": "452000400",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "北风狼"
+  },
+  {
+    "level": "25",
+    "dropTag": "北风狼",
+    "dropId": "452000500",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "北风狼"
+  },
+  {
+    "level": "30",
+    "dropTag": "北风狼",
+    "dropId": "452000600",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "北风狼"
+  },
+  {
+    "level": "35",
+    "dropTag": "北风狼",
+    "dropId": "452000700",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "北风狼"
+  },
+  {
+    "level": "40",
+    "dropTag": "北风狼",
+    "dropId": "452000800",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "北风狼"
+  },
+  {
+    "level": "45",
+    "dropTag": "北风狼",
+    "dropId": "452000900",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "北风狼"
+  },
+  {
+    "level": "50",
+    "dropTag": "北风狼",
+    "dropId": "452001000",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "北风狼"
+  },
+  {
+    "level": "55",
+    "dropTag": "北风狼",
+    "dropId": "452001100",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "北风狼"
+  },
+  {
+    "level": "60",
+    "dropTag": "北风狼",
+    "dropId": "452001200",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "北风狼"
+  },
+  {
+    "level": "65",
+    "dropTag": "北风狼",
+    "dropId": "452001300",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "北风狼"
+  },
+  {
+    "level": "70",
+    "dropTag": "北风狼",
+    "dropId": "452001400",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "北风狼"
+  },
+  {
+    "level": "75",
+    "dropTag": "北风狼",
+    "dropId": "452001500",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "北风狼"
+  },
+  {
+    "level": "80",
+    "dropTag": "北风狼",
+    "dropId": "452001600",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "北风狼"
+  },
+  {
+    "level": "85",
+    "dropTag": "北风狼",
+    "dropId": "452001700",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "北风狼"
+  },
+  {
+    "level": "90",
+    "dropTag": "北风狼",
+    "dropId": "452001800",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "北风狼"
+  },
+  {
+    "level": "93",
+    "dropTag": "北风狼",
+    "dropId": "452001900",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "北风狼"
+  },
+  {
+    "level": "100",
+    "dropTag": "北风狼",
+    "dropId": "452002000",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "北风狼"
+  },
+  {
+    "level": "105",
+    "dropTag": "北风狼",
+    "dropId": "452002100",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "北风狼"
+  },
+  {
+    "level": "110",
+    "dropTag": "北风狼",
+    "dropId": "452002200",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "北风狼"
+  },
+  {
+    "level": "115",
+    "dropTag": "北风狼",
+    "dropId": "452002300",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "北风狼"
+  },
+  {
+    "level": "120",
+    "dropTag": "北风狼",
+    "dropId": "452002400",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "北风狼"
+  },
+  {
+    "level": "1",
+    "dropTag": "公子",
+    "dropId": "453000000",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "公子"
+  },
+  {
+    "level": "5",
+    "dropTag": "公子",
+    "dropId": "453000100",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "公子"
+  },
+  {
+    "level": "10",
+    "dropTag": "公子",
+    "dropId": "453000200",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "公子"
+  },
+  {
+    "level": "15",
+    "dropTag": "公子",
+    "dropId": "453000300",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "公子"
+  },
+  {
+    "level": "20",
+    "dropTag": "公子",
+    "dropId": "453000400",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "公子"
+  },
+  {
+    "level": "25",
+    "dropTag": "公子",
+    "dropId": "453000500",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "公子"
+  },
+  {
+    "level": "30",
+    "dropTag": "公子",
+    "dropId": "453000600",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "公子"
+  },
+  {
+    "level": "35",
+    "dropTag": "公子",
+    "dropId": "453000700",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "公子"
+  },
+  {
+    "level": "40",
+    "dropTag": "公子",
+    "dropId": "453000800",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "公子"
+  },
+  {
+    "level": "45",
+    "dropTag": "公子",
+    "dropId": "453000900",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "公子"
+  },
+  {
+    "level": "50",
+    "dropTag": "公子",
+    "dropId": "453001000",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "公子"
+  },
+  {
+    "level": "55",
+    "dropTag": "公子",
+    "dropId": "453001100",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "公子"
+  },
+  {
+    "level": "60",
+    "dropTag": "公子",
+    "dropId": "453001200",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "公子"
+  },
+  {
+    "level": "65",
+    "dropTag": "公子",
+    "dropId": "453001300",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "公子"
+  },
+  {
+    "level": "70",
+    "dropTag": "公子",
+    "dropId": "453001400",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "公子"
+  },
+  {
+    "level": "75",
+    "dropTag": "公子",
+    "dropId": "453001500",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "公子"
+  },
+  {
+    "level": "80",
+    "dropTag": "公子",
+    "dropId": "453001600",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "公子"
+  },
+  {
+    "level": "85",
+    "dropTag": "公子",
+    "dropId": "453001700",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "公子"
+  },
+  {
+    "level": "90",
+    "dropTag": "公子",
+    "dropId": "453001800",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "公子"
+  },
+  {
+    "level": "93",
+    "dropTag": "公子",
+    "dropId": "453001900",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "公子"
+  },
+  {
+    "level": "100",
+    "dropTag": "公子",
+    "dropId": "453002000",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "公子"
+  },
+  {
+    "level": "105",
+    "dropTag": "公子",
+    "dropId": "453002100",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "公子"
+  },
+  {
+    "level": "110",
+    "dropTag": "公子",
+    "dropId": "453002200",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "公子"
+  },
+  {
+    "level": "115",
+    "dropTag": "公子",
+    "dropId": "453002300",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "公子"
+  },
+  {
+    "level": "120",
+    "dropTag": "公子",
+    "dropId": "453002400",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "公子"
+  },
+  {
+    "level": "1",
+    "dropTag": "若陀龙王火电",
+    "dropId": "454000000",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王火电"
+  },
+  {
+    "level": "5",
+    "dropTag": "若陀龙王火电",
+    "dropId": "454000100",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王火电"
+  },
+  {
+    "level": "10",
+    "dropTag": "若陀龙王火电",
+    "dropId": "454000200",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王火电"
+  },
+  {
+    "level": "15",
+    "dropTag": "若陀龙王火电",
+    "dropId": "454000300",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王火电"
+  },
+  {
+    "level": "20",
+    "dropTag": "若陀龙王火电",
+    "dropId": "454000400",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王火电"
+  },
+  {
+    "level": "25",
+    "dropTag": "若陀龙王火电",
+    "dropId": "454000500",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王火电"
+  },
+  {
+    "level": "30",
+    "dropTag": "若陀龙王火电",
+    "dropId": "454000600",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王火电"
+  },
+  {
+    "level": "35",
+    "dropTag": "若陀龙王火电",
+    "dropId": "454000700",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王火电"
+  },
+  {
+    "level": "40",
+    "dropTag": "若陀龙王火电",
+    "dropId": "454000800",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王火电"
+  },
+  {
+    "level": "45",
+    "dropTag": "若陀龙王火电",
+    "dropId": "454000900",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王火电"
+  },
+  {
+    "level": "50",
+    "dropTag": "若陀龙王火电",
+    "dropId": "454001000",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王火电"
+  },
+  {
+    "level": "55",
+    "dropTag": "若陀龙王火电",
+    "dropId": "454001100",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王火电"
+  },
+  {
+    "level": "60",
+    "dropTag": "若陀龙王火电",
+    "dropId": "454001200",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王火电"
+  },
+  {
+    "level": "65",
+    "dropTag": "若陀龙王火电",
+    "dropId": "454001300",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王火电"
+  },
+  {
+    "level": "70",
+    "dropTag": "若陀龙王火电",
+    "dropId": "454001400",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王火电"
+  },
+  {
+    "level": "75",
+    "dropTag": "若陀龙王火电",
+    "dropId": "454001500",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王火电"
+  },
+  {
+    "level": "80",
+    "dropTag": "若陀龙王火电",
+    "dropId": "454001600",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王火电"
+  },
+  {
+    "level": "85",
+    "dropTag": "若陀龙王火电",
+    "dropId": "454001700",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王火电"
+  },
+  {
+    "level": "90",
+    "dropTag": "若陀龙王火电",
+    "dropId": "454001800",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王火电"
+  },
+  {
+    "level": "93",
+    "dropTag": "若陀龙王火电",
+    "dropId": "454001900",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王火电"
+  },
+  {
+    "level": "100",
+    "dropTag": "若陀龙王火电",
+    "dropId": "454002000",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王火电"
+  },
+  {
+    "level": "105",
+    "dropTag": "若陀龙王火电",
+    "dropId": "454002100",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王火电"
+  },
+  {
+    "level": "110",
+    "dropTag": "若陀龙王火电",
+    "dropId": "454002200",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王火电"
+  },
+  {
+    "level": "115",
+    "dropTag": "若陀龙王火电",
+    "dropId": "454002300",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王火电"
+  },
+  {
+    "level": "120",
+    "dropTag": "若陀龙王火电",
+    "dropId": "454002400",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王火电"
+  },
+  {
+    "level": "1",
+    "dropTag": "若陀龙王水电",
+    "dropId": "455000000",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王水电"
+  },
+  {
+    "level": "5",
+    "dropTag": "若陀龙王水电",
+    "dropId": "455000100",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王水电"
+  },
+  {
+    "level": "10",
+    "dropTag": "若陀龙王水电",
+    "dropId": "455000200",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王水电"
+  },
+  {
+    "level": "15",
+    "dropTag": "若陀龙王水电",
+    "dropId": "455000300",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王水电"
+  },
+  {
+    "level": "20",
+    "dropTag": "若陀龙王水电",
+    "dropId": "455000400",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王水电"
+  },
+  {
+    "level": "25",
+    "dropTag": "若陀龙王水电",
+    "dropId": "455000500",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王水电"
+  },
+  {
+    "level": "30",
+    "dropTag": "若陀龙王水电",
+    "dropId": "455000600",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王水电"
+  },
+  {
+    "level": "35",
+    "dropTag": "若陀龙王水电",
+    "dropId": "455000700",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王水电"
+  },
+  {
+    "level": "40",
+    "dropTag": "若陀龙王水电",
+    "dropId": "455000800",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王水电"
+  },
+  {
+    "level": "45",
+    "dropTag": "若陀龙王水电",
+    "dropId": "455000900",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王水电"
+  },
+  {
+    "level": "50",
+    "dropTag": "若陀龙王水电",
+    "dropId": "455001000",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王水电"
+  },
+  {
+    "level": "55",
+    "dropTag": "若陀龙王水电",
+    "dropId": "455001100",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王水电"
+  },
+  {
+    "level": "60",
+    "dropTag": "若陀龙王水电",
+    "dropId": "455001200",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王水电"
+  },
+  {
+    "level": "65",
+    "dropTag": "若陀龙王水电",
+    "dropId": "455001300",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王水电"
+  },
+  {
+    "level": "70",
+    "dropTag": "若陀龙王水电",
+    "dropId": "455001400",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王水电"
+  },
+  {
+    "level": "75",
+    "dropTag": "若陀龙王水电",
+    "dropId": "455001500",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王水电"
+  },
+  {
+    "level": "80",
+    "dropTag": "若陀龙王水电",
+    "dropId": "455001600",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王水电"
+  },
+  {
+    "level": "85",
+    "dropTag": "若陀龙王水电",
+    "dropId": "455001700",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王水电"
+  },
+  {
+    "level": "90",
+    "dropTag": "若陀龙王水电",
+    "dropId": "455001800",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王水电"
+  },
+  {
+    "level": "93",
+    "dropTag": "若陀龙王水电",
+    "dropId": "455001900",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王水电"
+  },
+  {
+    "level": "100",
+    "dropTag": "若陀龙王水电",
+    "dropId": "455002000",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王水电"
+  },
+  {
+    "level": "105",
+    "dropTag": "若陀龙王水电",
+    "dropId": "455002100",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王水电"
+  },
+  {
+    "level": "110",
+    "dropTag": "若陀龙王水电",
+    "dropId": "455002200",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王水电"
+  },
+  {
+    "level": "115",
+    "dropTag": "若陀龙王水电",
+    "dropId": "455002300",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王水电"
+  },
+  {
+    "level": "120",
+    "dropTag": "若陀龙王水电",
+    "dropId": "455002400",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王水电"
+  },
+  {
+    "level": "1",
+    "dropTag": "若陀龙王火冰",
+    "dropId": "456000000",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王火冰"
+  },
+  {
+    "level": "5",
+    "dropTag": "若陀龙王火冰",
+    "dropId": "456000100",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王火冰"
+  },
+  {
+    "level": "10",
+    "dropTag": "若陀龙王火冰",
+    "dropId": "456000200",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王火冰"
+  },
+  {
+    "level": "15",
+    "dropTag": "若陀龙王火冰",
+    "dropId": "456000300",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王火冰"
+  },
+  {
+    "level": "20",
+    "dropTag": "若陀龙王火冰",
+    "dropId": "456000400",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王火冰"
+  },
+  {
+    "level": "25",
+    "dropTag": "若陀龙王火冰",
+    "dropId": "456000500",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王火冰"
+  },
+  {
+    "level": "30",
+    "dropTag": "若陀龙王火冰",
+    "dropId": "456000600",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王火冰"
+  },
+  {
+    "level": "35",
+    "dropTag": "若陀龙王火冰",
+    "dropId": "456000700",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王火冰"
+  },
+  {
+    "level": "40",
+    "dropTag": "若陀龙王火冰",
+    "dropId": "456000800",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王火冰"
+  },
+  {
+    "level": "45",
+    "dropTag": "若陀龙王火冰",
+    "dropId": "456000900",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王火冰"
+  },
+  {
+    "level": "50",
+    "dropTag": "若陀龙王火冰",
+    "dropId": "456001000",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王火冰"
+  },
+  {
+    "level": "55",
+    "dropTag": "若陀龙王火冰",
+    "dropId": "456001100",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王火冰"
+  },
+  {
+    "level": "60",
+    "dropTag": "若陀龙王火冰",
+    "dropId": "456001200",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王火冰"
+  },
+  {
+    "level": "65",
+    "dropTag": "若陀龙王火冰",
+    "dropId": "456001300",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王火冰"
+  },
+  {
+    "level": "70",
+    "dropTag": "若陀龙王火冰",
+    "dropId": "456001400",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王火冰"
+  },
+  {
+    "level": "75",
+    "dropTag": "若陀龙王火冰",
+    "dropId": "456001500",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王火冰"
+  },
+  {
+    "level": "80",
+    "dropTag": "若陀龙王火冰",
+    "dropId": "456001600",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王火冰"
+  },
+  {
+    "level": "85",
+    "dropTag": "若陀龙王火冰",
+    "dropId": "456001700",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王火冰"
+  },
+  {
+    "level": "90",
+    "dropTag": "若陀龙王火冰",
+    "dropId": "456001800",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王火冰"
+  },
+  {
+    "level": "93",
+    "dropTag": "若陀龙王火冰",
+    "dropId": "456001900",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王火冰"
+  },
+  {
+    "level": "100",
+    "dropTag": "若陀龙王火冰",
+    "dropId": "456002000",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王火冰"
+  },
+  {
+    "level": "105",
+    "dropTag": "若陀龙王火冰",
+    "dropId": "456002100",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王火冰"
+  },
+  {
+    "level": "110",
+    "dropTag": "若陀龙王火冰",
+    "dropId": "456002200",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王火冰"
+  },
+  {
+    "level": "115",
+    "dropTag": "若陀龙王火冰",
+    "dropId": "456002300",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王火冰"
+  },
+  {
+    "level": "120",
+    "dropTag": "若陀龙王火冰",
+    "dropId": "456002400",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王火冰"
+  },
+  {
+    "level": "1",
+    "dropTag": "若陀龙王水冰",
+    "dropId": "457000000",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王水冰"
+  },
+  {
+    "level": "5",
+    "dropTag": "若陀龙王水冰",
+    "dropId": "457000100",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王水冰"
+  },
+  {
+    "level": "10",
+    "dropTag": "若陀龙王水冰",
+    "dropId": "457000200",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王水冰"
+  },
+  {
+    "level": "15",
+    "dropTag": "若陀龙王水冰",
+    "dropId": "457000300",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王水冰"
+  },
+  {
+    "level": "20",
+    "dropTag": "若陀龙王水冰",
+    "dropId": "457000400",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王水冰"
+  },
+  {
+    "level": "25",
+    "dropTag": "若陀龙王水冰",
+    "dropId": "457000500",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王水冰"
+  },
+  {
+    "level": "30",
+    "dropTag": "若陀龙王水冰",
+    "dropId": "457000600",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王水冰"
+  },
+  {
+    "level": "35",
+    "dropTag": "若陀龙王水冰",
+    "dropId": "457000700",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王水冰"
+  },
+  {
+    "level": "40",
+    "dropTag": "若陀龙王水冰",
+    "dropId": "457000800",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王水冰"
+  },
+  {
+    "level": "45",
+    "dropTag": "若陀龙王水冰",
+    "dropId": "457000900",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王水冰"
+  },
+  {
+    "level": "50",
+    "dropTag": "若陀龙王水冰",
+    "dropId": "457001000",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王水冰"
+  },
+  {
+    "level": "55",
+    "dropTag": "若陀龙王水冰",
+    "dropId": "457001100",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王水冰"
+  },
+  {
+    "level": "60",
+    "dropTag": "若陀龙王水冰",
+    "dropId": "457001200",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王水冰"
+  },
+  {
+    "level": "65",
+    "dropTag": "若陀龙王水冰",
+    "dropId": "457001300",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王水冰"
+  },
+  {
+    "level": "70",
+    "dropTag": "若陀龙王水冰",
+    "dropId": "457001400",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王水冰"
+  },
+  {
+    "level": "75",
+    "dropTag": "若陀龙王水冰",
+    "dropId": "457001500",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王水冰"
+  },
+  {
+    "level": "80",
+    "dropTag": "若陀龙王水冰",
+    "dropId": "457001600",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王水冰"
+  },
+  {
+    "level": "85",
+    "dropTag": "若陀龙王水冰",
+    "dropId": "457001700",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王水冰"
+  },
+  {
+    "level": "90",
+    "dropTag": "若陀龙王水冰",
+    "dropId": "457001800",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王水冰"
+  },
+  {
+    "level": "93",
+    "dropTag": "若陀龙王水冰",
+    "dropId": "457001900",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王水冰"
+  },
+  {
+    "level": "100",
+    "dropTag": "若陀龙王水冰",
+    "dropId": "457002000",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王水冰"
+  },
+  {
+    "level": "105",
+    "dropTag": "若陀龙王水冰",
+    "dropId": "457002100",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王水冰"
+  },
+  {
+    "level": "110",
+    "dropTag": "若陀龙王水冰",
+    "dropId": "457002200",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王水冰"
+  },
+  {
+    "level": "115",
+    "dropTag": "若陀龙王水冰",
+    "dropId": "457002300",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王水冰"
+  },
+  {
+    "level": "120",
+    "dropTag": "若陀龙王水冰",
+    "dropId": "457002400",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "若陀龙王水冰"
+  },
+  {
+    "level": "1",
+    "dropTag": "女士",
+    "dropId": "458000000",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "女士"
+  },
+  {
+    "level": "5",
+    "dropTag": "女士",
+    "dropId": "458000100",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "女士"
+  },
+  {
+    "level": "10",
+    "dropTag": "女士",
+    "dropId": "458000200",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "女士"
+  },
+  {
+    "level": "15",
+    "dropTag": "女士",
+    "dropId": "458000300",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "女士"
+  },
+  {
+    "level": "20",
+    "dropTag": "女士",
+    "dropId": "458000400",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "女士"
+  },
+  {
+    "level": "25",
+    "dropTag": "女士",
+    "dropId": "458000500",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "女士"
+  },
+  {
+    "level": "30",
+    "dropTag": "女士",
+    "dropId": "458000600",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "女士"
+  },
+  {
+    "level": "35",
+    "dropTag": "女士",
+    "dropId": "458000700",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "女士"
+  },
+  {
+    "level": "40",
+    "dropTag": "女士",
+    "dropId": "458000800",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "女士"
+  },
+  {
+    "level": "45",
+    "dropTag": "女士",
+    "dropId": "458000900",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "女士"
+  },
+  {
+    "level": "50",
+    "dropTag": "女士",
+    "dropId": "458001000",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "女士"
+  },
+  {
+    "level": "55",
+    "dropTag": "女士",
+    "dropId": "458001100",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "女士"
+  },
+  {
+    "level": "60",
+    "dropTag": "女士",
+    "dropId": "458001200",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "女士"
+  },
+  {
+    "level": "65",
+    "dropTag": "女士",
+    "dropId": "458001300",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "女士"
+  },
+  {
+    "level": "70",
+    "dropTag": "女士",
+    "dropId": "458001400",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "女士"
+  },
+  {
+    "level": "75",
+    "dropTag": "女士",
+    "dropId": "458001500",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "女士"
+  },
+  {
+    "level": "80",
+    "dropTag": "女士",
+    "dropId": "458001600",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "女士"
+  },
+  {
+    "level": "85",
+    "dropTag": "女士",
+    "dropId": "458001700",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "女士"
+  },
+  {
+    "level": "90",
+    "dropTag": "女士",
+    "dropId": "458001800",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "女士"
+  },
+  {
+    "level": "93",
+    "dropTag": "女士",
+    "dropId": "458001900",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "女士"
+  },
+  {
+    "level": "100",
+    "dropTag": "女士",
+    "dropId": "458002000",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "女士"
+  },
+  {
+    "level": "105",
+    "dropTag": "女士",
+    "dropId": "458002100",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "女士"
+  },
+  {
+    "level": "110",
+    "dropTag": "女士",
+    "dropId": "458002200",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "女士"
+  },
+  {
+    "level": "115",
+    "dropTag": "女士",
+    "dropId": "458002300",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "女士"
+  },
+  {
+    "level": "120",
+    "dropTag": "女士",
+    "dropId": "458002400",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "女士"
+  },
+  {
+    "level": "1",
+    "dropTag": "雷电将军",
+    "dropId": "459000000",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "雷电将军"
+  },
+  {
+    "level": "5",
+    "dropTag": "雷电将军",
+    "dropId": "459000100",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "雷电将军"
+  },
+  {
+    "level": "10",
+    "dropTag": "雷电将军",
+    "dropId": "459000200",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "雷电将军"
+  },
+  {
+    "level": "15",
+    "dropTag": "雷电将军",
+    "dropId": "459000300",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "雷电将军"
+  },
+  {
+    "level": "20",
+    "dropTag": "雷电将军",
+    "dropId": "459000400",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "雷电将军"
+  },
+  {
+    "level": "25",
+    "dropTag": "雷电将军",
+    "dropId": "459000500",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "雷电将军"
+  },
+  {
+    "level": "30",
+    "dropTag": "雷电将军",
+    "dropId": "459000600",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "雷电将军"
+  },
+  {
+    "level": "35",
+    "dropTag": "雷电将军",
+    "dropId": "459000700",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "雷电将军"
+  },
+  {
+    "level": "40",
+    "dropTag": "雷电将军",
+    "dropId": "459000800",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "雷电将军"
+  },
+  {
+    "level": "45",
+    "dropTag": "雷电将军",
+    "dropId": "459000900",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "雷电将军"
+  },
+  {
+    "level": "50",
+    "dropTag": "雷电将军",
+    "dropId": "459001000",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "雷电将军"
+  },
+  {
+    "level": "55",
+    "dropTag": "雷电将军",
+    "dropId": "459001100",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "雷电将军"
+  },
+  {
+    "level": "60",
+    "dropTag": "雷电将军",
+    "dropId": "459001200",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "雷电将军"
+  },
+  {
+    "level": "65",
+    "dropTag": "雷电将军",
+    "dropId": "459001300",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "雷电将军"
+  },
+  {
+    "level": "70",
+    "dropTag": "雷电将军",
+    "dropId": "459001400",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "雷电将军"
+  },
+  {
+    "level": "75",
+    "dropTag": "雷电将军",
+    "dropId": "459001500",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "雷电将军"
+  },
+  {
+    "level": "80",
+    "dropTag": "雷电将军",
+    "dropId": "459001600",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "雷电将军"
+  },
+  {
+    "level": "85",
+    "dropTag": "雷电将军",
+    "dropId": "459001700",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "雷电将军"
+  },
+  {
+    "level": "90",
+    "dropTag": "雷电将军",
+    "dropId": "459001800",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "雷电将军"
+  },
+  {
+    "level": "93",
+    "dropTag": "雷电将军",
+    "dropId": "459001900",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "雷电将军"
+  },
+  {
+    "level": "100",
+    "dropTag": "雷电将军",
+    "dropId": "459002000",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "雷电将军"
+  },
+  {
+    "level": "105",
+    "dropTag": "雷电将军",
+    "dropId": "459002100",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "雷电将军"
+  },
+  {
+    "level": "110",
+    "dropTag": "雷电将军",
+    "dropId": "459002200",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "雷电将军"
+  },
+  {
+    "level": "115",
+    "dropTag": "雷电将军",
+    "dropId": "459002300",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "雷电将军"
+  },
+  {
+    "level": "120",
+    "dropTag": "雷电将军",
+    "dropId": "459002400",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "雷电将军"
+  },
+  {
+    "level": "1",
+    "dropTag": "「正机之神」",
+    "dropId": "460000000",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "「正机之神」"
+  },
+  {
+    "level": "5",
+    "dropTag": "「正机之神」",
+    "dropId": "460000100",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "「正机之神」"
+  },
+  {
+    "level": "10",
+    "dropTag": "「正机之神」",
+    "dropId": "460000200",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "「正机之神」"
+  },
+  {
+    "level": "15",
+    "dropTag": "「正机之神」",
+    "dropId": "460000300",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "「正机之神」"
+  },
+  {
+    "level": "20",
+    "dropTag": "「正机之神」",
+    "dropId": "460000400",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "「正机之神」"
+  },
+  {
+    "level": "25",
+    "dropTag": "「正机之神」",
+    "dropId": "460000500",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "「正机之神」"
+  },
+  {
+    "level": "30",
+    "dropTag": "「正机之神」",
+    "dropId": "460000600",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "「正机之神」"
+  },
+  {
+    "level": "35",
+    "dropTag": "「正机之神」",
+    "dropId": "460000700",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "「正机之神」"
+  },
+  {
+    "level": "40",
+    "dropTag": "「正机之神」",
+    "dropId": "460000800",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "「正机之神」"
+  },
+  {
+    "level": "45",
+    "dropTag": "「正机之神」",
+    "dropId": "460000900",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "「正机之神」"
+  },
+  {
+    "level": "50",
+    "dropTag": "「正机之神」",
+    "dropId": "460001000",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "「正机之神」"
+  },
+  {
+    "level": "55",
+    "dropTag": "「正机之神」",
+    "dropId": "460001100",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "「正机之神」"
+  },
+  {
+    "level": "60",
+    "dropTag": "「正机之神」",
+    "dropId": "460001200",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "「正机之神」"
+  },
+  {
+    "level": "65",
+    "dropTag": "「正机之神」",
+    "dropId": "460001300",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "「正机之神」"
+  },
+  {
+    "level": "70",
+    "dropTag": "「正机之神」",
+    "dropId": "460001400",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "「正机之神」"
+  },
+  {
+    "level": "75",
+    "dropTag": "「正机之神」",
+    "dropId": "460001500",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "「正机之神」"
+  },
+  {
+    "level": "80",
+    "dropTag": "「正机之神」",
+    "dropId": "460001600",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "「正机之神」"
+  },
+  {
+    "level": "85",
+    "dropTag": "「正机之神」",
+    "dropId": "460001700",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "「正机之神」"
+  },
+  {
+    "level": "90",
+    "dropTag": "「正机之神」",
+    "dropId": "460001800",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "「正机之神」"
+  },
+  {
+    "level": "93",
+    "dropTag": "「正机之神」",
+    "dropId": "460001900",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "「正机之神」"
+  },
+  {
+    "level": "100",
+    "dropTag": "「正机之神」",
+    "dropId": "460002000",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "「正机之神」"
+  },
+  {
+    "level": "105",
+    "dropTag": "「正机之神」",
+    "dropId": "460002100",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "「正机之神」"
+  },
+  {
+    "level": "110",
+    "dropTag": "「正机之神」",
+    "dropId": "460002200",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "「正机之神」"
+  },
+  {
+    "level": "115",
+    "dropTag": "「正机之神」",
+    "dropId": "460002300",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "「正机之神」"
+  },
+  {
+    "level": "120",
+    "dropTag": "「正机之神」",
+    "dropId": "460002400",
+    "dropMultiplier": "1",
+    "type": "35",
+    "category": "「正机之神」"
+  }
+]

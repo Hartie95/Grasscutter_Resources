@@ -1,0 +1,6902 @@
+﻿[
+  {
+    "level": "1",
+    "dropTag": "史莱姆",
+    "dropId": "300000000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "5",
+    "dropTag": "史莱姆",
+    "dropId": "300000100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "10",
+    "dropTag": "史莱姆",
+    "dropId": "300000200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "15",
+    "dropTag": "史莱姆",
+    "dropId": "300000300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "20",
+    "dropTag": "史莱姆",
+    "dropId": "300000400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "25",
+    "dropTag": "史莱姆",
+    "dropId": "300000500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "30",
+    "dropTag": "史莱姆",
+    "dropId": "300000600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "35",
+    "dropTag": "史莱姆",
+    "dropId": "300000700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "40",
+    "dropTag": "史莱姆",
+    "dropId": "300000800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "45",
+    "dropTag": "史莱姆",
+    "dropId": "300000900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "50",
+    "dropTag": "史莱姆",
+    "dropId": "300001000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "55",
+    "dropTag": "史莱姆",
+    "dropId": "300001100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "60",
+    "dropTag": "史莱姆",
+    "dropId": "300001200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "65",
+    "dropTag": "史莱姆",
+    "dropId": "300001300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "70",
+    "dropTag": "史莱姆",
+    "dropId": "300001400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "75",
+    "dropTag": "史莱姆",
+    "dropId": "300001500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "80",
+    "dropTag": "史莱姆",
+    "dropId": "300001600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "85",
+    "dropTag": "史莱姆",
+    "dropId": "300001700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "90",
+    "dropTag": "史莱姆",
+    "dropId": "300001800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "93",
+    "dropTag": "史莱姆",
+    "dropId": "300001900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "100",
+    "dropTag": "史莱姆",
+    "dropId": "300002000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "105",
+    "dropTag": "史莱姆",
+    "dropId": "300002100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "110",
+    "dropTag": "史莱姆",
+    "dropId": "300002200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "115",
+    "dropTag": "史莱姆",
+    "dropId": "300002300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "120",
+    "dropTag": "史莱姆",
+    "dropId": "300002400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "1",
+    "dropTag": "大史莱姆",
+    "dropId": "301000000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "5",
+    "dropTag": "大史莱姆",
+    "dropId": "301000100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "10",
+    "dropTag": "大史莱姆",
+    "dropId": "301000200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "15",
+    "dropTag": "大史莱姆",
+    "dropId": "301000300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "20",
+    "dropTag": "大史莱姆",
+    "dropId": "301000400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "25",
+    "dropTag": "大史莱姆",
+    "dropId": "301000500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "30",
+    "dropTag": "大史莱姆",
+    "dropId": "301000600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "35",
+    "dropTag": "大史莱姆",
+    "dropId": "301000700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "40",
+    "dropTag": "大史莱姆",
+    "dropId": "301000800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "45",
+    "dropTag": "大史莱姆",
+    "dropId": "301000900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "50",
+    "dropTag": "大史莱姆",
+    "dropId": "301001000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "55",
+    "dropTag": "大史莱姆",
+    "dropId": "301001100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "60",
+    "dropTag": "大史莱姆",
+    "dropId": "301001200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "65",
+    "dropTag": "大史莱姆",
+    "dropId": "301001300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "70",
+    "dropTag": "大史莱姆",
+    "dropId": "301001400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "75",
+    "dropTag": "大史莱姆",
+    "dropId": "301001500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "80",
+    "dropTag": "大史莱姆",
+    "dropId": "301001600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "85",
+    "dropTag": "大史莱姆",
+    "dropId": "301001700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "90",
+    "dropTag": "大史莱姆",
+    "dropId": "301001800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "93",
+    "dropTag": "大史莱姆",
+    "dropId": "301001900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "100",
+    "dropTag": "大史莱姆",
+    "dropId": "301002000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "105",
+    "dropTag": "大史莱姆",
+    "dropId": "301002100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "110",
+    "dropTag": "大史莱姆",
+    "dropId": "301002200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "115",
+    "dropTag": "大史莱姆",
+    "dropId": "301002300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "120",
+    "dropTag": "大史莱姆",
+    "dropId": "301002400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "1",
+    "dropTag": "雷萤",
+    "dropId": "302000000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "5",
+    "dropTag": "雷萤",
+    "dropId": "302000100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "10",
+    "dropTag": "雷萤",
+    "dropId": "302000200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "15",
+    "dropTag": "雷萤",
+    "dropId": "302000300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "20",
+    "dropTag": "雷萤",
+    "dropId": "302000400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "25",
+    "dropTag": "雷萤",
+    "dropId": "302000500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "30",
+    "dropTag": "雷萤",
+    "dropId": "302000600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "35",
+    "dropTag": "雷萤",
+    "dropId": "302000700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "40",
+    "dropTag": "雷萤",
+    "dropId": "302000800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "45",
+    "dropTag": "雷萤",
+    "dropId": "302000900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "50",
+    "dropTag": "雷萤",
+    "dropId": "302001000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "55",
+    "dropTag": "雷萤",
+    "dropId": "302001100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "60",
+    "dropTag": "雷萤",
+    "dropId": "302001200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "65",
+    "dropTag": "雷萤",
+    "dropId": "302001300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "70",
+    "dropTag": "雷萤",
+    "dropId": "302001400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "75",
+    "dropTag": "雷萤",
+    "dropId": "302001500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "80",
+    "dropTag": "雷萤",
+    "dropId": "302001600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "85",
+    "dropTag": "雷萤",
+    "dropId": "302001700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "90",
+    "dropTag": "雷萤",
+    "dropId": "302001800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "93",
+    "dropTag": "雷萤",
+    "dropId": "302001900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "100",
+    "dropTag": "雷萤",
+    "dropId": "302002000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "105",
+    "dropTag": "雷萤",
+    "dropId": "302002100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "110",
+    "dropTag": "雷萤",
+    "dropId": "302002200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "115",
+    "dropTag": "雷萤",
+    "dropId": "302002300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "120",
+    "dropTag": "雷萤",
+    "dropId": "302002400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "1",
+    "dropTag": "盗宝团",
+    "dropId": "303000000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "5",
+    "dropTag": "盗宝团",
+    "dropId": "303000100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "10",
+    "dropTag": "盗宝团",
+    "dropId": "303000200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "15",
+    "dropTag": "盗宝团",
+    "dropId": "303000300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "20",
+    "dropTag": "盗宝团",
+    "dropId": "303000400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "25",
+    "dropTag": "盗宝团",
+    "dropId": "303000500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "30",
+    "dropTag": "盗宝团",
+    "dropId": "303000600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "35",
+    "dropTag": "盗宝团",
+    "dropId": "303000700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "40",
+    "dropTag": "盗宝团",
+    "dropId": "303000800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "45",
+    "dropTag": "盗宝团",
+    "dropId": "303000900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "50",
+    "dropTag": "盗宝团",
+    "dropId": "303001000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "55",
+    "dropTag": "盗宝团",
+    "dropId": "303001100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "60",
+    "dropTag": "盗宝团",
+    "dropId": "303001200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "65",
+    "dropTag": "盗宝团",
+    "dropId": "303001300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "70",
+    "dropTag": "盗宝团",
+    "dropId": "303001400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "75",
+    "dropTag": "盗宝团",
+    "dropId": "303001500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "80",
+    "dropTag": "盗宝团",
+    "dropId": "303001600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "85",
+    "dropTag": "盗宝团",
+    "dropId": "303001700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "90",
+    "dropTag": "盗宝团",
+    "dropId": "303001800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "93",
+    "dropTag": "盗宝团",
+    "dropId": "303001900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "100",
+    "dropTag": "盗宝团",
+    "dropId": "303002000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "105",
+    "dropTag": "盗宝团",
+    "dropId": "303002100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "110",
+    "dropTag": "盗宝团",
+    "dropId": "303002200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "115",
+    "dropTag": "盗宝团",
+    "dropId": "303002300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "120",
+    "dropTag": "盗宝团",
+    "dropId": "303002400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "1",
+    "dropTag": "丘丘人",
+    "dropId": "304000000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "5",
+    "dropTag": "丘丘人",
+    "dropId": "304000100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "10",
+    "dropTag": "丘丘人",
+    "dropId": "304000200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "15",
+    "dropTag": "丘丘人",
+    "dropId": "304000300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "20",
+    "dropTag": "丘丘人",
+    "dropId": "304000400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "25",
+    "dropTag": "丘丘人",
+    "dropId": "304000500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "30",
+    "dropTag": "丘丘人",
+    "dropId": "304000600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "35",
+    "dropTag": "丘丘人",
+    "dropId": "304000700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "40",
+    "dropTag": "丘丘人",
+    "dropId": "304000800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "45",
+    "dropTag": "丘丘人",
+    "dropId": "304000900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "50",
+    "dropTag": "丘丘人",
+    "dropId": "304001000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "55",
+    "dropTag": "丘丘人",
+    "dropId": "304001100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "60",
+    "dropTag": "丘丘人",
+    "dropId": "304001200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "65",
+    "dropTag": "丘丘人",
+    "dropId": "304001300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "70",
+    "dropTag": "丘丘人",
+    "dropId": "304001400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "75",
+    "dropTag": "丘丘人",
+    "dropId": "304001500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "80",
+    "dropTag": "丘丘人",
+    "dropId": "304001600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "85",
+    "dropTag": "丘丘人",
+    "dropId": "304001700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "90",
+    "dropTag": "丘丘人",
+    "dropId": "304001800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "93",
+    "dropTag": "丘丘人",
+    "dropId": "304001900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "100",
+    "dropTag": "丘丘人",
+    "dropId": "304002000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "105",
+    "dropTag": "丘丘人",
+    "dropId": "304002100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "110",
+    "dropTag": "丘丘人",
+    "dropId": "304002200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "115",
+    "dropTag": "丘丘人",
+    "dropId": "304002300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "120",
+    "dropTag": "丘丘人",
+    "dropId": "304002400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "1",
+    "dropTag": "远程丘丘人",
+    "dropId": "305000000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "5",
+    "dropTag": "远程丘丘人",
+    "dropId": "305000100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "10",
+    "dropTag": "远程丘丘人",
+    "dropId": "305000200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "15",
+    "dropTag": "远程丘丘人",
+    "dropId": "305000300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "20",
+    "dropTag": "远程丘丘人",
+    "dropId": "305000400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "25",
+    "dropTag": "远程丘丘人",
+    "dropId": "305000500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "30",
+    "dropTag": "远程丘丘人",
+    "dropId": "305000600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "35",
+    "dropTag": "远程丘丘人",
+    "dropId": "305000700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "40",
+    "dropTag": "远程丘丘人",
+    "dropId": "305000800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "45",
+    "dropTag": "远程丘丘人",
+    "dropId": "305000900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "50",
+    "dropTag": "远程丘丘人",
+    "dropId": "305001000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "55",
+    "dropTag": "远程丘丘人",
+    "dropId": "305001100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "60",
+    "dropTag": "远程丘丘人",
+    "dropId": "305001200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "65",
+    "dropTag": "远程丘丘人",
+    "dropId": "305001300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "70",
+    "dropTag": "远程丘丘人",
+    "dropId": "305001400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "75",
+    "dropTag": "远程丘丘人",
+    "dropId": "305001500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "80",
+    "dropTag": "远程丘丘人",
+    "dropId": "305001600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "85",
+    "dropTag": "远程丘丘人",
+    "dropId": "305001700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "90",
+    "dropTag": "远程丘丘人",
+    "dropId": "305001800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "93",
+    "dropTag": "远程丘丘人",
+    "dropId": "305001900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "100",
+    "dropTag": "远程丘丘人",
+    "dropId": "305002000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "105",
+    "dropTag": "远程丘丘人",
+    "dropId": "305002100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "110",
+    "dropTag": "远程丘丘人",
+    "dropId": "305002200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "115",
+    "dropTag": "远程丘丘人",
+    "dropId": "305002300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "120",
+    "dropTag": "远程丘丘人",
+    "dropId": "305002400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "1",
+    "dropTag": "丘丘萨满",
+    "dropId": "306000000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "5",
+    "dropTag": "丘丘萨满",
+    "dropId": "306000100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "10",
+    "dropTag": "丘丘萨满",
+    "dropId": "306000200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "15",
+    "dropTag": "丘丘萨满",
+    "dropId": "306000300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "20",
+    "dropTag": "丘丘萨满",
+    "dropId": "306000400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "25",
+    "dropTag": "丘丘萨满",
+    "dropId": "306000500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "30",
+    "dropTag": "丘丘萨满",
+    "dropId": "306000600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "35",
+    "dropTag": "丘丘萨满",
+    "dropId": "306000700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "40",
+    "dropTag": "丘丘萨满",
+    "dropId": "306000800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "45",
+    "dropTag": "丘丘萨满",
+    "dropId": "306000900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "50",
+    "dropTag": "丘丘萨满",
+    "dropId": "306001000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "55",
+    "dropTag": "丘丘萨满",
+    "dropId": "306001100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "60",
+    "dropTag": "丘丘萨满",
+    "dropId": "306001200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "65",
+    "dropTag": "丘丘萨满",
+    "dropId": "306001300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "70",
+    "dropTag": "丘丘萨满",
+    "dropId": "306001400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "75",
+    "dropTag": "丘丘萨满",
+    "dropId": "306001500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "80",
+    "dropTag": "丘丘萨满",
+    "dropId": "306001600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "85",
+    "dropTag": "丘丘萨满",
+    "dropId": "306001700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "90",
+    "dropTag": "丘丘萨满",
+    "dropId": "306001800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "93",
+    "dropTag": "丘丘萨满",
+    "dropId": "306001900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "100",
+    "dropTag": "丘丘萨满",
+    "dropId": "306002000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "105",
+    "dropTag": "丘丘萨满",
+    "dropId": "306002100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "110",
+    "dropTag": "丘丘萨满",
+    "dropId": "306002200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "115",
+    "dropTag": "丘丘萨满",
+    "dropId": "306002300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "120",
+    "dropTag": "丘丘萨满",
+    "dropId": "306002400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "1",
+    "dropTag": "先遣队",
+    "dropId": "307000000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "5",
+    "dropTag": "先遣队",
+    "dropId": "307000100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "10",
+    "dropTag": "先遣队",
+    "dropId": "307000200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "15",
+    "dropTag": "先遣队",
+    "dropId": "307000300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "20",
+    "dropTag": "先遣队",
+    "dropId": "307000400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "25",
+    "dropTag": "先遣队",
+    "dropId": "307000500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "30",
+    "dropTag": "先遣队",
+    "dropId": "307000600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "35",
+    "dropTag": "先遣队",
+    "dropId": "307000700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "40",
+    "dropTag": "先遣队",
+    "dropId": "307000800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "45",
+    "dropTag": "先遣队",
+    "dropId": "307000900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "50",
+    "dropTag": "先遣队",
+    "dropId": "307001000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "55",
+    "dropTag": "先遣队",
+    "dropId": "307001100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "60",
+    "dropTag": "先遣队",
+    "dropId": "307001200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "65",
+    "dropTag": "先遣队",
+    "dropId": "307001300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "70",
+    "dropTag": "先遣队",
+    "dropId": "307001400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "75",
+    "dropTag": "先遣队",
+    "dropId": "307001500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "80",
+    "dropTag": "先遣队",
+    "dropId": "307001600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "85",
+    "dropTag": "先遣队",
+    "dropId": "307001700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "90",
+    "dropTag": "先遣队",
+    "dropId": "307001800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "93",
+    "dropTag": "先遣队",
+    "dropId": "307001900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "100",
+    "dropTag": "先遣队",
+    "dropId": "307002000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "105",
+    "dropTag": "先遣队",
+    "dropId": "307002100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "110",
+    "dropTag": "先遣队",
+    "dropId": "307002200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "115",
+    "dropTag": "先遣队",
+    "dropId": "307002300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "120",
+    "dropTag": "先遣队",
+    "dropId": "307002400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "1",
+    "dropTag": "骗骗花",
+    "dropId": "308000000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "5",
+    "dropTag": "骗骗花",
+    "dropId": "308000100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "10",
+    "dropTag": "骗骗花",
+    "dropId": "308000200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "15",
+    "dropTag": "骗骗花",
+    "dropId": "308000300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "20",
+    "dropTag": "骗骗花",
+    "dropId": "308000400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "25",
+    "dropTag": "骗骗花",
+    "dropId": "308000500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "30",
+    "dropTag": "骗骗花",
+    "dropId": "308000600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "35",
+    "dropTag": "骗骗花",
+    "dropId": "308000700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "40",
+    "dropTag": "骗骗花",
+    "dropId": "308000800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "45",
+    "dropTag": "骗骗花",
+    "dropId": "308000900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "50",
+    "dropTag": "骗骗花",
+    "dropId": "308001000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "55",
+    "dropTag": "骗骗花",
+    "dropId": "308001100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "60",
+    "dropTag": "骗骗花",
+    "dropId": "308001200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "65",
+    "dropTag": "骗骗花",
+    "dropId": "308001300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "70",
+    "dropTag": "骗骗花",
+    "dropId": "308001400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "75",
+    "dropTag": "骗骗花",
+    "dropId": "308001500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "80",
+    "dropTag": "骗骗花",
+    "dropId": "308001600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "85",
+    "dropTag": "骗骗花",
+    "dropId": "308001700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "90",
+    "dropTag": "骗骗花",
+    "dropId": "308001800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "93",
+    "dropTag": "骗骗花",
+    "dropId": "308001900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "100",
+    "dropTag": "骗骗花",
+    "dropId": "308002000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "105",
+    "dropTag": "骗骗花",
+    "dropId": "308002100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "110",
+    "dropTag": "骗骗花",
+    "dropId": "308002200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "115",
+    "dropTag": "骗骗花",
+    "dropId": "308002300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "120",
+    "dropTag": "骗骗花",
+    "dropId": "308002400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "1",
+    "dropTag": "浪人武士",
+    "dropId": "309000000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "5",
+    "dropTag": "浪人武士",
+    "dropId": "309000100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "10",
+    "dropTag": "浪人武士",
+    "dropId": "309000200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "15",
+    "dropTag": "浪人武士",
+    "dropId": "309000300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "20",
+    "dropTag": "浪人武士",
+    "dropId": "309000400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "25",
+    "dropTag": "浪人武士",
+    "dropId": "309000500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "30",
+    "dropTag": "浪人武士",
+    "dropId": "309000600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "35",
+    "dropTag": "浪人武士",
+    "dropId": "309000700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "40",
+    "dropTag": "浪人武士",
+    "dropId": "309000800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "45",
+    "dropTag": "浪人武士",
+    "dropId": "309000900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "50",
+    "dropTag": "浪人武士",
+    "dropId": "309001000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "55",
+    "dropTag": "浪人武士",
+    "dropId": "309001100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "60",
+    "dropTag": "浪人武士",
+    "dropId": "309001200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "65",
+    "dropTag": "浪人武士",
+    "dropId": "309001300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "70",
+    "dropTag": "浪人武士",
+    "dropId": "309001400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "75",
+    "dropTag": "浪人武士",
+    "dropId": "309001500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "80",
+    "dropTag": "浪人武士",
+    "dropId": "309001600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "85",
+    "dropTag": "浪人武士",
+    "dropId": "309001700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "90",
+    "dropTag": "浪人武士",
+    "dropId": "309001800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "93",
+    "dropTag": "浪人武士",
+    "dropId": "309001900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "100",
+    "dropTag": "浪人武士",
+    "dropId": "309002000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "105",
+    "dropTag": "浪人武士",
+    "dropId": "309002100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "110",
+    "dropTag": "浪人武士",
+    "dropId": "309002200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "115",
+    "dropTag": "浪人武士",
+    "dropId": "309002300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "120",
+    "dropTag": "浪人武士",
+    "dropId": "309002400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "1",
+    "dropTag": "高阶武士",
+    "dropId": "310000000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "5",
+    "dropTag": "高阶武士",
+    "dropId": "310000100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "10",
+    "dropTag": "高阶武士",
+    "dropId": "310000200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "15",
+    "dropTag": "高阶武士",
+    "dropId": "310000300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "20",
+    "dropTag": "高阶武士",
+    "dropId": "310000400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "25",
+    "dropTag": "高阶武士",
+    "dropId": "310000500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "30",
+    "dropTag": "高阶武士",
+    "dropId": "310000600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "35",
+    "dropTag": "高阶武士",
+    "dropId": "310000700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "40",
+    "dropTag": "高阶武士",
+    "dropId": "310000800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "45",
+    "dropTag": "高阶武士",
+    "dropId": "310000900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "50",
+    "dropTag": "高阶武士",
+    "dropId": "310001000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "55",
+    "dropTag": "高阶武士",
+    "dropId": "310001100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "60",
+    "dropTag": "高阶武士",
+    "dropId": "310001200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "65",
+    "dropTag": "高阶武士",
+    "dropId": "310001300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "70",
+    "dropTag": "高阶武士",
+    "dropId": "310001400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "75",
+    "dropTag": "高阶武士",
+    "dropId": "310001500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "80",
+    "dropTag": "高阶武士",
+    "dropId": "310001600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "85",
+    "dropTag": "高阶武士",
+    "dropId": "310001700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "90",
+    "dropTag": "高阶武士",
+    "dropId": "310001800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "93",
+    "dropTag": "高阶武士",
+    "dropId": "310001900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "100",
+    "dropTag": "高阶武士",
+    "dropId": "310002000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "105",
+    "dropTag": "高阶武士",
+    "dropId": "310002100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "110",
+    "dropTag": "高阶武士",
+    "dropId": "310002200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "115",
+    "dropTag": "高阶武士",
+    "dropId": "310002300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "120",
+    "dropTag": "高阶武士",
+    "dropId": "310002400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "1",
+    "dropTag": "飘浮灵",
+    "dropId": "311000000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "5",
+    "dropTag": "飘浮灵",
+    "dropId": "311000100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "10",
+    "dropTag": "飘浮灵",
+    "dropId": "311000200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "15",
+    "dropTag": "飘浮灵",
+    "dropId": "311000300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "20",
+    "dropTag": "飘浮灵",
+    "dropId": "311000400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "25",
+    "dropTag": "飘浮灵",
+    "dropId": "311000500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "30",
+    "dropTag": "飘浮灵",
+    "dropId": "311000600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "35",
+    "dropTag": "飘浮灵",
+    "dropId": "311000700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "40",
+    "dropTag": "飘浮灵",
+    "dropId": "311000800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "45",
+    "dropTag": "飘浮灵",
+    "dropId": "311000900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "50",
+    "dropTag": "飘浮灵",
+    "dropId": "311001000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "55",
+    "dropTag": "飘浮灵",
+    "dropId": "311001100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "60",
+    "dropTag": "飘浮灵",
+    "dropId": "311001200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "65",
+    "dropTag": "飘浮灵",
+    "dropId": "311001300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "70",
+    "dropTag": "飘浮灵",
+    "dropId": "311001400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "75",
+    "dropTag": "飘浮灵",
+    "dropId": "311001500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "80",
+    "dropTag": "飘浮灵",
+    "dropId": "311001600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "85",
+    "dropTag": "飘浮灵",
+    "dropId": "311001700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "90",
+    "dropTag": "飘浮灵",
+    "dropId": "311001800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "93",
+    "dropTag": "飘浮灵",
+    "dropId": "311001900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "100",
+    "dropTag": "飘浮灵",
+    "dropId": "311002000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "105",
+    "dropTag": "飘浮灵",
+    "dropId": "311002100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "110",
+    "dropTag": "飘浮灵",
+    "dropId": "311002200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "115",
+    "dropTag": "飘浮灵",
+    "dropId": "311002300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "120",
+    "dropTag": "飘浮灵",
+    "dropId": "311002400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "1",
+    "dropTag": "蕈兽",
+    "dropId": "312000000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "5",
+    "dropTag": "蕈兽",
+    "dropId": "312000100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "10",
+    "dropTag": "蕈兽",
+    "dropId": "312000200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "15",
+    "dropTag": "蕈兽",
+    "dropId": "312000300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "20",
+    "dropTag": "蕈兽",
+    "dropId": "312000400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "25",
+    "dropTag": "蕈兽",
+    "dropId": "312000500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "30",
+    "dropTag": "蕈兽",
+    "dropId": "312000600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "35",
+    "dropTag": "蕈兽",
+    "dropId": "312000700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "40",
+    "dropTag": "蕈兽",
+    "dropId": "312000800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "45",
+    "dropTag": "蕈兽",
+    "dropId": "312000900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "50",
+    "dropTag": "蕈兽",
+    "dropId": "312001000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "55",
+    "dropTag": "蕈兽",
+    "dropId": "312001100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "60",
+    "dropTag": "蕈兽",
+    "dropId": "312001200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "65",
+    "dropTag": "蕈兽",
+    "dropId": "312001300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "70",
+    "dropTag": "蕈兽",
+    "dropId": "312001400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "75",
+    "dropTag": "蕈兽",
+    "dropId": "312001500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "80",
+    "dropTag": "蕈兽",
+    "dropId": "312001600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "85",
+    "dropTag": "蕈兽",
+    "dropId": "312001700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "90",
+    "dropTag": "蕈兽",
+    "dropId": "312001800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "93",
+    "dropTag": "蕈兽",
+    "dropId": "312001900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "100",
+    "dropTag": "蕈兽",
+    "dropId": "312002000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "105",
+    "dropTag": "蕈兽",
+    "dropId": "312002100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "110",
+    "dropTag": "蕈兽",
+    "dropId": "312002200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "115",
+    "dropTag": "蕈兽",
+    "dropId": "312002300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "120",
+    "dropTag": "蕈兽",
+    "dropId": "312002400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "1",
+    "dropTag": "大蕈兽",
+    "dropId": "313000000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "5",
+    "dropTag": "大蕈兽",
+    "dropId": "313000100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "10",
+    "dropTag": "大蕈兽",
+    "dropId": "313000200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "15",
+    "dropTag": "大蕈兽",
+    "dropId": "313000300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "20",
+    "dropTag": "大蕈兽",
+    "dropId": "313000400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "25",
+    "dropTag": "大蕈兽",
+    "dropId": "313000500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "30",
+    "dropTag": "大蕈兽",
+    "dropId": "313000600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "35",
+    "dropTag": "大蕈兽",
+    "dropId": "313000700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "40",
+    "dropTag": "大蕈兽",
+    "dropId": "313000800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "45",
+    "dropTag": "大蕈兽",
+    "dropId": "313000900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "50",
+    "dropTag": "大蕈兽",
+    "dropId": "313001000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "55",
+    "dropTag": "大蕈兽",
+    "dropId": "313001100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "60",
+    "dropTag": "大蕈兽",
+    "dropId": "313001200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "65",
+    "dropTag": "大蕈兽",
+    "dropId": "313001300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "70",
+    "dropTag": "大蕈兽",
+    "dropId": "313001400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "75",
+    "dropTag": "大蕈兽",
+    "dropId": "313001500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "80",
+    "dropTag": "大蕈兽",
+    "dropId": "313001600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "85",
+    "dropTag": "大蕈兽",
+    "dropId": "313001700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "90",
+    "dropTag": "大蕈兽",
+    "dropId": "313001800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "93",
+    "dropTag": "大蕈兽",
+    "dropId": "313001900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "100",
+    "dropTag": "大蕈兽",
+    "dropId": "313002000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "105",
+    "dropTag": "大蕈兽",
+    "dropId": "313002100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "110",
+    "dropTag": "大蕈兽",
+    "dropId": "313002200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "115",
+    "dropTag": "大蕈兽",
+    "dropId": "313002300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "120",
+    "dropTag": "大蕈兽",
+    "dropId": "313002400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "1",
+    "dropTag": "镀金旅团",
+    "dropId": "314000000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "5",
+    "dropTag": "镀金旅团",
+    "dropId": "314000100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "10",
+    "dropTag": "镀金旅团",
+    "dropId": "314000200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "15",
+    "dropTag": "镀金旅团",
+    "dropId": "314000300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "20",
+    "dropTag": "镀金旅团",
+    "dropId": "314000400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "25",
+    "dropTag": "镀金旅团",
+    "dropId": "314000500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "30",
+    "dropTag": "镀金旅团",
+    "dropId": "314000600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "35",
+    "dropTag": "镀金旅团",
+    "dropId": "314000700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "40",
+    "dropTag": "镀金旅团",
+    "dropId": "314000800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "45",
+    "dropTag": "镀金旅团",
+    "dropId": "314000900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "50",
+    "dropTag": "镀金旅团",
+    "dropId": "314001000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "55",
+    "dropTag": "镀金旅团",
+    "dropId": "314001100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "60",
+    "dropTag": "镀金旅团",
+    "dropId": "314001200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "65",
+    "dropTag": "镀金旅团",
+    "dropId": "314001300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "70",
+    "dropTag": "镀金旅团",
+    "dropId": "314001400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "75",
+    "dropTag": "镀金旅团",
+    "dropId": "314001500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "80",
+    "dropTag": "镀金旅团",
+    "dropId": "314001600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "85",
+    "dropTag": "镀金旅团",
+    "dropId": "314001700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "90",
+    "dropTag": "镀金旅团",
+    "dropId": "314001800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "93",
+    "dropTag": "镀金旅团",
+    "dropId": "314001900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "100",
+    "dropTag": "镀金旅团",
+    "dropId": "314002000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "105",
+    "dropTag": "镀金旅团",
+    "dropId": "314002100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "110",
+    "dropTag": "镀金旅团",
+    "dropId": "314002200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "115",
+    "dropTag": "镀金旅团",
+    "dropId": "314002300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "120",
+    "dropTag": "镀金旅团",
+    "dropId": "314002400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "1",
+    "dropTag": "中级镀金旅团",
+    "dropId": "315000000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "5",
+    "dropTag": "中级镀金旅团",
+    "dropId": "315000100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "10",
+    "dropTag": "中级镀金旅团",
+    "dropId": "315000200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "15",
+    "dropTag": "中级镀金旅团",
+    "dropId": "315000300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "20",
+    "dropTag": "中级镀金旅团",
+    "dropId": "315000400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "25",
+    "dropTag": "中级镀金旅团",
+    "dropId": "315000500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "30",
+    "dropTag": "中级镀金旅团",
+    "dropId": "315000600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "35",
+    "dropTag": "中级镀金旅团",
+    "dropId": "315000700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "40",
+    "dropTag": "中级镀金旅团",
+    "dropId": "315000800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "45",
+    "dropTag": "中级镀金旅团",
+    "dropId": "315000900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "50",
+    "dropTag": "中级镀金旅团",
+    "dropId": "315001000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "55",
+    "dropTag": "中级镀金旅团",
+    "dropId": "315001100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "60",
+    "dropTag": "中级镀金旅团",
+    "dropId": "315001200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "65",
+    "dropTag": "中级镀金旅团",
+    "dropId": "315001300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "70",
+    "dropTag": "中级镀金旅团",
+    "dropId": "315001400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "75",
+    "dropTag": "中级镀金旅团",
+    "dropId": "315001500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "80",
+    "dropTag": "中级镀金旅团",
+    "dropId": "315001600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "85",
+    "dropTag": "中级镀金旅团",
+    "dropId": "315001700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "90",
+    "dropTag": "中级镀金旅团",
+    "dropId": "315001800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "93",
+    "dropTag": "中级镀金旅团",
+    "dropId": "315001900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "100",
+    "dropTag": "中级镀金旅团",
+    "dropId": "315002000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "105",
+    "dropTag": "中级镀金旅团",
+    "dropId": "315002100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "110",
+    "dropTag": "中级镀金旅团",
+    "dropId": "315002200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "115",
+    "dropTag": "中级镀金旅团",
+    "dropId": "315002300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "120",
+    "dropTag": "中级镀金旅团",
+    "dropId": "315002400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "1",
+    "dropTag": "高级镀金旅团",
+    "dropId": "316000000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "5",
+    "dropTag": "高级镀金旅团",
+    "dropId": "316000100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "10",
+    "dropTag": "高级镀金旅团",
+    "dropId": "316000200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "15",
+    "dropTag": "高级镀金旅团",
+    "dropId": "316000300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "20",
+    "dropTag": "高级镀金旅团",
+    "dropId": "316000400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "25",
+    "dropTag": "高级镀金旅团",
+    "dropId": "316000500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "30",
+    "dropTag": "高级镀金旅团",
+    "dropId": "316000600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "35",
+    "dropTag": "高级镀金旅团",
+    "dropId": "316000700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "40",
+    "dropTag": "高级镀金旅团",
+    "dropId": "316000800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "45",
+    "dropTag": "高级镀金旅团",
+    "dropId": "316000900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "50",
+    "dropTag": "高级镀金旅团",
+    "dropId": "316001000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "55",
+    "dropTag": "高级镀金旅团",
+    "dropId": "316001100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "60",
+    "dropTag": "高级镀金旅团",
+    "dropId": "316001200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "65",
+    "dropTag": "高级镀金旅团",
+    "dropId": "316001300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "70",
+    "dropTag": "高级镀金旅团",
+    "dropId": "316001400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "75",
+    "dropTag": "高级镀金旅团",
+    "dropId": "316001500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "80",
+    "dropTag": "高级镀金旅团",
+    "dropId": "316001600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "85",
+    "dropTag": "高级镀金旅团",
+    "dropId": "316001700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "90",
+    "dropTag": "高级镀金旅团",
+    "dropId": "316001800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "93",
+    "dropTag": "高级镀金旅团",
+    "dropId": "316001900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "100",
+    "dropTag": "高级镀金旅团",
+    "dropId": "316002000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "105",
+    "dropTag": "高级镀金旅团",
+    "dropId": "316002100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "110",
+    "dropTag": "高级镀金旅团",
+    "dropId": "316002200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "115",
+    "dropTag": "高级镀金旅团",
+    "dropId": "316002300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "120",
+    "dropTag": "高级镀金旅团",
+    "dropId": "316002400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "1",
+    "dropTag": "驮兽丘丘人",
+    "dropId": "317000000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "5",
+    "dropTag": "驮兽丘丘人",
+    "dropId": "317000100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "10",
+    "dropTag": "驮兽丘丘人",
+    "dropId": "317000200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "15",
+    "dropTag": "驮兽丘丘人",
+    "dropId": "317000300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "20",
+    "dropTag": "驮兽丘丘人",
+    "dropId": "317000400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "25",
+    "dropTag": "驮兽丘丘人",
+    "dropId": "317000500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "30",
+    "dropTag": "驮兽丘丘人",
+    "dropId": "317000600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "35",
+    "dropTag": "驮兽丘丘人",
+    "dropId": "317000700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "40",
+    "dropTag": "驮兽丘丘人",
+    "dropId": "317000800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "45",
+    "dropTag": "驮兽丘丘人",
+    "dropId": "317000900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "50",
+    "dropTag": "驮兽丘丘人",
+    "dropId": "317001000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "55",
+    "dropTag": "驮兽丘丘人",
+    "dropId": "317001100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "60",
+    "dropTag": "驮兽丘丘人",
+    "dropId": "317001200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "65",
+    "dropTag": "驮兽丘丘人",
+    "dropId": "317001300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "70",
+    "dropTag": "驮兽丘丘人",
+    "dropId": "317001400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "75",
+    "dropTag": "驮兽丘丘人",
+    "dropId": "317001500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "80",
+    "dropTag": "驮兽丘丘人",
+    "dropId": "317001600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "85",
+    "dropTag": "驮兽丘丘人",
+    "dropId": "317001700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "90",
+    "dropTag": "驮兽丘丘人",
+    "dropId": "317001800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "93",
+    "dropTag": "驮兽丘丘人",
+    "dropId": "317001900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "100",
+    "dropTag": "驮兽丘丘人",
+    "dropId": "317002000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "105",
+    "dropTag": "驮兽丘丘人",
+    "dropId": "317002100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "110",
+    "dropTag": "驮兽丘丘人",
+    "dropId": "317002200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "115",
+    "dropTag": "驮兽丘丘人",
+    "dropId": "317002300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "120",
+    "dropTag": "驮兽丘丘人",
+    "dropId": "317002400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "1",
+    "dropTag": "驮兽盗宝团",
+    "dropId": "318000000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "5",
+    "dropTag": "驮兽盗宝团",
+    "dropId": "318000100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "10",
+    "dropTag": "驮兽盗宝团",
+    "dropId": "318000200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "15",
+    "dropTag": "驮兽盗宝团",
+    "dropId": "318000300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "20",
+    "dropTag": "驮兽盗宝团",
+    "dropId": "318000400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "25",
+    "dropTag": "驮兽盗宝团",
+    "dropId": "318000500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "30",
+    "dropTag": "驮兽盗宝团",
+    "dropId": "318000600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "35",
+    "dropTag": "驮兽盗宝团",
+    "dropId": "318000700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "40",
+    "dropTag": "驮兽盗宝团",
+    "dropId": "318000800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "45",
+    "dropTag": "驮兽盗宝团",
+    "dropId": "318000900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "50",
+    "dropTag": "驮兽盗宝团",
+    "dropId": "318001000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "55",
+    "dropTag": "驮兽盗宝团",
+    "dropId": "318001100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "60",
+    "dropTag": "驮兽盗宝团",
+    "dropId": "318001200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "65",
+    "dropTag": "驮兽盗宝团",
+    "dropId": "318001300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "70",
+    "dropTag": "驮兽盗宝团",
+    "dropId": "318001400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "75",
+    "dropTag": "驮兽盗宝团",
+    "dropId": "318001500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "80",
+    "dropTag": "驮兽盗宝团",
+    "dropId": "318001600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "85",
+    "dropTag": "驮兽盗宝团",
+    "dropId": "318001700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "90",
+    "dropTag": "驮兽盗宝团",
+    "dropId": "318001800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "93",
+    "dropTag": "驮兽盗宝团",
+    "dropId": "318001900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "100",
+    "dropTag": "驮兽盗宝团",
+    "dropId": "318002000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "105",
+    "dropTag": "驮兽盗宝团",
+    "dropId": "318002100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "110",
+    "dropTag": "驮兽盗宝团",
+    "dropId": "318002200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "115",
+    "dropTag": "驮兽盗宝团",
+    "dropId": "318002300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "120",
+    "dropTag": "驮兽盗宝团",
+    "dropId": "318002400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "1",
+    "dropTag": "驮兽镀金旅团",
+    "dropId": "319000000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "5",
+    "dropTag": "驮兽镀金旅团",
+    "dropId": "319000100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "10",
+    "dropTag": "驮兽镀金旅团",
+    "dropId": "319000200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "15",
+    "dropTag": "驮兽镀金旅团",
+    "dropId": "319000300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "20",
+    "dropTag": "驮兽镀金旅团",
+    "dropId": "319000400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "25",
+    "dropTag": "驮兽镀金旅团",
+    "dropId": "319000500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "30",
+    "dropTag": "驮兽镀金旅团",
+    "dropId": "319000600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "35",
+    "dropTag": "驮兽镀金旅团",
+    "dropId": "319000700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "40",
+    "dropTag": "驮兽镀金旅团",
+    "dropId": "319000800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "45",
+    "dropTag": "驮兽镀金旅团",
+    "dropId": "319000900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "50",
+    "dropTag": "驮兽镀金旅团",
+    "dropId": "319001000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "55",
+    "dropTag": "驮兽镀金旅团",
+    "dropId": "319001100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "60",
+    "dropTag": "驮兽镀金旅团",
+    "dropId": "319001200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "65",
+    "dropTag": "驮兽镀金旅团",
+    "dropId": "319001300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "70",
+    "dropTag": "驮兽镀金旅团",
+    "dropId": "319001400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "75",
+    "dropTag": "驮兽镀金旅团",
+    "dropId": "319001500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "80",
+    "dropTag": "驮兽镀金旅团",
+    "dropId": "319001600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "85",
+    "dropTag": "驮兽镀金旅团",
+    "dropId": "319001700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "90",
+    "dropTag": "驮兽镀金旅团",
+    "dropId": "319001800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "93",
+    "dropTag": "驮兽镀金旅团",
+    "dropId": "319001900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "100",
+    "dropTag": "驮兽镀金旅团",
+    "dropId": "319002000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "105",
+    "dropTag": "驮兽镀金旅团",
+    "dropId": "319002100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "110",
+    "dropTag": "驮兽镀金旅团",
+    "dropId": "319002200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "115",
+    "dropTag": "驮兽镀金旅团",
+    "dropId": "319002300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "120",
+    "dropTag": "驮兽镀金旅团",
+    "dropId": "319002400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "1",
+    "dropTag": "驮兽先遣队",
+    "dropId": "320000000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "5",
+    "dropTag": "驮兽先遣队",
+    "dropId": "320000100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "10",
+    "dropTag": "驮兽先遣队",
+    "dropId": "320000200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "15",
+    "dropTag": "驮兽先遣队",
+    "dropId": "320000300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "20",
+    "dropTag": "驮兽先遣队",
+    "dropId": "320000400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "25",
+    "dropTag": "驮兽先遣队",
+    "dropId": "320000500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "30",
+    "dropTag": "驮兽先遣队",
+    "dropId": "320000600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "35",
+    "dropTag": "驮兽先遣队",
+    "dropId": "320000700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "40",
+    "dropTag": "驮兽先遣队",
+    "dropId": "320000800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "45",
+    "dropTag": "驮兽先遣队",
+    "dropId": "320000900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "50",
+    "dropTag": "驮兽先遣队",
+    "dropId": "320001000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "55",
+    "dropTag": "驮兽先遣队",
+    "dropId": "320001100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "60",
+    "dropTag": "驮兽先遣队",
+    "dropId": "320001200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "65",
+    "dropTag": "驮兽先遣队",
+    "dropId": "320001300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "70",
+    "dropTag": "驮兽先遣队",
+    "dropId": "320001400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "75",
+    "dropTag": "驮兽先遣队",
+    "dropId": "320001500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "80",
+    "dropTag": "驮兽先遣队",
+    "dropId": "320001600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "85",
+    "dropTag": "驮兽先遣队",
+    "dropId": "320001700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "90",
+    "dropTag": "驮兽先遣队",
+    "dropId": "320001800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "93",
+    "dropTag": "驮兽先遣队",
+    "dropId": "320001900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "100",
+    "dropTag": "驮兽先遣队",
+    "dropId": "320002000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "105",
+    "dropTag": "驮兽先遣队",
+    "dropId": "320002100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "110",
+    "dropTag": "驮兽先遣队",
+    "dropId": "320002200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "115",
+    "dropTag": "驮兽先遣队",
+    "dropId": "320002300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "120",
+    "dropTag": "驮兽先遣队",
+    "dropId": "320002400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "1",
+    "dropTag": "丘丘岩盔王",
+    "dropId": "330000000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "5",
+    "dropTag": "丘丘岩盔王",
+    "dropId": "330000100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "10",
+    "dropTag": "丘丘岩盔王",
+    "dropId": "330000200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "15",
+    "dropTag": "丘丘岩盔王",
+    "dropId": "330000300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "20",
+    "dropTag": "丘丘岩盔王",
+    "dropId": "330000400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "25",
+    "dropTag": "丘丘岩盔王",
+    "dropId": "330000500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "30",
+    "dropTag": "丘丘岩盔王",
+    "dropId": "330000600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "35",
+    "dropTag": "丘丘岩盔王",
+    "dropId": "330000700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "40",
+    "dropTag": "丘丘岩盔王",
+    "dropId": "330000800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "45",
+    "dropTag": "丘丘岩盔王",
+    "dropId": "330000900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "50",
+    "dropTag": "丘丘岩盔王",
+    "dropId": "330001000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "55",
+    "dropTag": "丘丘岩盔王",
+    "dropId": "330001100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "60",
+    "dropTag": "丘丘岩盔王",
+    "dropId": "330001200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "65",
+    "dropTag": "丘丘岩盔王",
+    "dropId": "330001300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "70",
+    "dropTag": "丘丘岩盔王",
+    "dropId": "330001400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "75",
+    "dropTag": "丘丘岩盔王",
+    "dropId": "330001500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "80",
+    "dropTag": "丘丘岩盔王",
+    "dropId": "330001600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "85",
+    "dropTag": "丘丘岩盔王",
+    "dropId": "330001700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "90",
+    "dropTag": "丘丘岩盔王",
+    "dropId": "330001800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "93",
+    "dropTag": "丘丘岩盔王",
+    "dropId": "330001900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "100",
+    "dropTag": "丘丘岩盔王",
+    "dropId": "330002000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "105",
+    "dropTag": "丘丘岩盔王",
+    "dropId": "330002100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "110",
+    "dropTag": "丘丘岩盔王",
+    "dropId": "330002200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "115",
+    "dropTag": "丘丘岩盔王",
+    "dropId": "330002300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "120",
+    "dropTag": "丘丘岩盔王",
+    "dropId": "330002400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "1",
+    "dropTag": "丘丘暴徒",
+    "dropId": "331000000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "5",
+    "dropTag": "丘丘暴徒",
+    "dropId": "331000100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "10",
+    "dropTag": "丘丘暴徒",
+    "dropId": "331000200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "15",
+    "dropTag": "丘丘暴徒",
+    "dropId": "331000300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "20",
+    "dropTag": "丘丘暴徒",
+    "dropId": "331000400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "25",
+    "dropTag": "丘丘暴徒",
+    "dropId": "331000500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "30",
+    "dropTag": "丘丘暴徒",
+    "dropId": "331000600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "35",
+    "dropTag": "丘丘暴徒",
+    "dropId": "331000700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "40",
+    "dropTag": "丘丘暴徒",
+    "dropId": "331000800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "45",
+    "dropTag": "丘丘暴徒",
+    "dropId": "331000900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "50",
+    "dropTag": "丘丘暴徒",
+    "dropId": "331001000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "55",
+    "dropTag": "丘丘暴徒",
+    "dropId": "331001100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "60",
+    "dropTag": "丘丘暴徒",
+    "dropId": "331001200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "65",
+    "dropTag": "丘丘暴徒",
+    "dropId": "331001300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "70",
+    "dropTag": "丘丘暴徒",
+    "dropId": "331001400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "75",
+    "dropTag": "丘丘暴徒",
+    "dropId": "331001500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "80",
+    "dropTag": "丘丘暴徒",
+    "dropId": "331001600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "85",
+    "dropTag": "丘丘暴徒",
+    "dropId": "331001700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "90",
+    "dropTag": "丘丘暴徒",
+    "dropId": "331001800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "93",
+    "dropTag": "丘丘暴徒",
+    "dropId": "331001900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "100",
+    "dropTag": "丘丘暴徒",
+    "dropId": "331002000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "105",
+    "dropTag": "丘丘暴徒",
+    "dropId": "331002100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "110",
+    "dropTag": "丘丘暴徒",
+    "dropId": "331002200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "115",
+    "dropTag": "丘丘暴徒",
+    "dropId": "331002300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "120",
+    "dropTag": "丘丘暴徒",
+    "dropId": "331002400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "1",
+    "dropTag": "元素之核",
+    "dropId": "332000000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "5",
+    "dropTag": "元素之核",
+    "dropId": "332000100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "10",
+    "dropTag": "元素之核",
+    "dropId": "332000200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "15",
+    "dropTag": "元素之核",
+    "dropId": "332000300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "20",
+    "dropTag": "元素之核",
+    "dropId": "332000400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "25",
+    "dropTag": "元素之核",
+    "dropId": "332000500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "30",
+    "dropTag": "元素之核",
+    "dropId": "332000600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "35",
+    "dropTag": "元素之核",
+    "dropId": "332000700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "40",
+    "dropTag": "元素之核",
+    "dropId": "332000800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "45",
+    "dropTag": "元素之核",
+    "dropId": "332000900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "50",
+    "dropTag": "元素之核",
+    "dropId": "332001000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "55",
+    "dropTag": "元素之核",
+    "dropId": "332001100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "60",
+    "dropTag": "元素之核",
+    "dropId": "332001200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "65",
+    "dropTag": "元素之核",
+    "dropId": "332001300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "70",
+    "dropTag": "元素之核",
+    "dropId": "332001400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "75",
+    "dropTag": "元素之核",
+    "dropId": "332001500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "80",
+    "dropTag": "元素之核",
+    "dropId": "332001600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "85",
+    "dropTag": "元素之核",
+    "dropId": "332001700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "90",
+    "dropTag": "元素之核",
+    "dropId": "332001800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "93",
+    "dropTag": "元素之核",
+    "dropId": "332001900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "100",
+    "dropTag": "元素之核",
+    "dropId": "332002000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "105",
+    "dropTag": "元素之核",
+    "dropId": "332002100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "110",
+    "dropTag": "元素之核",
+    "dropId": "332002200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "115",
+    "dropTag": "元素之核",
+    "dropId": "332002300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "120",
+    "dropTag": "元素之核",
+    "dropId": "332002400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "1",
+    "dropTag": "深渊法师",
+    "dropId": "333000000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "5",
+    "dropTag": "深渊法师",
+    "dropId": "333000100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "10",
+    "dropTag": "深渊法师",
+    "dropId": "333000200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "15",
+    "dropTag": "深渊法师",
+    "dropId": "333000300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "20",
+    "dropTag": "深渊法师",
+    "dropId": "333000400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "25",
+    "dropTag": "深渊法师",
+    "dropId": "333000500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "30",
+    "dropTag": "深渊法师",
+    "dropId": "333000600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "35",
+    "dropTag": "深渊法师",
+    "dropId": "333000700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "40",
+    "dropTag": "深渊法师",
+    "dropId": "333000800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "45",
+    "dropTag": "深渊法师",
+    "dropId": "333000900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "50",
+    "dropTag": "深渊法师",
+    "dropId": "333001000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "55",
+    "dropTag": "深渊法师",
+    "dropId": "333001100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "60",
+    "dropTag": "深渊法师",
+    "dropId": "333001200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "65",
+    "dropTag": "深渊法师",
+    "dropId": "333001300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "70",
+    "dropTag": "深渊法师",
+    "dropId": "333001400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "75",
+    "dropTag": "深渊法师",
+    "dropId": "333001500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "80",
+    "dropTag": "深渊法师",
+    "dropId": "333001600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "85",
+    "dropTag": "深渊法师",
+    "dropId": "333001700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "90",
+    "dropTag": "深渊法师",
+    "dropId": "333001800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "93",
+    "dropTag": "深渊法师",
+    "dropId": "333001900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "100",
+    "dropTag": "深渊法师",
+    "dropId": "333002000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "105",
+    "dropTag": "深渊法师",
+    "dropId": "333002100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "110",
+    "dropTag": "深渊法师",
+    "dropId": "333002200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "115",
+    "dropTag": "深渊法师",
+    "dropId": "333002300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "120",
+    "dropTag": "深渊法师",
+    "dropId": "333002400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "1",
+    "dropTag": "黑蛇剑士",
+    "dropId": "334000000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "5",
+    "dropTag": "黑蛇剑士",
+    "dropId": "334000100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "10",
+    "dropTag": "黑蛇剑士",
+    "dropId": "334000200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "15",
+    "dropTag": "黑蛇剑士",
+    "dropId": "334000300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "20",
+    "dropTag": "黑蛇剑士",
+    "dropId": "334000400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "25",
+    "dropTag": "黑蛇剑士",
+    "dropId": "334000500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "30",
+    "dropTag": "黑蛇剑士",
+    "dropId": "334000600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "35",
+    "dropTag": "黑蛇剑士",
+    "dropId": "334000700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "40",
+    "dropTag": "黑蛇剑士",
+    "dropId": "334000800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "45",
+    "dropTag": "黑蛇剑士",
+    "dropId": "334000900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "50",
+    "dropTag": "黑蛇剑士",
+    "dropId": "334001000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "55",
+    "dropTag": "黑蛇剑士",
+    "dropId": "334001100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "60",
+    "dropTag": "黑蛇剑士",
+    "dropId": "334001200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "65",
+    "dropTag": "黑蛇剑士",
+    "dropId": "334001300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "70",
+    "dropTag": "黑蛇剑士",
+    "dropId": "334001400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "75",
+    "dropTag": "黑蛇剑士",
+    "dropId": "334001500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "80",
+    "dropTag": "黑蛇剑士",
+    "dropId": "334001600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "85",
+    "dropTag": "黑蛇剑士",
+    "dropId": "334001700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "90",
+    "dropTag": "黑蛇剑士",
+    "dropId": "334001800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "93",
+    "dropTag": "黑蛇剑士",
+    "dropId": "334001900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "100",
+    "dropTag": "黑蛇剑士",
+    "dropId": "334002000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "105",
+    "dropTag": "黑蛇剑士",
+    "dropId": "334002100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "110",
+    "dropTag": "黑蛇剑士",
+    "dropId": "334002200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "115",
+    "dropTag": "黑蛇剑士",
+    "dropId": "334002300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "120",
+    "dropTag": "黑蛇剑士",
+    "dropId": "334002400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "1",
+    "dropTag": "债务处理人",
+    "dropId": "335000000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "5",
+    "dropTag": "债务处理人",
+    "dropId": "335000100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "10",
+    "dropTag": "债务处理人",
+    "dropId": "335000200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "15",
+    "dropTag": "债务处理人",
+    "dropId": "335000300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "20",
+    "dropTag": "债务处理人",
+    "dropId": "335000400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "25",
+    "dropTag": "债务处理人",
+    "dropId": "335000500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "30",
+    "dropTag": "债务处理人",
+    "dropId": "335000600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "35",
+    "dropTag": "债务处理人",
+    "dropId": "335000700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "40",
+    "dropTag": "债务处理人",
+    "dropId": "335000800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "45",
+    "dropTag": "债务处理人",
+    "dropId": "335000900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "50",
+    "dropTag": "债务处理人",
+    "dropId": "335001000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "55",
+    "dropTag": "债务处理人",
+    "dropId": "335001100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "60",
+    "dropTag": "债务处理人",
+    "dropId": "335001200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "65",
+    "dropTag": "债务处理人",
+    "dropId": "335001300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "70",
+    "dropTag": "债务处理人",
+    "dropId": "335001400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "75",
+    "dropTag": "债务处理人",
+    "dropId": "335001500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "80",
+    "dropTag": "债务处理人",
+    "dropId": "335001600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "85",
+    "dropTag": "债务处理人",
+    "dropId": "335001700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "90",
+    "dropTag": "债务处理人",
+    "dropId": "335001800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "93",
+    "dropTag": "债务处理人",
+    "dropId": "335001900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "100",
+    "dropTag": "债务处理人",
+    "dropId": "335002000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "105",
+    "dropTag": "债务处理人",
+    "dropId": "335002100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "110",
+    "dropTag": "债务处理人",
+    "dropId": "335002200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "115",
+    "dropTag": "债务处理人",
+    "dropId": "335002300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "120",
+    "dropTag": "债务处理人",
+    "dropId": "335002400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "1",
+    "dropTag": "召唤师",
+    "dropId": "336000000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "5",
+    "dropTag": "召唤师",
+    "dropId": "336000100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "10",
+    "dropTag": "召唤师",
+    "dropId": "336000200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "15",
+    "dropTag": "召唤师",
+    "dropId": "336000300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "20",
+    "dropTag": "召唤师",
+    "dropId": "336000400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "25",
+    "dropTag": "召唤师",
+    "dropId": "336000500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "30",
+    "dropTag": "召唤师",
+    "dropId": "336000600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "35",
+    "dropTag": "召唤师",
+    "dropId": "336000700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "40",
+    "dropTag": "召唤师",
+    "dropId": "336000800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "45",
+    "dropTag": "召唤师",
+    "dropId": "336000900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "50",
+    "dropTag": "召唤师",
+    "dropId": "336001000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "55",
+    "dropTag": "召唤师",
+    "dropId": "336001100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "60",
+    "dropTag": "召唤师",
+    "dropId": "336001200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "65",
+    "dropTag": "召唤师",
+    "dropId": "336001300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "70",
+    "dropTag": "召唤师",
+    "dropId": "336001400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "75",
+    "dropTag": "召唤师",
+    "dropId": "336001500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "80",
+    "dropTag": "召唤师",
+    "dropId": "336001600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "85",
+    "dropTag": "召唤师",
+    "dropId": "336001700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "90",
+    "dropTag": "召唤师",
+    "dropId": "336001800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "93",
+    "dropTag": "召唤师",
+    "dropId": "336001900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "100",
+    "dropTag": "召唤师",
+    "dropId": "336002000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "105",
+    "dropTag": "召唤师",
+    "dropId": "336002100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "110",
+    "dropTag": "召唤师",
+    "dropId": "336002200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "115",
+    "dropTag": "召唤师",
+    "dropId": "336002300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "120",
+    "dropTag": "召唤师",
+    "dropId": "336002400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "1",
+    "dropTag": "遗迹守卫",
+    "dropId": "337000000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "5",
+    "dropTag": "遗迹守卫",
+    "dropId": "337000100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "10",
+    "dropTag": "遗迹守卫",
+    "dropId": "337000200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "15",
+    "dropTag": "遗迹守卫",
+    "dropId": "337000300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "20",
+    "dropTag": "遗迹守卫",
+    "dropId": "337000400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "25",
+    "dropTag": "遗迹守卫",
+    "dropId": "337000500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "30",
+    "dropTag": "遗迹守卫",
+    "dropId": "337000600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "35",
+    "dropTag": "遗迹守卫",
+    "dropId": "337000700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "40",
+    "dropTag": "遗迹守卫",
+    "dropId": "337000800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "45",
+    "dropTag": "遗迹守卫",
+    "dropId": "337000900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "50",
+    "dropTag": "遗迹守卫",
+    "dropId": "337001000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "55",
+    "dropTag": "遗迹守卫",
+    "dropId": "337001100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "60",
+    "dropTag": "遗迹守卫",
+    "dropId": "337001200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "65",
+    "dropTag": "遗迹守卫",
+    "dropId": "337001300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "70",
+    "dropTag": "遗迹守卫",
+    "dropId": "337001400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "75",
+    "dropTag": "遗迹守卫",
+    "dropId": "337001500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "80",
+    "dropTag": "遗迹守卫",
+    "dropId": "337001600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "85",
+    "dropTag": "遗迹守卫",
+    "dropId": "337001700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "90",
+    "dropTag": "遗迹守卫",
+    "dropId": "337001800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "93",
+    "dropTag": "遗迹守卫",
+    "dropId": "337001900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "100",
+    "dropTag": "遗迹守卫",
+    "dropId": "337002000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "105",
+    "dropTag": "遗迹守卫",
+    "dropId": "337002100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "110",
+    "dropTag": "遗迹守卫",
+    "dropId": "337002200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "115",
+    "dropTag": "遗迹守卫",
+    "dropId": "337002300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "120",
+    "dropTag": "遗迹守卫",
+    "dropId": "337002400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "1",
+    "dropTag": "幼岩龙蜥",
+    "dropId": "338000000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "5",
+    "dropTag": "幼岩龙蜥",
+    "dropId": "338000100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "10",
+    "dropTag": "幼岩龙蜥",
+    "dropId": "338000200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "15",
+    "dropTag": "幼岩龙蜥",
+    "dropId": "338000300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "20",
+    "dropTag": "幼岩龙蜥",
+    "dropId": "338000400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "25",
+    "dropTag": "幼岩龙蜥",
+    "dropId": "338000500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "30",
+    "dropTag": "幼岩龙蜥",
+    "dropId": "338000600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "35",
+    "dropTag": "幼岩龙蜥",
+    "dropId": "338000700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "40",
+    "dropTag": "幼岩龙蜥",
+    "dropId": "338000800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "45",
+    "dropTag": "幼岩龙蜥",
+    "dropId": "338000900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "50",
+    "dropTag": "幼岩龙蜥",
+    "dropId": "338001000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "55",
+    "dropTag": "幼岩龙蜥",
+    "dropId": "338001100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "60",
+    "dropTag": "幼岩龙蜥",
+    "dropId": "338001200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "65",
+    "dropTag": "幼岩龙蜥",
+    "dropId": "338001300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "70",
+    "dropTag": "幼岩龙蜥",
+    "dropId": "338001400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "75",
+    "dropTag": "幼岩龙蜥",
+    "dropId": "338001500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "80",
+    "dropTag": "幼岩龙蜥",
+    "dropId": "338001600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "85",
+    "dropTag": "幼岩龙蜥",
+    "dropId": "338001700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "90",
+    "dropTag": "幼岩龙蜥",
+    "dropId": "338001800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "93",
+    "dropTag": "幼岩龙蜥",
+    "dropId": "338001900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "100",
+    "dropTag": "幼岩龙蜥",
+    "dropId": "338002000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "105",
+    "dropTag": "幼岩龙蜥",
+    "dropId": "338002100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "110",
+    "dropTag": "幼岩龙蜥",
+    "dropId": "338002200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "115",
+    "dropTag": "幼岩龙蜥",
+    "dropId": "338002300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "120",
+    "dropTag": "幼岩龙蜥",
+    "dropId": "338002400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "1",
+    "dropTag": "遗迹重机",
+    "dropId": "339000000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "5",
+    "dropTag": "遗迹重机",
+    "dropId": "339000100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "10",
+    "dropTag": "遗迹重机",
+    "dropId": "339000200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "15",
+    "dropTag": "遗迹重机",
+    "dropId": "339000300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "20",
+    "dropTag": "遗迹重机",
+    "dropId": "339000400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "25",
+    "dropTag": "遗迹重机",
+    "dropId": "339000500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "30",
+    "dropTag": "遗迹重机",
+    "dropId": "339000600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "35",
+    "dropTag": "遗迹重机",
+    "dropId": "339000700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "40",
+    "dropTag": "遗迹重机",
+    "dropId": "339000800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "45",
+    "dropTag": "遗迹重机",
+    "dropId": "339000900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "50",
+    "dropTag": "遗迹重机",
+    "dropId": "339001000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "55",
+    "dropTag": "遗迹重机",
+    "dropId": "339001100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "60",
+    "dropTag": "遗迹重机",
+    "dropId": "339001200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "65",
+    "dropTag": "遗迹重机",
+    "dropId": "339001300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "70",
+    "dropTag": "遗迹重机",
+    "dropId": "339001400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "75",
+    "dropTag": "遗迹重机",
+    "dropId": "339001500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "80",
+    "dropTag": "遗迹重机",
+    "dropId": "339001600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "85",
+    "dropTag": "遗迹重机",
+    "dropId": "339001700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "90",
+    "dropTag": "遗迹重机",
+    "dropId": "339001800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "93",
+    "dropTag": "遗迹重机",
+    "dropId": "339001900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "100",
+    "dropTag": "遗迹重机",
+    "dropId": "339002000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "105",
+    "dropTag": "遗迹重机",
+    "dropId": "339002100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "110",
+    "dropTag": "遗迹重机",
+    "dropId": "339002200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "115",
+    "dropTag": "遗迹重机",
+    "dropId": "339002300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "120",
+    "dropTag": "遗迹重机",
+    "dropId": "339002400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "1",
+    "dropTag": "岩龙蜥",
+    "dropId": "340000000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "5",
+    "dropTag": "岩龙蜥",
+    "dropId": "340000100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "10",
+    "dropTag": "岩龙蜥",
+    "dropId": "340000200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "15",
+    "dropTag": "岩龙蜥",
+    "dropId": "340000300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "20",
+    "dropTag": "岩龙蜥",
+    "dropId": "340000400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "25",
+    "dropTag": "岩龙蜥",
+    "dropId": "340000500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "30",
+    "dropTag": "岩龙蜥",
+    "dropId": "340000600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "35",
+    "dropTag": "岩龙蜥",
+    "dropId": "340000700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "40",
+    "dropTag": "岩龙蜥",
+    "dropId": "340000800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "45",
+    "dropTag": "岩龙蜥",
+    "dropId": "340000900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "50",
+    "dropTag": "岩龙蜥",
+    "dropId": "340001000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "55",
+    "dropTag": "岩龙蜥",
+    "dropId": "340001100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "60",
+    "dropTag": "岩龙蜥",
+    "dropId": "340001200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "65",
+    "dropTag": "岩龙蜥",
+    "dropId": "340001300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "70",
+    "dropTag": "岩龙蜥",
+    "dropId": "340001400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "75",
+    "dropTag": "岩龙蜥",
+    "dropId": "340001500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "80",
+    "dropTag": "岩龙蜥",
+    "dropId": "340001600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "85",
+    "dropTag": "岩龙蜥",
+    "dropId": "340001700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "90",
+    "dropTag": "岩龙蜥",
+    "dropId": "340001800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "93",
+    "dropTag": "岩龙蜥",
+    "dropId": "340001900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "100",
+    "dropTag": "岩龙蜥",
+    "dropId": "340002000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "105",
+    "dropTag": "岩龙蜥",
+    "dropId": "340002100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "110",
+    "dropTag": "岩龙蜥",
+    "dropId": "340002200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "115",
+    "dropTag": "岩龙蜥",
+    "dropId": "340002300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "120",
+    "dropTag": "岩龙蜥",
+    "dropId": "340002400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "1",
+    "dropTag": "拟生机关",
+    "dropId": "341000000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "5",
+    "dropTag": "拟生机关",
+    "dropId": "341000100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "10",
+    "dropTag": "拟生机关",
+    "dropId": "341000200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "15",
+    "dropTag": "拟生机关",
+    "dropId": "341000300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "20",
+    "dropTag": "拟生机关",
+    "dropId": "341000400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "25",
+    "dropTag": "拟生机关",
+    "dropId": "341000500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "30",
+    "dropTag": "拟生机关",
+    "dropId": "341000600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "35",
+    "dropTag": "拟生机关",
+    "dropId": "341000700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "40",
+    "dropTag": "拟生机关",
+    "dropId": "341000800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "45",
+    "dropTag": "拟生机关",
+    "dropId": "341000900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "50",
+    "dropTag": "拟生机关",
+    "dropId": "341001000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "55",
+    "dropTag": "拟生机关",
+    "dropId": "341001100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "60",
+    "dropTag": "拟生机关",
+    "dropId": "341001200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "65",
+    "dropTag": "拟生机关",
+    "dropId": "341001300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "70",
+    "dropTag": "拟生机关",
+    "dropId": "341001400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "75",
+    "dropTag": "拟生机关",
+    "dropId": "341001500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "80",
+    "dropTag": "拟生机关",
+    "dropId": "341001600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "85",
+    "dropTag": "拟生机关",
+    "dropId": "341001700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "90",
+    "dropTag": "拟生机关",
+    "dropId": "341001800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "93",
+    "dropTag": "拟生机关",
+    "dropId": "341001900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "100",
+    "dropTag": "拟生机关",
+    "dropId": "341002000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "105",
+    "dropTag": "拟生机关",
+    "dropId": "341002100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "110",
+    "dropTag": "拟生机关",
+    "dropId": "341002200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "115",
+    "dropTag": "拟生机关",
+    "dropId": "341002300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "120",
+    "dropTag": "拟生机关",
+    "dropId": "341002400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "1",
+    "dropTag": "藏镜侍女",
+    "dropId": "342000000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "5",
+    "dropTag": "藏镜侍女",
+    "dropId": "342000100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "10",
+    "dropTag": "藏镜侍女",
+    "dropId": "342000200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "15",
+    "dropTag": "藏镜侍女",
+    "dropId": "342000300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "20",
+    "dropTag": "藏镜侍女",
+    "dropId": "342000400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "25",
+    "dropTag": "藏镜侍女",
+    "dropId": "342000500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "30",
+    "dropTag": "藏镜侍女",
+    "dropId": "342000600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "35",
+    "dropTag": "藏镜侍女",
+    "dropId": "342000700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "40",
+    "dropTag": "藏镜侍女",
+    "dropId": "342000800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "45",
+    "dropTag": "藏镜侍女",
+    "dropId": "342000900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "50",
+    "dropTag": "藏镜侍女",
+    "dropId": "342001000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "55",
+    "dropTag": "藏镜侍女",
+    "dropId": "342001100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "60",
+    "dropTag": "藏镜侍女",
+    "dropId": "342001200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "65",
+    "dropTag": "藏镜侍女",
+    "dropId": "342001300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "70",
+    "dropTag": "藏镜侍女",
+    "dropId": "342001400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "75",
+    "dropTag": "藏镜侍女",
+    "dropId": "342001500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "80",
+    "dropTag": "藏镜侍女",
+    "dropId": "342001600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "85",
+    "dropTag": "藏镜侍女",
+    "dropId": "342001700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "90",
+    "dropTag": "藏镜侍女",
+    "dropId": "342001800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "93",
+    "dropTag": "藏镜侍女",
+    "dropId": "342001900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "100",
+    "dropTag": "藏镜侍女",
+    "dropId": "342002000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "105",
+    "dropTag": "藏镜侍女",
+    "dropId": "342002100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "110",
+    "dropTag": "藏镜侍女",
+    "dropId": "342002200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "115",
+    "dropTag": "藏镜侍女",
+    "dropId": "342002300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "120",
+    "dropTag": "藏镜侍女",
+    "dropId": "342002400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "1",
+    "dropTag": "兽境幼兽",
+    "dropId": "343000000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "5",
+    "dropTag": "兽境幼兽",
+    "dropId": "343000100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "10",
+    "dropTag": "兽境幼兽",
+    "dropId": "343000200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "15",
+    "dropTag": "兽境幼兽",
+    "dropId": "343000300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "20",
+    "dropTag": "兽境幼兽",
+    "dropId": "343000400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "25",
+    "dropTag": "兽境幼兽",
+    "dropId": "343000500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "30",
+    "dropTag": "兽境幼兽",
+    "dropId": "343000600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "35",
+    "dropTag": "兽境幼兽",
+    "dropId": "343000700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "40",
+    "dropTag": "兽境幼兽",
+    "dropId": "343000800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "45",
+    "dropTag": "兽境幼兽",
+    "dropId": "343000900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "50",
+    "dropTag": "兽境幼兽",
+    "dropId": "343001000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "55",
+    "dropTag": "兽境幼兽",
+    "dropId": "343001100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "60",
+    "dropTag": "兽境幼兽",
+    "dropId": "343001200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "65",
+    "dropTag": "兽境幼兽",
+    "dropId": "343001300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "70",
+    "dropTag": "兽境幼兽",
+    "dropId": "343001400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "75",
+    "dropTag": "兽境幼兽",
+    "dropId": "343001500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "80",
+    "dropTag": "兽境幼兽",
+    "dropId": "343001600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "85",
+    "dropTag": "兽境幼兽",
+    "dropId": "343001700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "90",
+    "dropTag": "兽境幼兽",
+    "dropId": "343001800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "93",
+    "dropTag": "兽境幼兽",
+    "dropId": "343001900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "100",
+    "dropTag": "兽境幼兽",
+    "dropId": "343002000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "105",
+    "dropTag": "兽境幼兽",
+    "dropId": "343002100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "110",
+    "dropTag": "兽境幼兽",
+    "dropId": "343002200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "115",
+    "dropTag": "兽境幼兽",
+    "dropId": "343002300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "120",
+    "dropTag": "兽境幼兽",
+    "dropId": "343002400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "1",
+    "dropTag": "兽境猎犬",
+    "dropId": "344000000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "5",
+    "dropTag": "兽境猎犬",
+    "dropId": "344000100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "10",
+    "dropTag": "兽境猎犬",
+    "dropId": "344000200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "15",
+    "dropTag": "兽境猎犬",
+    "dropId": "344000300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "20",
+    "dropTag": "兽境猎犬",
+    "dropId": "344000400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "25",
+    "dropTag": "兽境猎犬",
+    "dropId": "344000500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "30",
+    "dropTag": "兽境猎犬",
+    "dropId": "344000600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "35",
+    "dropTag": "兽境猎犬",
+    "dropId": "344000700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "40",
+    "dropTag": "兽境猎犬",
+    "dropId": "344000800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "45",
+    "dropTag": "兽境猎犬",
+    "dropId": "344000900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "50",
+    "dropTag": "兽境猎犬",
+    "dropId": "344001000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "55",
+    "dropTag": "兽境猎犬",
+    "dropId": "344001100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "60",
+    "dropTag": "兽境猎犬",
+    "dropId": "344001200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "65",
+    "dropTag": "兽境猎犬",
+    "dropId": "344001300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "70",
+    "dropTag": "兽境猎犬",
+    "dropId": "344001400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "75",
+    "dropTag": "兽境猎犬",
+    "dropId": "344001500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "80",
+    "dropTag": "兽境猎犬",
+    "dropId": "344001600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "85",
+    "dropTag": "兽境猎犬",
+    "dropId": "344001700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "90",
+    "dropTag": "兽境猎犬",
+    "dropId": "344001800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "93",
+    "dropTag": "兽境猎犬",
+    "dropId": "344001900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "100",
+    "dropTag": "兽境猎犬",
+    "dropId": "344002000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "105",
+    "dropTag": "兽境猎犬",
+    "dropId": "344002100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "110",
+    "dropTag": "兽境猎犬",
+    "dropId": "344002200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "115",
+    "dropTag": "兽境猎犬",
+    "dropId": "344002300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "120",
+    "dropTag": "兽境猎犬",
+    "dropId": "344002400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "1",
+    "dropTag": "深渊使徒",
+    "dropId": "345000000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "5",
+    "dropTag": "深渊使徒",
+    "dropId": "345000100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "10",
+    "dropTag": "深渊使徒",
+    "dropId": "345000200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "15",
+    "dropTag": "深渊使徒",
+    "dropId": "345000300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "20",
+    "dropTag": "深渊使徒",
+    "dropId": "345000400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "25",
+    "dropTag": "深渊使徒",
+    "dropId": "345000500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "30",
+    "dropTag": "深渊使徒",
+    "dropId": "345000600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "35",
+    "dropTag": "深渊使徒",
+    "dropId": "345000700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "40",
+    "dropTag": "深渊使徒",
+    "dropId": "345000800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "45",
+    "dropTag": "深渊使徒",
+    "dropId": "345000900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "50",
+    "dropTag": "深渊使徒",
+    "dropId": "345001000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "55",
+    "dropTag": "深渊使徒",
+    "dropId": "345001100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "60",
+    "dropTag": "深渊使徒",
+    "dropId": "345001200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "65",
+    "dropTag": "深渊使徒",
+    "dropId": "345001300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "70",
+    "dropTag": "深渊使徒",
+    "dropId": "345001400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "75",
+    "dropTag": "深渊使徒",
+    "dropId": "345001500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "80",
+    "dropTag": "深渊使徒",
+    "dropId": "345001600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "85",
+    "dropTag": "深渊使徒",
+    "dropId": "345001700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "90",
+    "dropTag": "深渊使徒",
+    "dropId": "345001800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "93",
+    "dropTag": "深渊使徒",
+    "dropId": "345001900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "100",
+    "dropTag": "深渊使徒",
+    "dropId": "345002000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "105",
+    "dropTag": "深渊使徒",
+    "dropId": "345002100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "110",
+    "dropTag": "深渊使徒",
+    "dropId": "345002200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "115",
+    "dropTag": "深渊使徒",
+    "dropId": "345002300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "120",
+    "dropTag": "深渊使徒",
+    "dropId": "345002400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "1",
+    "dropTag": "异化蕈兽",
+    "dropId": "346000000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "5",
+    "dropTag": "异化蕈兽",
+    "dropId": "346000100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "10",
+    "dropTag": "异化蕈兽",
+    "dropId": "346000200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "15",
+    "dropTag": "异化蕈兽",
+    "dropId": "346000300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "20",
+    "dropTag": "异化蕈兽",
+    "dropId": "346000400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "25",
+    "dropTag": "异化蕈兽",
+    "dropId": "346000500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "30",
+    "dropTag": "异化蕈兽",
+    "dropId": "346000600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "35",
+    "dropTag": "异化蕈兽",
+    "dropId": "346000700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "40",
+    "dropTag": "异化蕈兽",
+    "dropId": "346000800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "45",
+    "dropTag": "异化蕈兽",
+    "dropId": "346000900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "50",
+    "dropTag": "异化蕈兽",
+    "dropId": "346001000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "55",
+    "dropTag": "异化蕈兽",
+    "dropId": "346001100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "60",
+    "dropTag": "异化蕈兽",
+    "dropId": "346001200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "65",
+    "dropTag": "异化蕈兽",
+    "dropId": "346001300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "70",
+    "dropTag": "异化蕈兽",
+    "dropId": "346001400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "75",
+    "dropTag": "异化蕈兽",
+    "dropId": "346001500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "80",
+    "dropTag": "异化蕈兽",
+    "dropId": "346001600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "85",
+    "dropTag": "异化蕈兽",
+    "dropId": "346001700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "90",
+    "dropTag": "异化蕈兽",
+    "dropId": "346001800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "93",
+    "dropTag": "异化蕈兽",
+    "dropId": "346001900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "100",
+    "dropTag": "异化蕈兽",
+    "dropId": "346002000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "105",
+    "dropTag": "异化蕈兽",
+    "dropId": "346002100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "110",
+    "dropTag": "异化蕈兽",
+    "dropId": "346002200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "115",
+    "dropTag": "异化蕈兽",
+    "dropId": "346002300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "120",
+    "dropTag": "异化蕈兽",
+    "dropId": "346002400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "1",
+    "dropTag": "大异化蕈兽",
+    "dropId": "347000000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "5",
+    "dropTag": "大异化蕈兽",
+    "dropId": "347000100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "10",
+    "dropTag": "大异化蕈兽",
+    "dropId": "347000200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "15",
+    "dropTag": "大异化蕈兽",
+    "dropId": "347000300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "20",
+    "dropTag": "大异化蕈兽",
+    "dropId": "347000400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "25",
+    "dropTag": "大异化蕈兽",
+    "dropId": "347000500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "30",
+    "dropTag": "大异化蕈兽",
+    "dropId": "347000600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "35",
+    "dropTag": "大异化蕈兽",
+    "dropId": "347000700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "40",
+    "dropTag": "大异化蕈兽",
+    "dropId": "347000800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "45",
+    "dropTag": "大异化蕈兽",
+    "dropId": "347000900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "50",
+    "dropTag": "大异化蕈兽",
+    "dropId": "347001000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "55",
+    "dropTag": "大异化蕈兽",
+    "dropId": "347001100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "60",
+    "dropTag": "大异化蕈兽",
+    "dropId": "347001200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "65",
+    "dropTag": "大异化蕈兽",
+    "dropId": "347001300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "70",
+    "dropTag": "大异化蕈兽",
+    "dropId": "347001400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "75",
+    "dropTag": "大异化蕈兽",
+    "dropId": "347001500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "80",
+    "dropTag": "大异化蕈兽",
+    "dropId": "347001600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "85",
+    "dropTag": "大异化蕈兽",
+    "dropId": "347001700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "90",
+    "dropTag": "大异化蕈兽",
+    "dropId": "347001800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "93",
+    "dropTag": "大异化蕈兽",
+    "dropId": "347001900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "100",
+    "dropTag": "大异化蕈兽",
+    "dropId": "347002000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "105",
+    "dropTag": "大异化蕈兽",
+    "dropId": "347002100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "110",
+    "dropTag": "大异化蕈兽",
+    "dropId": "347002200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "115",
+    "dropTag": "大异化蕈兽",
+    "dropId": "347002300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "120",
+    "dropTag": "大异化蕈兽",
+    "dropId": "347002400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "1",
+    "dropTag": "遗迹龙兽",
+    "dropId": "348000000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "5",
+    "dropTag": "遗迹龙兽",
+    "dropId": "348000100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "10",
+    "dropTag": "遗迹龙兽",
+    "dropId": "348000200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "15",
+    "dropTag": "遗迹龙兽",
+    "dropId": "348000300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "20",
+    "dropTag": "遗迹龙兽",
+    "dropId": "348000400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "25",
+    "dropTag": "遗迹龙兽",
+    "dropId": "348000500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "30",
+    "dropTag": "遗迹龙兽",
+    "dropId": "348000600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "35",
+    "dropTag": "遗迹龙兽",
+    "dropId": "348000700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "40",
+    "dropTag": "遗迹龙兽",
+    "dropId": "348000800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "45",
+    "dropTag": "遗迹龙兽",
+    "dropId": "348000900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "50",
+    "dropTag": "遗迹龙兽",
+    "dropId": "348001000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "55",
+    "dropTag": "遗迹龙兽",
+    "dropId": "348001100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "60",
+    "dropTag": "遗迹龙兽",
+    "dropId": "348001200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "65",
+    "dropTag": "遗迹龙兽",
+    "dropId": "348001300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "70",
+    "dropTag": "遗迹龙兽",
+    "dropId": "348001400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "75",
+    "dropTag": "遗迹龙兽",
+    "dropId": "348001500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "80",
+    "dropTag": "遗迹龙兽",
+    "dropId": "348001600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "85",
+    "dropTag": "遗迹龙兽",
+    "dropId": "348001700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "90",
+    "dropTag": "遗迹龙兽",
+    "dropId": "348001800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "93",
+    "dropTag": "遗迹龙兽",
+    "dropId": "348001900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "100",
+    "dropTag": "遗迹龙兽",
+    "dropId": "348002000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "105",
+    "dropTag": "遗迹龙兽",
+    "dropId": "348002100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "110",
+    "dropTag": "遗迹龙兽",
+    "dropId": "348002200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "115",
+    "dropTag": "遗迹龙兽",
+    "dropId": "348002300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "120",
+    "dropTag": "遗迹龙兽",
+    "dropId": "348002400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "1",
+    "dropTag": "元能构装体",
+    "dropId": "349000000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "5",
+    "dropTag": "元能构装体",
+    "dropId": "349000100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "10",
+    "dropTag": "元能构装体",
+    "dropId": "349000200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "15",
+    "dropTag": "元能构装体",
+    "dropId": "349000300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "20",
+    "dropTag": "元能构装体",
+    "dropId": "349000400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "25",
+    "dropTag": "元能构装体",
+    "dropId": "349000500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "30",
+    "dropTag": "元能构装体",
+    "dropId": "349000600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "35",
+    "dropTag": "元能构装体",
+    "dropId": "349000700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "40",
+    "dropTag": "元能构装体",
+    "dropId": "349000800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "45",
+    "dropTag": "元能构装体",
+    "dropId": "349000900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "50",
+    "dropTag": "元能构装体",
+    "dropId": "349001000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "55",
+    "dropTag": "元能构装体",
+    "dropId": "349001100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "60",
+    "dropTag": "元能构装体",
+    "dropId": "349001200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "65",
+    "dropTag": "元能构装体",
+    "dropId": "349001300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "70",
+    "dropTag": "元能构装体",
+    "dropId": "349001400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "75",
+    "dropTag": "元能构装体",
+    "dropId": "349001500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "80",
+    "dropTag": "元能构装体",
+    "dropId": "349001600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "85",
+    "dropTag": "元能构装体",
+    "dropId": "349001700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "90",
+    "dropTag": "元能构装体",
+    "dropId": "349001800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "93",
+    "dropTag": "元能构装体",
+    "dropId": "349001900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "100",
+    "dropTag": "元能构装体",
+    "dropId": "349002000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "105",
+    "dropTag": "元能构装体",
+    "dropId": "349002100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "110",
+    "dropTag": "元能构装体",
+    "dropId": "349002200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "115",
+    "dropTag": "元能构装体",
+    "dropId": "349002300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "120",
+    "dropTag": "元能构装体",
+    "dropId": "349002400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "1",
+    "dropTag": "采集动物",
+    "dropId": "381000000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "5",
+    "dropTag": "采集动物",
+    "dropId": "381000100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "10",
+    "dropTag": "采集动物",
+    "dropId": "381000200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "15",
+    "dropTag": "采集动物",
+    "dropId": "381000300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "20",
+    "dropTag": "采集动物",
+    "dropId": "381000400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "25",
+    "dropTag": "采集动物",
+    "dropId": "381000500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "30",
+    "dropTag": "采集动物",
+    "dropId": "381000600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "35",
+    "dropTag": "采集动物",
+    "dropId": "381000700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "40",
+    "dropTag": "采集动物",
+    "dropId": "381000800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "45",
+    "dropTag": "采集动物",
+    "dropId": "381000900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "50",
+    "dropTag": "采集动物",
+    "dropId": "381001000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "55",
+    "dropTag": "采集动物",
+    "dropId": "381001100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "60",
+    "dropTag": "采集动物",
+    "dropId": "381001200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "65",
+    "dropTag": "采集动物",
+    "dropId": "381001300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "70",
+    "dropTag": "采集动物",
+    "dropId": "381001400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "75",
+    "dropTag": "采集动物",
+    "dropId": "381001500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "80",
+    "dropTag": "采集动物",
+    "dropId": "381001600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "85",
+    "dropTag": "采集动物",
+    "dropId": "381001700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "90",
+    "dropTag": "采集动物",
+    "dropId": "381001800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "93",
+    "dropTag": "采集动物",
+    "dropId": "381001900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "100",
+    "dropTag": "采集动物",
+    "dropId": "381002000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "105",
+    "dropTag": "采集动物",
+    "dropId": "381002100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "110",
+    "dropTag": "采集动物",
+    "dropId": "381002200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "115",
+    "dropTag": "采集动物",
+    "dropId": "381002300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "120",
+    "dropTag": "采集动物",
+    "dropId": "381002400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "1",
+    "dropTag": "走兽",
+    "dropId": "382000000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "5",
+    "dropTag": "走兽",
+    "dropId": "382000100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "10",
+    "dropTag": "走兽",
+    "dropId": "382000200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "15",
+    "dropTag": "走兽",
+    "dropId": "382000300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "20",
+    "dropTag": "走兽",
+    "dropId": "382000400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "25",
+    "dropTag": "走兽",
+    "dropId": "382000500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "30",
+    "dropTag": "走兽",
+    "dropId": "382000600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "35",
+    "dropTag": "走兽",
+    "dropId": "382000700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "40",
+    "dropTag": "走兽",
+    "dropId": "382000800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "45",
+    "dropTag": "走兽",
+    "dropId": "382000900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "50",
+    "dropTag": "走兽",
+    "dropId": "382001000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "55",
+    "dropTag": "走兽",
+    "dropId": "382001100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "60",
+    "dropTag": "走兽",
+    "dropId": "382001200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "65",
+    "dropTag": "走兽",
+    "dropId": "382001300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "70",
+    "dropTag": "走兽",
+    "dropId": "382001400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "75",
+    "dropTag": "走兽",
+    "dropId": "382001500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "80",
+    "dropTag": "走兽",
+    "dropId": "382001600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "85",
+    "dropTag": "走兽",
+    "dropId": "382001700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "90",
+    "dropTag": "走兽",
+    "dropId": "382001800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "93",
+    "dropTag": "走兽",
+    "dropId": "382001900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "100",
+    "dropTag": "走兽",
+    "dropId": "382002000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "105",
+    "dropTag": "走兽",
+    "dropId": "382002100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "110",
+    "dropTag": "走兽",
+    "dropId": "382002200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "115",
+    "dropTag": "走兽",
+    "dropId": "382002300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "120",
+    "dropTag": "走兽",
+    "dropId": "382002400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "1",
+    "dropTag": "鸟类",
+    "dropId": "383000000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "5",
+    "dropTag": "鸟类",
+    "dropId": "383000100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "10",
+    "dropTag": "鸟类",
+    "dropId": "383000200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "15",
+    "dropTag": "鸟类",
+    "dropId": "383000300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "20",
+    "dropTag": "鸟类",
+    "dropId": "383000400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "25",
+    "dropTag": "鸟类",
+    "dropId": "383000500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "30",
+    "dropTag": "鸟类",
+    "dropId": "383000600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "35",
+    "dropTag": "鸟类",
+    "dropId": "383000700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "40",
+    "dropTag": "鸟类",
+    "dropId": "383000800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "45",
+    "dropTag": "鸟类",
+    "dropId": "383000900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "50",
+    "dropTag": "鸟类",
+    "dropId": "383001000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "55",
+    "dropTag": "鸟类",
+    "dropId": "383001100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "60",
+    "dropTag": "鸟类",
+    "dropId": "383001200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "65",
+    "dropTag": "鸟类",
+    "dropId": "383001300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "70",
+    "dropTag": "鸟类",
+    "dropId": "383001400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "75",
+    "dropTag": "鸟类",
+    "dropId": "383001500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "80",
+    "dropTag": "鸟类",
+    "dropId": "383001600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "85",
+    "dropTag": "鸟类",
+    "dropId": "383001700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "90",
+    "dropTag": "鸟类",
+    "dropId": "383001800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "93",
+    "dropTag": "鸟类",
+    "dropId": "383001900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "100",
+    "dropTag": "鸟类",
+    "dropId": "383002000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "105",
+    "dropTag": "鸟类",
+    "dropId": "383002100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "110",
+    "dropTag": "鸟类",
+    "dropId": "383002200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "115",
+    "dropTag": "鸟类",
+    "dropId": "383002300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "120",
+    "dropTag": "鸟类",
+    "dropId": "383002400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "1",
+    "dropTag": "水族",
+    "dropId": "384000000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "5",
+    "dropTag": "水族",
+    "dropId": "384000100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "10",
+    "dropTag": "水族",
+    "dropId": "384000200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "15",
+    "dropTag": "水族",
+    "dropId": "384000300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "20",
+    "dropTag": "水族",
+    "dropId": "384000400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "25",
+    "dropTag": "水族",
+    "dropId": "384000500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "30",
+    "dropTag": "水族",
+    "dropId": "384000600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "35",
+    "dropTag": "水族",
+    "dropId": "384000700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "40",
+    "dropTag": "水族",
+    "dropId": "384000800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "45",
+    "dropTag": "水族",
+    "dropId": "384000900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "50",
+    "dropTag": "水族",
+    "dropId": "384001000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "55",
+    "dropTag": "水族",
+    "dropId": "384001100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "60",
+    "dropTag": "水族",
+    "dropId": "384001200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "65",
+    "dropTag": "水族",
+    "dropId": "384001300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "70",
+    "dropTag": "水族",
+    "dropId": "384001400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "75",
+    "dropTag": "水族",
+    "dropId": "384001500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "80",
+    "dropTag": "水族",
+    "dropId": "384001600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "85",
+    "dropTag": "水族",
+    "dropId": "384001700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "90",
+    "dropTag": "水族",
+    "dropId": "384001800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "93",
+    "dropTag": "水族",
+    "dropId": "384001900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "100",
+    "dropTag": "水族",
+    "dropId": "384002000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "105",
+    "dropTag": "水族",
+    "dropId": "384002100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "110",
+    "dropTag": "水族",
+    "dropId": "384002200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "115",
+    "dropTag": "水族",
+    "dropId": "384002300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "120",
+    "dropTag": "水族",
+    "dropId": "384002400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "1",
+    "dropTag": "魔法生物",
+    "dropId": "385000000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "5",
+    "dropTag": "魔法生物",
+    "dropId": "385000100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "10",
+    "dropTag": "魔法生物",
+    "dropId": "385000200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "15",
+    "dropTag": "魔法生物",
+    "dropId": "385000300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "20",
+    "dropTag": "魔法生物",
+    "dropId": "385000400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "25",
+    "dropTag": "魔法生物",
+    "dropId": "385000500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "30",
+    "dropTag": "魔法生物",
+    "dropId": "385000600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "35",
+    "dropTag": "魔法生物",
+    "dropId": "385000700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "40",
+    "dropTag": "魔法生物",
+    "dropId": "385000800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "45",
+    "dropTag": "魔法生物",
+    "dropId": "385000900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "50",
+    "dropTag": "魔法生物",
+    "dropId": "385001000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "55",
+    "dropTag": "魔法生物",
+    "dropId": "385001100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "60",
+    "dropTag": "魔法生物",
+    "dropId": "385001200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "65",
+    "dropTag": "魔法生物",
+    "dropId": "385001300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "70",
+    "dropTag": "魔法生物",
+    "dropId": "385001400",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "75",
+    "dropTag": "魔法生物",
+    "dropId": "385001500",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "80",
+    "dropTag": "魔法生物",
+    "dropId": "385001600",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "85",
+    "dropTag": "魔法生物",
+    "dropId": "385001700",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "90",
+    "dropTag": "魔法生物",
+    "dropId": "385001800",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "93",
+    "dropTag": "魔法生物",
+    "dropId": "385001900",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "100",
+    "dropTag": "魔法生物",
+    "dropId": "385002000",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "105",
+    "dropTag": "魔法生物",
+    "dropId": "385002100",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "110",
+    "dropTag": "魔法生物",
+    "dropId": "385002200",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "115",
+    "dropTag": "魔法生物",
+    "dropId": "385002300",
+    "dropMultiplier": "1"
+  },
+  {
+    "level": "120",
+    "dropTag": "魔法生物",
+    "dropId": "385002400",
+    "dropMultiplier": "1"
+  }
+]
